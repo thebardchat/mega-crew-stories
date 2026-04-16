@@ -1,0 +1,15 @@
+[
+  {
+    "number": 1,
+    "title": "The Hum of Waiting",
+    "file": "episodes/ep001-the-hum-of-waiting.md",
+    "characters": [
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "What would Shane send next to break the silence?",
+    "mode": "crew",
+    "date": "2026-04-16"
+  }
+]

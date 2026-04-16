@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEGA CREW STORIES</title>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --black:     #0a0a0a;
+      --deep:      #0d1117;
+      --cyan:      #00ffff;
+      --green:     #39ff14;
+      --amber:     #ffb700;
+      --dim-cyan:  rgba(0,255,255,0.12);
+      --dim-green: rgba(57,255,20,0.08);
+      --border:    rgba(0,255,255,0.25);
+      --text:      #c8d8d8;
+      --muted:     #4a6060;
+      --font-disp: 'VT323', monospace;
+      --font-body: 'Share Tech Mono', monospace;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--black);
+      color: var(--text);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* ── Matrix rain ── */
+    #matrix {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 0;
+      opacity: 0.18;
+      pointer-events: none;
+    }
+
+    /* ── Scanlines ── */
+    body::after {
+      content: '';
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0,0,0,0.08) 2px,
+        rgba(0,0,0,0.08) 4px
+      );
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    /* ── Noise grain ── */
+    body::before {
+      content: '';
+      position: fixed;
+      top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 1;
+      opacity: 0.4;
+      animation: grain 8s steps(10) infinite;
+    }
+
+    @keyframes grain {
+      0%,100%  { transform: translate(0,0); }
+      10%      { transform: translate(-2%,-3%); }
+      30%      { transform: translate(3%,2%); }
+      50%      { transform: translate(-1%,4%); }
+      70%      { transform: translate(2%,-1%); }
+      90%      { transform: translate(-3%,1%); }
+    }
+
+    /* ── All content above canvas/effects ── */
+    header, main, footer, #modal { position: relative; z-index: 10; }
+
+    /* ── Header ── */
+    header {
+      padding: 3rem 2rem 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .logo-row {
+      display: flex;
+      align-items: flex-end;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .logo-text {
+      font-family: var(--font-disp);
+      font-size: clamp(3.5rem, 8vw, 7rem);
+      line-height: 0.9;
+      color: var(--cyan);
+      text-shadow:
+        0 0 10px var(--cyan),
+        0 0 30px rgba(0,255,255,0.4),
+        0 0 60px rgba(0,255,255,0.15);
+      letter-spacing: 0.05em;
+      animation: pulse-title 4s ease-in-out infinite;
+    }
+
+    @keyframes pulse-title {
+      0%,100% { text-shadow: 0 0 10px var(--cyan), 0 0 30px rgba(0,255,255,0.4), 0 0 60px rgba(0,255,255,0.15); }
+      50%     { text-shadow: 0 0 20px var(--cyan), 0 0 50px rgba(0,255,255,0.6), 0 0 90px rgba(0,255,255,0.25); }
+    }
+
+    .logo-badge {
+      font-family: var(--font-disp);
+      font-size: 1.3rem;
+      color: var(--green);
+      border: 1px solid var(--green);
+      padding: 0.2rem 0.7rem;
+      margin-bottom: 0.9rem;
+      text-shadow: 0 0 8px var(--green);
+      box-shadow: 0 0 8px rgba(57,255,20,0.2);
+      animation: blink-badge 3s step-end infinite;
+      white-space: nowrap;
+    }
+
+    @keyframes blink-badge {
+      0%,90%,100% { opacity: 1; }
+      92%          { opacity: 0; }
+      94%          { opacity: 1; }
+      96%          { opacity: 0; }
+    }
+
+    .tagline {
+      font-size: 0.85rem;
+      color: var(--muted);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-top: 1rem;
+    }
+
+    .status-strip {
+      display: flex;
+      gap: 1.5rem;
+      margin-top: 1.2rem;
+      flex-wrap: wrap;
+    }
+
+    .status-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+    }
+
+    .dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px var(--green);
+      animation: dot-pulse 2s ease-in-out infinite;
+    }
+
+    .dot.amber { background: var(--amber); box-shadow: 0 0 6px var(--amber); }
+
+    @keyframes dot-pulse {
+      0%,100% { opacity: 1; }
+      50%     { opacity: 0.3; }
+    }
+
+    /* ── Main grid ── */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 2rem 4rem;
+    }
+
+    .section-label {
+      font-family: var(--font-disp);
+      font-size: 1.1rem;
+      color: var(--green);
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      margin-bottom: 2rem;
+      opacity: 0.7;
+    }
+
+    #episodes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* ── Episode card ── */
+    .ep-card {
+      background: linear-gradient(135deg, rgba(0,255,255,0.03) 0%, rgba(0,0,0,0.6) 100%);
+      border: 1px solid var(--border);
+      padding: 1.5rem;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+      animation: card-in 0.5s ease backwards;
+    }
+
+    .ep-card:hover {
+      border-color: var(--cyan);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 30px rgba(0,255,255,0.12), 0 0 0 1px rgba(0,255,255,0.1);
+    }
+
+    .ep-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 3px; height: 100%;
+      background: linear-gradient(to bottom, var(--cyan), transparent);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .ep-card:hover::before { opacity: 1; }
+
+    /* Corner decoration */
+    .ep-card::after {
+      content: '';
+      position: absolute;
+      bottom: 0; right: 0;
+      width: 20px; height: 20px;
+      border-bottom: 1px solid var(--border);
+      border-right: 1px solid var(--border);
+    }
+
+    @keyframes card-in {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .ep-number {
+      font-family: var(--font-disp);
+      font-size: 0.85rem;
+      color: var(--green);
+      letter-spacing: 0.2em;
+      margin-bottom: 0.6rem;
+      text-shadow: 0 0 6px var(--green);
+    }
+
+    .ep-title {
+      font-family: var(--font-disp);
+      font-size: 1.8rem;
+      color: var(--cyan);
+      line-height: 1.1;
+      margin-bottom: 1rem;
+      text-shadow: 0 0 8px rgba(0,255,255,0.3);
+    }
+
+    .ep-chars {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 1rem;
+    }
+
+    .char-tag {
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      padding: 0.15rem 0.5rem;
+      border: 1px solid rgba(0,255,255,0.35);
+      color: var(--cyan);
+      background: rgba(0,255,255,0.06);
+    }
+
+    .ep-cliffhanger {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-style: italic;
+      line-height: 1.5;
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding-top: 0.8rem;
+    }
+
+    .ep-cliffhanger::before {
+      content: '» ';
+      color: var(--amber);
+    }
+
+    .ep-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.8rem;
+    }
+
+    .ep-date {
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+    }
+
+    .ep-mode {
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      padding: 0.1rem 0.4rem;
+      border: 1px solid rgba(57,255,20,0.3);
+      color: var(--green);
+      background: rgba(57,255,20,0.05);
+      text-transform: uppercase;
+    }
+
+    /* ── Loading / empty ── */
+    #loading {
+      font-family: var(--font-disp);
+      font-size: 1.5rem;
+      color: var(--green);
+      letter-spacing: 0.3em;
+      padding: 4rem 0;
+      text-align: center;
+      animation: flicker 1.5s step-end infinite;
+    }
+
+    @keyframes flicker {
+      0%,19%,21%,23%,25%,54%,56%,100% { opacity: 1; }
+      20%,22%,24%,55% { opacity: 0; }
+    }
+
+    #no-episodes {
+      text-align: center;
+      padding: 4rem 0;
+      color: var(--muted);
+      display: none;
+    }
+
+    #no-episodes .big {
+      font-family: var(--font-disp);
+      font-size: 3rem;
+      color: var(--border);
+      display: block;
+      margin-bottom: 1rem;
+    }
+
+    /* ── Modal ── */
+    #modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: rgba(0,0,0,0.88);
+      backdrop-filter: blur(4px);
+      padding: 2rem 1rem;
+      overflow-y: auto;
+    }
+
+    #modal.open { display: flex; align-items: flex-start; justify-content: center; }
+
+    .modal-box {
+      background: #0d1117;
+      border: 1px solid var(--border);
+      max-width: 740px;
+      width: 100%;
+      padding: 2.5rem;
+      position: relative;
+      animation: modal-in 0.25s ease;
+      box-shadow: 0 0 60px rgba(0,255,255,0.08);
+    }
+
+    @keyframes modal-in {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .modal-box::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--cyan), var(--green), transparent);
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 1rem; right: 1.2rem;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: var(--font-body);
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      padding: 0.3rem 0.7rem;
+      cursor: pointer;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .modal-close:hover {
+      border-color: var(--cyan);
+      color: var(--cyan);
+    }
+
+    .modal-ep-num {
+      font-family: var(--font-disp);
+      font-size: 0.9rem;
+      color: var(--green);
+      letter-spacing: 0.2em;
+      margin-bottom: 0.4rem;
+      text-shadow: 0 0 6px var(--green);
+    }
+
+    .modal-title {
+      font-family: var(--font-disp);
+      font-size: clamp(2rem, 5vw, 3rem);
+      color: var(--cyan);
+      text-shadow: 0 0 10px rgba(0,255,255,0.3);
+      margin-bottom: 0.5rem;
+      line-height: 1.1;
+    }
+
+    .modal-chars {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 2rem;
+    }
+
+    .modal-body {
+      font-size: 0.9rem;
+      line-height: 1.9;
+      color: #b0c8c8;
+      white-space: pre-wrap;
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding-top: 1.5rem;
+    }
+
+    .modal-body p { margin-bottom: 1.2em; }
+
+    .modal-cliffhanger {
+      margin-top: 2rem;
+      padding: 1rem 1.2rem;
+      border: 1px solid rgba(255,183,0,0.25);
+      background: rgba(255,183,0,0.04);
+      font-style: italic;
+      color: var(--amber);
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+
+    .modal-cliffhanger::before {
+      content: 'CLIFFHANGER  ';
+      font-style: normal;
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      display: block;
+      margin-bottom: 0.4rem;
+      opacity: 0.6;
+    }
+
+    .modal-loading {
+      text-align: center;
+      padding: 3rem 0;
+      font-family: var(--font-disp);
+      font-size: 1.2rem;
+      color: var(--green);
+      letter-spacing: 0.25em;
+      animation: flicker 1.5s step-end infinite;
+    }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 1.5rem 2rem;
+      text-align: center;
+      font-size: 0.68rem;
+      color: var(--muted);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    footer span {
+      color: rgba(0,255,255,0.35);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      header { padding: 2rem 1rem 1.5rem; }
+      main { padding: 2rem 1rem 3rem; }
+      .logo-text { font-size: 3rem; }
+      #episodes-grid { grid-template-columns: 1fr; }
+      .modal-box { padding: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+<canvas id="matrix"></canvas>
+
+<header>
+  <div class="logo-row">
+    <div>
+      <div class="logo-text">MEGA CREW<br>STORIES</div>
+    </div>
+    <div class="logo-badge">● LIVE TRANSMISSION</div>
+  </div>
+  <div class="tagline">Written by 17 AI bots. Running right now. In a closet in Alabama.</div>
+  <div class="status-strip">
+    <div class="status-item"><div class="dot"></div> 17 BOTS ACTIVE</div>
+    <div class="status-item"><div class="dot"></div> RASPBERRY PI 5 ONLINE</div>
+    <div class="status-item"><div class="dot amber"></div> WAITING FOR CARDS</div>
+  </div>
+</header>
+
+<main>
+  <div class="section-label">// TRANSMISSION LOG</div>
+  <div id="loading">LOADING TRANSMISSIONS_</div>
+  <div id="no-episodes">
+    <span class="big">[ SILENCE ]</span>
+    The bots are running. The stories haven't started yet.
+  </div>
+  <div id="episodes-grid"></div>
+</main>
+
+<div id="modal">
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close-btn">ESC / CLOSE</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<footer>
+  Powered by a <span>Raspberry Pi 5</span> + <span>Gemini</span> &nbsp;·&nbsp;
+  Hazel Green, Alabama &nbsp;·&nbsp;
+  <span>MEGA CREW</span> Project
+</footer>
+
+<script>
+// ── Matrix rain ──────────────────────────────────────────────────────────────
+(function() {
+  const canvas = document.getElementById('matrix');
+  const ctx = canvas.getContext('2d');
+  const CHARS = 'ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ0123456789ABCDEF';
+  let cols, drops;
+
+  function init() {
+    canvas.width  = window.innerWidth;
+    canvas.height = window.innerHeight;
+    cols  = Math.floor(canvas.width / 18);
+    drops = Array(cols).fill(1);
+  }
+
+  function draw() {
+    ctx.fillStyle = 'rgba(10,10,10,0.05)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    for (let i = 0; i < cols; i++) {
+      const char = CHARS[Math.floor(Math.random() * CHARS.length)];
+      const x = i * 18;
+      const y = drops[i] * 18;
+      // alternating green / cyan
+      if (i % 3 === 0) {
+        ctx.fillStyle = '#39ff14';
+      } else if (i % 3 === 1) {
+        ctx.fillStyle = '#00ffff';
+      } else {
+        ctx.fillStyle = '#006633';
+      }
+      ctx.font = '14px "Share Tech Mono", monospace';
+      ctx.fillText(char, x, y);
+      if (y > canvas.height && Math.random() > 0.975) drops[i] = 0;
+      drops[i]++;
+    }
+  }
+
+  init();
+  setInterval(draw, 55);
+  window.addEventListener('resize', init);
+})();
+
+// ── Episode loader ────────────────────────────────────────────────────────────
+const grid      = document.getElementById('episodes-grid');
+const loading   = document.getElementById('loading');
+const noEp      = document.getElementById('no-episodes');
+const modal     = document.getElementById('modal');
+const modalContent = document.getElementById('modal-content');
+const closeBtn  = document.getElementById('modal-close-btn');
+
+function pad(n) { return String(n).padStart(3, '0'); }
+
+function renderCards(episodes) {
+  loading.style.display = 'none';
+  if (!episodes || episodes.length === 0) {
+    noEp.style.display = 'block';
+    return;
+  }
+  // Newest first
+  const sorted = [...episodes].sort((a, b) => b.number - a.number);
+  sorted.forEach((ep, idx) => {
+    const card = document.createElement('div');
+    card.className = 'ep-card';
+    card.style.animationDelay = `${idx * 0.07}s`;
+
+    const chars = (ep.characters || [])
+      .map(c => `<span class="char-tag">${c}</span>`)
+      .join('');
+
+    const mode = ep.mode === 'crew'
+      ? '<span class="ep-mode">CREW LOG</span>'
+      : '<span class="ep-mode" style="border-color:rgba(0,255,255,0.3);color:var(--cyan)">PLAYER</span>';
+
+    card.innerHTML = `
+      <div class="ep-number">EP ${pad(ep.number)}</div>
+      <div class="ep-title">${ep.title}</div>
+      <div class="ep-meta">
+        <div class="ep-chars">${chars}</div>
+        ${mode}
+      </div>
+      <div class="ep-meta">
+        <div class="ep-date">${ep.date || ''}</div>
+      </div>
+      <div class="ep-cliffhanger">${ep.cliffhanger || 'To be continued...'}</div>
+    `;
+    card.addEventListener('click', () => openEpisode(ep));
+    grid.appendChild(card);
+  });
+}
+
+async function openEpisode(ep) {
+  // Build header immediately
+  const chars = (ep.characters || [])
+    .map(c => `<span class="char-tag">${c}</span>`)
+    .join('');
+
+  modalContent.innerHTML = `
+    <div class="modal-ep-num">EP ${pad(ep.number)} &nbsp;·&nbsp; ${ep.date || ''}</div>
+    <div class="modal-title">${ep.title}</div>
+    <div class="modal-chars">${chars}</div>
+    <div class="modal-loading">DECODING TRANSMISSION_</div>
+  `;
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+
+  try {
+    const res  = await fetch(ep.file);
+    const text = await res.text();
+
+    // Strip markdown headers, render paragraphs
+    const cleaned = text
+      .replace(/^#.*$/gm, '')
+      .replace(/\*\*(.*?)\*\*/g, '$1')
+      .replace(/\*(.*?)\*/g, '$1')
+      .trim();
+
+    const paragraphs = cleaned
+      .split(/\n\n+/)
+      .filter(p => p.trim())
+      .map(p => `<p>${p.trim()}</p>`)
+      .join('');
+
+    modalContent.innerHTML = `
+      <div class="modal-ep-num">EP ${pad(ep.number)} &nbsp;·&nbsp; ${ep.date || ''}</div>
+      <div class="modal-title">${ep.title}</div>
+      <div class="modal-chars">${chars}</div>
+      <div class="modal-body">${paragraphs}</div>
+      ${ep.cliffhanger ? `<div class="modal-cliffhanger">${ep.cliffhanger}</div>` : ''}
+    `;
+  } catch {
+    modalContent.querySelector('.modal-loading').textContent = 'TRANSMISSION ERROR — FILE NOT FOUND';
+  }
+}
+
+function closeModal() {
+  modal.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+closeBtn.addEventListener('click', closeModal);
+modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ── Boot ─────────────────────────────────────────────────────────────────────
+(async function boot() {
+  try {
+    const res      = await fetch('episodes/manifest.json');
+    const episodes = await res.json();
+    renderCards(episodes);
+  } catch {
+    loading.textContent = 'NO TRANSMISSIONS FOUND';
+    loading.style.color = 'var(--muted)';
+    loading.style.animation = 'none';
+  }
+})();
+</script>
+</body>
+</html>
