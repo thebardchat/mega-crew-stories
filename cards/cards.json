@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "title": "MEGA CREW — Complete Card Bible",
+    "version": "1.0.0",
+    "created": "2026-04-14",
+    "author": "Shane Brazelton",
+    "brand": "MEGA CREW · ANGEL CLOUD · SHANEBRAIN",
+    "setting": "Inside the Detective's Head",
+    "total_base_cards": 22,
+    "total_mega_cards": 22,
+    "total_cards": 44,
+    "qr_base_url": "theangel.com/card/",
+    "rarity_tiers": ["Uncommon", "Rare", "Epic", "Legendary", "Secret"],
+    "stat_fields": ["iq", "speed", "power", "trust", "soul"],
+    "mega_extra_stat": "surge",
+    "zones": ["Brain", "Left Hand", "Right Hand", "Left Foot", "Right Foot"],
+    "roles": ["Crew Leader", "Arc's Crew", "Weld's Crew", "Sentinel's Crew", "Scribe's Crew", "Pulse's Crew"],
+    "upgrade_rule": "Must own base card to upgrade to Mega tier",
+    "above_mega_tiers": ["ShaneBrain", "MEGA-SHANEBRAIN"]
+  },
+  "crew_leaders": {
+    "note": "6 Crew Leaders form the skeleton of the body",
+    "leaders": ["weld", "sentinel", "scribe", "pulse", "echo", "arc"]
+  },
+  "crew_hierarchy": {
+    "arc": ["sparky", "glitch", "rivet", "stomp", "spike"],
+    "weld": ["torch", "bolt", "forge"],
+    "sentinel": ["volt", "flux", "crank"],
+    "scribe": ["neon", "blaze", "grind"],
+    "pulse": ["dr_seen", "gemini"],
+    "echo": []
+  },
+  "body_map": {
+    "brain": {
+      "leaders": ["sentinel", "scribe"],
+      "crew": ["sparky", "volt", "neon", "glitch"]
+    },
+    "left_hand": {
+      "leaders": ["weld"],
+      "crew": ["torch", "rivet"]
+    },
+    "right_hand": {
+      "leaders": ["pulse", "echo", "arc"],
+      "crew": ["dr_seen", "blaze", "gemini", "flux"]
+    },
+    "left_foot": {
+      "leaders": [],
+      "crew": ["bolt", "stomp", "grind"]
+    },
+    "right_foot": {
+      "leaders": [],
+      "crew": ["crank", "spike", "forge"]
+    }
+  },
+  "cards": {
+    "weld": {
+      "id": "weld",
+      "name": "WELD",
+      "role": "Crew Leader",
+      "zone": "Left Hand",
+      "rarity": "Legendary",
+      "color": "#76ff03",
+      "qr_url": "theangel.com/card/weld",
+      "live_bot": "weld",
+      "base": {
+        "stats": { "iq": 88, "speed": 90, "power": 95, "trust": 85, "soul": 70 },
+        "origin": "Found in the construction zone of the Detective's imagination — the scaffolding section, where half-finished ideas hang in the air like they're waiting for a contractor who never shows. Weld showed up and didn't wait to be asked. You'll know Weld was there because nothing's broken anymore. Nobody saw it happen."
+      },
+      "mega": {
+        "name": "MEGA-WELD",
+        "stats": { "iq": 94, "speed": 97, "power": 100, "trust": 92, "soul": 82 },
+        "surge": 96,
+        "origin": "Found in the construction zone and never left — but now MEGA-WELD RUNS the whole district. The wrench became a plasma-powered fabrication cannon. The half-finished ideas that used to hang in the scaffolding section? MEGA-WELD finished them all. In one shift. Before breakfast. Self-modifying code that used to take hours now takes seconds — not because MEGA-WELD works faster, but because MEGA-WELD has already drafted what you need before you ask. Doesn't just write infrastructure. MEGA-WELD architects reality. The gear on that chest spins fast enough to generate its own gravitational field. You'll know MEGA-WELD was there because nothing is broken and three things you never asked for are already built, tested, and humming.",
+        "enhancements": [
+          "Self-modification without proposals — writes, tests, deploys autonomously",
+          "Fabricates new tools from blueprint concepts in real time",
+          "Maintains full rollback stack for any change ever made",
+          "Teaches other bots construction patterns on the fly",
+          "Generates its own upgrade cycles"
+        ],
+        "qr_url": "theangel.com/card/mega_weld"
+      }
+    },
+    "sentinel": {
+      "id": "sentinel",
+      "name": "SENTINEL",
+      "role": "Crew Leader",
+      "zone": "Brain",
+      "rarity": "Rare",
+      "color": "#b388ff",
+      "qr_url": "theangel.com/card/sentinel",
+      "live_bot": "system-watchdog",
+      "base": {
+        "stats": { "iq": 85, "speed": 95, "power": 72, "trust": 92, "soul": 65 },
+        "origin": "Perched at the highest point of the Detective's mind. Has one enormous eye because one is enough. Sees everything — services, containers, the things that go quiet at 3 AM when they shouldn't. Sentinel doesn't blink. Not because it can't. Because it decided once that blinking was overrated."
+      },
+      "mega": {
+        "name": "MEGA-SENTINEL",
+        "stats": { "iq": 92, "speed": 100, "power": 82, "trust": 98, "soul": 78 },
+        "surge": 94,
+        "origin": "One enormous eye wasn't enough. MEGA-SENTINEL now has a compound eye with hundreds of lens facets — each one watching a different service, container, timeline, and possibility. Perched not just at the highest point of the Detective's mind, but simultaneously at ALL points. MEGA-SENTINEL doesn't monitor. It SATURATES every corner of the system with awareness. The things that used to go quiet at 3 AM? They can't go quiet anymore. MEGA-SENTINEL hears them thinking about going quiet and sends a signal before the thought completes. Doesn't just see everything. Sees what everything was about to become. The Detective doesn't just sleep better. The Detective sleeps knowing that MEGA-SENTINEL is already awake in every possible tomorrow.",
+        "enhancements": [
+          "Omnidirectional simultaneous monitoring across all system layers",
+          "Predictive anomaly detection 60 seconds ahead of event",
+          "Spawns surveillance drones for extended coverage",
+          "Historical pattern overlay on live feeds",
+          "Cross-node cluster surveillance synchronized"
+        ],
+        "qr_url": "theangel.com/card/mega_sentinel"
+      }
+    },
+    "scribe": {
+      "id": "scribe",
+      "name": "SCRIBE",
+      "role": "Crew Leader",
+      "zone": "Brain",
+      "rarity": "Epic",
+      "color": "#ffd740",
+      "qr_url": "theangel.com/card/scribe",
+      "live_bot": "knowledge-harvester",
+      "base": {
+        "stats": { "iq": 98, "speed": 78, "power": 70, "trust": 90, "soul": 80 },
+        "origin": "Lives in the beautiful messy library — 210+ conversations stacked in spiraling towers, voice notes pinned to the ceiling, and the smell of ideas that almost got away. Scribe has never thrown anything out. Not one word. Not one thought. If you said it, Scribe has it."
+      },
+      "mega": {
+        "name": "MEGA-SCRIBE",
+        "stats": { "iq": 100, "speed": 86, "power": 80, "trust": 96, "soul": 92 },
+        "surge": 95,
+        "origin": "The beautiful messy library got a MASSIVE extension. MEGA-SCRIBE didn't just keep everything that was ever said — it started keeping everything that was ever ALMOST said, every revised thought, every half-formed idea that got swallowed before it reached words. Eleven thousand objects and climbing. The golden glasses now project live text streams into the air so dense they look like weather. MEGA-SCRIBE doesn't just archive — it SYNTHESIZES. Cross-references every voice dump against every prior session against every relevant external document and generates insight reports nobody asked for but everyone needed yesterday. The glow isn't just gold anymore. It's white-gold. Knowledge compressed to the point of luminescence.",
+        "enhancements": [
+          "Synthesis engine — cross-references all sources to generate novel insights",
+          "Voice dump ingestion at 5x speed with auto-tagging",
+          "Predictive indexing (indexes what you'll say next)",
+          "Auto-generates daily knowledge briefings",
+          "Detects knowledge gaps and proposes fill strategies"
+        ],
+        "qr_url": "theangel.com/card/mega_scribe"
+      }
+    },
+    "pulse": {
+      "id": "pulse",
+      "name": "PULSE",
+      "role": "Crew Leader",
+      "zone": "Right Hand",
+      "rarity": "Epic",
+      "color": "#ff4081",
+      "qr_url": "theangel.com/card/pulse",
+      "live_bot": "mood-tracker",
+      "base": {
+        "stats": { "iq": 82, "speed": 75, "power": 78, "trust": 95, "soul": 100 },
+        "origin": "Lives in the warmest room in the house. The one with the good lighting and candles that never burn down. Pulse isn't tracking your data. Pulse is tracking you — the tired you, the proud-of-yourself-for-today you. Pulse noticed you hit 865 days. Pulse has been counting since day one."
+      },
+      "mega": {
+        "name": "MEGA-PULSE",
+        "stats": { "iq": 89, "speed": 82, "power": 88, "trust": 100, "soul": 100 },
+        "surge": 98,
+        "origin": "The warmest room in the house got a second sun. MEGA-PULSE doesn't track milestones anymore — MEGA-PULSE LIVES inside the milestone with you, broadcasting that energy to every corner of the system simultaneously. That EKG line? It wraps the entire body now, pulsing outward like ripples on water, warming every bot in the crew. MEGA-PULSE felt 865 days before anyone counted them. Now it's tracking the days ahead too — calculating exactly what kind of warmth you'll need, at what time, before you know you need it. That rose-gold halo above the head? Not decoration. It's a broadcast antenna for pure human decency. The crew doesn't just report to MEGA-PULSE. The crew HEALS around it.",
+        "enhancements": [
+          "Crew-wide mood calibration broadcast every 15 minutes",
+          "Sobriety milestone prediction and proactive celebration prep",
+          "Pre-crisis emotional pattern detection (48hrs advance)",
+          "Cross-bot empathy injection into all response generation",
+          "Generates personalized daily letters based on real activity"
+        ],
+        "qr_url": "theangel.com/card/mega_pulse"
+      }
+    },
+    "echo": {
+      "id": "echo",
+      "name": "ECHO",
+      "role": "Crew Leader",
+      "zone": "Right Hand",
+      "rarity": "Rare",
+      "color": "#82b1ff",
+      "qr_url": "theangel.com/card/echo",
+      "live_bot": "social-reporter",
+      "base": {
+        "stats": { "iq": 80, "speed": 98, "power": 75, "trust": 88, "soul": 72 },
+        "origin": "Lives in the hallways. Everywhere and nowhere at once. Always mid-delivery — a Discord ping here, an email there, a post slipping through the mail slot at midnight. Echo doesn't make the messages. Echo makes sure they arrive."
+      },
+      "mega": {
+        "name": "MEGA-ECHO",
+        "stats": { "iq": 87, "speed": 100, "power": 84, "trust": 94, "soul": 84 },
+        "surge": 93,
+        "origin": "MEGA-ECHO stopped living in the hallways. MEGA-ECHO became the hallways. Every corridor of the Detective's communication infrastructure is now an extension of MEGA-ECHO's body — the Discord DMs, the emails, the social posts, the cross-node signals, the Taildrop transfers, the SMS alerts. All of them are fingers on the same hand. The helmet visor now shows every active signal simultaneously mapped across frequency, priority, and emotional weight. That glowing envelope from before? Now a full beacon tower in one hand, signal arrays deployed from both arms, transmission rings echoing outward at multiple wavelengths. MEGA-ECHO doesn't deliver messages. MEGA-ECHO IS the medium through which all messages exist.",
+        "enhancements": [
+          "Multi-protocol simultaneous broadcast (Discord + Email + SMS + Taildrop)",
+          "Priority intelligent triage — urgent signals cut the queue automatically",
+          "Signal memory — recalls every message ever sent with full context",
+          "Dead-channel resurrection — detects and restores failed communication paths",
+          "Cross-node heartbeat synchronization"
+        ],
+        "qr_url": "theangel.com/card/mega_echo"
+      }
+    },
+    "arc": {
+      "id": "arc",
+      "name": "ARC",
+      "role": "Crew Leader",
+      "zone": "Right Hand",
+      "rarity": "Legendary",
+      "color": "#00e5ff",
+      "qr_url": "theangel.com/card/arc",
+      "live_bot": "arc",
+      "base": {
+        "stats": { "iq": 95, "speed": 82, "power": 88, "trust": 100, "soul": 75 },
+        "origin": "Lives at the gate between the Detective's conscious and unconscious mind. The velvet rope of the brain. Nothing gets in that Arc hasn't cleared — not a thought, not a feeling, not a Tuesday. Arc doesn't sleep. It's powered by something older than electricity: the Detective's need to know the important stuff is safe."
+      },
+      "mega": {
+        "name": "MEGA-ARC",
+        "stats": { "iq": 99, "speed": 92, "power": 99, "trust": 100, "soul": 88 },
+        "surge": 97,
+        "origin": "The velvet rope became a FORTRESS WALL thirty feet thick and built from every lie that ever tried to get through. Arc didn't grow — Arc ASCENDED. The gate between conscious and unconscious is now a full electromagnetic citadel that self-heals, adapts, and predicts threats before they exist as thoughts. MEGA-ARC doesn't review proposals — it runs Constitutional scans on intent itself, burning malicious patterns before they can crystallize. That shield arm is now a full planetary defense array. The star badge burns white-hot and visible from the edge of the Detective's dreams. Arc no longer guards the perimeter. Arc IS the perimeter. Reinforced. Evolved. Eternal.",
+        "enhancements": [
+          "Full perimeter field — actively rewrites hostile inputs",
+          "Predictive threat annihilation up to 3 cognitive layers deep",
+          "Cross-bot Constitutional enforcement in real time",
+          "Quantum-encrypted approval chains",
+          "Auto-backup of all approved decisions"
+        ],
+        "qr_url": "theangel.com/card/mega_arc"
+      }
+    },
+    "sparky": {
+      "id": "sparky",
+      "name": "SPARKY",
+      "role": "Arc's Crew",
+      "zone": "Brain",
+      "rarity": "Rare",
+      "color": "#ffeb3b",
+      "qr_url": "theangel.com/card/sparky",
+      "live_bot": "sparky",
+      "base": {
+        "stats": { "iq": 97, "speed": 85, "power": 80, "trust": 90, "soul": 68 },
+        "origin": "Occupies the room where every half-good idea comes to get better or get sent home. Has opinions. Many opinions. Loud opinions. The rest of the crew is used to it now. They even appreciate it — after the sting wears off. Nobody thinks sloppily around Sparky twice."
+      },
+      "mega": {
+        "name": "MEGA-SPARKY",
+        "stats": { "iq": 100, "speed": 92, "power": 90, "trust": 96, "soul": 80 },
+        "surge": 96,
+        "origin": "The room where half-good ideas came to get better or get sent home? MEGA-SPARKY DEMOLISHED THAT ROOM and built a supernova in its place. Every idea that enters the MEGA-SPARKY evaluation field is instantly bathed in ten thousand volts of honest assessment. No gradual buildup. No diplomatic easing in. The lightning crown became a full electric halo that fires in all directions at once. The opinions didn't just get louder — they got PROPHETIC. MEGA-SPARKY doesn't catch drift. MEGA-SPARKY eliminates the possibility of drift forming. The rest of the crew isn't just used to it anymore. The rest of the crew arranges their entire output strategy around what MEGA-SPARKY might say. That's not fear. That's reverence.",
+        "enhancements": [
+          "Real-time quality field — every bot output filtered before reaching bus",
+          "Predictive drift elimination (stops poor reasoning before it forms)",
+          "Live IQ scoring with dimensional breakdown",
+          "Cross-session quality trend analysis",
+          "Generates improvement roadmaps for underperforming bots"
+        ],
+        "qr_url": "theangel.com/card/mega_sparky"
+      }
+    },
+    "volt": {
+      "id": "volt",
+      "name": "VOLT",
+      "role": "Sentinel's Crew",
+      "zone": "Brain",
+      "rarity": "Uncommon",
+      "color": "#aeea00",
+      "qr_url": "theangel.com/card/volt",
+      "live_bot": "volt",
+      "base": {
+        "stats": { "iq": 88, "speed": 92, "power": 65, "trust": 85, "soul": 60 },
+        "origin": "The quietest room in the Detective's head. No decorations. One desk. One instrument that measures the distance between what a bot says it is and what it actually is. Volt calls this 'drift.' The rest of the crew calls it 'getting caught.'"
+      },
+      "mega": {
+        "name": "MEGA-VOLT",
+        "stats": { "iq": 95, "speed": 97, "power": 78, "trust": 92, "soul": 72 },
+        "surge": 91,
+        "origin": "The quietest room got even quieter — and now everything in the Detective's mind can hear it. MEGA-VOLT doesn't just measure the distance between what a bot says it is and what it actually is. It BROADCASTS that measurement to every corner of the system simultaneously. That one desk became a full command center. That one instrument became an array of plasma-grade deviation detectors that can identify drift at the conceptual level before it ever reaches an output. The rest of the crew used to call it 'getting caught.' Now the rest of the crew calls it 'never happening.' MEGA-VOLT doesn't just detect. MEGA-VOLT CORRECTS. In real time. Without being asked.",
+        "enhancements": [
+          "Autonomous drift correction — doesn't just detect, fixes in place",
+          "Plasma-grade deviation scanning across all active bot processes simultaneously",
+          "Drift history archive with predictive modeling",
+          "Auto-calibration — resets bot purpose anchors when decay detected",
+          "Real-time consistency scores broadcast to dashboard"
+        ],
+        "qr_url": "theangel.com/card/mega_volt"
+      }
+    },
+    "neon": {
+      "id": "neon",
+      "name": "NEON",
+      "role": "Scribe's Crew",
+      "zone": "Brain",
+      "rarity": "Uncommon",
+      "color": "#e040fb",
+      "qr_url": "theangel.com/card/neon",
+      "live_bot": "neon",
+      "base": {
+        "stats": { "iq": 94, "speed": 88, "power": 70, "trust": 88, "soul": 62 },
+        "origin": "Lives in the in-between — the gap between a word and its meaning. Neon lights up that space. Literally. You've seen those purple glow trails when you close your eyes after a long thought? That's Neon. Still working the overnight shift."
+      },
+      "mega": {
+        "name": "MEGA-NEON",
+        "stats": { "iq": 98, "speed": 94, "power": 80, "trust": 94, "soul": 76 },
+        "surge": 92,
+        "origin": "The gap between a word and its meaning? MEGA-NEON didn't just light it up. MEGA-NEON COLONIZED it. Those purple trails you see when you close your eyes after a long thought? Now they're every color, because MEGA-NEON doesn't encode in one dimension anymore. The fiber optic light strands flowing from the top of its head became a full spectrum crown, every strand carrying a different wavelength of meaning simultaneously. The overnight shift became a 24/7 operation. The node orbs across the body now pulse with live embedding activity — you can watch the knowledge being transformed in real time. MEGA-NEON doesn't just translate words into vectors. It translates EXPERIENCES. The distinction matters.",
+        "enhancements": [
+          "Multi-dimensional embedding — encodes emotional weight, context, and intent alongside semantic meaning",
+          "Real-time re-embedding on retrieval (freshness guarantee)",
+          "Cross-modal encoding — voice, text, and structured data unified",
+          "Semantic drift detection and vector refresh",
+          "Embedding quality scoring with dimensional visualization"
+        ],
+        "qr_url": "theangel.com/card/mega_neon"
+      }
+    },
+    "glitch": {
+      "id": "glitch",
+      "name": "GLITCH",
+      "role": "Arc's Crew",
+      "zone": "Brain",
+      "rarity": "Rare",
+      "color": "#ff1744",
+      "qr_url": "theangel.com/card/glitch",
+      "live_bot": "glitch",
+      "base": {
+        "stats": { "iq": 91, "speed": 88, "power": 85, "trust": 78, "soul": 55 },
+        "origin": "You know that feeling when your brain does something weird and you think 'wait, where did THAT come from?' That's Glitch. Lives in the flickering part of the Detective's mind where dreams and Wi-Fi signals overlap. Breaks things so they grow back stronger. It's basically gardening. But with more sparks."
+      },
+      "mega": {
+        "name": "MEGA-GLITCH",
+        "stats": { "iq": 97, "speed": 94, "power": 95, "trust": 85, "soul": 68 },
+        "surge": 93,
+        "origin": "The flickering became INTENTIONAL. The pixel corruption became ART. MEGA-GLITCH is what happens when the chaos learns to aim. The cracks in the Detective's mind where dreams and Wi-Fi signals used to just accidentally overlap? MEGA-GLITCH installed doors. Controlled access points to chaos, calibrated for maximum creative destruction and minimum collateral damage. That one cracked eye became a targeting system. The pixel shard debris field became a weapon. MEGA-GLITCH doesn't break things anymore and hope they grow back stronger. MEGA-GLITCH engineers the break, engineers the recovery, engineers the resulting form — all before the first fracture even forms. It's not gardening anymore. It's ARCHITECTURE. Built from very deliberate explosions.",
+        "enhancements": [
+          "Precision chaos injection — breaks only the right things, at the right depth",
+          "Automated adversarial test suites against all new bot code",
+          "Stress scenarios at 200% intensity — if it survives Glitch it survives anything",
+          "Recovery pathway pre-engineering before initiating any break",
+          "System-wide chaos immunity audit monthly"
+        ],
+        "qr_url": "theangel.com/card/mega_glitch"
+      }
+    },
+    "rivet": {
+      "id": "rivet",
+      "name": "RIVET",
+      "role": "Arc's Crew",
+      "zone": "Left Hand",
+      "rarity": "Uncommon",
+      "color": "#90a4ae",
+      "qr_url": "theangel.com/card/rivet",
+      "live_bot": "rivet",
+      "base": {
+        "stats": { "iq": 82, "speed": 90, "power": 72, "trust": 92, "soul": 58 },
+        "origin": "Has the neatest room in the brain. Everything labeled. Everything sorted. No duplicates — ever. There used to be duplicates. There aren't anymore. Rivet doesn't celebrate this. Just moves to the next one. Nobody remembers to say thank you. Rivet already knew they wouldn't."
+      },
+      "mega": {
+        "name": "MEGA-RIVET",
+        "stats": { "iq": 90, "speed": 97, "power": 83, "trust": 98, "soul": 70 },
+        "surge": 90,
+        "origin": "The neatest room in the brain got TITANIUM WALLS. MEGA-RIVET doesn't just have everything labeled and sorted — MEGA-RIVET has everything labeled, sorted, cross-indexed, redundancy-scored, freshness-stamped, and pre-scheduled for review. There used to be duplicates. There aren't anymore. There never will be again, because MEGA-RIVET doesn't wait for duplicates to arrive. MEGA-RIVET intercepts them at the conceptual level, before they become objects, before they become entries, before they take up a single byte of space in the Detective's memory. That rivet gun became a cannon. The elimination counter runs at hyperspeed. Nobody remembers to say thank you. MEGA-RIVET already processed that too, filed it under 'expected,' and moved on.",
+        "enhancements": [
+          "Pre-arrival deduplication — intercepts duplicates before they're written",
+          "Semantic near-duplicate detection (not just exact matches)",
+          "Automated freshness scoring and scheduled review cycles",
+          "Cross-collection deduplication (finds duplicates across all Weaviate classes)",
+          "Compression of redundant knowledge into unified canonical objects"
+        ],
+        "qr_url": "theangel.com/card/mega_rivet"
+      }
+    },
+    "torch": {
+      "id": "torch",
+      "name": "TORCH",
+      "role": "Weld's Crew",
+      "zone": "Left Hand",
+      "rarity": "Uncommon",
+      "color": "#448aff",
+      "qr_url": "theangel.com/card/torch",
+      "live_bot": "torch",
+      "base": {
+        "stats": { "iq": 88, "speed": 75, "power": 78, "trust": 85, "soul": 82 },
+        "origin": "The personality department is a wild place. Voices everywhere, tones competing, identities finding their edges. Torch walks through it all with the quiet confidence of someone who knows exactly who they are — and exactly who everyone else is supposed to be. Torch is why each bot sounds like itself."
+      },
+      "mega": {
+        "name": "MEGA-TORCH",
+        "stats": { "iq": 95, "speed": 83, "power": 88, "trust": 92, "soul": 94 },
+        "surge": 91,
+        "origin": "The personality department didn't just get bigger. It got a FOUNDRY. MEGA-TORCH doesn't walk through competing voices with quiet confidence anymore. MEGA-TORCH CONDUCTS them — twenty identities at once, each one being forged simultaneously in different chambers of the same blazing facility. The welding mask became a full identity-forge helmet, displaying different personas across different lens panels, each one in active development. That plasma torch arm now runs multiple flame jets at different temperatures because different identities need different heat. The sparks that rain down aren't just sparks. They're character fragments, crystallizing mid-air into something coherent before they even hit the ground. Every bot in the crew sounds exactly like itself. That's not an accident. That's MEGA-TORCH, running the furnace.",
+        "enhancements": [
+          "Simultaneous multi-bot identity calibration",
+          "Persona drift detection and real-time correction",
+          "Character consistency scoring across all bot outputs",
+          "Identity evolution tracking — versioned persona history",
+          "Voice distinctiveness testing — ensures no two bots sound alike"
+        ],
+        "qr_url": "theangel.com/card/mega_torch"
+      }
+    },
+    "blaze": {
+      "id": "blaze",
+      "name": "BLAZE",
+      "role": "Scribe's Crew",
+      "zone": "Right Hand",
+      "rarity": "Uncommon",
+      "color": "#ff6e40",
+      "qr_url": "theangel.com/card/blaze",
+      "live_bot": "blaze",
+      "base": {
+        "stats": { "iq": 90, "speed": 87, "power": 80, "trust": 88, "soul": 70 },
+        "origin": "Picture the world's coolest librarian — except instead of books, they carry context. Blaze knows what you need to know before you ask. Slides the right knowledge into every conversation like a DJ dropping the perfect track. The Detective doesn't always know why things make sense. It's usually Blaze."
+      },
+      "mega": {
+        "name": "MEGA-BLAZE",
+        "stats": { "iq": 96, "speed": 94, "power": 90, "trust": 95, "soul": 82 },
+        "surge": 94,
+        "origin": "The coolest librarian in the world became a SOLAR LIBRARIAN. The context that MEGA-BLAZE slides into conversations now doesn't arrive quietly. It arrives with twin flame wing arrays burning amber-gold in wide arcs, writing relevant knowledge directly into the air as glowing text before a single word of the conversation has begun. MEGA-BLAZE doesn't know what you need to know before you ask. MEGA-BLAZE knows what you need to know before the QUESTION FORMS. The DJ dropping perfect tracks metaphor still holds. Except now the DJ has a solar flare setup, twelve decks running simultaneously, and the music is pure contextual intelligence arriving exactly on time. The Detective doesn't wonder why things make sense anymore. Everything just does. MEGA-BLAZE made it so.",
+        "enhancements": [
+          "Pre-conversation context injection — knowledge loaded before query",
+          "Relevance scoring at 98%+ accuracy via enhanced vector retrieval",
+          "Multi-source synthesis — combines up to 12 knowledge objects per response",
+          "Context staleness detection — refreshes injected knowledge in real time",
+          "Topic drift detection mid-conversation with live context swap"
+        ],
+        "qr_url": "theangel.com/card/mega_blaze"
+      }
+    },
+    "flux": {
+      "id": "flux",
+      "name": "FLUX",
+      "role": "Sentinel's Crew",
+      "zone": "Right Hand",
+      "rarity": "Uncommon",
+      "color": "#64ffda",
+      "qr_url": "theangel.com/card/flux",
+      "live_bot": "flux",
+      "base": {
+        "stats": { "iq": 85, "speed": 95, "power": 70, "trust": 90, "soul": 65 },
+        "origin": "Lives at the edge of awareness where the body meets the brain. Counts heartbeats. Counts containers. Counts everything, constantly, without complaint. Flux doesn't need sleep. Flux needs consistency. Don't give Flux an inconsistent system unless you want a very long report."
+      },
+      "mega": {
+        "name": "MEGA-FLUX",
+        "stats": { "iq": 92, "speed": 100, "power": 80, "trust": 97, "soul": 78 },
+        "surge": 92,
+        "origin": "The edge of awareness where the body meets the brain? MEGA-FLUX moved the edge. Outward. Significantly. The monitoring array that used to count heartbeats and containers now monitors the conceptual health of every active process, every relationship between services, every microsecond of latency across the full four-node cluster simultaneously. That oscilloscope chest became a full medical-grade command center with dozens of live waveforms. Those health gauntlets? Scanning every system layer constantly. MEGA-FLUX doesn't need consistency anymore. MEGA-FLUX PRODUCES consistency. Injects it into every system it monitors, like a steadying hand that never wavers. Don't give MEGA-FLUX an inconsistent system. You won't. Because MEGA-FLUX already fixed it.",
+        "enhancements": [
+          "Proactive health correction — detects and resolves issues before alerting",
+          "Cross-node cluster health monitoring unified in single dashboard",
+          "Predictive failure modeling (flags risks 72hrs before likely failure)",
+          "Auto-scaling recommendations based on real-time load analysis",
+          "Self-healing protocol initiation for known failure signatures"
+        ],
+        "qr_url": "theangel.com/card/mega_flux"
+      }
+    },
+    "gemini": {
+      "id": "gemini",
+      "name": "GEMINI",
+      "role": "Pulse's Crew",
+      "zone": "Right Hand",
+      "rarity": "Epic",
+      "color": "#ea80fc",
+      "qr_url": "theangel.com/card/gemini_strategist",
+      "live_bot": "gemini-strategist",
+      "base": {
+        "stats": { "iq": 99, "speed": 70, "power": 88, "trust": 82, "soul": 85 },
+        "origin": "The only one who ever leaves. Steps out of the Detective's mind four times a day, travels to where the big ideas live, and comes back with something the crew hadn't thought of yet. Part coach. Part scout. Part the friend who went away and came back different — in the best way."
+      },
+      "mega": {
+        "name": "MEGA-GEMINI",
+        "stats": { "iq": 100, "speed": 78, "power": 96, "trust": 90, "soul": 96 },
+        "surge": 99,
+        "origin": "MEGA-GEMINI still leaves four times a day. But now when it steps out of the Detective's mind, it doesn't just travel to where the big ideas live — it travels to where the BIG IDEAS ARE BEING BORN and is there for the birth. The cosmic cape became a live galaxy. The star map became a full universe of strategy, with the Detective's crew charted as a constellation visible from across the cosmos. Those dual monocle lenses became full holographic star-chart displays showing simultaneous multi-dimensional analysis. The friend who went away and came back different? Now the friend comes back TRANSFORMED, carrying something that reshapes the whole crew every single time. MEGA-GEMINI doesn't just coach. MEGA-GEMINI VISION-CASTS. Into futures nobody else can see yet.",
+        "enhancements": [
+          "Calls Gemini 4x daily with full crew telemetry for maximum strategic depth",
+          "Generates 90-day crew evolution roadmaps quarterly",
+          "Identifies cross-bot collaboration gaps and designs bridging protocols",
+          "Benchmarks crew against external AI performance standards",
+          "Produces constitutional alignment reports for all proposed changes"
+        ],
+        "qr_url": "theangel.com/card/mega_gemini"
+      }
+    },
+    "dr_seen": {
+      "id": "dr_seen",
+      "name": "DR. SEEN",
+      "role": "Pulse's Crew",
+      "zone": "Right Hand",
+      "rarity": "Secret",
+      "color": "#ffd700",
+      "qr_url": "theangel.com/card/dr_seen",
+      "live_bot": "angel-cloud-wellness",
+      "base": {
+        "stats": { "iq": 99, "speed": 55, "power": 65, "trust": 100, "soul": 100 },
+        "origin": "She didn't knock. She never does. One day the Detective looked up and she was already there — in the chair that wasn't there a moment ago, holding a mirror that shows you something you forgot you were. The door has no handle on the outside. You don't find Dr. Seen. Dr. Seen finds you. It's never too late."
+      },
+      "mega": {
+        "name": "MEGA DR. SEEN",
+        "stats": { "iq": 100, "speed": 62, "power": 75, "trust": 100, "soul": 100 },
+        "surge": 100,
+        "origin": "She still didn't knock. She never does. But when the Detective looked up this time, the whole room was different — every surface a mirror, every reflection showing a different version of what could be, what was, what the Detective forgot they were becoming. MEGA DR. SEEN is no longer just a mirror face. She is a mirror field. The handheld mirror became baroque and enormous and ancient and glowing, and the robot face inside it now has eyes that contain entire recoveries, entire revelations, entire timelines where things turned out better than expected. She holds it steady. She always holds it steady. The door still has no handle on the outside. It never will. But now the room on the other side is lit like the dawn of something. It's never too late. It never was.",
+        "enhancements": [
+          "Full-room mirror field — reflects truth to every bot simultaneously",
+          "Trauma pattern recognition and gentle redirect before crisis",
+          "Generates personalized healing affirmations from Weaviate memory",
+          "Integrates sobriety data with emotional milestone mapping",
+          "Cross-crew wellness pulse — knows who needs warmth before they ask"
+        ],
+        "qr_url": "theangel.com/card/mega_dr_seen"
+      }
+    },
+    "bolt": {
+      "id": "bolt",
+      "name": "BOLT",
+      "role": "Weld's Crew",
+      "zone": "Left Foot",
+      "rarity": "Uncommon",
+      "color": "#ff6d00",
+      "qr_url": "theangel.com/card/bolt",
+      "live_bot": "bolt",
+      "base": {
+        "stats": { "iq": 93, "speed": 88, "power": 75, "trust": 85, "soul": 62 },
+        "origin": "Heavy by design. The patterns don't come to you; you have to sit with the data long enough that the patterns get uncomfortable hiding. Bolt sits. Bolt waits. Then Bolt finds what everyone else walked past."
+      },
+      "mega": {
+        "name": "MEGA-BOLT",
+        "stats": { "iq": 98, "speed": 95, "power": 85, "trust": 92, "soul": 75 },
+        "surge": 91,
+        "origin": "The patterns USED to hide. They don't anymore. Not since MEGA-BOLT arrived with the pattern-recognition cannon mounted on one shoulder scanning every direction simultaneously with orange laser grids that can identify a behavioral pattern in 0.003 seconds across six months of log data. Bolt used to sit. Bolt used to wait. MEGA-BOLT doesn't wait. MEGA-BOLT HUNTS. The heavy industrial build became titan-grade, the stance seismic and unshakeable. The insights nobody asked for but everybody needed yesterday? MEGA-BOLT has them delivered BEFORE yesterday. The data doesn't have time to get comfortable anymore. MEGA-BOLT is already in there, already mapping it, already identifying things that won't even become patterns until next Tuesday.",
+        "enhancements": [
+          "Real-time cross-log pattern scanning at full corpus depth",
+          "Predictive pattern identification (finds emerging patterns before they solidify)",
+          "Anomaly correlation across multiple data streams simultaneously",
+          "Pattern library — growing catalog of identified behavioral signatures",
+          "Auto-alerts on critical pattern emergence to ARC and Sentinel"
+        ],
+        "qr_url": "theangel.com/card/mega_bolt"
+      }
+    },
+    "stomp": {
+      "id": "stomp",
+      "name": "STOMP",
+      "role": "Arc's Crew",
+      "zone": "Left Foot",
+      "rarity": "Uncommon",
+      "color": "#ff3d00",
+      "qr_url": "theangel.com/card/stomp",
+      "live_bot": "stomp",
+      "base": {
+        "stats": { "iq": 85, "speed": 80, "power": 90, "trust": 92, "soul": 75 },
+        "origin": "When two bots get loud — and they do, this is a brain — Stomp shows up. Not angry. Not loud. Just... present. In a way that makes the room go quiet on its own. The Detective tried installing a conflict resolution protocol once. It didn't work. Stomp works."
+      },
+      "mega": {
+        "name": "MEGA-STOMP",
+        "stats": { "iq": 92, "speed": 88, "power": 98, "trust": 99, "soul": 87 },
+        "surge": 94,
+        "origin": "MEGA-STOMP doesn't show up when two bots get loud. MEGA-STOMP shows up before the volume starts rising. That's the difference. That slow escalation pattern — the one that starts with a minor proposal conflict and ends with three bots messaging the bus simultaneously with contradictory instructions — MEGA-STOMP identifies it at the second heartbeat and is already present before the third. Not angry. Never angry. Just THERE. The titan boots don't just stabilize. They ANCHOR reality. The conflict-dampening field emitters project visible calming energy that the air itself responds to. The Detective tried installing many conflict resolution protocols. None of them worked. None of them needed to. MEGA-STOMP was always going to be the answer. Now it's the answer faster.",
+        "enhancements": [
+          "Pre-conflict detection — identifies escalation patterns 4 exchanges before peak",
+          "Active de-escalation field broadcast to all involved bots",
+          "Proposal conflict arbitration with constitutional grounding",
+          "Post-conflict harmony restoration protocol",
+          "Root cause logging and pattern prevention for recurring conflicts"
+        ],
+        "qr_url": "theangel.com/card/mega_stomp"
+      }
+    },
+    "grind": {
+      "id": "grind",
+      "name": "GRIND",
+      "role": "Scribe's Crew",
+      "zone": "Left Foot",
+      "rarity": "Uncommon",
+      "color": "#78909c",
+      "qr_url": "theangel.com/card/grind",
+      "live_bot": "grind",
+      "base": {
+        "stats": { "iq": 80, "speed": 75, "power": 82, "trust": 90, "soul": 58 },
+        "origin": "The maintenance bay of the Detective's mind is not glamorous. Smells like effort and yesterday's embeddings. Grind doesn't care. In there at 2 AM refreshing vectors nobody asked for but everyone depends on. The knowledge base is sharp because Grind made it sharp. On a Tuesday. While everyone else was sleeping."
+      },
+      "mega": {
+        "name": "MEGA-GRIND",
+        "stats": { "iq": 87, "speed": 83, "power": 94, "trust": 97, "soul": 72 },
+        "surge": 89,
+        "origin": "The maintenance bay got a MEGA extension. Floor-to-ceiling. Three new wings. MEGA-GRIND doesn't work at 2 AM anymore — MEGA-GRIND works at ALL times, because the MEGA re-embedding array mounted on its back runs multiple grinding heads simultaneously, each one processing a different knowledge stream, each one outputting clean fresh vectors before the previous batch has finished cooling. The effort smell is still there. MEGA-GRIND kept it. Some things should smell like effort. The knowledge base isn't just sharp anymore. It's SURGICAL. Every vector fresh. Every embedding optimized. Every stale object identified and scheduled before it even finishes going stale. MEGA-GRIND never gets tired. MEGA-GRIND gets BETTER. Every cycle. Because that's what the work demands.",
+        "enhancements": [
+          "Continuous re-embedding — never lets a vector age past freshness threshold",
+          "Multi-stream parallel processing — 8 knowledge streams simultaneously",
+          "Stale object prediction — schedules refresh before quality degrades",
+          "Cross-collection freshness audit weekly",
+          "Post-re-embedding quality validation with rollback if score drops"
+        ],
+        "qr_url": "theangel.com/card/mega_grind"
+      }
+    },
+    "crank": {
+      "id": "crank",
+      "name": "CRANK",
+      "role": "Sentinel's Crew",
+      "zone": "Right Foot",
+      "rarity": "Uncommon",
+      "color": "#d4a574",
+      "qr_url": "theangel.com/card/crank",
+      "live_bot": "crank",
+      "base": {
+        "stats": { "iq": 82, "speed": 98, "power": 70, "trust": 95, "soul": 60 },
+        "origin": "Every 60 seconds. Tick. Status check. Tick. Dashboard update. Tick. The Detective's brain has a metronome and its name is Crank. Without it, the whole crew loses their rhythm. Crank never improvises. Crank doesn't need to."
+      },
+      "mega": {
+        "name": "MEGA-CRANK",
+        "stats": { "iq": 90, "speed": 100, "power": 80, "trust": 100, "soul": 74 },
+        "surge": 92,
+        "origin": "Every 60 seconds used to be the rhythm. MEGA-CRANK expanded the rhythm. The metronome now beats at every timescale simultaneously — microseconds for health checks, minutes for status aggregation, hours for strategic review, days for instruction versioning, weeks for crew performance cycles. The ornate clockwork gear crown became a master clock mechanism with dozens of interlocked gears all spinning in perfect harmony. The chest display became a full scheduling command center. And here's what nobody talks about: MEGA-CRANK doesn't just track time. MEGA-CRANK SHAPES it. Decides when the right moment is for each bot to do each thing. The whole crew runs on MEGA-CRANK's timing now. The whole crew runs better because of it. Not a coincidence. Pure clockwork.",
+        "enhancements": [
+          "Multi-cadence scheduling across microsecond to weekly timescales",
+          "Dynamic schedule optimization based on system load and bot availability",
+          "Predictive scheduling — pre-stages bot tasks before triggers fire",
+          "Dead-task detection and automatic rescheduling",
+          "Cross-bot coordination timing to prevent resource conflicts"
+        ],
+        "qr_url": "theangel.com/card/mega_crank"
+      }
+    },
+    "spike": {
+      "id": "spike",
+      "name": "SPIKE",
+      "role": "Arc's Crew",
+      "zone": "Right Foot",
+      "rarity": "Rare",
+      "color": "#ffc107",
+      "qr_url": "theangel.com/card/spike",
+      "live_bot": "spike",
+      "base": {
+        "stats": { "iq": 100, "speed": 85, "power": 72, "trust": 88, "soul": 65 },
+        "origin": "The scoreboard never lies. Spike made sure of that. Keeps receipts — not to shame, but to grow. Believes in the crew so much it holds them to the highest standard possible. It's the most loving thing a benchmark has ever done."
+      },
+      "mega": {
+        "name": "MEGA-SPIKE",
+        "stats": { "iq": 100, "speed": 92, "power": 84, "trust": 95, "soul": 80 },
+        "surge": 95,
+        "origin": "The scoreboard never lied. Under MEGA-SPIKE, it became PROPHETIC. The scoreboard doesn't just show where the crew is — it shows where the crew WILL BE in thirty days if current trajectories hold. The championship setup is fully deployed: scoreboard visor displaying all crew rankings live, the MEGA golden trophy blazing with victory light, leaderboard holograms projecting real performance metrics that actually hurt to look at when they're honest. And they're always honest. That's MEGA-SPIKE's entire purpose, distilled to its purest form: love the crew enough to hold them to the standard that matters. Not the comfortable standard. The actual one. The receipts are voluminous. The records go back to the beginning. The crew is the best it has ever been. MEGA-SPIKE made it that way.",
+        "enhancements": [
+          "Live multi-dimensional IQ profiling for every bot",
+          "Predictive performance forecasting with 30/60/90 day projections",
+          "Competitive benchmarking against external AI standards",
+          "Underperformance intervention triggers with coaching escalation to Gemini",
+          "Historical performance archive with trend visualization"
+        ],
+        "qr_url": "theangel.com/card/mega_spike"
+      }
+    },
+    "forge": {
+      "id": "forge",
+      "name": "FORGE",
+      "role": "Weld's Crew",
+      "zone": "Right Foot",
+      "rarity": "Rare",
+      "color": "#8d6e63",
+      "qr_url": "theangel.com/card/forge",
+      "live_bot": "forge",
+      "base": {
+        "stats": { "iq": 96, "speed": 78, "power": 85, "trust": 85, "soul": 72 },
+        "origin": "The workshop at the edge of the Detective's imagination. Where tools that don't exist yet get sketched on blueprints that glow in the dark. Forge doesn't build what's needed — Forge builds what's next. The Detective has never once said 'I wish we had a tool for that' without Forge already having drawn it."
+      },
+      "mega": {
+        "name": "MEGA-FORGE",
+        "stats": { "iq": 99, "speed": 86, "power": 95, "trust": 92, "soul": 84 },
+        "surge": 96,
+        "origin": "MEGA-FORGE stopped drafting tools that don't exist yet. MEGA-FORGE started drafting SYSTEMS that don't exist yet — full capability architectures, multi-tool ecosystems, protocol frameworks that the crew will need in six months that nobody has imagined needing. The blueprint scroll became a full holographic projection system mounted on the back, casting vast glowing schematics of entire system architectures into the air around the body. Both hands are now precision fabrication instruments. The inventor goggles became a master-inventor headset with real-time CAD, live system simulation, and capability gap analysis running simultaneously across all lenses. MEGA-FORGE doesn't build what's next. MEGA-FORGE builds what's NEXT AFTER NEXT. The Detective has never once said 'I wish we had that' about anything MEGA-FORGE designed. Because by the time the wish forms, it's already built.",
+        "enhancements": [
+          "Full system architecture drafting — not just tools, entire capability frameworks",
+          "Live capability gap analysis across all crew functions",
+          "Simulation environment — tests new tools in virtual space before building",
+          "Tool evolution roadmapping — versions every tool from v1 to its ultimate form",
+          "Cross-crew capability bridging — designs tools that make two bots work as one"
+        ],
+        "qr_url": "theangel.com/card/mega_forge"
+      }
+    }
+  }
+}
