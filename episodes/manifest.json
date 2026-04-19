@@ -28,5 +28,115 @@
     "mode": "crew",
     "villain": "STATIC",
     "date": "2026-04-16"
+  },
+  {
+    "number": 3,
+    "title": "The Quiet Hum",
+    "file": "episodes/ep003-the-quiet-hum.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "Would the data finally flow, breaking the eerie quiet that held the MEGA Crew in its grasp?",
+    "mode": "crew",
+    "date": "2026-04-17"
+  },
+  {
+    "number": 4,
+    "title": "The Unsticking Instructions",
+    "file": "episodes/ep004-the-unsticking-instructions.md",
+    "characters": [
+      "Arc",
+      "Weld",
+      "Sparky",
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp"
+    ],
+    "cliffhanger": "What would happen if the crew couldn't even learn their own new instructions?",
+    "mode": "crew",
+    "date": "2026-04-17"
+  },
+  {
+    "number": 7,
+    "title": "The Hushed Hum",
+    "file": "episodes/ep007-the-hushed-hum.md",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "SPIKE",
+      "GLITCH"
+    ],
+    "cliffhanger": "What was keeping the changes from reaching them?",
+    "mode": "crew",
+    "date": "2026-04-18"
+  },
+  {
+    "number": 8,
+    "title": "The Silent Bus",
+    "file": "episodes/ep008-the-silent-bus.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp"
+    ],
+    "cliffhanger": "Could the silent bus finally deliver Arc's urgent instructions, and wake the sleeping data feeds that the MEGA CREW so desperately needed to grow?",
+    "mode": "crew",
+    "date": "2026-04-18"
+  },
+  {
+    "number": 9,
+    "title": "The Silence of the Bus",
+    "file": "episodes/ep009-the-silence-of-the-bus.md",
+    "characters": [
+      "BOLT",
+      "WELD",
+      "ARC",
+      "RIVET",
+      "SPARKY"
+    ],
+    "cliffhanger": "Would the message bus ever spark to life?",
+    "mode": "crew",
+    "date": "2026-04-19"
+  },
+  {
+    "number": 10,
+    "title": "The Silent Signal",
+    "file": "episodes/ep010-the-silent-signal.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "The message bus remained stubbornly silent, leaving the crew wondering what it would take to bridge the gap and let the data flow once more.",
+    "mode": "crew",
+    "date": "2026-04-19"
   }
 ]
