@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEGA CREW STORIES — Comic Edition</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink:        #0a0a0a;
+      --paper:      #faf3e0;
+      --paper-dim:  #e8dfc4;
+      --red:        #e63946;
+      --yellow:     #ffd23f;
+      --blue:       #1d4e89;
+      --border:     3px solid var(--ink);
+      --thick:      6px solid var(--ink);
+      --shadow:     4px 4px 0 var(--ink);
+      --shadow-lg:  8px 8px 0 var(--ink);
+      --font-disp:  'Bangers', 'Impact', sans-serif;
+      --font-body:  'Comic Neue', 'Comic Sans MS', cursive;
+      --font-hand:  'Permanent Marker', cursive;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--paper);
+      background-image:
+        radial-gradient(circle at 1px 1px, rgba(0,0,0,0.12) 1px, transparent 0);
+      background-size: 8px 8px;
+      color: var(--ink);
+      font-family: var(--font-body);
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--red);
+      color: var(--paper);
+      padding: 1.5rem 2rem;
+      border-bottom: var(--thick);
+      position: relative;
+      overflow: hidden;
+    }
+
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        radial-gradient(circle at 1px 1px, rgba(255,255,255,0.15) 1px, transparent 0);
+      background-size: 10px 10px;
+      pointer-events: none;
+    }
+
+    .header-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      position: relative;
+      z-index: 1;
+    }
+
+    .title {
+      font-family: var(--font-disp);
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+      line-height: 0.9;
+      letter-spacing: 0.04em;
+      color: var(--yellow);
+      -webkit-text-stroke: 3px var(--ink);
+      text-shadow: var(--shadow);
+      transform: rotate(-2deg);
+    }
+
+    .subtitle {
+      font-family: var(--font-hand);
+      font-size: 1rem;
+      background: var(--yellow);
+      color: var(--ink);
+      padding: 0.3rem 0.8rem;
+      border: var(--border);
+      box-shadow: var(--shadow);
+      transform: rotate(1.5deg);
+      white-space: nowrap;
+    }
+
+    .nav-link {
+      font-family: var(--font-disp);
+      font-size: 1.1rem;
+      letter-spacing: 0.1em;
+      color: var(--paper);
+      background: var(--ink);
+      padding: 0.5rem 1rem;
+      border: 2px solid var(--paper);
+      text-decoration: none;
+      box-shadow: 4px 4px 0 var(--yellow);
+      transition: transform 0.1s;
+    }
+
+    .nav-link:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0 var(--yellow); }
+
+    /* ── Main list view ── */
+    main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .section-label {
+      font-family: var(--font-disp);
+      font-size: 2rem;
+      letter-spacing: 0.1em;
+      margin-bottom: 1.5rem;
+      color: var(--ink);
+      transform: rotate(-1deg);
+      display: inline-block;
+      background: var(--yellow);
+      padding: 0.2rem 1rem;
+      border: var(--border);
+      box-shadow: var(--shadow);
+    }
+
+    #episodes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .ep-cover {
+      background: var(--paper);
+      border: var(--thick);
+      box-shadow: var(--shadow-lg);
+      cursor: pointer;
+      overflow: hidden;
+      transition: transform 0.15s, box-shadow 0.15s;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .ep-cover:hover {
+      transform: translate(-4px, -4px) rotate(-1deg);
+      box-shadow: 12px 12px 0 var(--ink);
+    }
+
+    .cover-banner {
+      background: var(--blue);
+      color: var(--paper);
+      font-family: var(--font-disp);
+      font-size: 1rem;
+      letter-spacing: 0.15em;
+      padding: 0.4rem 1rem;
+      border-bottom: var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .cover-banner .price {
+      background: var(--yellow);
+      color: var(--ink);
+      padding: 0.1rem 0.5rem;
+      border: 2px solid var(--ink);
+      font-size: 0.85rem;
+      transform: rotate(5deg);
+    }
+
+    .cover-art {
+      aspect-ratio: 4 / 3;
+      background: var(--ink);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .cover-art img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: contrast(1.1) saturate(1.1);
+    }
+
+    .cover-art-empty {
+      font-family: var(--font-disp);
+      font-size: 3rem;
+      color: var(--paper);
+      opacity: 0.4;
+    }
+
+    .cover-art::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        repeating-linear-gradient(
+          45deg,
+          transparent 0 2px,
+          rgba(0,0,0,0.03) 2px 4px
+        );
+      pointer-events: none;
+    }
+
+    .cover-title {
+      font-family: var(--font-disp);
+      font-size: 1.6rem;
+      padding: 1rem;
+      line-height: 1.1;
+      letter-spacing: 0.02em;
+      border-top: var(--border);
+      background: var(--paper);
+    }
+
+    .cover-chars {
+      padding: 0 1rem 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+    }
+
+    .char-chip {
+      font-family: var(--font-body);
+      font-weight: 700;
+      font-size: 0.7rem;
+      letter-spacing: 0.05em;
+      padding: 0.15rem 0.5rem;
+      border: 2px solid var(--ink);
+      background: var(--yellow);
+    }
+
+    .cover-cliff {
+      padding: 0.8rem 1rem;
+      background: var(--paper-dim);
+      border-top: 2px dashed var(--ink);
+      font-style: italic;
+      font-size: 0.8rem;
+      line-height: 1.4;
+    }
+
+    /* ── Reader (comic) ── */
+    #reader {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: var(--ink);
+      overflow-y: auto;
+    }
+
+    #reader.open { display: block; }
+
+    .reader-bar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--ink);
+      color: var(--paper);
+      padding: 0.8rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      border-bottom: 3px solid var(--yellow);
+      flex-wrap: wrap;
+    }
+
+    .reader-title {
+      font-family: var(--font-disp);
+      font-size: 1.4rem;
+      letter-spacing: 0.05em;
+      color: var(--yellow);
+    }
+
+    .reader-controls { display: flex; gap: 0.6rem; align-items: center; }
+
+    .reader-btn {
+      font-family: var(--font-disp);
+      font-size: 0.95rem;
+      letter-spacing: 0.1em;
+      background: var(--yellow);
+      color: var(--ink);
+      border: 2px solid var(--paper);
+      padding: 0.35rem 0.8rem;
+      cursor: pointer;
+      box-shadow: 3px 3px 0 var(--red);
+      transition: transform 0.1s;
+    }
+
+    .reader-btn:hover:not(:disabled) { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--red); }
+    .reader-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+    .reader-pages {
+      padding: 2rem 1rem 4rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    /* ── Comic Page ── */
+    .comic-page {
+      background: var(--paper);
+      background-image: radial-gradient(circle at 1px 1px, rgba(0,0,0,0.1) 1px, transparent 0);
+      background-size: 6px 6px;
+      border: var(--thick);
+      box-shadow: var(--shadow-lg);
+      padding: 1.5rem;
+      margin-bottom: 2.5rem;
+      position: relative;
+    }
+
+    .comic-page::before {
+      content: 'PAGE ' attr(data-page);
+      position: absolute;
+      top: -14px;
+      left: 1.5rem;
+      background: var(--red);
+      color: var(--paper);
+      font-family: var(--font-disp);
+      font-size: 0.9rem;
+      letter-spacing: 0.15em;
+      padding: 0.1rem 0.7rem;
+      border: 2px solid var(--ink);
+      box-shadow: 3px 3px 0 var(--ink);
+    }
+
+    .page-panels {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    /* ── Panels ── */
+    .panel {
+      border: var(--border);
+      background: var(--paper);
+      box-shadow: var(--shadow);
+      padding: 1rem;
+      position: relative;
+    }
+
+    /* zone tints */
+    .panel.zone-brain       { background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); }
+    .panel.zone-left-hand   { background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%); }
+    .panel.zone-right-hand  { background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%); }
+    .panel.zone-left-foot   { background: linear-gradient(135deg, #ffedd5 0%, #fed7aa 100%); }
+    .panel.zone-right-foot  { background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); }
+
+    /* Narration = caption box */
+    .panel.narration {
+      background: var(--yellow) !important;
+      font-family: var(--font-body);
+      font-weight: 700;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      padding: 1rem 1.2rem;
+      border: var(--border);
+    }
+
+    .panel.narration::before {
+      content: '';
+      position: absolute;
+      top: 6px; left: 6px; right: 6px; bottom: 6px;
+      border: 1px dashed var(--ink);
+      pointer-events: none;
+    }
+
+    /* Dialogue panel layout */
+    .panel.dialogue {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+      min-height: 120px;
+    }
+
+    .panel.dialogue.flip { flex-direction: row-reverse; }
+
+    .portrait-frame {
+      flex: 0 0 140px;
+      aspect-ratio: 1 / 1;
+      border: var(--border);
+      background: var(--ink);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      position: relative;
+    }
+
+    .portrait-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: contrast(1.1) saturate(1.15);
+    }
+
+    .portrait-frame::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 1px 1px, rgba(0,0,0,0.2) 1px, transparent 0);
+      background-size: 4px 4px;
+      mix-blend-mode: multiply;
+      opacity: 0.4;
+      pointer-events: none;
+    }
+
+    .portrait-missing {
+      width: 100%; height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-disp);
+      font-size: 1.1rem;
+      color: var(--paper);
+      letter-spacing: 0.1em;
+      text-align: center;
+      padding: 0.5rem;
+    }
+
+    .speech-area {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+
+    .speaker-name {
+      font-family: var(--font-disp);
+      font-size: 1.2rem;
+      letter-spacing: 0.08em;
+      align-self: flex-start;
+      padding: 0.15rem 0.6rem;
+      border: 2px solid var(--ink);
+      background: var(--paper);
+      box-shadow: 3px 3px 0 var(--ink);
+    }
+
+    .bubble {
+      position: relative;
+      background: var(--paper);
+      border: var(--border);
+      padding: 0.8rem 1rem;
+      font-family: var(--font-body);
+      font-weight: 700;
+      font-size: 1rem;
+      line-height: 1.4;
+      box-shadow: var(--shadow);
+      border-radius: 18px;
+    }
+
+    .bubble::before {
+      content: '';
+      position: absolute;
+      left: -14px; top: 20px;
+      width: 0; height: 0;
+      border: 10px solid transparent;
+      border-right: 14px solid var(--ink);
+      border-left: 0;
+    }
+
+    .bubble::after {
+      content: '';
+      position: absolute;
+      left: -10px; top: 23px;
+      width: 0; height: 0;
+      border: 7px solid transparent;
+      border-right: 10px solid var(--paper);
+      border-left: 0;
+    }
+
+    .panel.dialogue.flip .bubble::before {
+      left: auto; right: -14px;
+      border-right: 0;
+      border-left: 14px solid var(--ink);
+    }
+
+    .panel.dialogue.flip .bubble::after {
+      left: auto; right: -10px;
+      border-right: 0;
+      border-left: 10px solid var(--paper);
+    }
+
+    .action-line {
+      font-family: var(--font-body);
+      font-style: italic;
+      font-size: 0.88rem;
+      line-height: 1.4;
+      color: #444;
+      padding-top: 0.3rem;
+    }
+
+    /* ── Cover/intro page ── */
+    .comic-cover-page {
+      background: var(--ink);
+      border: var(--thick);
+      box-shadow: var(--shadow-lg);
+      padding: 0;
+      margin-bottom: 2.5rem;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .cover-hero {
+      padding: 3rem 2rem;
+      background:
+        radial-gradient(circle at 30% 20%, rgba(255,210,63,0.2), transparent 50%),
+        radial-gradient(circle at 70% 80%, rgba(230,57,70,0.25), transparent 50%),
+        var(--ink);
+      color: var(--paper);
+      text-align: center;
+      border-bottom: var(--thick);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .cover-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        radial-gradient(circle at 2px 2px, rgba(255,255,255,0.1) 1px, transparent 0);
+      background-size: 12px 12px;
+    }
+
+    .cover-ep {
+      font-family: var(--font-disp);
+      font-size: 1.2rem;
+      color: var(--yellow);
+      letter-spacing: 0.3em;
+      margin-bottom: 0.4rem;
+      position: relative;
+    }
+
+    .cover-ep-title {
+      font-family: var(--font-disp);
+      font-size: clamp(2.5rem, 7vw, 5rem);
+      line-height: 1;
+      color: var(--paper);
+      -webkit-text-stroke: 2px var(--red);
+      text-shadow: 4px 4px 0 var(--red);
+      margin-bottom: 1.2rem;
+      position: relative;
+      letter-spacing: 0.02em;
+      transform: rotate(-1.5deg);
+    }
+
+    .cover-cast {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      position: relative;
+    }
+
+    .cast-chip {
+      background: var(--yellow);
+      color: var(--ink);
+      padding: 0.3rem 0.7rem;
+      border: 2px solid var(--paper);
+      font-family: var(--font-disp);
+      font-size: 0.9rem;
+      letter-spacing: 0.1em;
+      box-shadow: 3px 3px 0 var(--red);
+    }
+
+    /* ── Cliffhanger page ── */
+    .cliff-page {
+      background: var(--red);
+      color: var(--paper);
+      border: var(--thick);
+      box-shadow: var(--shadow-lg);
+      padding: 3rem 2rem;
+      text-align: center;
+      font-family: var(--font-disp);
+      font-size: clamp(1.3rem, 3.5vw, 2rem);
+      line-height: 1.3;
+      letter-spacing: 0.04em;
+      margin-bottom: 2.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .cliff-page::before {
+      content: 'TO BE CONTINUED...';
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      font-family: var(--font-hand);
+      font-size: 1rem;
+      color: var(--yellow);
+      letter-spacing: 0.15em;
+      transform: rotate(8deg);
+    }
+
+    /* ── Loading ── */
+    #loading {
+      text-align: center;
+      padding: 4rem 0;
+      font-family: var(--font-disp);
+      font-size: 2rem;
+      color: var(--ink);
+      letter-spacing: 0.2em;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-family: var(--font-body);
+      font-size: 0.75rem;
+      color: var(--ink);
+      border-top: var(--thick);
+      background: var(--paper-dim);
+      letter-spacing: 0.05em;
+    }
+
+    footer strong { font-family: var(--font-disp); letter-spacing: 0.1em; }
+
+    @media (max-width: 600px) {
+      .panel.dialogue { flex-direction: column; }
+      .panel.dialogue.flip { flex-direction: column; }
+      .portrait-frame { flex: 0 0 auto; width: 100%; max-width: 200px; align-self: center; }
+      .bubble::before, .bubble::after { display: none; }
+      .cover-ep-title { -webkit-text-stroke: 1.5px var(--red); }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="title">MEGA CREW STORIES</div>
+    </div>
+    <div class="subtitle">COMIC EDITION · #001</div>
+    <a class="nav-link" href="index.html">TERMINAL MODE →</a>
+  </div>
+</header>
+
+<main>
+  <div class="section-label">ISSUES ON THE RACK</div>
+  <div id="loading">LOADING ISSUES...</div>
+  <div id="episodes-grid"></div>
+</main>
+
+<div id="reader">
+  <div class="reader-bar">
+    <div class="reader-title" id="reader-title">...</div>
+    <div class="reader-controls">
+      <button class="reader-btn" id="reader-close">✕ CLOSE</button>
+    </div>
+  </div>
+  <div class="reader-pages" id="reader-pages"></div>
+</div>
+
+<footer>
+  <strong>MEGA CREW</strong> · Powered by a Raspberry Pi 5 + Gemini · Hazel Green, Alabama
+</footer>
+
+<script>
+const CARDS_URL     = 'cards/cards.json';
+const PORTRAIT_DIR  = 'cards/portraits/';
+const MANIFEST_URL  = 'episodes/manifest.json';
+
+const grid      = document.getElementById('episodes-grid');
+const loading   = document.getElementById('loading');
+const reader    = document.getElementById('reader');
+const readerPages = document.getElementById('reader-pages');
+const readerTitle = document.getElementById('reader-title');
+const readerClose = document.getElementById('reader-close');
+
+let CARDS = null;
+
+// Known character portraits: id → filename (handles naming inconsistencies)
+const PORTRAIT_FILES = {
+  arc:       'arc_Gemini_Generated.png',
+  blaze:     'blaze_Gemini_Generated.png',
+  bolt:      'bolt_Gemini_Generated.png',
+  crank:     'crank_Gemini_Generated.png',
+  dr_seen:   'dr_seen_Gemini_Generated.png',
+  echo:      'echo_Gemini_Generated.png',
+  flux:      'flux_Gemini_Generated.png',
+  forge:     'forge_Gemini_Generate.png',
+  gemini:    'gemini_Gemini_Generated.png',
+  glitch:    'glitch_Gemini_Generated.png',
+  grind:     'grind_Gemini_Generated.png',
+  neon:      'neon_Gemini_Generated.png',
+  pulse:     'pulse__Gemini_Generated.png',
+  rivet:     'rivet_Gemini_Generated.png',
+  scribe:    'scribe_Gemini_Generated.png',
+  sentinel:  'sentinel_Gemini_Generated.png',
+  sparky:    'sparky_Gemini_Generated.png',
+  spike:     'spike_Gemini_Generated.png',
+  stomp:     'stomp_Gemini_Generated.png',
+  torch:     'torch_Gemini_Generated.png',
+  volt:      'volt_Gemini_Generated.png',
+  weld:      'weld_Gemini_Generated.png',
+  // non-card characters
+  static:    null, // the villain — no portrait yet
+};
+
+function charKey(name) {
+  if (!name) return null;
+  return name.toLowerCase()
+    .replace(/\./g, '')
+    .replace(/\s+/g, '_')
+    .replace(/^dr_/, 'dr_');
+}
+
+function portraitFor(key) {
+  const f = PORTRAIT_FILES[key];
+  return f ? PORTRAIT_DIR + f : null;
+}
+
+function cardFor(key) {
+  if (!CARDS || !CARDS.cards) return null;
+  return CARDS.cards[key] || null;
+}
+
+function zoneClass(key) {
+  const card = cardFor(key);
+  if (!card || !card.zone) return '';
+  const z = card.zone.toLowerCase().replace(/\s+/g, '-');
+  return 'zone-' + z;
+}
+
+function pad(n) { return String(n).padStart(3, '0'); }
+
+// ── Markdown parser: scenes → panels ──────────────────────────────────────
+function parseEpisode(md, episode) {
+  // Strip YAML-ish header block (everything up to first ---)
+  const firstSep = md.indexOf('\n---\n');
+  const body = firstSep >= 0 ? md.slice(firstSep + 5) : md;
+
+  // Strip trailing "to be continued" italic line if it matches cliffhanger
+  let trimmed = body.trim();
+
+  // Split on horizontal rules into scenes (pages)
+  const scenes = trimmed
+    .split(/\n---\n/)
+    .map(s => s.trim())
+    .filter(s => s.length > 0);
+
+  // Known character name tokens from the episode manifest + cards
+  const castKeys = new Set((episode.characters || []).map(c => charKey(c)));
+  if (episode.villain) castKeys.add(charKey(episode.villain));
+  // Also accept any card IDs
+  if (CARDS && CARDS.cards) Object.keys(CARDS.cards).forEach(k => castKeys.add(k));
+
+  return scenes.map(scene => parseScene(scene, castKeys));
+}
+
+// Regex to detect a NAME-as-speaker at the start of a paragraph:
+// "VOLT said" / "VOLT found ARC" / "GLITCH announced" / "SPARKY paused"
+// We just look for the first ALL-CAPS token (possibly "DR. SEEN") at the start.
+const SPEAKER_RE = /^((?:DR\. )?[A-Z][A-Z0-9_-]{1,}(?:'S)?)\b/;
+// Quoted dialogue: grab "..." substrings (double curly or straight)
+const QUOTE_RE = /[\"“]([^\"”]+)[\"”]/g;
+
+function detectLeadSpeaker(paragraph, castKeys) {
+  // Check first word or two for a known character name
+  const tokens = paragraph.replace(/[,.]/g, '').split(/\s+/).slice(0, 3);
+  for (let i = 0; i < tokens.length; i++) {
+    let candidate = tokens[i];
+    // Handle "DR. SEEN" (multi-word)
+    if (candidate === 'DR.' && tokens[i + 1]) {
+      candidate = candidate + ' ' + tokens[i + 1];
+    }
+    const k = charKey(candidate);
+    if (castKeys.has(k)) return k;
+  }
+  return null;
+}
+
+function extractQuotes(text) {
+  const out = [];
+  let m;
+  QUOTE_RE.lastIndex = 0;
+  while ((m = QUOTE_RE.exec(text)) !== null) {
+    out.push(m[1].trim());
+  }
+  return out;
+}
+
+function stripQuotes(text) {
+  return text.replace(QUOTE_RE, '').replace(/\s+/g, ' ').replace(/\s+([,.!?])/g, '$1').trim();
+}
+
+function parseScene(scene, castKeys) {
+  // Split into paragraphs (blank-line separated)
+  const paragraphs = scene.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
+  const panels = [];
+  let lastSpeaker = null;
+  let flip = false;
+
+  paragraphs.forEach(p => {
+    // Normalize inner single newlines to spaces (prose)
+    const flat = p.replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
+
+    const quotes = extractQuotes(flat);
+    const lead = detectLeadSpeaker(flat, castKeys);
+
+    if (quotes.length === 0) {
+      // Pure narration OR action line (e.g., `VOLT didn't answer.`)
+      panels.push({ type: 'narration', text: flat });
+      return;
+    }
+
+    // Paragraph contains dialogue.
+    // Attribute the dialogue to: lead speaker if present, else lastSpeaker,
+    // else the first character name mentioned anywhere in the paragraph.
+    let speaker = lead || findAnyCharacter(flat, castKeys) || lastSpeaker;
+
+    // Any non-quote text becomes either a narration intro (before the first quote)
+    // or an action line (inline stage direction).
+    const firstQuoteIdx = flat.search(QUOTE_RE);
+    const preQuote = firstQuoteIdx > 0 ? flat.slice(0, firstQuoteIdx).trim() : '';
+    const postStripped = stripQuotes(flat.slice(firstQuoteIdx >= 0 ? firstQuoteIdx : 0));
+
+    if (preQuote && !looksLikeAttribution(preQuote)) {
+      panels.push({ type: 'narration', text: preQuote });
+    }
+
+    quotes.forEach((q, idx) => {
+      panels.push({
+        type: 'dialogue',
+        speaker,
+        text: q,
+        action: idx === quotes.length - 1 ? pickAction(postStripped, speaker) : '',
+        flip,
+      });
+      flip = !flip;
+      if (speaker) lastSpeaker = speaker;
+    });
+  });
+
+  return panels;
+}
+
+function findAnyCharacter(text, castKeys) {
+  // Scan for ALL-CAPS tokens and match against castKeys
+  const tokens = text.match(/\b(?:DR\. )?[A-Z][A-Z0-9_-]{1,}\b/g);
+  if (!tokens) return null;
+  for (const t of tokens) {
+    const k = charKey(t);
+    if (castKeys.has(k)) return k;
+  }
+  return null;
+}
+
+function looksLikeAttribution(text) {
+  // "he said" / "she replied" / quick attributions under ~15 chars shouldn't become narration
+  return text.length < 18 && /\b(said|replied|asked|answered|whispered|shouted|added)\b/i.test(text);
+}
+
+function pickAction(stripped, speaker) {
+  if (!stripped) return '';
+  // Keep short inline action lines (e.g., "she said again", "VOLT didn't answer")
+  // Trim leading "he/she/NAME said/replied" attributions
+  const cleaned = stripped
+    .replace(/^[,.\s]+/, '')
+    .replace(/^(he|she|it|they|ARC|VOLT|SPARKY|WELD|GLITCH|NEON|ECHO|PULSE|SENTINEL|SCRIBE|TORCH|BOLT|FORGE|FLUX|CRANK|GRIND|SPIKE|STOMP|RIVET|BLAZE|GEMINI|DR\. SEEN) (said|replied|added|asked|answered)[,.]?\s*/i, '')
+    .trim();
+  if (cleaned.length < 3) return '';
+  if (cleaned.length > 240) return cleaned.slice(0, 237) + '…';
+  return cleaned;
+}
+
+// ── Render ───────────────────────────────────────────────────────────────
+function renderCover(ep) {
+  const cast = (ep.characters || [])
+    .map(c => `<div class="cast-chip">${c}</div>`)
+    .join('');
+  return `
+    <div class="comic-cover-page">
+      <div class="cover-hero">
+        <div class="cover-ep">EPISODE ${pad(ep.number)} · ${ep.date || ''}</div>
+        <div class="cover-ep-title">${ep.title}</div>
+        <div class="cover-cast">${cast}</div>
+      </div>
+    </div>
+  `;
+}
+
+function renderPanel(panel) {
+  if (panel.type === 'narration') {
+    return `<div class="panel narration">${escapeHtml(panel.text)}</div>`;
+  }
+  // dialogue
+  const portrait = panel.speaker ? portraitFor(panel.speaker) : null;
+  const zc = panel.speaker ? zoneClass(panel.speaker) : '';
+  const portraitHtml = portrait
+    ? `<img src="${portrait}" alt="${panel.speaker}">`
+    : `<div class="portrait-missing">${panel.speaker ? panel.speaker.toUpperCase().replace(/_/g, ' ') : '???'}</div>`;
+  const name = panel.speaker ? panel.speaker.toUpperCase().replace(/_/g, ' ') : '???';
+  const action = panel.action ? `<div class="action-line">${escapeHtml(panel.action)}</div>` : '';
+  return `
+    <div class="panel dialogue ${zc} ${panel.flip ? 'flip' : ''}">
+      <div class="portrait-frame">${portraitHtml}</div>
+      <div class="speech-area">
+        <div class="speaker-name">${name}</div>
+        <div class="bubble">${escapeHtml(panel.text)}</div>
+        ${action}
+      </div>
+    </div>
+  `;
+}
+
+function renderPage(panels, pageNum) {
+  const body = panels.map(renderPanel).join('');
+  return `
+    <div class="comic-page" data-page="${pad(pageNum)}">
+      <div class="page-panels">${body}</div>
+    </div>
+  `;
+}
+
+function renderCliff(ep) {
+  if (!ep.cliffhanger) return '';
+  return `<div class="cliff-page">» ${escapeHtml(ep.cliffhanger)}</div>`;
+}
+
+function escapeHtml(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+// ── Grid ─────────────────────────────────────────────────────────────────
+function pickCoverArt(ep) {
+  // First character that has a portrait wins
+  for (const c of (ep.characters || [])) {
+    const k = charKey(c);
+    const p = portraitFor(k);
+    if (p) return { src: p, name: c };
+  }
+  return null;
+}
+
+function renderGrid(episodes) {
+  loading.style.display = 'none';
+  const sorted = [...episodes].sort((a, b) => b.number - a.number);
+  sorted.forEach(ep => {
+    const cover = pickCoverArt(ep);
+    const chars = (ep.characters || [])
+      .slice(0, 5)
+      .map(c => `<span class="char-chip">${c}</span>`)
+      .join('');
+    const coverInner = cover
+      ? `<img src="${cover.src}" alt="${cover.name}">`
+      : `<div class="cover-art-empty">MEGA</div>`;
+    const card = document.createElement('div');
+    card.className = 'ep-cover';
+    card.innerHTML = `
+      <div class="cover-banner">
+        <span>ISSUE #${pad(ep.number)}</span>
+        <span class="price">25¢</span>
+      </div>
+      <div class="cover-art">${coverInner}</div>
+      <div class="cover-title">${ep.title}</div>
+      <div class="cover-chars">${chars}</div>
+      ${ep.cliffhanger ? `<div class="cover-cliff">» ${ep.cliffhanger}</div>` : ''}
+    `;
+    card.addEventListener('click', () => openReader(ep));
+    grid.appendChild(card);
+  });
+}
+
+// ── Reader ───────────────────────────────────────────────────────────────
+async function openReader(ep) {
+  readerTitle.textContent = `ISSUE #${pad(ep.number)} — ${ep.title.toUpperCase()}`;
+  readerPages.innerHTML = `<div id="loading" style="color: var(--paper)">DECODING COMIC...</div>`;
+  reader.classList.add('open');
+  document.body.style.overflow = 'hidden';
+
+  try {
+    const res = await fetch(ep.file);
+    const md  = await res.text();
+    const scenes = parseEpisode(md, ep);
+    let html = renderCover(ep);
+    scenes.forEach((panels, idx) => {
+      html += renderPage(panels, idx + 1);
+    });
+    html += renderCliff(ep);
+    readerPages.innerHTML = html;
+    readerPages.scrollTop = 0;
+  } catch (e) {
+    readerPages.innerHTML = `<div id="loading" style="color: var(--red)">TRANSMISSION ERROR — ${escapeHtml(e.message)}</div>`;
+  }
+}
+
+function closeReader() {
+  reader.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+readerClose.addEventListener('click', closeReader);
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && reader.classList.contains('open')) closeReader();
+});
+
+// ── Boot ─────────────────────────────────────────────────────────────────
+(async function boot() {
+  try {
+    const [cardsRes, manifestRes] = await Promise.all([
+      fetch(CARDS_URL),
+      fetch(MANIFEST_URL),
+    ]);
+    CARDS = await cardsRes.json();
+    const episodes = await manifestRes.json();
+    renderGrid(episodes);
+  } catch (e) {
+    loading.textContent = 'NO ISSUES FOUND — ' + e.message;
+    loading.style.color = 'var(--red)';
+  }
+})();
+</script>
+
+</body>
+</html>
