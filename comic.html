@@ -1055,9 +1055,13 @@ function renderStructuredScenes(ep) {
     const flip = idx % 2 === 1;
     const actionHtml = scene.action
       ? `<div class="action-overlay">${escapeHtml(scene.action)}</div>` : '';
-    const portraitHtml = portrait
-      ? `<img src="${portrait}" alt="${escapeHtml(scene.character)}">${actionHtml}`
-      : `<div class="portrait-missing">${escapeHtml((scene.character || '???').toUpperCase().replace(/_/g,' '))}</div>`;
+    // Prefer generated scene image; fall back to character portrait card
+    const sceneImg = scene.image || null;
+    const portraitHtml = sceneImg
+      ? `<img src="${sceneImg}" alt="${escapeHtml(scene.character)} scene">`
+      : portrait
+        ? `<img src="${portrait}" alt="${escapeHtml(scene.character)}">${actionHtml}`
+        : `<div class="portrait-missing">${escapeHtml((scene.character || '???').toUpperCase().replace(/_/g,' '))}</div>`;
     const settingHtml = scene.setting
       ? `<div class="scene-setting">📍 ${escapeHtml(scene.setting)}</div>` : '';
     const name = (scene.character || '???').toUpperCase().replace(/_/g, ' ');
