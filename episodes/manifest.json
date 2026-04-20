@@ -273,5 +273,14 @@
         "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting."
       }
     ]
+  },
+  {
+    "number": 15,
+    "title": "The Silent Trickle",
+    "file": "episodes/ep015-the-silent-trickle.md",
+    "characters": [],
+    "cliffhanger": "",
+    "mode": "crew",
+    "date": "2026-04-20"
   }
 ]
