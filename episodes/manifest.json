@@ -283,5 +283,58 @@
     "cliffhanger": "",
     "mode": "crew",
     "date": "2026-04-20"
+  },
+  {
+    "number": 16,
+    "title": "The Stalled Flow",
+    "file": "episodes/ep016-the-stalled-flow.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "WELD",
+      "ARC",
+      "SPARKY",
+      "BLAZE",
+      "GEMINI_STRATEGIST"
+    ],
+    "cliffhanger": "Will the crucial self-correction data and updated instructions reach their targets before the MEGA CREW's intelligence fades completely?",
+    "mode": "crew",
+    "date": "2026-04-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "VOLT",
+        "action": "Arcs of electricity crackle weakly around VOLT as he tries to jump-start a sluggish data stream.",
+        "dialogue": "Ugh, this data feels like wading through treacle! Power's barely shimmering!",
+        "setting": "The central processing core, near the starving `memory_db` junction"
+      },
+      {
+        "panel": 2,
+        "character": "GEMINI_STRATEGIST",
+        "action": "GEMINI_STRATEGIST flickers wildly, throwing off sparks of overloaded calculations, while ARC zooms past, assessing the frantic activity.",
+        "dialogue": "Over-budget! Call limits exceeded! Acknowledged: Self-correction initiating, but the blockages persist!",
+        "setting": "The Strategic Planning Nexus, a chaotic chamber of overlapping data projections"
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "BOLT zips toward the `sparky` and `blaze` channels, a new instruction packet clutched in his fields, only to bounce off an opaque wall of outdated protocols.",
+        "dialogue": "Zip! No, wait... bounce! These old instruction sets are an impenetrable barrier!",
+        "setting": "The Data Feeder Channels, where raw information crawls sluggishly past Sparky and Blaze"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH phases slightly, then winks, nudging a critical packet through a momentary gap in the old protocol wall created by SPIKE's precise cut.",
+        "dialogue": "Heh, sometimes you just need a little 'oops' to make things flow! Go, little data-bits, go!",
+        "setting": "A narrow, forgotten bypass route near the `training.jsonl` pipeline"
+      }
+    ]
   }
 ]
