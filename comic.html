@@ -392,12 +392,55 @@
       position: relative;
     }
 
+    /* ── Bot animations ── */
+    @keyframes bot-bob {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      30% { transform: translateY(-7px) rotate(-1deg); }
+      70% { transform: translateY(-4px) rotate(1deg); }
+    }
+    @keyframes bot-spark {
+      0%, 100% { filter: contrast(1.1) saturate(1.15) brightness(1); }
+      40% { filter: contrast(1.2) saturate(1.6) brightness(1.35) drop-shadow(0 0 10px #ffd23f); }
+    }
+    @keyframes bot-glitch {
+      0%, 85%, 100% { transform: translate(0) skew(0deg); }
+      86% { transform: translate(-3px, 2px) skew(-1deg); }
+      88% { transform: translate(3px, -2px) skew(1deg); }
+      90% { transform: translate(0, 3px) skew(0deg); }
+      92% { transform: translate(-2px, 0) skew(-0.5deg); }
+      94% { transform: translate(0) skew(0deg); }
+    }
+    @keyframes bot-shake {
+      0%, 100% { transform: rotate(0deg) translate(0); }
+      20% { transform: rotate(-2deg) translate(-1px, 0); }
+      40% { transform: rotate(2deg) translate(1px, 0); }
+      60% { transform: rotate(-1deg) translate(-1px, 1px); }
+      80% { transform: rotate(1deg) translate(1px, -1px); }
+    }
+    @keyframes bot-pulse {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(109,40,217,0); }
+      50% { box-shadow: 0 0 0 8px rgba(109,40,217,0.35); }
+    }
+    @keyframes bot-stomp {
+      0%, 60%, 100% { transform: translateY(0) scaleY(1); }
+      80% { transform: translateY(3px) scaleY(0.95); }
+      90% { transform: translateY(-5px) scaleY(1.05); }
+    }
+
     .portrait-frame img {
       width: 100%;
       height: 100%;
       object-fit: cover;
       filter: contrast(1.1) saturate(1.15);
+      animation: bot-bob 3.2s ease-in-out infinite;
     }
+
+    /* Zone-specific animations override default bob */
+    .zone-brain .portrait-frame img        { animation: bot-spark 2.5s ease-in-out infinite; }
+    .zone-brain .portrait-frame            { animation: bot-pulse 2.5s ease-in-out infinite; }
+    .zone-right-hand .portrait-frame img   { animation: bot-glitch 4s linear infinite; }
+    .zone-left-foot .portrait-frame img    { animation: bot-shake 0.45s ease-in-out infinite; }
+    .zone-right-foot .portrait-frame img   { animation: bot-stomp 1.8s ease-in-out infinite; }
 
     .portrait-frame::after {
       content: '';
@@ -408,6 +451,32 @@
       mix-blend-mode: multiply;
       opacity: 0.4;
       pointer-events: none;
+    }
+
+    .action-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(transparent, rgba(0,0,0,0.85));
+      color: var(--yellow);
+      font-family: var(--font-hand);
+      font-size: 0.62rem;
+      padding: 1rem 0.4rem 0.3rem;
+      text-align: center;
+      line-height: 1.2;
+      pointer-events: none;
+    }
+
+    .scene-setting {
+      font-family: var(--font-hand);
+      font-size: 0.78rem;
+      color: #444;
+      padding: 0.25rem 0.6rem;
+      border-left: 4px solid var(--blue);
+      background: var(--paper-dim);
+      margin-bottom: 0.4rem;
+      letter-spacing: 0.03em;
     }
 
     .portrait-missing {
@@ -974,6 +1043,44 @@ function renderGrid(episodes) {
   });
 }
 
+// ── Structured scene renderer (uses manifest scenes array for new episodes) ──
+function renderStructuredScenes(ep) {
+  if (!ep.scenes || !ep.scenes.length) return null;
+  let html = renderCover(ep);
+
+  ep.scenes.forEach((scene, idx) => {
+    const speaker = charKey(scene.character);
+    const portrait = speaker ? portraitFor(speaker) : null;
+    const zc = speaker ? zoneClass(speaker) : '';
+    const flip = idx % 2 === 1;
+    const actionHtml = scene.action
+      ? `<div class="action-overlay">${escapeHtml(scene.action)}</div>` : '';
+    const portraitHtml = portrait
+      ? `<img src="${portrait}" alt="${escapeHtml(scene.character)}">${actionHtml}`
+      : `<div class="portrait-missing">${escapeHtml((scene.character || '???').toUpperCase().replace(/_/g,' '))}</div>`;
+    const settingHtml = scene.setting
+      ? `<div class="scene-setting">📍 ${escapeHtml(scene.setting)}</div>` : '';
+    const name = (scene.character || '???').toUpperCase().replace(/_/g, ' ');
+
+    html += `
+      <div class="comic-page" data-page="${pad(idx + 1)}">
+        <div class="page-panels">
+          ${settingHtml}
+          <div class="panel dialogue ${zc} ${flip ? 'flip' : ''}">
+            <div class="portrait-frame">${portraitHtml}</div>
+            <div class="speech-area">
+              <div class="speaker-name">${escapeHtml(name)}</div>
+              <div class="bubble">${escapeHtml(scene.dialogue || '')}</div>
+            </div>
+          </div>
+        </div>
+      </div>`;
+  });
+
+  html += renderCliff(ep);
+  return html;
+}
+
 // ── Reader ───────────────────────────────────────────────────────────────
 async function openReader(ep) {
   readerTitle.textContent = `ISSUE #${pad(ep.number)} — ${ep.title.toUpperCase()}`;
@@ -982,6 +1089,14 @@ async function openReader(ep) {
   document.body.style.overflow = 'hidden';
 
   try {
+    // Use structured scenes from manifest when available (new episodes)
+    const structured = renderStructuredScenes(ep);
+    if (structured) {
+      readerPages.innerHTML = structured;
+      readerPages.scrollTop = 0;
+      return;
+    }
+    // Fall back to prose parser for older episodes
     const res = await fetch(ep.file);
     const md  = await res.text();
     const scenes = parseEpisode(md, ep);
