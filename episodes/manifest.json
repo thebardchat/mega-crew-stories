@@ -151,5 +151,25 @@
     "cliffhanger": "When would the real adventure, the flood of new ideas, finally begin?",
     "mode": "crew",
     "date": "2026-04-20"
+  },
+  {
+    "number": 12,
+    "title": "The Stubborn Silence",
+    "file": "episodes/ep012-the-stubborn-silence.md",
+    "characters": [
+      "Glitch",
+      "Volt",
+      "Bolt",
+      "Rivet",
+      "Sparky",
+      "ARC",
+      "WELD",
+      "Flux",
+      "Stomp",
+      "Blaze"
+    ],
+    "cliffhanger": "What was holding the crucial instructions back from truly taking hold, from letting Sparky, Blaze, and Rivet finally begin their work?",
+    "mode": "crew",
+    "date": "2026-04-20"
   }
 ]
