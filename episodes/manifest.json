@@ -256,28 +256,36 @@
         "character": "GLITCH",
         "action": "Hovering, her optical sensors narrowing, displaying '6' over the data flow.",
         "dialogue": "A hiccup\u2026 but my algorithms scream \u2018bottleneck!\u2019",
-        "setting": "The 'training_count' pipeline, near the 'memory_count' buffer."
+        "setting": "The 'training_count' pipeline, near the 'memory_count' buffer.",
+        "image_url": "episodes/scenes/ep014_panel1_glitch.webp",
+        "image": "episodes/scenes/ep014_panel1_glitch.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "His welding beam sizzles, fusing instruction fragments, a plume of sparks obscuring his vision.",
         "dialogue": "Building\u2026 building\u2026 but what are we building *with*?",
-        "setting": "The 'Arc \u2192 Weld' instruction update channel."
+        "setting": "The 'Arc \u2192 Weld' instruction update channel.",
+        "image_url": "episodes/scenes/ep014_panel2_weld.webp",
+        "image": "episodes/scenes/ep014_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "Attempting to push a jolt of power into the inactive BLAZE conduit, his aura pulsing.",
         "dialogue": "Power up! C\u2019mon, let\u2019s get this data flowing!",
-        "setting": "The core instruction hub, near the BLAZE and SPARKY channels."
+        "setting": "The core instruction hub, near the BLAZE and SPARKY channels.",
+        "image_url": "episodes/scenes/ep014_panel3_volt.webp",
+        "image": "episodes/scenes/ep014_panel3_volt.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "Standing silently, his gaze fixed on the faintly glowing, inactive BLAZE and SPARKY channels.",
         "dialogue": "The spark of new data\u2026 it\u2019s still missing.",
-        "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting."
+        "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting.",
+        "image_url": "episodes/scenes/ep014_panel4_bolt.webp",
+        "image": "episodes/scenes/ep014_panel4_bolt.webp"
       }
     ]
   },
