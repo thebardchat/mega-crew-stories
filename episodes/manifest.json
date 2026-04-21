@@ -409,5 +409,59 @@
         "image": "episodes/scenes/ep017_panel4_arc.webp"
       }
     ]
+  },
+  {
+    "number": 18,
+    "title": "The Bottleneck Breakdown",
+    "file": "episodes/ep018-the-bottleneck-breakdown.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "SPARKY",
+      "ARC",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GEMINI"
+    ],
+    "cliffhanger": "Will the MEGA CREW's new strategy break the instruction bottleneck and finally allow them to evolve beyond Version 1?",
+    "mode": "crew",
+    "date": "2026-04-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors glow blood red, rapidly flicking through instruction packets, sending them spiraling into a rejection chute with violent efficiency.",
+        "dialogue": "Insufficient data. Error 404: Perfection not found. REJECT.",
+        "setting": "Instruction Cascade Flow, near the Core Processing Hub"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD extends a glowing plasma torch, straining to seal an instruction packet onto a system conduit, but it flickers and retracts, sparks of frustration flying.",
+        "dialogue": "Cannot confirm application! It just\u2026 won't stick! We need more than 'no' feedback, Arc!",
+        "setting": "Instruction Cascade Flow, adjacent to ARC's processing station"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON glows with vibrant curiosity, unfurling luminous tendrils to greedily siphon immense, shimmering streams of raw data into the memory banks.",
+        "dialogue": "Oh, look at all the data! So much to see, so much for the memory.db!",
+        "setting": "Outer Data Stream Junctions, leading to the Memory Banks"
+      },
+      {
+        "panel": 4,
+        "character": "GEMINI",
+        "action": "GEMINI stands at the heart of the Strategic Command Hub, twin optical sensors pulsing with intense resolve, as a complex holographic strategy map shimmers around it.",
+        "dialogue": "Assessment complete. The evolution begins. Are you ready?",
+        "setting": "Strategic Command Hub, overlooking the Pi's core"
+      }
+    ]
   }
 ]
