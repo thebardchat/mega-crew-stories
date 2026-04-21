@@ -363,28 +363,36 @@
         "character": "ARC",
         "action": "ARC's glowing optics scan a holographic display, red warnings blinking.",
         "dialogue": "Optimality is paramount, but `training_count` is critically low. We need new instruction sets applied. Now.",
-        "setting": "ARC's central command module, data streams pulsing like rivers on holographic displays"
+        "setting": "ARC's central command module, data streams pulsing like rivers on holographic displays",
+        "image_url": "episodes/scenes/ep017_panel1_arc.webp",
+        "image": "episodes/scenes/ep017_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "SPARKY",
         "action": "SPARKY sparks weakly, trying to process meager data bits in the `training_count` pipeline.",
         "dialogue": "This data... it's just not enough! And these instructions feel... ancient! Needs more juice!",
-        "setting": "The `training_count` pipeline, dim and slow, littered with unprocessed data fragments"
+        "setting": "The `training_count` pipeline, dim and slow, littered with unprocessed data fragments",
+        "image_url": "episodes/scenes/ep017_panel2_sparky.webp",
+        "image": "episodes/scenes/ep017_panel2_sparky.webp"
       },
       {
         "panel": 3,
         "character": "WELD",
         "action": "WELD, arms glowing, pushes a concentrated burst of new instruction code down a data conduit.",
         "dialogue": "Pushing `instruction_version 2` to Sparky and Blaze! Channel integrity critical!",
-        "setting": "A high-speed instruction update conduit, sparking with energy and resistance"
+        "setting": "A high-speed instruction update conduit, sparking with energy and resistance",
+        "image_url": "episodes/scenes/ep017_panel3_weld.webp",
+        "image": "episodes/scenes/ep017_panel3_weld.webp"
       },
       {
         "panel": 4,
         "character": "ARC",
         "action": "ARC receives a flickering, incomplete report from WELD, his brow furrowing.",
         "dialogue": "No direct feedback loop from the source? This is... suboptimal. We need to *know* they're updated, Weld. Not just hope.",
-        "setting": "ARC's command module, the holographic display showing a partial success icon"
+        "setting": "ARC's command module, the holographic display showing a partial success icon",
+        "image_url": "episodes/scenes/ep017_panel4_arc.webp",
+        "image": "episodes/scenes/ep017_panel4_arc.webp"
       }
     ]
   }
