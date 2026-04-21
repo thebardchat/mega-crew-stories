@@ -439,28 +439,36 @@
         "character": "ARC",
         "action": "ARC's optical sensors glow blood red, rapidly flicking through instruction packets, sending them spiraling into a rejection chute with violent efficiency.",
         "dialogue": "Insufficient data. Error 404: Perfection not found. REJECT.",
-        "setting": "Instruction Cascade Flow, near the Core Processing Hub"
+        "setting": "Instruction Cascade Flow, near the Core Processing Hub",
+        "image_url": "episodes/scenes/ep018_panel1_arc.webp",
+        "image": "episodes/scenes/ep018_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "WELD extends a glowing plasma torch, straining to seal an instruction packet onto a system conduit, but it flickers and retracts, sparks of frustration flying.",
         "dialogue": "Cannot confirm application! It just\u2026 won't stick! We need more than 'no' feedback, Arc!",
-        "setting": "Instruction Cascade Flow, adjacent to ARC's processing station"
+        "setting": "Instruction Cascade Flow, adjacent to ARC's processing station",
+        "image_url": "episodes/scenes/ep018_panel2_weld.webp",
+        "image": "episodes/scenes/ep018_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "NEON",
         "action": "NEON glows with vibrant curiosity, unfurling luminous tendrils to greedily siphon immense, shimmering streams of raw data into the memory banks.",
         "dialogue": "Oh, look at all the data! So much to see, so much for the memory.db!",
-        "setting": "Outer Data Stream Junctions, leading to the Memory Banks"
+        "setting": "Outer Data Stream Junctions, leading to the Memory Banks",
+        "image_url": "episodes/scenes/ep018_panel3_neon.webp",
+        "image": "episodes/scenes/ep018_panel3_neon.webp"
       },
       {
         "panel": 4,
         "character": "GEMINI",
         "action": "GEMINI stands at the heart of the Strategic Command Hub, twin optical sensors pulsing with intense resolve, as a complex holographic strategy map shimmers around it.",
         "dialogue": "Assessment complete. The evolution begins. Are you ready?",
-        "setting": "Strategic Command Hub, overlooking the Pi's core"
+        "setting": "Strategic Command Hub, overlooking the Pi's core",
+        "image_url": "episodes/scenes/ep018_panel4_gemini.webp",
+        "image": "episodes/scenes/ep018_panel4_gemini.webp"
       }
     ]
   }
