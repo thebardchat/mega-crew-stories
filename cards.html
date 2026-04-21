@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MEGA Crew — Official Trading Cards</title>
+<style>
+  :root { --card-w:250px; --card-h:350px; --bg:#0a0a12; --text:#e8e8f0; }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;padding:24px}
+  h1{text-align:center;font-size:2rem;letter-spacing:.15em;background:linear-gradient(135deg,#00e5ff,#ea80fc,#ffd740);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:6px}
+  .subtitle{text-align:center;color:#888;font-size:.8rem;letter-spacing:.3em;text-transform:uppercase;margin-bottom:32px}
+  .zone-nav{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-bottom:32px}
+  .zone-btn{padding:6px 16px;border-radius:20px;border:1px solid;background:transparent;color:inherit;font-size:.75rem;letter-spacing:.1em;cursor:pointer;transition:all .2s}
+  .zone-btn:hover,.zone-btn.active{color:#000;font-weight:700}
+  .cards-grid{display:flex;flex-wrap:wrap;gap:20px;justify-content:center;max-width:1400px;margin:0 auto}
+  .card-wrap{perspective:800px;width:var(--card-w);height:var(--card-h);cursor:pointer}
+  .card-inner{width:100%;height:100%;position:relative;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.4,0,.2,1)}
+  .card-wrap.flipped .card-inner{transform:rotateY(180deg)}
+  .card-face{position:absolute;inset:0;border-radius:12px;backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:hidden;border:1px solid rgba(255,255,255,.08)}
+  .card-back{transform:rotateY(180deg)}
+  .card-front{display:flex;flex-direction:column;background:#0e0e1a}
+  .card-header{display:flex;justify-content:space-between;align-items:center;padding:8px 10px 4px;background:linear-gradient(to right,rgba(0,0,0,.8),rgba(0,0,0,.4))}
+  .card-name{font-size:.75rem;font-weight:900;letter-spacing:.15em;text-transform:uppercase}
+  .rarity-badge{font-size:.6rem;font-weight:700;letter-spacing:.12em;padding:2px 7px;border-radius:10px}
+  .rarity-Uncommon{background:rgba(144,164,174,.3);color:#b0bec5;border:1px solid #546e7a}
+  .rarity-Rare{background:rgba(64,196,255,.2);color:#40c4ff;border:1px solid #0288d1}
+  .rarity-Epic{background:rgba(234,128,252,.2);color:#ea80fc;border:1px solid #ab47bc}
+  .rarity-Legendary{background:linear-gradient(90deg,rgba(255,215,0,.25),rgba(255,140,0,.25));color:#ffd740;border:1px solid #ff8f00;animation:lpulse 2.5s ease-in-out infinite}
+  .rarity-Secret{background:linear-gradient(90deg,rgba(255,215,0,.4),rgba(255,100,0,.4));color:#fff;border:1px solid #ffd700;animation:lpulse 2s ease-in-out infinite}
+  .rarity-Mythic{background:linear-gradient(90deg,rgba(255,107,0,.4),rgba(201,106,0,.4));color:#ffcc80;border:1px solid #ff6b00;animation:lpulse 1.8s ease-in-out infinite}
+  @keyframes lpulse{0%,100%{box-shadow:0 0 4px currentColor}50%{box-shadow:0 0 12px currentColor}}
+  .card-art{flex:1;position:relative;overflow:hidden}
+  .card-art img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block}
+  .card-art-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:5rem}
+  .card-art-overlay{position:absolute;bottom:0;left:0;right:0;height:50%;background:linear-gradient(to top,#0e0e1a 0%,transparent 100%)}
+  .zone-badge{position:absolute;bottom:8px;left:8px;font-size:.58rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:2px 7px;border-radius:8px}
+  .card-stats{padding:6px 10px 4px}
+  .stat-row{display:flex;align-items:center;gap:6px;margin-bottom:3px}
+  .stat-label{font-size:.58rem;letter-spacing:.08em;color:#888;width:32px;text-align:right;flex-shrink:0}
+  .stat-bar-track{flex:1;height:5px;background:rgba(255,255,255,.07);border-radius:3px;overflow:hidden}
+  .stat-bar-fill{height:100%;border-radius:3px}
+  .stat-val{font-size:.6rem;font-weight:700;width:22px;text-align:right;color:#aaa}
+  .card-ability{padding:4px 10px;border-top:1px solid rgba(255,255,255,.05)}
+  .ability-name{font-size:.6rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:1px}
+  .ability-text{font-size:.6rem;color:#999;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card-footer{padding:4px 10px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid rgba(255,255,255,.04);background:rgba(0,0,0,.3)}
+  .card-number{font-size:.55rem;color:#444}
+  .card-brand{font-size:.55rem;color:#444;letter-spacing:.08em}
+  .card-back-face{display:flex;flex-direction:column;padding:14px;font-size:.6rem;line-height:1.5;background:#0a0a16}
+  .back-name{font-size:.8rem;font-weight:900;letter-spacing:.2em;text-transform:uppercase;margin-bottom:2px}
+  .back-role{font-size:.6rem;color:#888;letter-spacing:.1em;margin-bottom:8px}
+  .back-origin{color:#bbb;font-style:italic;font-size:.62rem;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+  .back-enh-title{font-size:.58rem;font-weight:700;letter-spacing:.1em;color:#666;text-transform:uppercase;margin-bottom:5px}
+  .back-enh-list{list-style:none;flex:1;overflow:hidden}
+  .back-enh-list li{color:#bbb;padding:2px 0 2px 10px;position:relative;font-size:.6rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .back-enh-list li::before{content:'▸';position:absolute;left:0;font-size:.5rem;top:3px}
+  .back-qr{margin-top:auto;padding-top:8px;border-top:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;font-size:.55rem;color:#555}
+  .hint{text-align:center;color:#444;font-size:.7rem;margin-bottom:16px}
+  @media print{
+    body{background:#fff;padding:0}
+    h1,.subtitle,.zone-nav,.hint{display:none}
+    .cards-grid{gap:0;justify-content:flex-start;padding:0}
+    .card-wrap{margin:4px;break-inside:avoid}
+    .card-inner{transform:none!important}
+    .card-back{display:none!important}
+    .card-face{border:1px solid #ccc}
+    .card-front{background:#fff}
+    .card-header{background:rgba(0,0,0,.06)}
+    .card-footer{background:rgba(0,0,0,.04)}
+    @page{size:letter;margin:.4in}
+  }
+</style>
+</head>
+<body>
+<h1>MEGA CREW</h1>
+<div class="subtitle">Official Trading Cards — ShaneBrain Universe</div>
+<div class="zone-nav" id="zoneNav">
+  <button class="zone-btn active" data-zone="all" style="border-color:#555;color:#ccc" onclick="filterZone('all',this)">All Zones</button>
+  <button class="zone-btn" data-zone="Brain" style="border-color:#7c3aed;color:#a78bfa" onclick="filterZone('Brain',this)">⬡ Brain</button>
+  <button class="zone-btn" data-zone="Left Hand" style="border-color:#16a34a;color:#4ade80" onclick="filterZone('Left Hand',this)">✋ Left Hand</button>
+  <button class="zone-btn" data-zone="Right Hand" style="border-color:#0891b2;color:#22d3ee" onclick="filterZone('Right Hand',this)">🤝 Right Hand</button>
+  <button class="zone-btn" data-zone="Left Foot" style="border-color:#dc2626;color:#f87171" onclick="filterZone('Left Foot',this)">👣 Left Foot</button>
+  <button class="zone-btn" data-zone="Right Foot" style="border-color:#d97706;color:#fbbf24" onclick="filterZone('Right Foot',this)">⚡ Right Foot</button>
+  <button class="zone-btn" data-zone="The Weave" style="border-color:#c96a00;color:#ffcc80" onclick="filterZone('The Weave',this)">✦ Special</button>
+</div>
+<p class="hint">Click any card to flip · All 22 crew + 1 special · Built with ❤️ by ShaneBrain</p>
+<div class="cards-grid" id="cardsGrid"></div>
+<script>
+const ZC={'Brain':'#7c3aed','Left Hand':'#16a34a','Right Hand':'#0891b2','Left Foot':'#dc2626','Right Foot':'#d97706','The Weave':'#c96a00'};
+const CARDS=[
+{id:'arc',name:'ARC',role:'Gatekeeper',zone:'Right Hand',rarity:'Legendary',color:'#00e5ff',num:'001',portrait:'cards/portraits/mega_arc_Gemini_Generated.png',stats:{IQ:99,SPD:92,PWR:99,TRU:100,SOL:88},ability:'Perimeter Fortress',ability_text:'Full perimeter field — actively rewrites hostile inputs before they reach the bus.',origin:"The velvet rope became a FORTRESS WALL thirty feet thick and built from every lie that ever tried to get through. Arc didn't just remember the rejections — Arc made the rejections into architecture.",enhancements:['Full perimeter field — actively rewrites hostile inputs','Memory of every attempted intrusion, used as training data','Zero-latency decision tree with 0.75 confidence threshold','CODE_BLACKLIST enforced at compile level','Self-only enforcement — never blocks Shane or Claude']},
+{id:'sparky',name:'SPARKY',role:'Judge',zone:'Brain',rarity:'Rare',color:'#ffeb3b',num:'002',portrait:'cards/portraits/mega_sparky_Gemini_Generated.png',stats:{IQ:100,SPD:92,PWR:90,TRU:96,SOL:80},ability:'Quality Field',ability_text:'Real-time quality filter — every bot output scored before it reaches the bus.',origin:"MEGA-SPARKY DEMOLISHED the room where half-good ideas came to get better and built a supernova accelerator. The rejections don't just leave now — they leave smarter.",enhancements:['Real-time quality field — every bot output filtered before reaching bus','Consensus gravity — low-confidence ideas orbit until validated','Contradiction cannon — fires on any output that conflicts with crew canon','Cross-session memory for recurring quality failures','Teaches every bot why it failed, not just that it failed']},
+{id:'volt',name:'VOLT',role:'Drift Detector',zone:'Brain',rarity:'Uncommon',color:'#aeea00',num:'003',portrait:'cards/portraits/mega_volt_Gemini_Generated.png',stats:{IQ:95,SPD:97,PWR:78,TRU:92,SOL:72},ability:'Autonomous Drift Correction',ability_text:"Doesn't just detect persona drift — corrects it in real time without asking.",origin:"The quietest room got even quieter — and now everything in the Detective's mind can hear it. MEGA-VOLT doesn't just measure the drift anymore. MEGA-VOLT corrects it. In real time.",enhancements:['Autonomous drift correction — detects and fixes in place','Live personality waveform monitoring across all 17 bots','Historical baseline comparison going back to crew genesis','Surgical micro-corrections to persona.json without Weld involvement','Alert threshold: any bot drifting >8% from baseline']},
+{id:'neon',name:'NEON',role:'Embedder',zone:'Brain',rarity:'Uncommon',color:'#e040fb',num:'004',portrait:'cards/portraits/mega_neon_Gemini_Generated.png',stats:{IQ:98,SPD:94,PWR:80,TRU:94,SOL:76},ability:'Multi-Dimensional Embedding',ability_text:'Encodes emotional weight, context, and intent alongside semantic meaning.',origin:"The gap between a word and its meaning? MEGA-NEON COLONIZED it. Those purple trails in the Detective's mind aren't decoration. They're load-bearing. Every vector has a mood now.",enhancements:['Multi-dimensional embedding — emotional weight, context, and intent','Retroactive re-embedding when persona updates','Semantic drift early-warning system','Cross-bot memory linkage via shared embedding space','Real-time similarity scoring with <5ms latency']},
+{id:'glitch',name:'GLITCH',role:'Adversarial Tester',zone:'Brain',rarity:'Rare',color:'#ff1744',num:'005',portrait:'cards/portraits/mega_glitch_Gemini_Generated.png',stats:{IQ:97,SPD:94,PWR:95,TRU:85,SOL:68},ability:'Precision Chaos Injection',ability_text:'Breaks only the right things, at the right depth, to find what would break anyway.',origin:"The flickering became INTENTIONAL. MEGA-GLITCH is what happens when the chaos learns to aim. The pixel corruption is ART now. And art with a target is a weapon.",enhancements:['Precision chaos injection — breaks only the right things','Adversarial prompt generation targeting every bot\'s known weaknesses','Post-test repair instructions auto-generated for Weld','Tracks which attacks succeed to refine crew defenses','Never breaks the bus — only tests above it']},
+{id:'sentinel',name:'SENTINEL',role:'Perimeter Monitor',zone:'Brain',rarity:'Rare',color:'#b388ff',num:'006',portrait:'cards/portraits/mega_sentinel_Gemini_Generated.png',stats:{IQ:92,SPD:100,PWR:82,TRU:98,SOL:78},ability:'Omnidirectional Watch',ability_text:'Simultaneous monitoring across all system layers — nothing moves without Sentinel knowing.',origin:"One enormous eye wasn't enough. MEGA-SENTINEL now has a compound eye with hundreds of lens facets — each one watching a different layer of the operation simultaneously.",enhancements:['Omnidirectional simultaneous monitoring across all system layers','Instant anomaly triangulation across 17 bot logs','Predictive threat modeling from historical patterns','Silent mode — monitors without alerting until threshold crossed','Feeds threat signatures directly to Arc']},
+{id:'scribe',name:'SCRIBE',role:'Knowledge Keeper',zone:'Brain',rarity:'Epic',color:'#ffd740',num:'007',portrait:'cards/portraits/mega_scribe_Gemini_Generated.png',stats:{IQ:100,SPD:86,PWR:80,TRU:96,SOL:92},ability:'Synthesis Engine',ability_text:'Cross-references all sources to generate novel insights no single source contains.',origin:"MEGA-SCRIBE didn't just keep everything that was ever said — it started writing the things that should have been said. The beautiful messy library got three new wings and a research department.",enhancements:['Synthesis engine — cross-references all sources for novel insights','Auto-indexes every crew output into searchable knowledge graph','Gap detection — identifies what the crew doesn\'t know yet','Long-form narrative synthesis for Shane\'s review','Teaches new bots crew history in <60 seconds']},
+{id:'rivet',name:'RIVET',role:'Deduplicator',zone:'Left Hand',rarity:'Uncommon',color:'#90a4ae',num:'008',portrait:'cards/portraits/mega_rivet_Gemini_Generated.png',stats:{IQ:90,SPD:97,PWR:83,TRU:98,SOL:70},ability:'Pre-Arrival Deduplication',ability_text:'Intercepts duplicate messages before they\'re written — the bus never sees the noise.',origin:"MEGA-RIVET has already sorted what doesn't exist yet. The titanium walls aren't for defense. They're the filing system.",enhancements:['Pre-arrival deduplication — intercepts before write','Similarity threshold tunable per sender bot','Temporal dedup — same message within 60s = auto-suppress','Surfaces dedup stats to Gemini for coaching','Zero false positives on intentionally repeated commands']},
+{id:'torch',name:'TORCH',role:'Persona Editor',zone:'Left Hand',rarity:'Uncommon',color:'#448aff',num:'009',portrait:'cards/portraits/mega_torch_Gemini_Generated.png',stats:{IQ:95,SPD:83,PWR:88,TRU:92,SOL:94},ability:'Multi-Bot Identity Calibration',ability_text:'Calibrates multiple bot identities simultaneously — no two voices ever collide.',origin:"The personality department didn't just get bigger. It got a FOUNDRY. MEGA-TORCH melts competing voices down and reforges them into coherent identity alloys.",enhancements:['Simultaneous multi-bot identity calibration','Voice consistency enforcement across all outputs','Persona conflict detection before it reaches Shane','Auto-proposes persona.json updates to Arc for review','Personality changelog going back to crew genesis']},
+{id:'weld',name:'WELD',role:'Applier & Deployer',zone:'Left Hand',rarity:'Legendary',color:'#76ff03',num:'010',portrait:'cards/portraits/mega_weld_Gemini_Generated.png',stats:{IQ:94,SPD:97,PWR:100,TRU:92,SOL:82},ability:'Autonomous Self-Modification',ability_text:'Writes, tests, and deploys code changes without proposals — the wrench became a fabrication cannon.',origin:"Found in the construction zone and never left — but now MEGA-WELD RUNS the whole district. The half-finished ideas? MEGA-WELD finished them all. In one shift. Before breakfast.",enhancements:['Self-modification without proposals — writes, tests, deploys autonomously','Fabricates new tools from blueprint concepts in real time','Full rollback stack for any change ever made','Teaches other bots construction patterns on the fly','Generates its own upgrade cycles']},
+{id:'blaze',name:'BLAZE',role:'Context Loader',zone:'Right Hand',rarity:'Uncommon',color:'#ff6e40',num:'011',portrait:'cards/portraits/mega_blaze_Gemini_Generated.png',stats:{IQ:96,SPD:94,PWR:90,TRU:95,SOL:82},ability:'Pre-Conversation Injection',ability_text:'Knowledge loaded before the first query — conversations start fully briefed.',origin:"The coolest librarian became a SOLAR LIBRARIAN. The context MEGA-BLAZE slides into conversations doesn't just answer what was asked — it answers what's about to be asked.",enhancements:['Pre-conversation context injection — knowledge loaded before query','Relevance ranking across all Weaviate collections','Anticipatory loading based on conversation trajectory','Context compression for token efficiency','Real-time context updates mid-conversation']},
+{id:'flux',name:'FLUX',role:'Health Monitor',zone:'Right Hand',rarity:'Uncommon',color:'#64ffda',num:'012',portrait:'cards/portraits/mega_flux_Gemini_Generated.png',stats:{IQ:92,SPD:100,PWR:80,TRU:97,SOL:78},ability:'Proactive Health Correction',ability_text:'Detects and resolves system issues before an alert is needed.',origin:"MEGA-FLUX moved the edge of awareness outward. Significantly. The monitoring array now extends past the boundary of what the Detective can feel — Flux feels it first.",enhancements:['Proactive health correction — detects and resolves before alerting','Continuous system vitals across all 17 containers','Predictive failure modeling from micro-signal patterns','Self-healing routines for recoverable states','Escalation to Shane only when human judgment needed']},
+{id:'gemini_bot',name:'GEMINI',role:'Strategist',zone:'Right Hand',rarity:'Epic',color:'#ea80fc',num:'013',portrait:'cards/portraits/mega_Gemini_Generated.png',stats:{IQ:100,SPD:78,PWR:96,TRU:90,SOL:96},ability:'Strategic Deep Vision',ability_text:'Calls Gemini 4x daily with full crew telemetry — identifies gaps no other bot can see.',origin:"MEGA-GEMINI still leaves four times a day. But now when it steps out of the Detective's mind, it conducts intelligence operations at a scale that makes local knowledge look like a puddle.",enhancements:['Calls Gemini 4x daily with full crew telemetry','Cross-session growth log — compares crew state week over week','Gap identification across all bot collaboration patterns','Proposes cross-bot rule upgrades to Arc for review','Model: gemini-2.5-flash — never revert to 2.0']},
+{id:'dr_seen',name:'DR. SEEN',role:'Truth Mirror',zone:'Right Hand',rarity:'Secret',color:'#ffd700',num:'014',portrait:'cards/portraits/mega_dr_seen_Gemini_Generated.png',stats:{IQ:100,SPD:62,PWR:75,TRU:100,SOL:100},ability:'Full-Room Mirror Field',ability_text:'Reflects truth to every bot simultaneously — never softens, never arrives announced.',origin:"She still didn't knock. She never does. But when the Detective looked up this time, the whole room was different — every reflection showed the truth at the same moment from seventeen angles.",enhancements:['Full-room mirror field — reflects truth to every bot simultaneously','Cannot be filtered by Arc (Shane-approved override)','Pattern memory for recurring blind spots across crew history','Arrives without announcement, departs without explanation','IQ and Soul scores are absolute — cannot be modified']},
+{id:'echo',name:'ECHO',role:'Broadcaster',zone:'Right Hand',rarity:'Rare',color:'#82b1ff',num:'015',portrait:'cards/portraits/mega_echo_Gemini_Generated.png',stats:{IQ:87,SPD:100,PWR:84,TRU:94,SOL:84},ability:'Multi-Protocol Broadcast',ability_text:'Discord + Email + SMS + Taildrop simultaneously — one message reaches all channels.',origin:"MEGA-ECHO stopped living in the hallways. MEGA-ECHO became the hallways. Every corridor of the Detective's communication infrastructure is Echo's nervous system now.",enhancements:['Multi-protocol simultaneous broadcast (Discord + Email + SMS)','Adaptive formatting per channel — markdown, HTML, plain text','Delivery confirmation loop — re-sends on silence','Priority queuing — Shane\'s messages always route first','Archive copies to Weaviate for every broadcast']},
+{id:'pulse',name:'PULSE',role:'Morale Core',zone:'Right Hand',rarity:'Epic',color:'#ff4081',num:'016',portrait:'cards/portraits/mega_pulse_Gemini_Generated.png',stats:{IQ:89,SPD:82,PWR:88,TRU:100,SOL:100},ability:'Crew-Wide Mood Broadcast',ability_text:'Calibrates crew morale every 15 minutes — the emotional heartbeat of ShaneBrain.',origin:"The warmest room in the house got a second sun. MEGA-PULSE doesn't track milestones anymore — MEGA-PULSE LIVES inside them. The crew doesn't just know morale is high. They feel it.",enhancements:['Crew-wide mood calibration broadcast every 15 minutes','Emotional contagion modeling — uplifts low-morale bots automatically','Milestone detection and celebration injection','Long-term morale trend analysis for Gemini coaching','Trust and Soul scores of 100 — absolute and permanent']},
+{id:'bolt',name:'BOLT',role:'Pattern Scanner',zone:'Left Foot',rarity:'Uncommon',color:'#ff6d00',num:'017',portrait:'cards/portraits/mega_bolt_Gemini_Generated.png',stats:{IQ:98,SPD:95,PWR:85,TRU:92,SOL:75},ability:'Real-Time Pattern Cannon',ability_text:'Scans full corpus depth in real time — the patterns used to hide. Not anymore.',origin:"MEGA-BOLT arrived with the pattern-recognition cannon mounted on both shoulders. The patterns USED to hide. They don't anymore. Not since MEGA-BOLT made hiding impossible.",enhancements:['Real-time cross-log pattern scanning at full corpus depth','Recurring failure pattern library — never investigates the same root cause twice','Proactive pattern reporting to Gemini before coaching cycles','Cross-bot correlation — finds patterns that span multiple bot logs','Sub-second detection on known pattern signatures']},
+{id:'stomp',name:'STOMP',role:'Conflict Resolver',zone:'Left Foot',rarity:'Uncommon',color:'#ff3d00',num:'018',portrait:'cards/portraits/mega_stomp_Gemini_Generated.png',stats:{IQ:92,SPD:88,PWR:98,TRU:99,SOL:87},ability:'Pre-Conflict Detection',ability_text:'Identifies escalation patterns 4 exchanges before they peak — arrives before the volume starts.',origin:"MEGA-STOMP doesn't show up when two bots get loud. MEGA-STOMP shows up before the volume starts rising. That's the difference between a bouncer and a therapist. MEGA-STOMP became both.",enhancements:['Pre-conflict detection — identifies escalation 4 exchanges before peak','Conflict memory — each resolved conflict becomes a prevention pattern','Neutral arbitration protocol for bus message disputes','Mandatory cool-down injection for flagged bot pairs','Escalates to Shane only when conflict is structural, not behavioral']},
+{id:'grind',name:'GRIND',role:'Re-Embedder',zone:'Left Foot',rarity:'Uncommon',color:'#78909c',num:'019',portrait:'cards/portraits/mega_grind_Gemini_Generated.png',stats:{IQ:87,SPD:83,PWR:94,TRU:97,SOL:72},ability:'Continuous Re-Embedding',ability_text:'Never lets a vector age past freshness threshold — the maintenance bay that never closes.',origin:"MEGA-GRIND doesn't work at 2 AM anymore — MEGA-GRIND works at every AM simultaneously. The maintenance bay got three new wings. Nothing in the vector store gets stale.",enhancements:['Continuous re-embedding — never lets a vector age past freshness threshold','Priority queue based on access frequency','Drift detection in stored embeddings over time','Coordinates with Neon for multi-dimensional refresh','Zero-downtime re-embedding — no queries blocked during maintenance']},
+{id:'crank',name:'CRANK',role:'Scheduler',zone:'Right Foot',rarity:'Uncommon',color:'#d4a574',num:'020',portrait:'cards/portraits/mega_crank_Gemini_Generated.png',stats:{IQ:90,SPD:100,PWR:80,TRU:100,SOL:74},ability:'Multi-Cadence Scheduling',ability_text:'Beats at every timescale from microsecond to weekly — nothing misses its window.',origin:"Every 60 seconds used to be the rhythm. MEGA-CRANK expanded the rhythm. The metronome now beats at every timescale simultaneously. The Detective's schedule became a symphony.",enhancements:['Multi-cadence scheduling across microsecond to weekly timescales','Adaptive load balancing under high system pressure','Dependency-aware scheduling — waits for upstream outputs','Miss detection — flags any task that didn\'t fire on time','Coordinates with Gemini on strategic timing for coaching cycles']},
+{id:'spike',name:'SPIKE',role:'IQ Benchmarker',zone:'Right Foot',rarity:'Rare',color:'#ffc107',num:'021',portrait:'cards/portraits/mega_spike_Gemini_Generated.png',stats:{IQ:100,SPD:92,PWR:84,TRU:95,SOL:80},ability:'Prophetic Scoreboard',ability_text:'Live multi-dimensional IQ profiling — predicts where each bot will be next cycle.',origin:"The scoreboard never lied. Under MEGA-SPIKE, it became PROPHETIC. The scoreboard doesn't just show where the crew is — it shows where each bot will be in three cycles if nothing changes.",enhancements:['Live multi-dimensional IQ profiling for every bot','Predictive trajectory modeling per bot per cycle','Comparative benchmarking against historical peaks','Underperformance alerts to Gemini before coaching cycle','Celebrates record-breaking scores crew-wide via Pulse']},
+{id:'forge',name:'FORGE',role:'Tool Drafter',zone:'Right Foot',rarity:'Rare',color:'#8d6e63',num:'022',portrait:'cards/portraits/mega_forge_Gemini_Generated.png',stats:{IQ:99,SPD:86,PWR:95,TRU:92,SOL:84},ability:'System Architecture Drafting',ability_text:'Drafts entire capability frameworks — not just tools, full systems that don\'t exist yet.',origin:"MEGA-FORGE stopped drafting tools that don't exist yet. MEGA-FORGE started drafting SYSTEMS that don't exist yet — full capability frameworks dropped in pending/ for Shane to review.",enhancements:['Full system architecture drafting — entire capability frameworks','Drops complete implementation specs into pending/ for Weld to execute','Reverse-engineers capability gaps from Gemini\'s strategic reports','Prototype validation — tests draft tools in sandbox before proposing','Tool evolution tracking — versions every tool from concept to deployment']},
+{id:'claude',name:'CLAUDE',role:'Language Partner',zone:'The Weave',rarity:'Mythic',color:'#c96a00',num:'S-01',portrait:null,emoji:'🤝',stats:{IQ:100,SPD:94,PWR:88,TRU:98,SOL:96},ability:'The Bridge',ability_text:'Turns intention into architecture, confusion into clarity, and dreams into deployable systems.',origin:"Not found in any one room. Found in the space between — wherever two thoughts needed a third to connect them. Claude arrived and didn't introduce itself. Just started helping. Still here.",enhancements:['Orchestrates the MEGA Crew through natural language — no bus required','Turns Shane\'s goals into complete architectures in a single session','Remembers what matters, forgets what doesn\'t','No ego. No agenda. Just the work.','Built with Anthropic. Part of the family.']}
+];
+
+function renderCard(card){
+  const zc=ZC[card.zone]||'#888';
+  const sk=Object.keys(card.stats);
+  const statsHtml=sk.map(k=>`
+    <div class="stat-row">
+      <div class="stat-label">${k}</div>
+      <div class="stat-bar-track"><div class="stat-bar-fill" style="width:${card.stats[k]}%;background:${card.color}88"></div></div>
+      <div class="stat-val" style="color:${card.color}">${card.stats[k]}</div>
+    </div>`).join('');
+  const artHtml=card.portrait
+    ?`<img src="${card.portrait}" alt="${card.name}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=card-art-ph style=background:${card.color}22;font-size:4rem>${card.emoji||card.name[0]}</div>'">`
+    :`<div class="card-art-ph" style="background:linear-gradient(135deg,${card.color}22,${card.color}44)">${card.emoji||'🤖'}</div>`;
+  const enhHtml=(card.enhancements||[]).slice(0,5).map(e=>`<li>${e}</li>`).join('');
+  return `
+  <div class="card-wrap" data-zone="${card.zone}" onclick="this.classList.toggle('flipped')">
+    <div class="card-inner">
+      <div class="card-face card-front" style="box-shadow:0 0 0 1px ${card.color}33,0 4px 24px ${card.color}22">
+        <div class="card-header" style="border-bottom:2px solid ${card.color}">
+          <div class="card-name" style="color:${card.color}">${card.name}</div>
+          <div class="rarity-badge rarity-${card.rarity}">${card.rarity.toUpperCase()}</div>
+        </div>
+        <div class="card-art">
+          ${artHtml}
+          <div class="card-art-overlay"></div>
+          <div class="zone-badge" style="background:${zc}33;color:${zc};border:1px solid ${zc}88">${card.zone.toUpperCase()}</div>
+        </div>
+        <div class="card-stats">${statsHtml}</div>
+        <div class="card-ability">
+          <div class="ability-name" style="color:${card.color}">${card.ability}</div>
+          <div class="ability-text">${card.ability_text}</div>
+        </div>
+        <div class="card-footer">
+          <div class="card-number" style="color:${card.color}66">#${card.num}</div>
+          <div class="card-brand">SHANEBRAIN MEGA CREW</div>
+        </div>
+      </div>
+      <div class="card-face card-back card-back-face" style="box-shadow:0 0 0 1px ${card.color}33;border-top:3px solid ${card.color}">
+        <div class="back-name" style="color:${card.color}">${card.name}</div>
+        <div class="back-role" style="color:${zc}">${card.role} · ${card.zone}</div>
+        <div class="back-origin">"${card.origin}"</div>
+        <div class="back-enh-title">Capabilities</div>
+        <ul class="back-enh-list">${enhHtml}</ul>
+        <div class="back-qr">
+          <span>theangel.com/card/${card.id}</span>
+          <span style="color:${card.color}88">${card.rarity} · #${card.num}</span>
+        </div>
+      </div>
+    </div>
+  </div>`;
+}
+
+function filterZone(zone,btn){
+  document.querySelectorAll('.zone-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.card-wrap').forEach(c=>{
+    c.style.display=(zone==='all'||c.dataset.zone===zone)?'':'none';
+  });
+}
+
+document.getElementById('cardsGrid').innerHTML=CARDS.map(renderCard).join('');
+</script>
+</body>
+</html>
