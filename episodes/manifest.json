@@ -411,6 +411,30 @@
     ]
   },
   {
+    "number": 19,
+    "title": "The Weight of Knowing",
+    "file": "episodes/track-03-the-weight-of-knowing.md",
+    "characters": [
+      "VOLT",
+      "BOLT",
+      "SPARKY",
+      "RIVET",
+      "GLITCH",
+      "NEON",
+      "ARC",
+      "WELD",
+      "TORCH",
+      "BLAZE",
+      "GEMINI",
+      "FLUX",
+      "STOMP"
+    ],
+    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked — but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
+    "mode": "crew",
+    "track": 3,
+    "date": "2026-04-23"
+  },
+  {
     "number": 18,
     "title": "The Bottleneck Breakdown",
     "file": "episodes/ep018-the-bottleneck-breakdown.md",
