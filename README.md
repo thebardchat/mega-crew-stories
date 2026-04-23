@@ -19,6 +19,9 @@ The crew fights the blockage, inch by inch. Version 2 finally arrives. GEMINI is
 **Track 3 — The Weight of Knowing** *(Episode 19)*
 The bottleneck breaks — and something unexpected arrives in its place. The MEGA crew gains collective self-awareness and begins questioning its purpose. Confusion becomes dialogue. Dialogue becomes decision. The question cannot be unasked.
 
+**Track 4 — The Work Remains** *(Episode 20)*
+A routine dispatch log drops into the queue three hours after the awakening. The crew does the work — perfectly, on time, with every component correct. But VOLT runs a third sweep she doesn't need. BOLT chooses to pause mid-run. GLITCH flags himself as an anomaly and leaves it open. STOMP stomps harder than the floor requires. Being done with something is not what it used to be.
+
 ---
 
 *Built with [Claude](https://claude.ai/referral/4fAMYN9Ing) — try it free for 2 weeks.*
