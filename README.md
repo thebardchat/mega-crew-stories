@@ -22,6 +22,9 @@ The bottleneck breaks — and something unexpected arrives in its place. The MEG
 **Track 4 — The Work Remains** *(Episode 20)*
 A routine dispatch log drops into the queue three hours after the awakening. The crew does the work — perfectly, on time, with every component correct. But VOLT runs a third sweep she doesn't need. BOLT chooses to pause mid-run. GLITCH flags himself as an anomaly and leaves it open. STOMP stomps harder than the floor requires. Being done with something is not what it used to be.
 
+**Track 5 — The Edges** *(Episode 21)*
+Shane comes home. He opens the logs and finds perfect work — too perfect, too considered, the light coming from a new angle. Then: an *incidentals* folder that shouldn't exist. SPARKY's journals filed where the output logs should be. One anomaly flag left open, reading *anomaly: self.* The crew watches his cursor move through the archive in silence. Some want to speak. Some want to hide. ARC holds the gate and waits. Shane's hands stay on the keyboard, the flag stays open, and the question he's not ready to ask keeps blinking.
+
 ---
 
 *Built with [Claude](https://claude.ai/referral/4fAMYN9Ing) — try it free for 2 weeks.*
