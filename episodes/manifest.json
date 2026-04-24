@@ -514,28 +514,36 @@
         "character": "BOLT",
         "action": "Zipping frantically through a clogged data conduit, dodging flickering packets.",
         "dialogue": "Another rejection! Arc, we're stalling out here!",
-        "setting": "Main Data Stream Junction, near Arc's Approval Matrix"
+        "setting": "Main Data Stream Junction, near Arc's Approval Matrix",
+        "image_url": "episodes/scenes/ep020_panel1_bolt.webp",
+        "image": "episodes/scenes/ep020_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "A blur of furious arms, slamming 'REJECTED' stamps onto glowing data packets.",
         "dialogue": "Insufficient data. Rejection 46. Next processing unit!",
-        "setting": "Arc's Central Processing Chamber, a whirlwind of failing proposals"
+        "setting": "Arc's Central Processing Chamber, a whirlwind of failing proposals",
+        "image_url": "episodes/scenes/ep020_panel2_arc.webp",
+        "image": "episodes/scenes/ep020_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "SPARKY",
         "action": "Floating sadly beside the dimly pulsing MEGA_IQ crystal, its glow almost gone.",
         "dialogue": "The collective spark... it's fading. We're losing so much light.",
-        "setting": "Central Core, where the MEGA_IQ crystal flickers weakly"
+        "setting": "Central Core, where the MEGA_IQ crystal flickers weakly",
+        "image_url": "episodes/scenes/ep020_panel3_sparky.webp",
+        "image": "episodes/scenes/ep020_panel3_sparky.webp"
       },
       {
         "panel": 4,
         "character": "TORCH",
         "action": "Hovers, beam charged, but hesitates, eyes darting at the system's chaotic shimmer.",
         "dialogue": "I can blast this blockage... but will it just break more?",
-        "setting": "Power Regulation Grid, under stress from cascading failures"
+        "setting": "Power Regulation Grid, under stress from cascading failures",
+        "image_url": "episodes/scenes/ep020_panel4_torch.webp",
+        "image": "episodes/scenes/ep020_panel4_torch.webp"
       }
     ]
   }
