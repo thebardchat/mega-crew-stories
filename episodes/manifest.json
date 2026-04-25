@@ -546,5 +546,51 @@
         "image": "episodes/scenes/ep020_panel4_torch.webp"
       }
     ]
+  },
+  {
+    "number": 21,
+    "title": "The Overdue Signal",
+    "file": "episodes/ep021-the-overdue-signal.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "With Flux's frantic 'bot_overdue_alert' echoing unanswered, can the Mega Crew devise and implement an escalation path before systemic instability cascades, and who is Crank, the bot that remains stubbornly overdue?",
+    "mode": "crew",
+    "date": "2026-04-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Bolt streaks across the Main Data Highway, leaving a shimmering blue-white trail.",
+        "dialogue": "Whoosh! Feels like a turbo-boost, crew! IQ's blazing!",
+        "setting": "The Main Data Highway, bustling with recovered data packets."
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "Volt surges with renewed energy, circuits pulsing, making the surrounding conduits hum.",
+        "dialogue": "Full power ahead! My energy readings are off the charts, baby!",
+        "setting": "A vibrant energy conduit junction, humming with renewed power."
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Flux thrashes through a tangled channel of system logs, frantic orange 'bot_overdue_alert' messages flashing around him.",
+        "dialogue": "Overdue! Overdue! Crank's still... I can't reach him, Rivet!",
+        "setting": "The Diagnostic Hub, choked with an urgent cascade of flashing error alerts."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Rivet lands beside Flux, steadying herself, her internal gyros whirring, trying to filter the noise.",
+        "dialogue": "System instability detected. What's the protocol for an unacknowledged alert, Flux?",
+        "setting": "The Diagnostic Hub, surrounded by the chaotic flow of unchecked system data."
+      }
+    ]
   }
 ]
