@@ -600,5 +600,82 @@
         "image": "episodes/scenes/ep021_panel4_rivet.webp"
       }
     ]
+  },
+  {
+    "number": 22,
+    "title": "The Overdue Glitch",
+    "file": "episodes/ep022-the-overdue-glitch.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC"
+    ],
+    "cliffhanger": "Will this new escalation pathway reach Crank in time, or will the persistent 'bot_overdue_alert' finally push the system past its breaking point?",
+    "mode": "crew",
+    "date": "2026-04-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "His internal light glows a frantic, pulsating red, sending 'bot_overdue_alert' packets screaming.",
+        "dialogue": "Crank! Status critical! Overdue! My sensors are screaming!",
+        "setting": "A high-speed data junction, buzzing with urgent traffic."
+      },
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zips past FLUX, leaving a streak, trying to reroute a stray 'alert' packet.",
+        "dialogue": "Whoa! Easy there, Flux! Let's go, go, GO! We'll get to the bottom of this!",
+        "setting": "A high-speed data junction, buzzing with urgent traffic."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Magnifying circuits whirring, RIVET meticulously traces alerts across a shimmering system schematic.",
+        "dialogue": "Systemic instability confirmed. The flow is... constricted. Precision is key.",
+        "setting": "The Core Processing Unit's diagnostic hub, glowing with data streams."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "His review screen flickers, arms hanging heavy, processing another 'REJECTED' signal.",
+        "dialogue": "Another one... The volume remains low. Everything feels... stalled.",
+        "setting": "The Core Processing Unit's diagnostic hub, glowing with data streams."
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "With a heavy THUD, STOMP rams a dormant memory block, clearing a path.",
+        "dialogue": "Solid work! Sometimes you just gotta... clear the way!",
+        "setting": "A congested memory bank, dense with stagnant information."
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Sparks fly as TORCH superheats a stubborn data cluster, melting through blockage.",
+        "dialogue": "Burning bright! Let's get this data flowing like a river of pure energy!",
+        "setting": "A congested memory bank, dense with stagnant information."
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "Spinning erratically, GLITCH accidentally dislodges a tiny data-key, revealing a hidden pathway.",
+        "dialogue": "Oopsie-daisy! Or... success? Look! A new way!",
+        "setting": "A dimly lit, previously overlooked subsystem junction, now faintly glowing."
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "His light, still red, pulses with a spark as the 'escalation pathway' brightens.",
+        "dialogue": "A new pathway... but Crank's timer... it keeps ticking.",
+        "setting": "A dimly lit, previously overlooked subsystem junction, now faintly glowing."
+      }
+    ]
   }
 ]

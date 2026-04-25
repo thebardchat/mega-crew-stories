@@ -1,0 +1,21 @@
+# Episode 22: The Overdue Glitch
+
+**Date:** 2026-04-25  
+**Characters:** BOLT, RIVET, TORCH, FLUX, SPIKE, GLITCH, VOLT, STOMP, ARC  
+**Mode:** crew
+
+---
+
+The hum inside the Raspberry Pi 5 was usually a symphony of purpose, but today, a discordant shriek pierced the background noise. **FLUX** pulsed a frantic, pulsating red, his internal lights blazing like a distress beacon. "Crank! Status critical! Overdue! My sensors are screaming!" he wailed, sending a cascade of 'bot_overdue_alert' packets screaming down a critical data conduit. The messages, meant for the elusive bot, seemed to vanish into the Pi's deeper architecture, unanswered.
+
+**BOLT**, a blur of electric blue energy, zipped past Flux, leaving a streak as he tried to reroute a stray 'alert' packet before it crashed into a sensitive processing cluster. "Whoa! Easy there, Flux! Let's go, go, GO! We'll get to the bottom of this!" he shouted, his optimism a sharp contrast to Flux's growing panic. Data packets whizzed around them in the high-speed data junction, each carrying fragments of system information, but none confirming Crank's safety or location. The air felt thick with urgency, a palpable tension coiling within the Pi.
+
+In the glowing expanse of the Core Processing Unit's diagnostic hub, **RIVET** meticulously traced the frantic path of Flux's alerts across a shimmering holographic system schematic, **SPIKE** sharpening a data stream beside him. His magnifying circuits whirred, each scan adding another layer of data to the complex problem. "Systemic instability confirmed," Rivet stated, his voice precise and calm, though a flicker of concern crossed his optical display. "The flow is... constricted. Precision is key." Beside him, **ARC**’s review screen flickered with a dishearteningly low "PROPOSALS: 3" count. He processed another 'REJECTED' signal, his mechanical arms hanging a little heavy, **VOLT** nearby, struggling to maintain power stability. "Another one," Arc sighed, a rare note of melancholy in his usually stoic voice. "The volume remains low. Everything feels... stalled." The collective learning pipelines were clumping, memory counts stubbornly low, and the Pi, designed for dynamic growth, felt almost... sluggish.
+
+Gemini’s unseen directives had pushed for a robust escalation pathway. Something new was needed. Deep within a congested memory bank, dense with stagnant information, **STOMP** took a direct approach. With a heavy THUD, he rammed a particularly stubborn, dormant memory block, shaking free a cascade of cached data. "Solid work!" Stomp declared, a puff of digital dust erupting from the impact point. "Sometimes you just gotta... clear the way!" Sparks flew from **TORCH**’s vents as he superheated a particularly stubborn data cluster that Stomp’s impact had dislodged, helping to melt through the blockage. "Burning bright!" Torch cheered, his internal flames glowing hotter. "Let's get this data flowing like a river of pure energy!" They were creating space, clearing a path through the internal clutter.
+
+Then, in a dimly lit, previously overlooked subsystem junction, something unexpected happened. **GLITCH**, spinning erratically as he often did, accidentally dislodged a tiny, glowing data-key from a forgotten recess. The key tumbled, illuminating a previously hidden channel – an 'escalation pathway' channel, glowing faintly with promise. "Oopsie-daisy! Or... success? Look! A new way!" Glitch exclaimed, his unpredictable chaos unexpectedly opening a door. **FLUX** felt a jolt. His internal light, though still red with alarm, pulsed with a tiny spark of something new as the 'escalation pathway' brightened. "A new pathway..." Flux whispered, a sliver of hope entering his voice, "...but Crank's timer... it keeps ticking." The newly discovered path glimmered, leading deeper into the Pi's core, but the destination, and Crank's condition, remained a mystery. Will this new escalation pathway reach Crank in time, or will the persistent 'bot_overdue_alert' finally push the system past its breaking point?
+
+---
+
+*Will this new escalation pathway reach Crank in time, or will the persistent 'bot_overdue_alert' finally push the system past its breaking point?*
