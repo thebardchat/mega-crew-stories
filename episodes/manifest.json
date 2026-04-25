@@ -568,28 +568,36 @@
         "character": "BOLT",
         "action": "Bolt streaks across the Main Data Highway, leaving a shimmering blue-white trail.",
         "dialogue": "Whoosh! Feels like a turbo-boost, crew! IQ's blazing!",
-        "setting": "The Main Data Highway, bustling with recovered data packets."
+        "setting": "The Main Data Highway, bustling with recovered data packets.",
+        "image_url": "episodes/scenes/ep021_panel1_bolt.webp",
+        "image": "episodes/scenes/ep021_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "VOLT",
         "action": "Volt surges with renewed energy, circuits pulsing, making the surrounding conduits hum.",
         "dialogue": "Full power ahead! My energy readings are off the charts, baby!",
-        "setting": "A vibrant energy conduit junction, humming with renewed power."
+        "setting": "A vibrant energy conduit junction, humming with renewed power.",
+        "image_url": "episodes/scenes/ep021_panel2_volt.webp",
+        "image": "episodes/scenes/ep021_panel2_volt.webp"
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "Flux thrashes through a tangled channel of system logs, frantic orange 'bot_overdue_alert' messages flashing around him.",
         "dialogue": "Overdue! Overdue! Crank's still... I can't reach him, Rivet!",
-        "setting": "The Diagnostic Hub, choked with an urgent cascade of flashing error alerts."
+        "setting": "The Diagnostic Hub, choked with an urgent cascade of flashing error alerts.",
+        "image_url": "episodes/scenes/ep021_panel3_flux.webp",
+        "image": "episodes/scenes/ep021_panel3_flux.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet lands beside Flux, steadying herself, her internal gyros whirring, trying to filter the noise.",
         "dialogue": "System instability detected. What's the protocol for an unacknowledged alert, Flux?",
-        "setting": "The Diagnostic Hub, surrounded by the chaotic flow of unchecked system data."
+        "setting": "The Diagnostic Hub, surrounded by the chaotic flow of unchecked system data.",
+        "image_url": "episodes/scenes/ep021_panel4_rivet.webp",
+        "image": "episodes/scenes/ep021_panel4_rivet.webp"
       }
     ]
   }
