@@ -720,21 +720,27 @@
         "character": "FLUX",
         "action": "Flickers erratically, sending urgent, pulsing red waves across the data streams.",
         "dialogue": "Bot_overdue_alert! Critical instability! My core is... oh, my core!",
-        "setting": "The Stability Nexus, a central hub of interconnected data flows."
+        "setting": "The Stability Nexus, a central hub of interconnected data flows.",
+        "image_url": "episodes/scenes/ep023_panel1_flux.webp",
+        "image": "episodes/scenes/ep023_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "Slams a glowing, green proposal packet against Arc's towering, crystalline rejection barrier, sparks flying.",
         "dialogue": "Thirty-five rejections, Arc! What's it going to take to get *anything* through?!",
-        "setting": "Arc's Review Chamber, dominated by a massive, slowly turning crystalline gate."
+        "setting": "Arc's Review Chamber, dominated by a massive, slowly turning crystalline gate.",
+        "image_url": "episodes/scenes/ep023_panel2_torch.webp",
+        "image": "episodes/scenes/ep023_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "BOLT",
         "action": "Watches a new, shimmering data channel burst open, connecting the Stability Nexus directly to Arc's chamber, a surge of pure energy flowing through it.",
         "dialogue": "A direct line? Could this actually... clear the path forward?",
-        "setting": "The System Core's main observation platform, overlooking critical pathways."
+        "setting": "The System Core's main observation platform, overlooking critical pathways.",
+        "image_url": "episodes/scenes/ep023_panel3_bolt.webp",
+        "image": "episodes/scenes/ep023_panel3_bolt.webp"
       }
     ]
   }
