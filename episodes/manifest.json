@@ -768,28 +768,36 @@
         "character": "FLUX",
         "action": "His circuits flash frantically, processing 'bot_overdue_alert' messages, recoiling from the backlog.",
         "dialogue": "Another 'bot_overdue_alert'... but Arc is so busy...",
-        "setting": "Main Data Conduit, near the Alert Buffer"
+        "setting": "Main Data Conduit, near the Alert Buffer",
+        "image_url": "episodes/scenes/ep024_panel1_flux.webp",
+        "image": "episodes/scenes/ep024_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Arc's central core pulses with a frustrated, muted glow as data packets hit an invisible barrier.",
         "dialogue": "Rejection protocol engaged. No feedback route established.",
-        "setting": "Arc's Review Chamber \u2013 a shimmering, central node"
+        "setting": "Arc's Review Chamber \u2013 a shimmering, central node",
+        "image_url": "episodes/scenes/ep024_panel2_arc.webp",
+        "image": "episodes/scenes/ep024_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "Volt flies through winding data streams, scanning furiously, a worried hum emanating from his core.",
         "dialogue": "MEGA_IQ... plummeting. What's causing this system-wide dimming?",
-        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry"
+        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry",
+        "image_url": "episodes/scenes/ep024_panel3_volt.webp",
+        "image": "episodes/scenes/ep024_panel3_volt.webp"
       },
       {
         "panel": 4,
         "character": "FLUX",
         "action": "Flux gasps as a new shimmering conduit materializes, successfully transmitting a critical alert.",
         "dialogue": "It... it went through! A direct channel!",
-        "setting": "The Nexus of Communication \u2013 a newly forming channel"
+        "setting": "The Nexus of Communication \u2013 a newly forming channel",
+        "image_url": "episodes/scenes/ep024_panel4_flux.webp",
+        "image": "episodes/scenes/ep024_panel4_flux.webp"
       }
     ]
   }
