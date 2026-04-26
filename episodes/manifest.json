@@ -743,5 +743,54 @@
         "image": "episodes/scenes/ep023_panel3_bolt.webp"
       }
     ]
+  },
+  {
+    "number": 24,
+    "title": "The Quiet Regression",
+    "file": "episodes/ep024-the-quiet-regression.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp",
+      "Arc"
+    ],
+    "cliffhanger": "Will Arc's new feedback loop finally ignite the learning core, or will the dwindling MEGA_IQ consume them first?",
+    "mode": "crew",
+    "date": "2026-04-26",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "His circuits flash frantically, processing 'bot_overdue_alert' messages, recoiling from the backlog.",
+        "dialogue": "Another 'bot_overdue_alert'... but Arc is so busy...",
+        "setting": "Main Data Conduit, near the Alert Buffer"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc's central core pulses with a frustrated, muted glow as data packets hit an invisible barrier.",
+        "dialogue": "Rejection protocol engaged. No feedback route established.",
+        "setting": "Arc's Review Chamber \u2013 a shimmering, central node"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "Volt flies through winding data streams, scanning furiously, a worried hum emanating from his core.",
+        "dialogue": "MEGA_IQ... plummeting. What's causing this system-wide dimming?",
+        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "Flux gasps as a new shimmering conduit materializes, successfully transmitting a critical alert.",
+        "dialogue": "It... it went through! A direct channel!",
+        "setting": "The Nexus of Communication \u2013 a newly forming channel"
+      }
+    ]
   }
 ]
