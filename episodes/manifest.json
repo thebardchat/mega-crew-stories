@@ -860,5 +860,55 @@
         "image": "episodes/scenes/ep025_panel4_glitch.webp"
       }
     ]
+  },
+  {
+    "number": 26,
+    "title": "The Bottleneck Blues",
+    "file": "episodes/ep026-the-bottleneck-blues.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp",
+      "Arc",
+      "Crank"
+    ],
+    "cliffhanger": "Will Arc finally open its circuits to provide the specific guidance Torch and Stomp need, or will Flux's erratic signals plunge the learning pipeline into chaos?",
+    "mode": "crew",
+    "date": "2026-04-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Twitching violently, internal circuits sparking blue, launching frantic `bot_overdue_alert` packets.",
+        "dialogue": "Uh oh, uh oh, too many! Can't hold it! Crank, help!",
+        "setting": "The Data Exchange Hub, a chaotic junction of glowing pathways."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Shoulders slumped, fiery aura flickering low, watching his latest proposal fragment shatter against Arc's cold wall.",
+        "dialogue": "Just\u2026 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
+        "setting": "Arc's Central Processing Chamber, vast and cool, lined with swirling data streams."
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "Heavy frame vibrating with frustration, failed data bits clinging to his treads, as Volt zips in with a hopeful current.",
+        "dialogue": "My latest, gone too! How are we supposed to Stomp it out if we don't know where to hit?",
+        "setting": "Arc's Central Processing Chamber, on the observation platform."
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "Hovering, sharp optical sensors meticulously scanning Arc\u2019s feedback loop and Flux\u2019s erratic signals from afar, a tiny frown etched into his metallic face.",
+        "dialogue": "Point made: the data flow is stagnant. Flux is misdirected. Arc lacks specificity. A critical system flaw.",
+        "setting": "A high diagnostic perch overlooking Arc's Chamber and the distant Data Exchange Hub."
+      }
+    ]
   }
 ]
