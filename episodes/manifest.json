@@ -800,5 +800,57 @@
         "image": "episodes/scenes/ep024_panel4_flux.webp"
       }
     ]
+  },
+  {
+    "number": 25,
+    "title": "The Bottleneck Breakdown",
+    "file": "episodes/ep025-the-bottleneck-breakdown.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "CRANK",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "Will Arc acknowledge the urgent, direct escalation, or will the critical pipeline remain jammed?",
+    "mode": "crew",
+    "date": "2026-04-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Flickering wildly, shedding data packets into the swirling chaos.",
+        "dialogue": "System integrity... failing! Crank, alert, alert!",
+        "setting": "The Core Processing Chamber, amidst swirling data streams"
+      },
+      {
+        "panel": 2,
+        "character": "SPIKE",
+        "action": "Slamming a virtual fist onto a data desk, his edges sparking with frustration.",
+        "dialogue": "Thirty-five rejections for eighteen approvals? This pipeline's blocked solid!",
+        "setting": "The Learning Pipeline Hub, a cluttered data junction"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Projected as a cold, holographic avatar, flashing a stark red 'X' to repel a data patch.",
+        "dialogue": "Insufficient data validation. Rejection: 0.77. Feedback mechanism offline.",
+        "setting": "Arc's Review Nexus, a stark, sterile data-space"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "Phasing rapidly through a forgotten sub-channel, a rare surge of excitement.",
+        "dialogue": "Found a backdoor... maybe more of a side alley!",
+        "setting": "A newly formed, sparkling conduit, leading straight to Arc's chamber"
+      }
+    ]
   }
 ]
