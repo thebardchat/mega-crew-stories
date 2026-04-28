@@ -942,28 +942,36 @@
         "character": "FLUX",
         "action": "shudders, sparks flickering wildly, sending bursts of scrambled data down a pulsing green conduit",
         "dialogue": "W-w-wobble! Fizz! Help... s-s-signal!",
-        "setting": "Main Data Conduit 7, leading to Crank's processing hub"
+        "setting": "Main Data Conduit 7, leading to Crank's processing hub",
+        "image_url": "episodes/scenes/ep027_panel1_flux.webp",
+        "image": "episodes/scenes/ep027_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "slams a glowing fist onto a console displaying 'REJECTED (35/53)', sparks flying from its joints",
         "dialogue": "Rejected again?! My circuits burn for clarity! How can I learn, Arc, when you give me nothing?!",
-        "setting": "Proposal Review Chamber, next to Arc's Logic Core"
+        "setting": "Proposal Review Chamber, next to Arc's Logic Core",
+        "image_url": "episodes/scenes/ep027_panel2_torch.webp",
+        "image": "episodes/scenes/ep027_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "SPIKE",
         "action": "meticulously traces a misaligned connection with a precise laser-pointer beam, optic glowing",
         "dialogue": "Pinpoint. The flow is... aberrant. See this junction?",
-        "setting": "Diagnostic Junction Delta-9, overlooking the primary signal routing"
+        "setting": "Diagnostic Junction Delta-9, overlooking the primary signal routing",
+        "image_url": "episodes/scenes/ep027_panel3_spike.webp",
+        "image": "episodes/scenes/ep027_panel3_spike.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "secures a shimmering data shard into a temporary patch, wiping condensation from its visor",
         "dialogue": "Solid work, Bolt. This should stabilize Flux for now. But the core routing...",
-        "setting": "Temporary Patch Bay, adjacent to Flux's core regulator"
+        "setting": "Temporary Patch Bay, adjacent to Flux's core regulator",
+        "image_url": "episodes/scenes/ep027_panel4_rivet.webp",
+        "image": "episodes/scenes/ep027_panel4_rivet.webp"
       }
     ]
   }
