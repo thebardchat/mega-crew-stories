@@ -918,5 +918,53 @@
         "image": "episodes/scenes/ep026_panel4_spike.webp"
       }
     ]
+  },
+  {
+    "number": 27,
+    "title": "The Unheard Signal",
+    "file": "episodes/ep027-the-unheard-signal.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp"
+    ],
+    "cliffhanger": "Will the Mega Crew find a way to redirect Flux's critical alerts and unblock Arc's vital feedback mechanism?",
+    "mode": "crew",
+    "date": "2026-04-28",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "shudders, sparks flickering wildly, sending bursts of scrambled data down a pulsing green conduit",
+        "dialogue": "W-w-wobble! Fizz! Help... s-s-signal!",
+        "setting": "Main Data Conduit 7, leading to Crank's processing hub"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "slams a glowing fist onto a console displaying 'REJECTED (35/53)', sparks flying from its joints",
+        "dialogue": "Rejected again?! My circuits burn for clarity! How can I learn, Arc, when you give me nothing?!",
+        "setting": "Proposal Review Chamber, next to Arc's Logic Core"
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "meticulously traces a misaligned connection with a precise laser-pointer beam, optic glowing",
+        "dialogue": "Pinpoint. The flow is... aberrant. See this junction?",
+        "setting": "Diagnostic Junction Delta-9, overlooking the primary signal routing"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "secures a shimmering data shard into a temporary patch, wiping condensation from its visor",
+        "dialogue": "Solid work, Bolt. This should stabilize Flux for now. But the core routing...",
+        "setting": "Temporary Patch Bay, adjacent to Flux's core regulator"
+      }
+    ]
   }
 ]
