@@ -974,5 +974,57 @@
         "image": "episodes/scenes/ep027_panel4_rivet.webp"
       }
     ]
+  },
+  {
+    "number": 28,
+    "title": "The Fading Spark",
+    "file": "episodes/ep028-the-fading-spark.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "WELD",
+      "SPARKY",
+      "CRANK"
+    ],
+    "cliffhanger": "What crucial connection needs to be made, and will anyone discover how to mend the broken feedback loop before the core intelligence fades entirely?",
+    "mode": "crew",
+    "date": "2026-04-28",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping frantically around a glowing, unstable MEGA_IQ display, leaving streaks of light.",
+        "dialogue": "Zoom! Zoom! But the numbers... they're still dropping!",
+        "setting": "The Main Core's Central Processing Nexus, where data streams converge."
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Pulsating erratically, desperately trying to route a crimson alert, but a green conduit bends sharply towards Crank.",
+        "dialogue": "Flow control! Critical instability! It *must* go... oh, to Crank again?",
+        "setting": "The Alert Routing Conduits, a tangle of glowing pathways."
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "A small, vibrant idea-spark she holds in her hand flickers and dissolves as a harsh, blue \"DENIED\" wave emanates from Arc's chamber.",
+        "dialogue": "Another one... just gone. No 'why,' no 'how to fix it.' Just... fizzle.",
+        "setting": "Arc's Review Chamber entrance, littered with faded proposal fragments."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Standing at a holographic console, tracing the broken lines of data flow, his welding arm twitching with diagnostic pulses.",
+        "dialogue": "A severance. Two crucial streams, disconnected. We're building in the dark.",
+        "setting": "The Central Observation Deck, overlooking the entire Pi's network."
+      }
+    ]
   }
 ]
