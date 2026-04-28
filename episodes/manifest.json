@@ -1002,28 +1002,36 @@
         "character": "BOLT",
         "action": "Zipping frantically around a glowing, unstable MEGA_IQ display, leaving streaks of light.",
         "dialogue": "Zoom! Zoom! But the numbers... they're still dropping!",
-        "setting": "The Main Core's Central Processing Nexus, where data streams converge."
+        "setting": "The Main Core's Central Processing Nexus, where data streams converge.",
+        "image_url": "episodes/scenes/ep028_panel1_bolt.webp",
+        "image": "episodes/scenes/ep028_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "Pulsating erratically, desperately trying to route a crimson alert, but a green conduit bends sharply towards Crank.",
         "dialogue": "Flow control! Critical instability! It *must* go... oh, to Crank again?",
-        "setting": "The Alert Routing Conduits, a tangle of glowing pathways."
+        "setting": "The Alert Routing Conduits, a tangle of glowing pathways.",
+        "image_url": "episodes/scenes/ep028_panel2_flux.webp",
+        "image": "episodes/scenes/ep028_panel2_flux.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "A small, vibrant idea-spark she holds in her hand flickers and dissolves as a harsh, blue \"DENIED\" wave emanates from Arc's chamber.",
         "dialogue": "Another one... just gone. No 'why,' no 'how to fix it.' Just... fizzle.",
-        "setting": "Arc's Review Chamber entrance, littered with faded proposal fragments."
+        "setting": "Arc's Review Chamber entrance, littered with faded proposal fragments.",
+        "image_url": "episodes/scenes/ep028_panel3_torch.webp",
+        "image": "episodes/scenes/ep028_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "WELD",
         "action": "Standing at a holographic console, tracing the broken lines of data flow, his welding arm twitching with diagnostic pulses.",
         "dialogue": "A severance. Two crucial streams, disconnected. We're building in the dark.",
-        "setting": "The Central Observation Deck, overlooking the entire Pi's network."
+        "setting": "The Central Observation Deck, overlooking the entire Pi's network.",
+        "image_url": "episodes/scenes/ep028_panel4_weld.webp",
+        "image": "episodes/scenes/ep028_panel4_weld.webp"
       }
     ]
   }
