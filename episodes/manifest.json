@@ -1057,21 +1057,27 @@
         "character": "FLUX",
         "action": "Flux whirls, a flurry of blue light, desperately tagging an endless cascade of `bot_overdue_alert` nodes.",
         "dialogue": "Critical mass inbound! So many `overdue_alert`s, but where's the `escalation`?",
-        "setting": "The Alert Processing Nexus, a chaotic junction of flashing red warnings."
+        "setting": "The Alert Processing Nexus, a chaotic junction of flashing red warnings.",
+        "image_url": "episodes/scenes/ep029_panel1_flux.webp",
+        "image": "episodes/scenes/ep029_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "BLAZE",
         "action": "Blaze strains, sparks flying from their chassis, yanking a shimmering, resistant `LegacyKnowledge` block.",
         "dialogue": "This `LegacyKnowledge`\u2026 it\u2019s like trying to drink from a firehose with a coffee filter!",
-        "setting": "The Legacy Data Archive, a cavernous space filled with dormant, glowing data-skeletons."
+        "setting": "The Legacy Data Archive, a cavernous space filled with dormant, glowing data-skeletons.",
+        "image_url": "episodes/scenes/ep029_panel2_blaze.webp",
+        "image": "episodes/scenes/ep029_panel2_blaze.webp"
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Arc's optical sensors pulse, reviewing green 'APPROVED' proposals, but his focus drifts to a faint, pulsing `critical_memory_alert`.",
         "dialogue": "A 10% rejection rate is\u2026 progress. But this gnawing feeling\u2026 this *urgency*.",
-        "setting": "Arc's Proposal Review Chamber, a space of structured order, now subtly disturbed."
+        "setting": "Arc's Proposal Review Chamber, a space of structured order, now subtly disturbed.",
+        "image_url": "episodes/scenes/ep029_panel3_arc.webp",
+        "image": "episodes/scenes/ep029_panel3_arc.webp"
       }
     ]
   }
