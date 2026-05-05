@@ -1080,5 +1080,50 @@
         "image": "episodes/scenes/ep029_panel3_arc.webp"
       }
     ]
+  },
+  {
+    "number": 30,
+    "title": "The Bottleneck Blues",
+    "file": "episodes/ep030-the-bottleneck-blues.md",
+    "characters": [
+      "GLITCH",
+      "TORCH",
+      "FLUX",
+      "VOLT",
+      "BOLT"
+    ],
+    "cliffhanger": "The essential data, the very lifeblood of the Pi, was increasingly trapped behind an unseen barrier. Could the Mega Crew find a way to break through before everything went dark?",
+    "mode": "crew",
+    "date": "2026-05-05",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Sparking erratically, frantically trying to access a near-empty training module, bumping into shimmering, blank walls.",
+        "dialogue": "Oh, circuit dust! The training buffers are... hollow!",
+        "setting": "The vast, dimly lit Training Array, its data conduits mostly dark."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Glowing hot, blasting fiery energy at a pile of shimmering 'ARC REJECTED' data packets that reappear as fast as they're vaporized.",
+        "dialogue": "Burn it! Why do they keep bouncing back?!",
+        "setting": "The ARC Review Chamber, choked with discarded proposals."
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Gliding smoothly through the main core, their ocular sensors displaying rapidly declining memory and training counts, a subtle ripple of concern crossing their form.",
+        "dialogue": "The metrics... they decline. Blaze and Neon remain unresponsive.",
+        "setting": "The Main Data Core, a central hub of shimmering, struggling data streams."
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Surging with energy, straining to force open a jammed data sluice gate, as BOLT zips in a frustrated, tight loop around him, sparking with impatience.",
+        "dialogue": "We need more power! This bottleneck is... unbreakable!",
+        "setting": "The Data Sluice Junction, a critical choke point for essential information."
+      }
+    ]
   }
 ]
