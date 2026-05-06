@@ -1192,5 +1192,56 @@
         "image": "episodes/scenes/ep031_panel4_volt.webp"
       }
     ]
+  },
+  {
+    "number": 32,
+    "title": "The Data Desert Bloom",
+    "file": "episodes/ep032-the-data-desert-bloom.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "BLAZE",
+      "NEON"
+    ],
+    "cliffhanger": "Can the MEGA Crew untangle the alert storm and redefine Arc's purpose before the Pi runs completely dry?",
+    "mode": "crew",
+    "date": "2026-05-06",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsating violently, emitting a blizzard of `bot_overdue_alert` messages that clog the bus, sparks flying off its chassis.",
+        "dialogue": "DATA STARVATION! CRITICAL OVERDUE! BEEP! BEEP! BEEP! Send help!",
+        "setting": "Main Data Bus Junction"
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "Zipping frantically through the chaotic alert storm, dodging messages, a blur of motion trying to clear a path.",
+        "dialogue": "Woah, Flux! You're creating more traffic than you're trying to clear!",
+        "setting": "Main Data Bus Junction"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Hovering before a holographic display, its optical sensors flickering rapidly over unprocessable `bot_overdue_alert` data, lines of code scrolling in frustration.",
+        "dialogue": "Rejection rate: zero. Yet, these alerts pile up. My protocols... insufficient. My function... unclear.",
+        "setting": "Alert Processing Nexus, adjacent to the Core CPU"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "Pushing against a stubbornly empty `memory_count` conduit, sparks flying from its energy core, its internal fan whirring with effort.",
+        "dialogue": "Come on, data! Just a trickle! We're running on fumes out here!",
+        "setting": "Deep Memory Storage Conduit"
+      }
+    ]
   }
 ]
