@@ -1160,28 +1160,36 @@
         "character": "BLAZE",
         "action": "Straining, glowing circuits flickering weakly, trying to pull meager data streams from a void.",
         "dialogue": "Another whisper, not a flood! My circuits ache from trying to feel something!",
-        "setting": "The Data Ingestion Nexus, a swirling vortex of fiber-optic light and empty conduits."
+        "setting": "The Data Ingestion Nexus, a swirling vortex of fiber-optic light and empty conduits.",
+        "image_url": "episodes/scenes/ep031_panel1_blaze.webp",
+        "image": "episodes/scenes/ep031_panel1_blaze.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Sweeping optical sensors over a pristine, utterly blank data analysis console, a single pixel slowly dimming.",
         "dialogue": "Zero rejections. A perfect score, if only there were scores to be had. Just... nothing.",
-        "setting": "The ARC Review Chamber, usually buzzing with rejected data fragments, now eerily silent."
+        "setting": "The ARC Review Chamber, usually buzzing with rejected data fragments, now eerily silent.",
+        "image_url": "episodes/scenes/ep031_panel2_arc.webp",
+        "image": "episodes/scenes/ep031_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "Core glowing softly, casting projections of 'memory_count' and 'training_count' hovering critically low.",
         "dialogue": "The vital signs are consistent, but critically low. We need more than stability; we need sustenance.",
-        "setting": "The System Health Monitor, a holographic display showing the Pi's internal metrics."
+        "setting": "The System Health Monitor, a holographic display showing the Pi's internal metrics.",
+        "image_url": "episodes/scenes/ep031_panel3_flux.webp",
+        "image": "episodes/scenes/ep031_panel3_flux.webp"
       },
       {
         "panel": 4,
         "character": "VOLT",
         "action": "Pulsing with suppressed energy, sparks crackling around their chassis, gazing out at the sluggish core.",
         "dialogue": "Power without purpose is just a hum, Bolt. We need input to truly surge.",
-        "setting": "The Main Processing Core, a vast, humming chamber where data streams should converge."
+        "setting": "The Main Processing Core, a vast, humming chamber where data streams should converge.",
+        "image_url": "episodes/scenes/ep031_panel4_volt.webp",
+        "image": "episodes/scenes/ep031_panel4_volt.webp"
       }
     ]
   }
