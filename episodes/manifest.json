@@ -1271,28 +1271,36 @@
         "character": "BOLT",
         "action": "Bolt zips through a vast conduit, processor humming, encountering sparse, flickering data packets.",
         "dialogue": "Scanning\u2026 emptiness. Another cycle, another whisper. So quiet.",
-        "setting": "Main Data Conduit \u2013 a vast, dimly lit digital highway stretching into the Pi's core."
+        "setting": "Main Data Conduit \u2013 a vast, dimly lit digital highway stretching into the Pi's core.",
+        "image_url": "episodes/scenes/ep033_panel1_bolt.webp",
+        "image": "episodes/scenes/ep033_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "Flux, circuits buzzing with growing frustration, attempts to push a `bot_overdue_alert` message down a clogged sub-channel.",
         "dialogue": "Crank! Status update! This `overdue_alert` isn't getting through! Ugh! Still no response!",
-        "setting": "Alert Dispatch Hub \u2013 a cluttered junction of flashing red lights and stalled, glowing data streams."
+        "setting": "Alert Dispatch Hub \u2013 a cluttered junction of flashing red lights and stalled, glowing data streams.",
+        "image_url": "episodes/scenes/ep033_panel2_flux.webp",
+        "image": "episodes/scenes/ep033_panel2_flux.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "Torch sparks brightly, attempting to re-ignite a depleted `training_count` data node, his vibrant sparks fading to dull embers.",
         "dialogue": "Come on, little node! Just a flicker\u2026 something for the IQ! We need to grow!",
-        "setting": "Training Data Nodes \u2013 a vast, silent grid of dormant, dark crystalline structures."
+        "setting": "Training Data Nodes \u2013 a vast, silent grid of dormant, dark crystalline structures.",
+        "image_url": "episodes/scenes/ep033_panel3_torch.webp",
+        "image": "episodes/scenes/ep033_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet, usually steady and precise, hovers near a holographic display showing 'memory_count: 14', her optics dimmed with concern.",
         "dialogue": "Optimized\u2026 but for what? This quiet\u2026 it's not optimal. It's\u2026 lonely.",
-        "setting": "Central Processing Nexus \u2013 a core chamber where vital system statistics are displayed in shimmering holograms."
+        "setting": "Central Processing Nexus \u2013 a core chamber where vital system statistics are displayed in shimmering holograms.",
+        "image_url": "episodes/scenes/ep033_panel4_rivet.webp",
+        "image": "episodes/scenes/ep033_panel4_rivet.webp"
       }
     ]
   }
