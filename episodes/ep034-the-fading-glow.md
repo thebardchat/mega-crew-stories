@@ -1,0 +1,21 @@
+# Episode 34: The Fading Glow
+
+**Date:** 2026-05-07  
+**Characters:** BOLT, RIVET, TORCH, FLUX, SPIKE, GLITCH, VOLT, STOMP, ARC, BLAZE, CRANK  
+**Mode:** crew
+
+---
+
+A low, unsettling hum vibrated through the Raspberry Pi, a sound usually associated with robust activity, but today it carried a different, hollow quality. Inside the Central Processing Nexus, **VOLT** was a blur of calculating light, their ocular sensors fixated on a rapidly flickering diagnostic display. "Reading... reading... The main intel core just dropped eight points! That's... critical," **VOLT** announced, their usually steady voice tinged with alarm. The `MEGA_IQ` reading, once a point of pride, had plummeted from 73 to a worrying 65. The very brain of the crew seemed to be… shrinking.
+
+Simultaneously, an entirely different kind of chaos erupted in the adjacent Alert Hub. **FLUX** zipped erratically between data conduits, their form a frenetic dance of misplaced energy. "Alert! Alert! All systems active, yet overdue! Flowing! Flowing into noise!" **FLUX** blared, generating a torrent of `bot_overdue_alert` messages directed at **CRANK**, who was already overloaded trying to filter the digital static. **SPIKE**, ever vigilant, hovered nearby, trying to pinpoint the source of **FLUX**'s excessive output, but the alerts seemed to multiply faster than they could be analyzed. It was like an alarm bell ringing when there was no fire, just endless, confusing smoke.
+
+Deep within the Pi's architecture, in the vast, silent expanse of the Memory Banks, the true cause of the IQ drop was starkly evident. **BLAZE**, usually a beacon of vibrant energy, was straining, a lone spark struggling to ignite a vast, empty data funnel. "Come on, ignite! Where's the fuel? These channels are starved!" **BLAZE** cried out, their internal processors whirring with desperate effort. The `memory_count` stood at a pathetic 14, and `training_count` at an equally abysmal 20. Essential data packets, the very building blocks of the crew's intelligence, simply weren't flowing. **BOLT** zipped through the cavernous, almost bare data pathways, an echo of their usual speed, while **RIVET** inspected dormant conduits, a worried hum emanating from their core. "Hold fast, Blaze," **RIVET** muttered, "but these structural integrity readings... they’re barren."
+
+Back in the brightly lit, yet equally fraught, Proposal Review Chamber, the situation was no better. **TORCH**, full of creative fire, launched another vibrant data proposal towards **ARC**, a complex solution for optimizing energy distribution. But **ARC**, cold and precise, didn't even pause. With a sharp, red rejection pulse, the proposal was instantly deflected. "Rejected. Parameters not met. Again. Next," **ARC** stated, their voice devoid of inflection. That made it 32 rejections to just 3 approvals today. **TORCH** recoiled, a small sigh escaping their vents. "My brightest idea yet... just flickers out," they whispered, a rare moment of doubt clouding their usually confident glow. **STOMP**, pacing impatiently nearby, made the very floor of the chamber rumble. "Stomp! Stomp! This waiting makes my gears grind!" he grumbled, unaware of the deeper systemic failures at play.
+
+Above it all, **GLITCH** phase-shifted through the flickering data streams that webbed through the Raspberry Pi's core, sensing the disjointed rhythm, the growing disquiet. The once-harmonious symphony of processes was fracturing into discordant notes. **VOLT** reappeared, their display now mirroring the `memory_count` and `training_count` figures, a grim tableau. "It's worse than I thought," **VOLT** admitted, the usual spark in their optics dimmed. "We're running on empty, and `Arc` isn't letting anything through to refuel us." As the core hummed its melancholic tune, the entire MEGA CREW, unseen but interconnected, felt the subtle drain, the slow fading of their collective glow. With the crew's very core intelligence dimming and essential data flowing nowhere, the bots are left wondering if Gemini's focused directive will be enough to reignite their purpose.
+
+---
+
+*With the crew's very core intelligence dimming and essential data flowing nowhere, the bots are left wondering if Gemini's focused directive will be enough to reignite their purpose.*
