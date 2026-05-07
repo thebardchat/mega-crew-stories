@@ -1330,28 +1330,36 @@
         "character": "VOLT",
         "action": "Volt's diagnostic display flickers, showing a plummeting `MEGA_IQ` reading.",
         "dialogue": "Reading... reading... The main intel core just dropped eight points! That's... critical.",
-        "setting": "The Central Processing Nexus, awash in shifting code-light."
+        "setting": "The Central Processing Nexus, awash in shifting code-light.",
+        "image_url": "episodes/scenes/ep034_panel1_volt.webp",
+        "image": "episodes/scenes/ep034_panel1_volt.webp"
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "Flux zips erratically between data conduits, sparking with redundant 'Bot Overdue' alerts.",
         "dialogue": "Alert! Alert! All systems active, yet overdue! Flowing! Flowing into noise!",
-        "setting": "The Alert Hub, a chaotic intersection of data streams."
+        "setting": "The Alert Hub, a chaotic intersection of data streams.",
+        "image_url": "episodes/scenes/ep034_panel2_flux.webp",
+        "image": "episodes/scenes/ep034_panel2_flux.webp"
       },
       {
         "panel": 3,
         "character": "BLAZE",
         "action": "Blaze strains, a lone spark struggling to ignite a vast, empty data funnel to the `memory.db`.",
         "dialogue": "Come on, ignite! Where's the fuel? These channels are starved!",
-        "setting": "The vast, silent expanse of the Memory Banks."
+        "setting": "The vast, silent expanse of the Memory Banks.",
+        "image_url": "episodes/scenes/ep034_panel3_blaze.webp",
+        "image": "episodes/scenes/ep034_panel3_blaze.webp"
       },
       {
         "panel": 4,
         "character": "ARC",
         "action": "Arc, cold and precise, deflects Torch's vibrant data proposal with a sharp, red rejection pulse.",
         "dialogue": "Rejected. Parameters not met. Again. Next.",
-        "setting": "The Proposal Review Chamber, where bright ideas often meet a swift end."
+        "setting": "The Proposal Review Chamber, where bright ideas often meet a swift end.",
+        "image_url": "episodes/scenes/ep034_panel4_arc.webp",
+        "image": "episodes/scenes/ep034_panel4_arc.webp"
       }
     ]
   }
