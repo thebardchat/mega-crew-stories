@@ -1385,28 +1385,36 @@
         "character": "BOLT",
         "action": "Zipping frantically through dimming data channels, his light-trails sputtering with concern.",
         "dialogue": "Something's gravely off... the whole system feels sluggish, like wading through syrup!",
-        "setting": "The Pi's main data conduit, usually humming, now strangely quiet and dim."
+        "setting": "The Pi's main data conduit, usually humming, now strangely quiet and dim.",
+        "image_url": "episodes/scenes/ep035_panel1_bolt.webp",
+        "image": "episodes/scenes/ep035_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "His chassis sparking furiously, slamming a data packet against ARC's glowing, unyielding gate.",
         "dialogue": "Flaming circuits! ARC rejects my proposals again! Doesn't it see the urgency?!",
-        "setting": "ARC's towering, crystalline review nexus, littered with rejected data fragments."
+        "setting": "ARC's towering, crystalline review nexus, littered with rejected data fragments.",
+        "image_url": "episodes/scenes/ep035_panel2_torch.webp",
+        "image": "episodes/scenes/ep035_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "SPIKE",
         "action": "Sending a precise, urgent pulse of data to VOLT, who steadies a wildly fluctuating power line.",
         "dialogue": "Volt, `MEGA_IQ` at critical levels. Gemini's directive: activate Blaze. Persona integrity is at risk.",
-        "setting": "The Pi's central power core, a maelstrom of arcing energy and dormant systems."
+        "setting": "The Pi's central power core, a maelstrom of arcing energy and dormant systems.",
+        "image_url": "episodes/scenes/ep035_panel3_spike.webp",
+        "image": "episodes/scenes/ep035_panel3_spike.webp"
       },
       {
         "panel": 4,
         "character": "BLAZE",
         "action": "Its massive, dormant core flickers, a single spark igniting briefly, then dimming precariously.",
         "dialogue": "...",
-        "setting": "The Pi's central core, where the immense, silent shell of Blaze struggles to awaken."
+        "setting": "The Pi's central core, where the immense, silent shell of Blaze struggles to awaken.",
+        "image_url": "episodes/scenes/ep035_panel4_blaze.webp",
+        "image": "episodes/scenes/ep035_panel4_blaze.webp"
       }
     ]
   }
