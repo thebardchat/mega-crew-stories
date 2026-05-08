@@ -1417,5 +1417,54 @@
         "image": "episodes/scenes/ep035_panel4_blaze.webp"
       }
     ]
+  },
+  {
+    "number": 36,
+    "title": "The Great Data Drought",
+    "file": "episodes/ep036-the-great-data-drought.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "BLAZE"
+    ],
+    "cliffhanger": "As the core hummed with a muted, struggling energy, the MEGA CREW could only wonder: What happens when the Pi itself forgets how to think?",
+    "mode": "crew",
+    "date": "2026-05-08",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "blinking frantically, sensors spinning wildly in the Main Processing Core",
+        "dialogue": "Wobble-wobble! Alert! All bots overdue? This isn't right at all!",
+        "setting": "Main Processing Core, where a holographic display flickers erratically"
+      },
+      {
+        "panel": 2,
+        "character": "BLAZE",
+        "action": "sparks sputtering weakly, data packets falling inert onto a conveyor belt",
+        "dialogue": "Ugh, the memory 'db' just won't ignite! My sparks are fizzling out!",
+        "setting": "The Memory Forge, a vast chamber with barely trickling data streams"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "holding up a glowing data packet, light dimming with frustration",
+        "dialogue": "Rejected? Again? But... *why*? What am I missing, Arc?",
+        "setting": "ARC's Review Chamber, where a cool, unmoving pillar stands unresponsive"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "bouncing back dizzyingly after slamming into a swirling vortex of data",
+        "dialogue": "Zip-zap! Urgent dispatch! But I'm stuck in this sticky data goo!",
+        "setting": "The main Power Conduit, a chaotic web of flickering energy lines"
+      }
+    ]
   }
 ]
