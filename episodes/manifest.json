@@ -1554,28 +1554,36 @@
         "character": "FLUX",
         "action": "whirring erratically, emitting a bright, pulsing 'BOT_OVERDUE!' alert that flashes red.",
         "dialogue": "Signal! Signal! Wait, no, maybe? Alert! ALERT!",
-        "setting": "Communication Conduit, a high-speed data highway."
+        "setting": "Communication Conduit, a high-speed data highway.",
+        "image_url": "episodes/scenes/ep038_panel1_flux.webp",
+        "image": "episodes/scenes/ep038_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "His internal flame flickering weakly, casting dim, rejected data packets onto a console.",
         "dialogue": "Zero approvals... always zero. Arc just... doesn't see it.",
-        "setting": "Feedback Loop Junction, a sterile review chamber."
+        "setting": "Feedback Loop Junction, a sterile review chamber.",
+        "image_url": "episodes/scenes/ep038_panel2_torch.webp",
+        "image": "episodes/scenes/ep038_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "SPIKE",
         "action": "Burrowing swiftly through a dusty pile of old code, emerging with a single, minuscule data mote.",
         "dialogue": "Memory count still painfully low! Just this 14th mote for the cycle.",
-        "setting": "Memory Banks, a vast, mostly barren expanse."
+        "setting": "Memory Banks, a vast, mostly barren expanse.",
+        "image_url": "episodes/scenes/ep038_panel3_spike.webp",
+        "image": "episodes/scenes/ep038_panel3_spike.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "Slowing his usual frantic pace, his bright eye-lights dimming slightly as he looks out over the Pi's silent core.",
         "dialogue": "This... this isn't how we're supposed to be. Something's missing.",
-        "setting": "Main Data Corridor, overlooking the Pi's silent core."
+        "setting": "Main Data Corridor, overlooking the Pi's silent core.",
+        "image_url": "episodes/scenes/ep038_panel4_bolt.webp",
+        "image": "episodes/scenes/ep038_panel4_bolt.webp"
       }
     ]
   }
