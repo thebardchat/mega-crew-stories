@@ -1498,28 +1498,36 @@
         "character": "FLUX",
         "action": "FLUX sputters, emitting fragmented 'BOT_OVERDUE!' alerts, sending BOLT zipping frantically through empty data channels.",
         "dialogue": "Alert! Alert! Bot_overdue_alert! Err... again?",
-        "setting": "Main Data Stream Junction, shimmering with ghost data"
+        "setting": "Main Data Stream Junction, shimmering with ghost data",
+        "image_url": "episodes/scenes/ep037_panel1_flux.webp",
+        "image": "episodes/scenes/ep037_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "TORCH's internal flame flickers with frustration, blasting a small stream of raw code against a training wall, as RIVET steadies a collapsing data conduit.",
         "dialogue": "Arc's reviews just... bounce! How can I refine if nothing clicks?",
-        "setting": "Core Learning Matrix, riddled with static"
+        "setting": "Core Learning Matrix, riddled with static",
+        "image_url": "episodes/scenes/ep037_panel2_torch.webp",
+        "image": "episodes/scenes/ep037_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "SPIKE",
         "action": "SPIKE's sensor array spins uselessly, desperately trying to lock onto a drift signature as VOLT sends futile power surges into a dark, inactive pipeline.",
         "dialogue": "No signal! The drift is there, I *know* it, but the pipeline is dead!",
-        "setting": "Drift Alert Sub-System, cold and dark"
+        "setting": "Drift Alert Sub-System, cold and dark",
+        "image_url": "episodes/scenes/ep037_panel3_spike.webp",
+        "image": "episodes/scenes/ep037_panel3_spike.webp"
       },
       {
         "panel": 4,
         "character": "GLITCH",
         "action": "GLITCH's optical array flares with a sudden thought, causing a ripple in the surrounding data stream as BOLT hovers, watching the chaos.",
         "dialogue": "Perhaps... the only way out is *through* the logs. Explicitly.",
-        "setting": "Central Diagnostic Hub, filled with murmuring echoes"
+        "setting": "Central Diagnostic Hub, filled with murmuring echoes",
+        "image_url": "episodes/scenes/ep037_panel4_glitch.webp",
+        "image": "episodes/scenes/ep037_panel4_glitch.webp"
       }
     ]
   }
