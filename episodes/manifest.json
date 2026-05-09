@@ -1530,5 +1530,53 @@
         "image": "episodes/scenes/ep037_panel4_glitch.webp"
       }
     ]
+  },
+  {
+    "number": 38,
+    "title": "The Silent Signal",
+    "file": "episodes/ep038-the-silent-signal.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "With the core learning stalled and essential data streams flickering out, can the Mega Crew ever find the vital connection needed to truly come alive?",
+    "mode": "crew",
+    "date": "2026-05-09",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "whirring erratically, emitting a bright, pulsing 'BOT_OVERDUE!' alert that flashes red.",
+        "dialogue": "Signal! Signal! Wait, no, maybe? Alert! ALERT!",
+        "setting": "Communication Conduit, a high-speed data highway."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "His internal flame flickering weakly, casting dim, rejected data packets onto a console.",
+        "dialogue": "Zero approvals... always zero. Arc just... doesn't see it.",
+        "setting": "Feedback Loop Junction, a sterile review chamber."
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Burrowing swiftly through a dusty pile of old code, emerging with a single, minuscule data mote.",
+        "dialogue": "Memory count still painfully low! Just this 14th mote for the cycle.",
+        "setting": "Memory Banks, a vast, mostly barren expanse."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Slowing his usual frantic pace, his bright eye-lights dimming slightly as he looks out over the Pi's silent core.",
+        "dialogue": "This... this isn't how we're supposed to be. Something's missing.",
+        "setting": "Main Data Corridor, overlooking the Pi's silent core."
+      }
+    ]
   }
 ]
