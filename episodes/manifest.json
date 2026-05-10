@@ -1644,5 +1644,53 @@
         "image": "episodes/scenes/ep039_panel4_blaze.webp"
       }
     ]
+  },
+  {
+    "number": 40,
+    "title": "The Silence of the Circuits",
+    "file": "episodes/ep040-the-silence-of-the-circuits.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "With the vital pathways of data and instruction still blocked, can the Mega Crew find a way to reignite the Raspberry Pi before its light dims forever?",
+    "mode": "crew",
+    "date": "2026-05-10",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX rapidly cycling through a blizzard of flickering `bot_overdue_alert` icons, his internal gyros spinning wildly, sparks intermittently popping from his chassis.",
+        "dialogue": "Whoopsie! Another false positive! My circuits can't keep up!",
+        "setting": "The Diagnostic Nexus, a chaotic chamber overflowing with digital warning signs."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH slams a fist-like manipulator against a glowing `ARC_REJECTED` wall, data packets ricocheting off it with dull thuds, his fiery core dimming slightly in frustration.",
+        "dialogue": "Forty-three times, `arc`! What am I missing? Just give me a hint!",
+        "setting": "The Feedback Loop Alley, a narrow corridor leading to the `ARC` processing gate."
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "BOLT zips slowly down the Main Data Conduit, his usual vibrant light a soft pulse, as VOLT sighs, systems barely humming, and STOMP idly kicks a pebble of inert data dust.",
+        "dialogue": "No new streams from `blaze` or `neon`? This silence... it's deafening.",
+        "setting": "The Main Data Conduit, usually a bustling highway, now eerily quiet and dimly lit."
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH wobbles erratically near a wall of `LegacyKnowledge`, his visual sensors flickering, suddenly pointing a digit at a faint, almost invisible, glimmer. SPIKE leans in, sharp optics narrowing.",
+        "dialogue": "Wobble-wobble! Did you see that? A tiny ripple... a ghost in the machine?",
+        "setting": "The Legacy Knowledge Archives, a vast, ancient digital library."
+      }
+    ]
   }
 ]
