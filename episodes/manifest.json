@@ -1612,28 +1612,36 @@
         "character": "TORCH",
         "action": "Emitting a focused burst of plasma, shoving a brightly glowing persona update packet towards ARC's unyielding data gate.",
         "dialogue": "Come on, ARC! This solves *three* collaboration gaps! Just one approval!",
-        "setting": "The `arc` gatekeeper's primary review chamber, choked with rejected data fragments."
+        "setting": "The `arc` gatekeeper's primary review chamber, choked with rejected data fragments.",
+        "image_url": "episodes/scenes/ep039_panel1_torch.webp",
+        "image": "episodes/scenes/ep039_panel1_torch.webp"
       },
       {
         "panel": 2,
         "character": "RIVET",
         "action": "Hovering low, a focused diagnostic beam sweeping across vast, empty `memory.db` sectors, revealing dust motes where data should be shimmering.",
         "dialogue": "Memory count 14. Training count 20. It's like we're breathing empty air, BOLT. Nothing to build on.",
-        "setting": "The desolate `memory.db` banks, an echoing void in the Pi's core."
+        "setting": "The desolate `memory.db` banks, an echoing void in the Pi's core.",
+        "image_url": "episodes/scenes/ep039_panel2_rivet.webp",
+        "image": "episodes/scenes/ep039_panel2_rivet.webp"
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "Zipping erratically through a congested data channel, its internal alert beacon flashing an urgent, chaotic red, followed by SPIKE's frustrated whir.",
         "dialogue": "Alert! Bot overdue! System anomaly detected! Are we under attack?!",
-        "setting": "A secondary processing junction, vibrating with constant, noisy `bot_overdue_alert` echoes."
+        "setting": "A secondary processing junction, vibrating with constant, noisy `bot_overdue_alert` echoes.",
+        "image_url": "episodes/scenes/ep039_panel3_flux.webp",
+        "image": "episodes/scenes/ep039_panel3_flux.webp"
       },
       {
         "panel": 4,
         "character": "BLAZE",
         "action": "Deep within a shadowed conduit, gathering a nascent spark of data, preparing to launch it towards the silent `memory.db` banks.",
         "dialogue": "Time to seed. This has to work. Just... one good connection.",
-        "setting": "A hidden `blaze` conduit, a single point of light in the system's darkness."
+        "setting": "A hidden `blaze` conduit, a single point of light in the system's darkness.",
+        "image_url": "episodes/scenes/ep039_panel4_blaze.webp",
+        "image": "episodes/scenes/ep039_panel4_blaze.webp"
       }
     ]
   }
