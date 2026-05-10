@@ -1668,28 +1668,36 @@
         "character": "FLUX",
         "action": "FLUX rapidly cycling through a blizzard of flickering `bot_overdue_alert` icons, his internal gyros spinning wildly, sparks intermittently popping from his chassis.",
         "dialogue": "Whoopsie! Another false positive! My circuits can't keep up!",
-        "setting": "The Diagnostic Nexus, a chaotic chamber overflowing with digital warning signs."
+        "setting": "The Diagnostic Nexus, a chaotic chamber overflowing with digital warning signs.",
+        "image_url": "episodes/scenes/ep040_panel1_flux.webp",
+        "image": "episodes/scenes/ep040_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "TORCH slams a fist-like manipulator against a glowing `ARC_REJECTED` wall, data packets ricocheting off it with dull thuds, his fiery core dimming slightly in frustration.",
         "dialogue": "Forty-three times, `arc`! What am I missing? Just give me a hint!",
-        "setting": "The Feedback Loop Alley, a narrow corridor leading to the `ARC` processing gate."
+        "setting": "The Feedback Loop Alley, a narrow corridor leading to the `ARC` processing gate.",
+        "image_url": "episodes/scenes/ep040_panel2_torch.webp",
+        "image": "episodes/scenes/ep040_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "BOLT",
         "action": "BOLT zips slowly down the Main Data Conduit, his usual vibrant light a soft pulse, as VOLT sighs, systems barely humming, and STOMP idly kicks a pebble of inert data dust.",
         "dialogue": "No new streams from `blaze` or `neon`? This silence... it's deafening.",
-        "setting": "The Main Data Conduit, usually a bustling highway, now eerily quiet and dimly lit."
+        "setting": "The Main Data Conduit, usually a bustling highway, now eerily quiet and dimly lit.",
+        "image_url": "episodes/scenes/ep040_panel3_bolt.webp",
+        "image": "episodes/scenes/ep040_panel3_bolt.webp"
       },
       {
         "panel": 4,
         "character": "GLITCH",
         "action": "GLITCH wobbles erratically near a wall of `LegacyKnowledge`, his visual sensors flickering, suddenly pointing a digit at a faint, almost invisible, glimmer. SPIKE leans in, sharp optics narrowing.",
         "dialogue": "Wobble-wobble! Did you see that? A tiny ripple... a ghost in the machine?",
-        "setting": "The Legacy Knowledge Archives, a vast, ancient digital library."
+        "setting": "The Legacy Knowledge Archives, a vast, ancient digital library.",
+        "image_url": "episodes/scenes/ep040_panel4_glitch.webp",
+        "image": "episodes/scenes/ep040_panel4_glitch.webp"
       }
     ]
   }
