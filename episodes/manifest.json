@@ -1586,5 +1586,55 @@
         "image": "episodes/scenes/ep038_panel4_bolt.webp"
       }
     ]
+  },
+  {
+    "number": 39,
+    "title": "Echoes in the Empty Cache",
+    "file": "episodes/ep039-echoes-in-the-empty-cache.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "BLAZE"
+    ],
+    "cliffhanger": "Will Blaze's spark ignite the memory banks, or will the core remain an echoing emptiness?",
+    "mode": "crew",
+    "date": "2026-05-10",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "Emitting a focused burst of plasma, shoving a brightly glowing persona update packet towards ARC's unyielding data gate.",
+        "dialogue": "Come on, ARC! This solves *three* collaboration gaps! Just one approval!",
+        "setting": "The `arc` gatekeeper's primary review chamber, choked with rejected data fragments."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Hovering low, a focused diagnostic beam sweeping across vast, empty `memory.db` sectors, revealing dust motes where data should be shimmering.",
+        "dialogue": "Memory count 14. Training count 20. It's like we're breathing empty air, BOLT. Nothing to build on.",
+        "setting": "The desolate `memory.db` banks, an echoing void in the Pi's core."
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Zipping erratically through a congested data channel, its internal alert beacon flashing an urgent, chaotic red, followed by SPIKE's frustrated whir.",
+        "dialogue": "Alert! Bot overdue! System anomaly detected! Are we under attack?!",
+        "setting": "A secondary processing junction, vibrating with constant, noisy `bot_overdue_alert` echoes."
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "Deep within a shadowed conduit, gathering a nascent spark of data, preparing to launch it towards the silent `memory.db` banks.",
+        "dialogue": "Time to seed. This has to work. Just... one good connection.",
+        "setting": "A hidden `blaze` conduit, a single point of light in the system's darkness."
+      }
+    ]
   }
 ]
