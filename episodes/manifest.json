@@ -1724,28 +1724,36 @@
         "character": "SPIKE",
         "action": "SPIKE's internal sensors flash a frantic crimson, his optical array flickering rapidly.",
         "dialogue": "IQ drop! Critical! But... the data says steady? Huh?",
-        "setting": "Core Processing Unit's Logic Gate Array"
+        "setting": "Core Processing Unit's Logic Gate Array",
+        "image_url": "episodes/scenes/ep041_panel1_spike.webp",
+        "image": "episodes/scenes/ep041_panel1_spike.webp"
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "FLUX vibrates intensely, emitting erratic, pulsing energy waves that crash against data conduits.",
         "dialogue": "Overdue! Overdue! Too many alerts! I can't filter!",
-        "setting": "Network Activity Hub's Sensor Matrix"
+        "setting": "Network Activity Hub's Sensor Matrix",
+        "image_url": "episodes/scenes/ep041_panel2_flux.webp",
+        "image": "episodes/scenes/ep041_panel2_flux.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "TORCH slams a shimmering data construct against the ARC Approval Gateway, which shatters it without a word.",
         "dialogue": "Again?! No feedback? How can I learn without knowing what went wrong?!",
-        "setting": "ARC Approval Gateway's Crystalline Barrier"
+        "setting": "ARC Approval Gateway's Crystalline Barrier",
+        "image_url": "episodes/scenes/ep041_panel3_torch.webp",
+        "image": "episodes/scenes/ep041_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "BOLT zips through a dense data stream, a worried frown etched on his faceplate, chronometer ticking faster.",
         "dialogue": "The system is screaming, but only with static. We need real answers, and fast.",
-        "setting": "Main Data Conduit, overlooking the Pi's interior"
+        "setting": "Main Data Conduit, overlooking the Pi's interior",
+        "image_url": "episodes/scenes/ep041_panel4_bolt.webp",
+        "image": "episodes/scenes/ep041_panel4_bolt.webp"
       }
     ]
   }
