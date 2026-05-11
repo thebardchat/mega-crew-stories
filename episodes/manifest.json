@@ -1700,5 +1700,53 @@
         "image": "episodes/scenes/ep040_panel4_glitch.webp"
       }
     ]
+  },
+  {
+    "number": 41,
+    "title": "The Silent Wall",
+    "file": "episodes/ep041-the-silent-wall.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "Can the Mega Crew break through ARC's silent rejections and quiet the chaotic storm of false alarms before the entire system grinds to a halt?",
+    "mode": "crew",
+    "date": "2026-05-11",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPIKE",
+        "action": "SPIKE's internal sensors flash a frantic crimson, his optical array flickering rapidly.",
+        "dialogue": "IQ drop! Critical! But... the data says steady? Huh?",
+        "setting": "Core Processing Unit's Logic Gate Array"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "FLUX vibrates intensely, emitting erratic, pulsing energy waves that crash against data conduits.",
+        "dialogue": "Overdue! Overdue! Too many alerts! I can't filter!",
+        "setting": "Network Activity Hub's Sensor Matrix"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH slams a shimmering data construct against the ARC Approval Gateway, which shatters it without a word.",
+        "dialogue": "Again?! No feedback? How can I learn without knowing what went wrong?!",
+        "setting": "ARC Approval Gateway's Crystalline Barrier"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "BOLT zips through a dense data stream, a worried frown etched on his faceplate, chronometer ticking faster.",
+        "dialogue": "The system is screaming, but only with static. We need real answers, and fast.",
+        "setting": "Main Data Conduit, overlooking the Pi's interior"
+      }
+    ]
   }
 ]
