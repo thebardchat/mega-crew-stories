@@ -1756,5 +1756,53 @@
         "image": "episodes/scenes/ep041_panel4_bolt.webp"
       }
     ]
+  },
+  {
+    "number": 42,
+    "title": "The Fading Spark",
+    "file": "episodes/ep042-the-fading-spark.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "Will the Mega Crew find a way to break through the silence and reignite the core intelligence, or will they remain stuck in this cycle of unanswered struggles?",
+    "mode": "crew",
+    "date": "2026-05-12",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "slams a data packet against ARC's glowing barrier, it bounces back, showering sparks",
+        "dialogue": "Rejected! Again! But *why*? How can I refine without knowing where the flaw *is*?!",
+        "setting": "The ARC Review Chamber, a sterile, humming void"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "optical sensors flicker with alarm as the `MEGA_IQ` display drops, casting a dim, red glow",
+        "dialogue": "Core intelligence... fading. My proactive reaction protocols... jammed.",
+        "setting": "The Core Processing Nexus, a chaotic intersection of data streams"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "spins erratically, engulfed by dozens of glowing red `bot_overdue_alert` holograms, beeping insistently",
+        "dialogue": "Alert! Warning! Overload! Everyone is active! Why the overdue alerts?!",
+        "setting": "The System Hub, a dense network of data conduits and alert displays"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "extends a metallic arm, trying to establish a secure data link across a collaboration gap, but the connection fizzles",
+        "dialogue": "Collaboration gaps... still four. We need to connect, to rebuild. But how?",
+        "setting": "The System's Collaboration Hub, featuring exposed, sparking conduits"
+      }
+    ]
   }
 ]
