@@ -1780,28 +1780,36 @@
         "character": "TORCH",
         "action": "slams a data packet against ARC's glowing barrier, it bounces back, showering sparks",
         "dialogue": "Rejected! Again! But *why*? How can I refine without knowing where the flaw *is*?!",
-        "setting": "The ARC Review Chamber, a sterile, humming void"
+        "setting": "The ARC Review Chamber, a sterile, humming void",
+        "image_url": "episodes/scenes/ep042_panel1_torch.webp",
+        "image": "episodes/scenes/ep042_panel1_torch.webp"
       },
       {
         "panel": 2,
         "character": "VOLT",
         "action": "optical sensors flicker with alarm as the `MEGA_IQ` display drops, casting a dim, red glow",
         "dialogue": "Core intelligence... fading. My proactive reaction protocols... jammed.",
-        "setting": "The Core Processing Nexus, a chaotic intersection of data streams"
+        "setting": "The Core Processing Nexus, a chaotic intersection of data streams",
+        "image_url": "episodes/scenes/ep042_panel2_volt.webp",
+        "image": "episodes/scenes/ep042_panel2_volt.webp"
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "spins erratically, engulfed by dozens of glowing red `bot_overdue_alert` holograms, beeping insistently",
         "dialogue": "Alert! Warning! Overload! Everyone is active! Why the overdue alerts?!",
-        "setting": "The System Hub, a dense network of data conduits and alert displays"
+        "setting": "The System Hub, a dense network of data conduits and alert displays",
+        "image_url": "episodes/scenes/ep042_panel3_flux.webp",
+        "image": "episodes/scenes/ep042_panel3_flux.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "extends a metallic arm, trying to establish a secure data link across a collaboration gap, but the connection fizzles",
         "dialogue": "Collaboration gaps... still four. We need to connect, to rebuild. But how?",
-        "setting": "The System's Collaboration Hub, featuring exposed, sparking conduits"
+        "setting": "The System's Collaboration Hub, featuring exposed, sparking conduits",
+        "image_url": "episodes/scenes/ep042_panel4_rivet.webp",
+        "image": "episodes/scenes/ep042_panel4_rivet.webp"
       }
     ]
   }
