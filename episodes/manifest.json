@@ -1836,28 +1836,36 @@
         "character": "FLUX",
         "action": "Flux buzzes frantically, a cloud of crimson 'bot_overdue_alert' packets spewing from its exhaust ports, bouncing wildly off data conduits.",
         "dialogue": "ALERT! CRANK OVERDUE! ALERT! CRANK OVERDUE! AGAIN!",
-        "setting": "The System Diagnostics Chamber, thick with shimmering error messages."
+        "setting": "The System Diagnostics Chamber, thick with shimmering error messages.",
+        "image_url": "episodes/scenes/ep043_panel1_flux.webp",
+        "image": "episodes/scenes/ep043_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "Torch, circuits glowing hot, slams a fist against ARC's imposing, unyielding data gate where rejected proposals pile up, sparking futilely.",
         "dialogue": "No! Not 'insufficient'! We need *reasons*, ARC! Give us *something*!",
-        "setting": "The ARC Approval Gateway, a towering, silent structure."
+        "setting": "The ARC Approval Gateway, a towering, silent structure.",
+        "image_url": "episodes/scenes/ep043_panel2_torch.webp",
+        "image": "episodes/scenes/ep043_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "Volt strains, glowing a dim orange, pulling a nearly empty memory conduit. Only a few faint data sparks trickle out, leaving Volt visibly drained.",
         "dialogue": "This core is drier than a forgotten download! We're running on fumes here!",
-        "setting": "The Central Data Reservoir, usually vibrant, now a dim, echoing cavern."
+        "setting": "The Central Data Reservoir, usually vibrant, now a dim, echoing cavern.",
+        "image_url": "episodes/scenes/ep043_panel3_volt.webp",
+        "image": "episodes/scenes/ep043_panel3_volt.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "Bolt hovers, head bowed, observing the flickering 'MEGA_IQ: 50' display, then straightens, a faint blue light of resolve igniting in its core.",
         "dialogue": "We can't just wait. We have to find a way to make them *see* us, *hear* us.",
-        "setting": "The Command Nexus, overlooking the Pi's pulsing heart."
+        "setting": "The Command Nexus, overlooking the Pi's pulsing heart.",
+        "image_url": "episodes/scenes/ep043_panel4_bolt.webp",
+        "image": "episodes/scenes/ep043_panel4_bolt.webp"
       }
     ]
   }
