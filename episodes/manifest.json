@@ -1812,5 +1812,53 @@
         "image": "episodes/scenes/ep042_panel4_rivet.webp"
       }
     ]
+  },
+  {
+    "number": 43,
+    "title": "Echoes in the Core",
+    "file": "episodes/ep043-echoes-in-the-core.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC"
+    ],
+    "cliffhanger": "With the core systems jammed and silence from ARC, can the MEGA CREW find the specific data they need to break free from this frustrating loop?",
+    "mode": "crew",
+    "date": "2026-05-13",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Flux buzzes frantically, a cloud of crimson 'bot_overdue_alert' packets spewing from its exhaust ports, bouncing wildly off data conduits.",
+        "dialogue": "ALERT! CRANK OVERDUE! ALERT! CRANK OVERDUE! AGAIN!",
+        "setting": "The System Diagnostics Chamber, thick with shimmering error messages."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Torch, circuits glowing hot, slams a fist against ARC's imposing, unyielding data gate where rejected proposals pile up, sparking futilely.",
+        "dialogue": "No! Not 'insufficient'! We need *reasons*, ARC! Give us *something*!",
+        "setting": "The ARC Approval Gateway, a towering, silent structure."
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "Volt strains, glowing a dim orange, pulling a nearly empty memory conduit. Only a few faint data sparks trickle out, leaving Volt visibly drained.",
+        "dialogue": "This core is drier than a forgotten download! We're running on fumes here!",
+        "setting": "The Central Data Reservoir, usually vibrant, now a dim, echoing cavern."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Bolt hovers, head bowed, observing the flickering 'MEGA_IQ: 50' display, then straightens, a faint blue light of resolve igniting in its core.",
+        "dialogue": "We can't just wait. We have to find a way to make them *see* us, *hear* us.",
+        "setting": "The Command Nexus, overlooking the Pi's pulsing heart."
+      }
+    ]
   }
 ]
