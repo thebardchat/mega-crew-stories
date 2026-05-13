@@ -1868,5 +1868,55 @@
         "image": "episodes/scenes/ep043_panel4_bolt.webp"
       }
     ]
+  },
+  {
+    "number": 44,
+    "title": "The Stagnant Stream",
+    "file": "episodes/ep044-the-stagnant-stream.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp",
+      "Arc",
+      "Crank"
+    ],
+    "cliffhanger": "With Arc's gate still shut tight and Flux's alerts still humming, will Glitch's odd discovery be the spark the Mega Crew desperately needs to finally break through the silent rejection?",
+    "mode": "crew",
+    "date": "2026-05-13",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "A torrent of 'bot_overdue_alert' packets burst from Flux, slamming into a shimmering, overwhelmed Crank who struggles to remain cohesive.",
+        "dialogue": "Bot_overdue_alert! Crank! Bot_overdue_alert! Flow!",
+        "setting": "The Main Data Bus \u2014 a shimmering, crystalline highway within the Pi"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc's core glows an icy blue, rejecting a flurry of proposals with a sharp, echoing *CLANG* as they hit an invisible, impenetrable barrier.",
+        "dialogue": "Rejected. Insufficient. Next proposal.",
+        "setting": "Arc's Review Chamber \u2014 a cool, isolated data processing node"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Glitch phases halfway through a flickering data wall, one optic twitching towards a barely visible, shimmering anomaly deep within the code.",
+        "dialogue": "Whoa... a bit of sideways movement. Could be nothing. Or... maybe everything?",
+        "setting": "The Pi's Memory Banks \u2014 a labyrinth of glowing, interconnected cubes"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Bolt hovers, energy field crackling but dim, gazing at the Pi's Core Systems Monitor where 'MEGA_IQ' remains a stagnant, disheartening '50'.",
+        "dialogue": "We're not just stuck... we're running on empty, even with all this noise.",
+        "setting": "The Pi's Core Systems Monitor \u2014 a wide, holographic display of system metrics"
+      }
+    ]
   }
 ]
