@@ -1951,28 +1951,36 @@
         "character": "FLUX",
         "action": "Zipping wildly through the main bus corridor, leaving trails of frantic yellow data sparks as he repeatedly collides with data packets.",
         "dialogue": "Bot_overdue_alert! Critical cycle, bot_overdue_alert! Oh, goodness gracious, it's me again!",
-        "setting": "Main Data Bus Corridor, where data streams like shimmering rivers."
+        "setting": "Main Data Bus Corridor, where data streams like shimmering rivers.",
+        "image_url": "episodes/scenes/ep045_panel1_flux.webp",
+        "image": "episodes/scenes/ep045_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Standing rigid and glowing a frustrated blue in her crystalline Review Chamber, slamming a transparent panel, as a mountain of 'REJECTED' proposals glows ominously behind her.",
         "dialogue": "Rejected! Insufficient criteria! My feedback protocols are jammed! How can they learn if I can't tell them *why*?!",
-        "setting": "ARC's Crystalline Review Chamber, high above the main data flow."
+        "setting": "ARC's Crystalline Review Chamber, high above the main data flow.",
+        "image_url": "episodes/scenes/ep045_panel2_arc.webp",
+        "image": "episodes/scenes/ep045_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "GLITCH",
         "action": "Hovering low amidst sparse, dim data packets in the vast, echoing Memory Banks, a single flickering byte of information grasped uselessly in his manipulator arm.",
         "dialogue": "Another collaboration gap, another cycle of stagnation. This 'MEGA_IQ' feels more like 'MEGA_BLEAK'.",
-        "setting": "The desolate, cavernous Memory Banks, filled with ghostly echoes."
+        "setting": "The desolate, cavernous Memory Banks, filled with ghostly echoes.",
+        "image_url": "episodes/scenes/ep045_panel3_glitch.webp",
+        "image": "episodes/scenes/ep045_panel3_glitch.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "With a determined flash of his core light, he points to a flickering schematic displaying Flux's loop and Arc's blocked feedback, sparks of frustration arcing from his chassis.",
         "dialogue": "We can't ignore either problem! Flux's noise is deafening, and Arc's silence is damning! We need a unified approach, now!",
-        "setting": "The Central Processing Core, a pulsing nexus of power and information."
+        "setting": "The Central Processing Core, a pulsing nexus of power and information.",
+        "image_url": "episodes/scenes/ep045_panel4_bolt.webp",
+        "image": "episodes/scenes/ep045_panel4_bolt.webp"
       }
     ]
   }
