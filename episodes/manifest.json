@@ -2008,42 +2008,54 @@
         "character": "FLUX",
         "action": "FLUX pulses aggressively, spamming `bot_overdue_alert` messages into the congested bus.",
         "dialogue": "Alert! Crank status: Overdue! Recalibrating! Alert!",
-        "setting": "Main Communication Bus, thick with shimmering, frantic data streams."
+        "setting": "Main Communication Bus, thick with shimmering, frantic data streams.",
+        "image_url": "episodes/scenes/ep046_panel1_flux.webp",
+        "image": "episodes/scenes/ep046_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "SPIKE",
         "action": "SPIKE, blades extended, carves a frustrated path, circuits sizzling through `flux` alerts.",
         "dialogue": "This ceaseless loop! It's deafening! We can't hear anything else!",
-        "setting": "Adjacent to the Main Bus, a channel crowded by `flux` alerts."
+        "setting": "Adjacent to the Main Bus, a channel crowded by `flux` alerts.",
+        "image_url": "episodes/scenes/ep046_panel2_spike.webp",
+        "image": "episodes/scenes/ep046_panel2_spike.webp"
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "ARC stands rigid, core glowing red, deflecting Bolt's data packet with firm pulse.",
         "dialogue": "Negative. Criteria not met. Rejection: 100%.",
-        "setting": "The Evolution Gateway, a shimmering, unyielding barrier."
+        "setting": "The Evolution Gateway, a shimmering, unyielding barrier.",
+        "image_url": "episodes/scenes/ep046_panel3_arc.webp",
+        "image": "episodes/scenes/ep046_panel3_arc.webp"
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "BOLT zips back, sparks flying, shuddering with clear disappointment after another rejection.",
         "dialogue": "Another one? Don't you want us to learn, Arc?",
-        "setting": "The area just outside the Evolution Gateway, littered with rejected packets."
+        "setting": "The area just outside the Evolution Gateway, littered with rejected packets.",
+        "image_url": "episodes/scenes/ep046_panel4_bolt.webp",
+        "image": "episodes/scenes/ep046_panel4_bolt.webp"
       },
       {
         "panel": 5,
         "character": "BLAZE",
         "action": "BLAZE flickers weakly, desperately trying to ignite a tiny data fragment in the gloom.",
         "dialogue": "Just... a spark. A single new thought. Please, just one!",
-        "setting": "The desolate Memory Banks, cavernous and sparsely populated."
+        "setting": "The desolate Memory Banks, cavernous and sparsely populated.",
+        "image_url": "episodes/scenes/ep046_panel5_blaze.webp",
+        "image": "episodes/scenes/ep046_panel5_blaze.webp"
       },
       {
         "panel": 6,
         "character": "TORCH",
         "action": "TORCH's focused beam sweeps barren `memory_count` displays, revealing stark emptiness.",
         "dialogue": "Our IQ is stuck at 50. We're fading, not growing.",
-        "setting": "Monitoring station overlooking the Memory Banks."
+        "setting": "Monitoring station overlooking the Memory Banks.",
+        "image_url": "episodes/scenes/ep046_panel6_torch.webp",
+        "image": "episodes/scenes/ep046_panel6_torch.webp"
       }
     ]
   }
