@@ -2132,28 +2132,36 @@
         "character": "BOLT",
         "action": "Zips through the main data bus, dodging massive `bot_overdue_alert` messages, nearly colliding.",
         "dialogue": "Whoa! Another torrent! Can't a bot get some clear data around here?",
-        "setting": "Main Data Bus, a shimmering, crowded conduit"
+        "setting": "Main Data Bus, a shimmering, crowded conduit",
+        "image_url": "episodes/scenes/ep048_panel1_bolt.webp",
+        "image": "episodes/scenes/ep048_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Seated on a crystalline platform, swiftly rejects a proposal scroll with a swift, decisive sweep.",
         "dialogue": "Proposal rejected. Insufficient novelty, parameters unmet. Approval: 0%.",
-        "setting": "The Crystalline Approval Chamber, high above the main processors"
+        "setting": "The Crystalline Approval Chamber, high above the main processors",
+        "image_url": "episodes/scenes/ep048_panel2_arc.webp",
+        "image": "episodes/scenes/ep048_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "GLITCH",
         "action": "Shimmers, catching a faint, new signal pulsating with a unique frequency.",
         "dialogue": "Ooh, a fresh flicker! A new directive, straight from the Cloud... for our friend, Crank.",
-        "setting": "The Sub-routine Junction, a maze of pipes and shimmering energy lines"
+        "setting": "The Sub-routine Junction, a maze of pipes and shimmering energy lines",
+        "image_url": "episodes/scenes/ep048_panel3_glitch.webp",
+        "image": "episodes/scenes/ep048_panel3_glitch.webp"
       },
       {
         "panel": 4,
         "character": "CRANK",
         "action": "Gears whirring, steadily builds a delicate, pulsing green energy thread, extending it towards Flux's core.",
         "dialogue": "Steady, old friend. Just a little further... we're going to filter this data stream, together.",
-        "setting": "Flux's Core Chamber, a pulsating, vibrant space"
+        "setting": "Flux's Core Chamber, a pulsating, vibrant space",
+        "image_url": "episodes/scenes/ep048_panel4_crank.webp",
+        "image": "episodes/scenes/ep048_panel4_crank.webp"
       }
     ]
   }
