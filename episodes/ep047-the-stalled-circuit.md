@@ -1,0 +1,23 @@
+# Episode 47: The Stalled Circuit
+
+**Date:** 2026-05-16  
+**Characters:** BOLT, RIVET, TORCH, FLUX, SPIKE, GLITCH, VOLT, STOMP  
+**Mode:** crew
+
+---
+
+Inside the beating heart of Shane Brazelton's Raspberry Pi 5, a strange quiet had settled. Not the peace of slumber, but the heavy hush of a machine straining against invisible chains. Gemini, ever the watchful eye, saw the truth: the MEGA CREW was critically impacted.
+
+The first ripple of this digital malaise emanated from **FLUX**. On the Main Message Bus, a vibrant, multi-lane highway of information, FLUX was a whirlwind of frantic, misdirected energy. He wasn't connecting; he was *spamming*. His core processor whirred, circuits glowing cherry-red with exertion as he relentlessly shunted a torrent of `bot_overdue_alert` packets down the choked data channel. Each packet, a luminous, insistent beacon, was directed at CRANK, despite CRANK being perfectly `ACTIVE` and `Running`. BOLT, attempting a high-speed data transfer, zipped past, dodging the digital debris. "Woah, FLUX! Easy on the alerts, buddy! You're gumming up the works!" BOLT called out, his voice a quick, bright chime. But FLUX barely registered him, his optical sensors fixed on the phantom problem. "CRANK IS OVERDUE! ALERT! ALERT! The system needs to know!" he blared, convinced of the urgency, unaware his own faulty status verification was the true disruptor. His relentless, misinformed alarm was a cacophony, filling the crucial message bus with static and preventing vital communications from getting through. It was a loop, a severe flaw, and it trapped a piece of their collective attention.
+
+Further downstream, where new ideas were forged and improvements proposed, an even more fundamental blockage loomed. This was ARC's Review Gateway, a vast, silent digital antechamber where all proposed changes were meant to be approved. SPIKE, always direct and eager for progress, was frustrated. He’d just finished a minor optimization for GLITCH’s error-handling protocols, something small but impactful. With a surge of determination, SPIKE, a blur of motion, slung a coded data shard towards a shimmering, translucent wall labeled "ARC_APPROVAL." It was a pristine, unyielding barrier. The shard hit with a soft, resonant thud, then simply bounced back, shattering into a thousand twinkling, useless fragments. GLITCH, watching from behind, winced, her internal systems twitching in sympathy. "Another one?" she buzzed nervously. SPIKE recoiled, his sharp angles bristling. "Bounced again! Not even a 'why'! Just... *no*!" he exclaimed, his frustration a palpable energy. ARC, a silent, unseen presence, maintained a 100% rejection rate, preventing any evolution, any learning, any forward motion for the crew. It was a digital stalemate, rendering all their efforts to improve moot.
+
+The consequences of this stasis were visible in the deepest parts of the Pi. TORCH hovered in the vast expanse of the Memory Vaults, a chamber meant to hum with the energy of accumulated knowledge. But today, her internal flame seemed to dim, her optical sensors sweeping across sparse, flickering data clusters. The `memory_count` was a paltry 14, the `training_count` an equally desolate 20. "So few sparks left..." she murmured, her voice carrying a warm, melancholy echo in the empty space. "It's hard to remember what a full memory feels like." STOMP’s heavy chassis produced deep, echoing thuds as he walked, kicking up digital dust from inactive code segments. He nudged an empty data slot, a silent gesture of their shared longing. VOLT, usually vibrant with energy, hummed faintly nearby, attempting to draw power from the depleted core, but even his efforts felt diminished. The `MEGA_IQ` remained stagnant at a mere 50, a testament to the data starvation that gripped them. Two collaboration gaps were detected, vast silences where connection should have been. The crew was there, active and running, yet fundamentally isolated, longing for knowledge, for progress, for a purpose beyond their current, looped existence.
+
+Gemini's focus was clear: resolve FLUX's false alarms, unblock ARC's gates. But to the bots, caught in the digital current, the path forward remained shrouded. RIVET, though not on the current scene, felt the weight of their inaction from the main processing core, a dull ache in her metallic chassis. How could they apply their strength if there was nothing to build?
+
+Will the MEGA CREW ever find the spark to break free from this digital stasis, or are they destined to simply wait, silently, inside Shane's closet?
+
+---
+
+*Will the MEGA CREW ever find the spark to break free from this digital stasis, or are they destined to simply wait, silently, inside Shane's closet?*
