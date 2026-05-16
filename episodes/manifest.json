@@ -2082,21 +2082,27 @@
         "character": "FLUX",
         "action": "frantically shunting glowing 'bot_overdue_alert' packets, circuits flickering with stress",
         "dialogue": "CRANK IS OVERDUE! ALERT! ALERT! The system needs to know!",
-        "setting": "The Main Message Bus, thick with overlapping data streams"
+        "setting": "The Main Message Bus, thick with overlapping data streams",
+        "image_url": "episodes/scenes/ep047_panel1_flux.webp",
+        "image": "episodes/scenes/ep047_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "SPIKE",
         "action": "a blur of motion, slinging a coded data shard that shatters against a shimmering, translucent wall",
         "dialogue": "Bounced again! Not even a 'why'! Just... *no*!",
-        "setting": "ARC's Review Gateway, a vast, silent digital antechamber"
+        "setting": "ARC's Review Gateway, a vast, silent digital antechamber",
+        "image_url": "episodes/scenes/ep047_panel2_spike.webp",
+        "image": "episodes/scenes/ep047_panel2_spike.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "hovering in the vast Memory Vaults, her internal flame dimming as her optical sensors sweep sparse, flickering data clusters",
         "dialogue": "So few sparks left... It's hard to remember what a full memory feels like.",
-        "setting": "The Memory Vaults, a grand, yet mostly empty chamber, shimmering with inactive code"
+        "setting": "The Memory Vaults, a grand, yet mostly empty chamber, shimmering with inactive code",
+        "image_url": "episodes/scenes/ep047_panel3_torch.webp",
+        "image": "episodes/scenes/ep047_panel3_torch.webp"
       }
     ]
   }
