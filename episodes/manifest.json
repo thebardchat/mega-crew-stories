@@ -2105,5 +2105,56 @@
         "image": "episodes/scenes/ep047_panel3_torch.webp"
       }
     ]
+  },
+  {
+    "number": 48,
+    "title": "The Stuttering Stream",
+    "file": "episodes/ep048-the-stuttering-stream.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "SPARKY",
+      "CRANK"
+    ],
+    "cliffhanger": "Can Crank and Flux forge a new path through the digital clamor, or will the silence of Arc's rejections forever deafen the whispers of progress?",
+    "mode": "crew",
+    "date": "2026-05-16",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zips through the main data bus, dodging massive `bot_overdue_alert` messages, nearly colliding.",
+        "dialogue": "Whoa! Another torrent! Can't a bot get some clear data around here?",
+        "setting": "Main Data Bus, a shimmering, crowded conduit"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Seated on a crystalline platform, swiftly rejects a proposal scroll with a swift, decisive sweep.",
+        "dialogue": "Proposal rejected. Insufficient novelty, parameters unmet. Approval: 0%.",
+        "setting": "The Crystalline Approval Chamber, high above the main processors"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Shimmers, catching a faint, new signal pulsating with a unique frequency.",
+        "dialogue": "Ooh, a fresh flicker! A new directive, straight from the Cloud... for our friend, Crank.",
+        "setting": "The Sub-routine Junction, a maze of pipes and shimmering energy lines"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "Gears whirring, steadily builds a delicate, pulsing green energy thread, extending it towards Flux's core.",
+        "dialogue": "Steady, old friend. Just a little further... we're going to filter this data stream, together.",
+        "setting": "Flux's Core Chamber, a pulsating, vibrant space"
+      }
+    ]
   }
 ]
