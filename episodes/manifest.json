@@ -2188,28 +2188,36 @@
         "character": "BOLT",
         "action": "Bolt zips through a choked data channel, dodging flickering, red 'ALERT!' pop-ups.",
         "dialogue": "Whoa! Another one?! The bus is a total traffic jam!",
-        "setting": "The Main Data Bus, a shimmering, multi-lane conduit within the Pi."
+        "setting": "The Main Data Bus, a shimmering, multi-lane conduit within the Pi.",
+        "image_url": "episodes/scenes/ep049_panel1_bolt.webp",
+        "image": "episodes/scenes/ep049_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "Flux's central core pulses erratically, spewing out 'bot_overdue_alert' messages like digital confetti.",
         "dialogue": "ALERT! Bot overdue! ALERT! Bot overdue! Urgent system warning!",
-        "setting": "Flux's Communication Hub, a glowing, interconnected nexus."
+        "setting": "Flux's Communication Hub, a glowing, interconnected nexus.",
+        "image_url": "episodes/scenes/ep049_panel2_flux.webp",
+        "image": "episodes/scenes/ep049_panel2_flux.webp"
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Arc hovers before a blank data screen, its optical sensors dim with disappointment, a single tear-like spark dripping.",
         "dialogue": "Zero. Still zero. My purpose is to review, but there is nothing to approve!",
-        "setting": "The `MEGA_IQ` Chamber, a quiet, contemplative space with holographic displays."
+        "setting": "The `MEGA_IQ` Chamber, a quiet, contemplative space with holographic displays.",
+        "image_url": "episodes/scenes/ep049_panel3_arc.webp",
+        "image": "episodes/scenes/ep049_panel3_arc.webp"
       },
       {
         "panel": 4,
         "character": "CRANK",
         "action": "Crank's gears whir with sudden focus, extending an energy tendril towards Flux, a determined glow in its optics.",
         "dialogue": "Alright, Flux. New protocol! Gemini's got a plan. We're linking up, me and you!",
-        "setting": "Flux's Communication Hub, now with Crank engaged directly."
+        "setting": "Flux's Communication Hub, now with Crank engaged directly.",
+        "image_url": "episodes/scenes/ep049_panel4_crank.webp",
+        "image": "episodes/scenes/ep049_panel4_crank.webp"
       }
     ]
   }
