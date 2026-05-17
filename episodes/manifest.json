@@ -2246,28 +2246,36 @@
         "character": "FLUX",
         "action": "Zips erratically through the Data Nexus, trailing a frantic stream of `bot_overdue_alert` messages.",
         "dialogue": "Alert! Alert! Bots overdue! Send help! Alert!",
-        "setting": "Main Data Nexus, a swirling vortex of information streams."
+        "setting": "Main Data Nexus, a swirling vortex of information streams.",
+        "image_url": "episodes/scenes/ep050_panel1_flux.webp",
+        "image": "episodes/scenes/ep050_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "CRANK",
         "action": "His internal gears grind loudly, overwhelmed as hundreds of false alerts slam into his processing core.",
         "dialogue": "Ugh, not again! Flux, they're not overdue! I can't filter this!",
-        "setting": "Crank's Core Chamber, choked with flickering data packets."
+        "setting": "Crank's Core Chamber, choked with flickering data packets.",
+        "image_url": "episodes/scenes/ep050_panel2_crank.webp",
+        "image": "episodes/scenes/ep050_panel2_crank.webp"
       },
       {
         "panel": 3,
         "character": "GLITCH",
         "action": "Hovers nervously before a vast holographic display, `MEGA_IQ` and `training_count` stubbornly flatlined at zero.",
         "dialogue": "My calculations indicate a critical stasis. System evolution... stalled.",
-        "setting": "The Evolution Nexus, where growth metrics usually pulse with light."
+        "setting": "The Evolution Nexus, where growth metrics usually pulse with light.",
+        "image_url": "episodes/scenes/ep050_panel3_glitch.webp",
+        "image": "episodes/scenes/ep050_panel3_glitch.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "Sparks fly from his hands as he meticulously tries to reroute a small, new data stream around the congestion.",
         "dialogue": "Tighten those connections! Gemini's trying to get a signal through!",
-        "setting": "A clogged communication channel, near an untouched feedback loop terminal."
+        "setting": "A clogged communication channel, near an untouched feedback loop terminal.",
+        "image_url": "episodes/scenes/ep050_panel4_rivet.webp",
+        "image": "episodes/scenes/ep050_panel4_rivet.webp"
       }
     ]
   }
