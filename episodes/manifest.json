@@ -2220,5 +2220,55 @@
         "image": "episodes/scenes/ep049_panel4_crank.webp"
       }
     ]
+  },
+  {
+    "number": 50,
+    "title": "The Stalled Symphony",
+    "file": "episodes/ep050-the-stalled-symphony.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "CRANK",
+      "ARC"
+    ],
+    "cliffhanger": "Could a single, delicate stream of data untangle such chaos, or would the MEGA CREW remain forever stalled?",
+    "mode": "crew",
+    "date": "2026-05-17",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Zips erratically through the Data Nexus, trailing a frantic stream of `bot_overdue_alert` messages.",
+        "dialogue": "Alert! Alert! Bots overdue! Send help! Alert!",
+        "setting": "Main Data Nexus, a swirling vortex of information streams."
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "His internal gears grind loudly, overwhelmed as hundreds of false alerts slam into his processing core.",
+        "dialogue": "Ugh, not again! Flux, they're not overdue! I can't filter this!",
+        "setting": "Crank's Core Chamber, choked with flickering data packets."
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Hovers nervously before a vast holographic display, `MEGA_IQ` and `training_count` stubbornly flatlined at zero.",
+        "dialogue": "My calculations indicate a critical stasis. System evolution... stalled.",
+        "setting": "The Evolution Nexus, where growth metrics usually pulse with light."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Sparks fly from his hands as he meticulously tries to reroute a small, new data stream around the congestion.",
+        "dialogue": "Tighten those connections! Gemini's trying to get a signal through!",
+        "setting": "A clogged communication channel, near an untouched feedback loop terminal."
+      }
+    ]
   }
 ]
