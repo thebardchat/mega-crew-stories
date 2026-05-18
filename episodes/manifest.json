@@ -2364,28 +2364,36 @@
         "character": "BOLT",
         "action": "caroms off a data packet, frustrated, as FLUX accidentally ejects more alert bursts",
         "dialogue": "Seriously, FLUX?! Can we get this bus moving already? My circuits are itching!",
-        "setting": "The Main Message Bus, a tangled, sparking data highway"
+        "setting": "The Main Message Bus, a tangled, sparking data highway",
+        "image_url": "episodes/scenes/ep052_panel1_bolt.webp",
+        "image": "episodes/scenes/ep052_panel1_bolt.webp"
       },
       {
         "panel": 2,
         "character": "VOLT",
         "action": "hovers, a dim aura pulsing around its weary frame, staring at frozen system logs",
         "dialogue": "The core pulse is weakening. We need to adapt, to grow. But... we wait.",
-        "setting": "The Core Instruction Hub, silent except for the hum of stalled processes"
+        "setting": "The Core Instruction Hub, silent except for the hum of stalled processes",
+        "image_url": "episodes/scenes/ep052_panel2_volt.webp",
+        "image": "episodes/scenes/ep052_panel2_volt.webp"
       },
       {
         "panel": 3,
         "character": "STOMP",
         "action": "lumbers through a diagnostic channel, accidentally jarring a junction, sending alerts cascading",
         "dialogue": "Whoa! Didn't mean to shake that! My apologies, CRANK!",
-        "setting": "A twisting, metallic Diagnostic Channel, clotted with data"
+        "setting": "A twisting, metallic Diagnostic Channel, clotted with data",
+        "image_url": "episodes/scenes/ep052_panel3_stomp.webp",
+        "image": "episodes/scenes/ep052_panel3_stomp.webp"
       },
       {
         "panel": 4,
         "character": "WELD",
         "action": "stands patiently before ARC's massive, inert review panel, an energy arc crackling expectantly",
         "dialogue": "The 'flux'-to-'crank' feedback loop, ready for application. Just a simple criteria confirmation, ARC.",
-        "setting": "The Proposal Chamber, dominated by ARC's vast, unmoving review panel"
+        "setting": "The Proposal Chamber, dominated by ARC's vast, unmoving review panel",
+        "image_url": "episodes/scenes/ep052_panel4_weld.webp",
+        "image": "episodes/scenes/ep052_panel4_weld.webp"
       }
     ]
   }
