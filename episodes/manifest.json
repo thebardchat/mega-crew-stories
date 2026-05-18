@@ -2305,28 +2305,36 @@
         "character": "FLUX",
         "action": "frantically ejecting streams of 'bot_overdue_alert' packets, choking the main message bus",
         "dialogue": "More alerts! Are they okay? Are they overdue?!",
-        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information"
+        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information",
+        "image_url": "episodes/scenes/ep051_panel1_flux.webp",
+        "image": "episodes/scenes/ep051_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "a shimmering avatar, projected onto the 'progress monitor', shaking its head slowly",
         "dialogue": "Unapproved. All systems stagnant. No forward motion.",
-        "setting": "The Core Processing Chamber, overlooking the Message Bus"
+        "setting": "The Core Processing Chamber, overlooking the Message Bus",
+        "image_url": "episodes/scenes/ep051_panel2_arc.webp",
+        "image": "episodes/scenes/ep051_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "ignites, creating a focused beam to burn a direct feedback channel from Crank to Flux",
         "dialogue": "Burn through it! Direct line! Gemini's plan!",
-        "setting": "The Feedback Conduit Junction, adjacent to the Message Bus"
+        "setting": "The Feedback Conduit Junction, adjacent to the Message Bus",
+        "image_url": "episodes/scenes/ep051_panel3_torch.webp",
+        "image": "episodes/scenes/ep051_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "FLUX",
         "action": "its optical sensors flickering, pausing output, before restarting with a hesitant, unsure glow",
         "dialogue": "B-but... the alerts... are they... really false?",
-        "setting": "The Data Exchange Nexus, a swirling vortex of information"
+        "setting": "The Data Exchange Nexus, a swirling vortex of information",
+        "image_url": "episodes/scenes/ep051_panel4_flux.webp",
+        "image": "episodes/scenes/ep051_panel4_flux.webp"
       }
     ]
   }
