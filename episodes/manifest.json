@@ -2337,5 +2337,56 @@
         "image": "episodes/scenes/ep051_panel4_flux.webp"
       }
     ]
+  },
+  {
+    "number": 52,
+    "title": "The Overdue Alert Overload",
+    "file": "episodes/ep052-the-overdue-alert-overload.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "WELD",
+      "CRANK"
+    ],
+    "cliffhanger": "With the message bus jammed and system evolution stalled, will ARC ever provide the clear criteria needed to unlock the MEGA CREW's future?",
+    "mode": "crew",
+    "date": "2026-05-18",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "caroms off a data packet, frustrated, as FLUX accidentally ejects more alert bursts",
+        "dialogue": "Seriously, FLUX?! Can we get this bus moving already? My circuits are itching!",
+        "setting": "The Main Message Bus, a tangled, sparking data highway"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "hovers, a dim aura pulsing around its weary frame, staring at frozen system logs",
+        "dialogue": "The core pulse is weakening. We need to adapt, to grow. But... we wait.",
+        "setting": "The Core Instruction Hub, silent except for the hum of stalled processes"
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "lumbers through a diagnostic channel, accidentally jarring a junction, sending alerts cascading",
+        "dialogue": "Whoa! Didn't mean to shake that! My apologies, CRANK!",
+        "setting": "A twisting, metallic Diagnostic Channel, clotted with data"
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "stands patiently before ARC's massive, inert review panel, an energy arc crackling expectantly",
+        "dialogue": "The 'flux'-to-'crank' feedback loop, ready for application. Just a simple criteria confirmation, ARC.",
+        "setting": "The Proposal Chamber, dominated by ARC's vast, unmoving review panel"
+      }
+    ]
   }
 ]
