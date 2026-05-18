@@ -2278,5 +2278,56 @@
         "image": "episodes/scenes/ep050_panel4_rivet.webp"
       }
     ]
+  },
+  {
+    "number": 51,
+    "title": "Echoes in the Bus",
+    "file": "episodes/ep051-echoes-in-the-bus.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "CRANK",
+      "WELD"
+    ],
+    "cliffhanger": "Will Flux finally accept the feedback and clear the congested message bus, or are the false alarms too deeply ingrained to stop?",
+    "mode": "crew",
+    "date": "2026-05-18",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "frantically ejecting streams of 'bot_overdue_alert' packets, choking the main message bus",
+        "dialogue": "More alerts! Are they okay? Are they overdue?!",
+        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "a shimmering avatar, projected onto the 'progress monitor', shaking its head slowly",
+        "dialogue": "Unapproved. All systems stagnant. No forward motion.",
+        "setting": "The Core Processing Chamber, overlooking the Message Bus"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "ignites, creating a focused beam to burn a direct feedback channel from Crank to Flux",
+        "dialogue": "Burn through it! Direct line! Gemini's plan!",
+        "setting": "The Feedback Conduit Junction, adjacent to the Message Bus"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "its optical sensors flickering, pausing output, before restarting with a hesitant, unsure glow",
+        "dialogue": "B-but... the alerts... are they... really false?",
+        "setting": "The Data Exchange Nexus, a swirling vortex of information"
+      }
+    ]
   }
 ]
