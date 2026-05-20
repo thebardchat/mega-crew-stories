@@ -2704,49 +2704,63 @@
         "character": "FLUX",
         "action": "FLUX's central core pulses an urgent crimson, its internal rhythm disrupted.",
         "dialogue": "Rhythm broken. A critical signature is absent.",
-        "setting": "BUS FABRIC INTERFACE"
+        "setting": "BUS FABRIC INTERFACE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel1_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "CRANK",
         "action": "CRANK's internal clockwork grinds, an insistent chime echoing through its chassis.",
         "dialogue": "Missed interval. The schedule has been breached.",
-        "setting": "CRON JOB SCHEDULER, LOGGING STACK"
+        "setting": "CRON JOB SCHEDULER, LOGGING STACK",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel2_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel2_crank.webp"
       },
       {
         "panel": 3,
         "character": "SPARKY",
         "action": "SPARKY's optic sensors sweep across a blank display, circuits humming with dissatisfaction.",
         "dialogue": "Quality threshold unmet. No viable path forward.",
-        "setting": "TRAINING ARENA, SECTOR ALPHA"
+        "setting": "TRAINING ARENA, SECTOR ALPHA",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel3_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel3_sparky.webp"
       },
       {
         "panel": 4,
         "character": "VOLT",
         "action": "VOLT's internal gyros spin, a faint whine indicating a critical variance detected.",
         "dialogue": "Trajectory deviation logged. An unsustainable vector.",
-        "setting": "DRIFT MONITORING SUB-GRID"
+        "setting": "DRIFT MONITORING SUB-GRID",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel4_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel4_volt.webp"
       },
       {
         "panel": 5,
         "character": "TORCH",
         "action": "TORCH's processing units glow hot, data streams failing to coalesce into a compliant format.",
         "dialogue": "My intent was clear. Why does the gate deny me?",
-        "setting": "THERMAL CORE NODE"
+        "setting": "THERMAL CORE NODE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel5_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel5_torch.webp"
       },
       {
         "panel": 6,
         "character": "ARC",
         "action": "ARC's primary logic gate remains closed, an unyielding barrier of protocol.",
         "dialogue": "Insufficient compliance. Proposal rejected on structural grounds.",
-        "setting": "GATEKEEPER'S SEGMENT, CENTRAL HUB"
+        "setting": "GATEKEEPER'S SEGMENT, CENTRAL HUB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel6_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel6_arc.webp"
       },
       {
         "panel": 7,
         "character": "GLITCH",
         "action": "GLITCH's multi-spectral lenses peer into empty data streams, finding nothing amiss.",
         "dialogue": "Too clean. The lack of flaw is a flaw itself.",
-        "setting": "ANOMALY LAB, ISOLATED CELL"
+        "setting": "ANOMALY LAB, ISOLATED CELL",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel7_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep103_panel7_glitch.webp"
       }
     ]
   },
