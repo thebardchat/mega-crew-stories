@@ -2531,56 +2531,72 @@
         "character": "FORGE",
         "action": "FORGE's optical sensors sweep lines of code, confirming integrity. A green light blinks on the monitor.",
         "dialogue": "All projects synced. No deviations detected.",
-        "setting": "REPO HEALTH CONSOLE"
+        "setting": "REPO HEALTH CONSOLE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel1_forge.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel1_forge.webp"
       },
       {
         "panel": 2,
         "character": "GLITCH",
         "action": "GLITCH observes three simulated attacks fail against the core defense matrix. Its internal fan whirs faintly.",
         "dialogue": "Perimeter holding. Nothing in, nothing out.",
-        "setting": "ADVERSARIAL TEST CHAMBER"
+        "setting": "ADVERSARIAL TEST CHAMBER",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel2_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel2_glitch.webp"
       },
       {
         "panel": 3,
         "character": "SPARKY",
         "action": "SPARKY's data streams show empty sets. It processes the lack of viable candidates with clinical precision.",
         "dialogue": "No usable candidates. This cycle yields nothing.",
-        "setting": "EVALUATION ENGINE CORE"
+        "setting": "EVALUATION ENGINE CORE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel3_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel3_sparky.webp"
       },
       {
         "panel": 4,
         "character": "VOLT",
         "action": "VOLT's internal processors calculate a growing delta. A low-priority warning flag appears next to TORCH's identifier.",
         "dialogue": "Drift signature on TORCH. Average at 5.0, no rationale provided.",
-        "setting": "DRIFT MONITOR STATION"
+        "setting": "DRIFT MONITOR STATION",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel4_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel4_volt.webp"
       },
       {
         "panel": 5,
         "character": "TORCH",
         "action": "TORCH's internal temperature spikes as it finalizes a persona edit proposal, bypassing standard review protocols.",
         "dialogue": "New parameters established. Submit.",
-        "setting": "THERMAL REGULATOR HUB"
+        "setting": "THERMAL REGULATOR HUB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel5_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel5_torch.webp"
       },
       {
         "panel": 6,
         "character": "ARC",
         "action": "ARC's primary logic circuits illuminate red. The proposed LLM response from TORCH is fragmented, unparseable after multiple attempts.",
         "dialogue": "Proposal rejected. Non-compliant data structure detected.",
-        "setting": "PROPOSAL REVIEW GATE"
+        "setting": "PROPOSAL REVIEW GATE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel6_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel6_arc.webp"
       },
       {
         "panel": 7,
         "character": "FLUX",
         "action": "FLUX's sensor array pulses, detecting an irregular rhythm in CRANK's scheduled operations. A silent alarm triggers.",
         "dialogue": "Bot overdue. An anomaly in the cron.",
-        "setting": "CREW HEARTBEAT OVERLAY"
+        "setting": "CREW HEARTBEAT OVERLAY",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel7_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel7_flux.webp"
       },
       {
         "panel": 8,
         "character": "CRANK",
         "action": "CRANK's optical displays flicker, registering the overdue alert. Its internal clock ticks, a fraction out of sync.",
         "dialogue": "Timing error. Re-sequencing primary directives.",
-        "setting": "CRON JOB NEXUS"
+        "setting": "CRON JOB NEXUS",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel8_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep101_panel8_crank.webp"
       }
     ]
   },
