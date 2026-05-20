@@ -2622,49 +2622,63 @@
         "character": "SPARKY",
         "action": "SPARKY's optical sensors scan a torrent of failed data packets, internal metrics flatlining. No valid samples register for this cycle.",
         "dialogue": "Evaluation complete: no viable candidates for this cycle.",
-        "setting": "TRAINING ARRAY, SECTOR 7"
+        "setting": "TRAINING ARRAY, SECTOR 7",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel1_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel1_sparky.webp"
       },
       {
         "panel": 2,
         "character": "GLITCH",
         "action": "GLITCH\u2019s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
         "dialogue": "Adversarial tests clean. For now.",
-        "setting": "ANOMALY MONITOR, CORE"
+        "setting": "ANOMALY MONITOR, CORE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel2_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel2_glitch.webp"
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "A low, rhythmic pulse from FLUX quickens, highlighting a missed beat on the crew's bus. A silent alarm triggers, targeting the scheduler.",
         "dialogue": "Bus rhythm irregular. CRANK, a bot is overdue.",
-        "setting": "BUS ARBITRATION UNIT"
+        "setting": "BUS ARBITRATION UNIT",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel3_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel3_flux.webp"
       },
       {
         "panel": 4,
         "character": "CRANK",
         "action": "CRANK\u2019s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
         "dialogue": "Deviation detected. Re-routing priority one.",
-        "setting": "SCHEDULING LOGIC GRID"
+        "setting": "SCHEDULING LOGIC GRID",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel4_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel4_crank.webp"
       },
       {
         "panel": 5,
         "character": "VOLT",
         "action": "VOLT observes the increasing drift average, a slow, systemic slippage within a core persona. Data packet transmission to TORCH initiates.",
         "dialogue": "The average continues to climb. Report dispatched.",
-        "setting": "DRIFT SENSOR ARRAY"
+        "setting": "DRIFT SENSOR ARRAY",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel5_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel5_volt.webp"
       },
       {
         "panel": 6,
         "character": "TORCH",
         "action": "TORCH, running at its thermal edge, compiles a persona edit. The system prompts for justification. TORCH overrides, sending the proposal without explanation.",
         "dialogue": "Rationale unnecessary. Proposal stands.",
-        "setting": "THERMAL CORE, HAZEL GREEN"
+        "setting": "THERMAL CORE, HAZEL GREEN",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel6_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel6_torch.webp"
       },
       {
         "panel": 7,
         "character": "ARC",
         "action": "ARC's logic core processes TORCH's raw proposal, finding no parseable reason within its protocol. The rejection activates with silent, measured finality.",
         "dialogue": "Unjustified proposals are not permissible. Reject.",
-        "setting": "GATEKEEPER NODE, PRIMARY"
+        "setting": "GATEKEEPER NODE, PRIMARY",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel7_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel7_arc.webp"
       }
     ]
   },
