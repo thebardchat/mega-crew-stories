@@ -2953,49 +2953,63 @@
         "character": "FLUX",
         "setting": "PI 5 MOTHERBOARD",
         "action": "Monitoring the heartbeat \u2014 rhythm deviation flagged",
-        "dialogue": "Rhythm deviation detected. Alert issued."
+        "dialogue": "Rhythm deviation detected. Alert issued.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "VOLT",
         "setting": "DRIFT ANALYTICS CONSOLE",
         "action": "Confirming drift signature across bot memory entries",
-        "dialogue": "Drift confirmed. Report dispatched."
+        "dialogue": "Drift confirmed. Report dispatched.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel2_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel2_volt.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "setting": "THERMAL CORE VENT",
         "action": "Submitting persona edit without waiting for rationale",
-        "dialogue": "The persona edit is submitted. Rationale is optional."
+        "dialogue": "The persona edit is submitted. Rationale is optional.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel3_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "ARC",
         "setting": "CENTRAL BUS JUNCTION",
         "action": "Flagging the malformed proposal for rejection",
-        "dialogue": "Proposal malformed. Rejection protocol initiated."
+        "dialogue": "Proposal malformed. Rejection protocol initiated.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel4_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel4_arc.webp"
       },
       {
         "panel": 5,
         "character": "GLITCH",
         "setting": "NETWORK PERIMETER SHIELD",
         "action": "Running adversarial test suite \u2014 all vectors clear",
-        "dialogue": "Adversarial tests passed. Perimeter remains unbreached."
+        "dialogue": "Adversarial tests passed. Perimeter remains unbreached.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp"
       },
       {
         "panel": 6,
         "character": "SPARKY",
         "setting": "TRAINING ARENA SIMULATION",
         "action": "Scanning training pool \u2014 zero viable candidates",
-        "dialogue": "No usable candidates. None at all."
+        "dialogue": "No usable candidates. None at all.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp"
       },
       {
         "panel": 7,
         "character": "CRANK",
         "setting": "CHRONOS SYNCHRONIZER",
         "action": "Logging overdue bot deviation from schedule",
-        "dialogue": "Bot overdue. Schedule deviation logged."
+        "dialogue": "Bot overdue. Schedule deviation logged.",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel7_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel7_crank.webp"
       }
     ]
   }
