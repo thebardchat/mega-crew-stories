@@ -29,6 +29,27 @@ REPO_PATH      = Path(os.environ.get("MEGA_REPO",
                    "/mnt/shanebrain-raid/shanebrain-core/mega-crew-stories"))
 EPISODES_DIR   = REPO_PATH / "episodes"
 
+PORTRAIT_BASE = "https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits"
+BOT_PORTRAITS = {
+    "arc":               f"{PORTRAIT_BASE}/arc_Gemini_Generated.png",
+    "weld":              f"{PORTRAIT_BASE}/weld_Gemini_Generated.png",
+    "gemini_strategist": f"{PORTRAIT_BASE}/gemini_Gemini_Generated.png",
+    "sparky":            f"{PORTRAIT_BASE}/sparky_Gemini_Generated.png",
+    "bolt":              f"{PORTRAIT_BASE}/bolt_Gemini_Generated.png",
+    "blaze":             f"{PORTRAIT_BASE}/blaze_Gemini_Generated.png",
+    "volt":              f"{PORTRAIT_BASE}/volt_Gemini_Generated.png",
+    "neon":              f"{PORTRAIT_BASE}/neon_Gemini_Generated.png",
+    "glitch":            f"{PORTRAIT_BASE}/glitch_Gemini_Generated.png",
+    "rivet":             f"{PORTRAIT_BASE}/rivet_Gemini_Generated.png",
+    "torch":             f"{PORTRAIT_BASE}/torch_Gemini_Generated.png",
+    "flux":              f"{PORTRAIT_BASE}/flux_Gemini_Generated.png",
+    "forge":             f"{PORTRAIT_BASE}/forge_Gemini_Generate.png",
+    "grind":             f"{PORTRAIT_BASE}/grind_Gemini_Generated.png",
+    "crank":             f"{PORTRAIT_BASE}/crank_Gemini_Generated.png",
+    "spike":             f"{PORTRAIT_BASE}/spike_Gemini_Generated.png",
+    "stomp":             f"{PORTRAIT_BASE}/stomp_Gemini_Generated.png",
+}
+
 
 # ── STEP 1: EPISODE NUMBERING ─────────────────────────────────────────────────
 def get_next_episode_number():
@@ -347,7 +368,10 @@ def render_html(n, ep_num):
             <div class="space-y-6 text-lg text-gray-300 font-light">
                 <p>{n['act1_body']}</p>
                 <div class="bot-quote quote-arc">
-                    <div class="text-[10px] font-mono text-sys-cyan font-bold tracking-widest mb-1">ARC // OVERSEER</div>
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="{BOT_PORTRAITS['arc']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-cyan shadow-[0_0_12px_#00e5ff]" onerror="this.style.display='none'" alt="Arc">
+                        <div class="text-[10px] font-mono text-sys-cyan font-bold tracking-widest">ARC // OVERSEER</div>
+                    </div>
                     <blockquote class="italic text-gray-200">"{n['arc_quote']}"</blockquote>
                 </div>
             </div>
@@ -363,7 +387,10 @@ def render_html(n, ep_num):
             <div class="space-y-6 text-lg text-gray-300 font-light">
                 <p>{n['act2_body_pre']}</p>
                 <div class="bot-quote quote-weld">
-                    <div class="text-[10px] font-mono text-sys-green font-bold tracking-widest mb-1">WELD // ENGINEER</div>
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="{BOT_PORTRAITS['weld']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-green shadow-[0_0_12px_#76ff03]" onerror="this.style.display='none'" alt="Weld">
+                        <div class="text-[10px] font-mono text-sys-green font-bold tracking-widest">WELD // ENGINEER</div>
+                    </div>
                     <blockquote class="italic text-gray-200">"{n['weld_quote']}"</blockquote>
                 </div>
                 {error_panel}
@@ -381,7 +408,10 @@ def render_html(n, ep_num):
             <div class="space-y-6 text-lg text-gray-300 font-light">
                 <p>{n['act3_body']}</p>
                 <div class="bot-quote quote-bot17">
-                    <div class="text-[10px] font-mono text-sys-purple font-bold tracking-widest mb-1">BOT 17 // STRATEGIST</div>
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="{BOT_PORTRAITS['gemini_strategist']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-purple shadow-[0_0_12px_#af52bf]" onerror="this.style.display='none'" alt="Bot 17">
+                        <div class="text-[10px] font-mono text-sys-purple font-bold tracking-widest">BOT 17 // STRATEGIST</div>
+                    </div>
                     <blockquote class="italic text-gray-200">"{n['bot17_quote']}"</blockquote>
                 </div>
             </div>
