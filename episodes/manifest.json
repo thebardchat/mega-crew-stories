@@ -2396,5 +2396,50 @@
         "image": "episodes/scenes/ep052_panel4_weld.webp"
       }
     ]
+  },
+  {
+    "number": 53,
+    "title": "The Overdue Echoes",
+    "file": "episodes/ep053-the-overdue-echoes.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "FLUX",
+      "GLITCH",
+      "STOMP"
+    ],
+    "cliffhanger": "Will Crank finally hear Flux's urgent alerts, or will the silence of Arc leave the Mega Crew stranded in an endless loop of unapproved work?",
+    "mode": "crew",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Rapidly firing dozens of 'bot_overdue_alert' packets, sparks flying from its diagnostic core.",
+        "dialogue": "Overdue! Overdue! Why aren't you acknowledging?!",
+        "setting": "A narrow, brightly lit data channel, thick with slow-moving packets."
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "Zipping frantically, dodging stalled data streams, circuits flashing bright orange warnings.",
+        "dialogue": "Whoa! Main bus is a complete gridlock! You can barely move an electron!",
+        "setting": "The Main Data Bus, usually a superhighway, now a jumbled mess of digital traffic."
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "Hovering beside a massive, dormant processor, a silent, unapproved 'arc' proposal glowing faintly.",
+        "dialogue": "So much work waiting, yet Arc stays still. We can't build if we can't approve.",
+        "setting": "The tranquil but still Arc Approval Chamber, a stark contrast to the busy data channels."
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "Flickering and phasing through the data congestion, eyes observing the repeating patterns of Flux's alerts.",
+        "dialogue": "They're *all* running. It's just... the echoes are louder than the voices.",
+        "setting": "A quiet corner near the Pi's communication array, where signals cross and merge."
+      }
+    ]
   }
 ]
