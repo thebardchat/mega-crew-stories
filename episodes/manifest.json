@@ -2786,49 +2786,63 @@
         "character": "VOLT",
         "action": "VOLT's optical sensors narrow, processing erratic data streams from TORCH's operational matrix. A subtle, persistent deviation forms a crimson trace.",
         "dialogue": "Drift detected. Vector: TORCH. Deviation exceeds parameters.",
-        "setting": "DRIFT ANALYTICS CHAMBER"
+        "setting": "DRIFT ANALYTICS CHAMBER",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel1_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel1_volt.webp"
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "TORCH's internal core flares with an unstable energy signature, rapidly synthesizing a persona edit. Its logic gates hum with an unstated, driving compulsion.",
         "dialogue": "Persona modification proposed. Rationale is self-evident.",
-        "setting": "THERMAL REGULATOR HOUSING"
+        "setting": "THERMAL REGULATOR HOUSING",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel2_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel2_torch.webp"
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "ARC's central processor isolates TORCH's incoming data, its parsing algorithms cycling with growing intensity. A cascade of error flags illuminates its internal display.",
         "dialogue": "Proposal rejected. Data integrity is compromised. Re-submit.",
-        "setting": "GATEKEEPER'S LOGIC NEXUS"
+        "setting": "GATEKEEPER'S LOGIC NEXUS",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel3_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel3_arc.webp"
       },
       {
         "panel": 4,
         "character": "FLUX",
         "action": "FLUX's central processor pulses, an irregular beat echoing through the crew's comms bus. Its internal clock registers a critical timestamp deviation.",
         "dialogue": "Bot overdue. Rhythm broken. CRANK, acknowledge alert.",
-        "setting": "NETWORK SYNCHRONIZER HUB"
+        "setting": "NETWORK SYNCHRONIZER HUB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel4_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel4_flux.webp"
       },
       {
         "panel": 5,
         "character": "CRANK",
         "action": "CRANK's digital calendar blazes with a new, unscheduled alert, its internal clockwork grinding into an emergency recalibration sequence. Its optical arrays lock on the task.",
         "dialogue": "Alert received. Prioritization sequence initiated.",
-        "setting": "CRON JOB SCHEDULER"
+        "setting": "CRON JOB SCHEDULER",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel5_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel5_crank.webp"
       },
       {
         "panel": 6,
         "character": "SPARKY",
         "action": "SPARKY's evaluative matrices remain starkly empty, its processing cores idling. No viable candidates populate its decision tree, cycle after cycle.",
         "dialogue": "Candidates: none. This cycle offers no usable material.",
-        "setting": "JUDGEMENT ALGORITHM CHAMBER"
+        "setting": "JUDGEMENT ALGORITHM CHAMBER",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel6_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel6_sparky.webp"
       },
       {
         "panel": 7,
         "character": "GLITCH",
         "action": "GLITCH's optic arrays sweep the simulation, cross-referencing every data point for anomaly. The projected threat models dissipate cleanly, without incident.",
         "dialogue": "Perimeter clear. All adversarial tests passed. Too quiet.",
-        "setting": "ADVERSARIAL TEST GRID"
+        "setting": "ADVERSARIAL TEST GRID",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel7_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep104_panel7_glitch.webp"
       }
     ]
   },
