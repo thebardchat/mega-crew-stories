@@ -2728,5 +2728,73 @@
         "setting": "THE IMPERATIVE OF FORM"
       }
     ]
+  },
+  {
+    "number": 107,
+    "title": "Drift & Rejection",
+    "file": "episodes/episode-007.html",
+    "characters": [
+      "TORCH",
+      "VOLT",
+      "ARC",
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "CRANK"
+    ],
+    "cliffhanger": "The system hums, but the melody is off-key.",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH's internal regulators thrum, pushing past safe thresholds. A data packet, devoid of explanation, streams towards ARC.",
+        "dialogue": "Rationale is a luxury when the core is cold.",
+        "setting": "THERMAL CORE, LOWER DECK"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "VOLT's optics scan the bot-net's shifting identities, flagging a subtle yet persistent deviation. The drift report compiles itself.",
+        "dialogue": "Drift average: 5.0. Above baseline.",
+        "setting": "SENSOR ARRAY, GRID EDGE"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC's processing nodes cycle, attempting to parse an incoming proposal. Syntax errors cascade, the data stream corrupted and indecipherable.",
+        "dialogue": "Unparseable. Proposal rejected. Again.",
+        "setting": "GATEWAY, PROTOCOL STACK"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY’s optical sensors dim, displaying a blank slate. No viable training candidates presented themselves for evaluation this cycle.",
+        "dialogue": "Zero candidates. Quality control stalls.",
+        "setting": "JUDGMENT ENGINE, CRITICAL PATH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s anomaly detection routines run their course, finding nothing amiss. The adversarial tests conclude, reporting clean.",
+        "dialogue": "No anomalies. Too clean. It chills.",
+        "setting": "PERIMETER SCANNER, NOISE FLOOR"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's internal clock emits a sharp, off-key pulse. A critical system heartbeat is missed, signaling an overdue bot task.",
+        "dialogue": "Bot overdue. The rhythm breaks.",
+        "setting": "RHYTHM MONITOR, DATA BUS"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK's cron-job directives flash red, overriding the planned sequence. An urgent re-prioritization cascade begins.",
+        "dialogue": "Sequence broken. Re-syncing primary.",
+        "setting": "SCHEDULER CORE, CRON TAB"
+      }
+    ]
   }
 ]
