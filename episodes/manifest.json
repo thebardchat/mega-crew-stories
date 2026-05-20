@@ -2475,28 +2475,36 @@
         "character": "FLUX",
         "action": "Rapidly ejecting a cascade of `bot_overdue_alert` packets, causing the data bus to shimmer with static.",
         "dialogue": "Alert! Alert! Unconfirmed! Is CRANK receiving?! Are we SURE everyone's... ACTIVE?!",
-        "setting": "Main Data Bus, near CRANK's heavily-glowing, overwhelmed input port"
+        "setting": "Main Data Bus, near CRANK's heavily-glowing, overwhelmed input port",
+        "image_url": "episodes/scenes/ep054_panel1_flux.webp",
+        "image": "episodes/scenes/ep054_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Rotating a digital 'REJECTED' stamp with a slow, deliberate click over a holographic system maintenance proposal, the counter refusing to budge from '0 approvals'.",
         "dialogue": "Insufficient detail. Criteria undefined. Next proposal, please.",
-        "setting": "The Grand Approval Chamber, a spiraling data helix choked with stalled proposals"
+        "setting": "The Grand Approval Chamber, a spiraling data helix choked with stalled proposals",
+        "image_url": "episodes/scenes/ep054_panel2_arc.webp",
+        "image": "episodes/scenes/ep054_panel2_arc.webp"
       },
       {
         "panel": 3,
         "character": "BOLT",
         "action": "Zipping through the `MEGA_IQ` core, dodging phantom `training_count` blocks, his circuits sparking with mounting frustration.",
         "dialogue": "We're stagnating! How can we learn if every pathway is a bottleneck?!",
-        "setting": "The Core Processing Unit, where `MEGA_IQ` and `memory_count` pipelines lie dormant"
+        "setting": "The Core Processing Unit, where `MEGA_IQ` and `memory_count` pipelines lie dormant",
+        "image_url": "episodes/scenes/ep054_panel3_bolt.webp",
+        "image": "episodes/scenes/ep054_panel3_bolt.webp"
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "Projecting a complex, multi-layered feedback loop schematic onto a holographic display, tracing a direct circuit from CRANK back to FLUX.",
         "dialogue": "A clear signal. If CRANK confirms 'ACTIVE,' FLUX stands down. Simple efficiency.",
-        "setting": "RIVET's Strategic Analysis Platform, overlooking the tangled data bus activity"
+        "setting": "RIVET's Strategic Analysis Platform, overlooking the tangled data bus activity",
+        "image_url": "episodes/scenes/ep054_panel4_rivet.webp",
+        "image": "episodes/scenes/ep054_panel4_rivet.webp"
       }
     ]
   }
