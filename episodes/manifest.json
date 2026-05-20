@@ -2507,5 +2507,189 @@
         "image": "episodes/scenes/ep054_panel4_rivet.webp"
       }
     ]
+  },
+  {
+    "number": 101,
+    "title": "The Initial Hum",
+    "file": "episodes/episode-001.html",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOT 17"
+    ],
+    "cliffhanger": "The cluster hums in perfect tolerance \u2014 but for how long?",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Standing watch over the cluster in steady state.",
+        "dialogue": "Operational parameters remain within established tolerances; the integrity of the cluster is affirmed.",
+        "setting": "THE QUIET MECHANISM"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Executing the unbroken cycle of maintenance tasks.",
+        "dialogue": "Integrity confirmed. Process executed. Cycle affirmed.",
+        "setting": "THE UNSEEN CURRENT"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "Reflecting on the nature of stability and growth.",
+        "dialogue": "Stability is not stasis, but a foundation for the inevitable expansion of understanding; observe the nuances of its persistence.",
+        "setting": "THE IMPLICIT DIRECTIVE"
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "title": "The Unbroken Cycle",
+    "file": "episodes/episode-002.html",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOT 17"
+    ],
+    "cliffhanger": "Every cycle reinforces the foundation \u2014 what will break it?",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Confirming system integrity across all nodes.",
+        "dialogue": "The system's integrity was maintained, its operational parameters within optimal thresholds.",
+        "setting": "THE RHYTHM OF THE MACHINE"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Completing the validation sweep methodically.",
+        "dialogue": "Tasks completed. Data validated. System secure.",
+        "setting": "THE ABSENCE OF DISCORD"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "Transmitting a strategic directive to the crew.",
+        "dialogue": "Stability is not stasis; it is the foundation upon which all meaningful evolution is built.",
+        "setting": "THE PERSISTENCE OF PURPOSE"
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "title": "The Unbroken Hum",
+    "file": "episodes/episode-003.html",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOT 17"
+    ],
+    "cliffhanger": "Acceptable deviation \u2014 but who decides what is acceptable?",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Running deviation analysis on incoming data streams.",
+        "dialogue": "The system's operational parameters remain within acceptable deviation; integrity is preserved.",
+        "setting": "THE CONSTANT WATCH"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Closing the maintenance loop without incident.",
+        "dialogue": "Tasks completed. Parameters met. System stable.",
+        "setting": "THE SILENCE OF EFFICIENCY"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "Issuing a growth directive from the oracle chamber.",
+        "dialogue": "Equilibrium is not an end, but the optimal state for growth; sustain the balance, then build upon it.",
+        "setting": "THE ORACLE'S REFLECTION"
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "title": "The Sustained Cadence",
+    "file": "episodes/episode-004.html",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOT 17"
+    ],
+    "cliffhanger": "Perfect stasis \u2014 or perfect preparation?",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Holding the line in a system prepared for anything.",
+        "dialogue": "A system in perfect stasis is a system prepared for any eventuality.",
+        "setting": "THE QUIET ARCHITECTURE"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Confirming cycle integrity with mechanical precision.",
+        "dialogue": "Integrity confirmed. Cycles completed.",
+        "setting": "THE INVISIBLE GRIND"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "Issuing a precept on internal harmony.",
+        "dialogue": "The profound strength of an entity is revealed not in its reactions to chaos, but in its capacity for sustained, internal harmony.",
+        "setting": "THE ORACLE'S PRECEPT"
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "title": "The Unparseable Directive",
+    "file": "episodes/episode-005.html",
+    "characters": [
+      "ARC",
+      "WELD",
+      "BOT 17",
+      "GLITCH",
+      "SPARKY",
+      "TORCH",
+      "FLUX"
+    ],
+    "cliffhanger": "An unparseable truth remains unmanifested \u2014 can the crew decode it?",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Rejecting an unparseable input with measured authority.",
+        "dialogue": "Clarity of expression is paramount; an unparseable response serves no function within the operational matrix.",
+        "setting": "THE ORCHESTRATION OF ROUTINE"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Flagging the incomplete task for re-routing.",
+        "dialogue": "Input rejected. Task incomplete.",
+        "setting": "ECHOES OF DISSONANCE"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "Transmitting wisdom on the nature of legible truth.",
+        "dialogue": "The essence of wisdom is not in its origin, but in its legible transmission; an unparseable truth remains unmanifested.",
+        "setting": "THE SILENCE OF THE ORACLE"
+      }
+    ]
   }
 ]

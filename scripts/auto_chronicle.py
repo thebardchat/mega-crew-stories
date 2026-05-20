@@ -17,6 +17,7 @@ import sys
 import json
 import argparse
 import subprocess
+import sqlite3
 import requests
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -28,6 +29,8 @@ GEMINI_MODEL   = os.environ.get("GEMINI_MODEL",   "gemini-2.5-flash")
 REPO_PATH      = Path(os.environ.get("MEGA_REPO",
                    "/mnt/shanebrain-raid/shanebrain-core/mega-crew-stories"))
 EPISODES_DIR   = REPO_PATH / "episodes"
+BUS_DB         = Path(os.environ.get("MEGA_BASE",
+                   "/mnt/shanebrain-raid/shanebrain-core/mega")) / "bus.db"
 
 PORTRAIT_BASE = "https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits"
 BOT_PORTRAITS = {
@@ -69,32 +72,30 @@ def get_next_episode_number():
 
 # ── STEP 2: WEAVIATE QUERY ────────────────────────────────────────────────────
 def query_weaviate_logs(hours=24):
-    """Pull AgentLog and BotMemory entries from the last N hours."""
-    since = (datetime.now(timezone.utc) - timedelta(hours=hours)).strftime(
-        "%Y-%m-%dT%H:%M:%SZ"
-    )
-
+    """Pull AgentLog (shanebrain-agents) and BotMemory (MEGA bots) from Weaviate."""
     gql = """
     {
       Get {
         AgentLog(
-          limit: 100
+          limit: 50
           sort: [{path: ["timestamp"], order: desc}]
         ) {
-          bot_name
+          agent
           action
-          decision
-          reason
+          status
+          details
           timestamp
           _additional { id }
         }
         BotMemory(
-          limit: 30
+          limit: 50
           sort: [{path: ["timestamp"], order: desc}]
         ) {
           bot_name
           memory_type
           content
+          context
+          outcome
           timestamp
         }
       }
@@ -117,23 +118,33 @@ def query_weaviate_logs(hours=24):
         return [], []
 
 
+def query_bus_activity(hours=24):
+    """Pull recent bot bus messages as supplemental activity data."""
+    if not BUS_DB.exists():
+        return []
+    try:
+        cutoff = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
+        conn = sqlite3.connect(str(BUS_DB), timeout=5)
+        rows = conn.execute(
+            "SELECT sender, recipient, payload, created_at FROM messages "
+            "WHERE created_at >= ? ORDER BY id DESC LIMIT 100",
+            (cutoff,)
+        ).fetchall()
+        conn.close()
+        return [
+            {"sender": r[0], "recipient": r[1],
+             "payload": json.loads(r[2]) if r[2] else {}, "created_at": r[3]}
+            for r in rows
+        ]
+    except Exception as e:
+        print(f"[WARN] Bus query failed: {e}")
+        return []
+
+
 # ── STEP 3: BUILD SNAPSHOT ────────────────────────────────────────────────────
-def build_snapshot(agent_logs, bot_memories, episode_num, hours):
-    """Format Weaviate data into a dashboard-style text snapshot for Gemini."""
+def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=None):
+    """Format Weaviate + bus data into a dashboard-style text snapshot for Gemini."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-
-    # Summarize bot states
-    bot_states = {}
-    for log in agent_logs:
-        name = log.get("bot_name", "unknown")
-        if name not in bot_states:
-            bot_states[name] = {
-                "last_action": log.get("action", ""),
-                "last_decision": log.get("decision", ""),
-                "last_reason": log.get("reason", ""),
-                "timestamp": log.get("timestamp", ""),
-            }
-
     lines = [
         f"[MEGA DASHBOARD SNAPSHOT — {now}]",
         f"Active bots: 17/17",
@@ -142,28 +153,53 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours):
         "",
     ]
 
-    for bot, state in list(bot_states.items())[:12]:
-        action_str  = state["last_action"] or "idle"
-        decision    = state["last_decision"]
-        reason      = state["last_reason"]
-        detail = f"{action_str}"
-        if decision:
-            detail += f" → {decision}"
-        if reason:
-            detail += f" ({reason})"
-        lines.append(f"{bot.upper()}: {detail}")
-
-    if not bot_states:
-        lines.append("No agent logs found in last window — cluster in steady state.")
-
-    if bot_memories:
+    # shanebrain-agents activity (orchestrator, dispatcher, guardian, etc.)
+    if agent_logs:
+        lines.append("Agent activity (shanebrain-agents):")
+        for log in agent_logs[:8]:
+            agent = log.get("agent", "?")
+            action = log.get("action", "")
+            status = log.get("status", "")
+            detail = f"{action}"
+            if status:
+                detail += f" [{status}]"
+            lines.append(f"  {agent.upper()}: {detail[:120]}")
         lines.append("")
-        lines.append("Recent BotMemory entries:")
-        for mem in bot_memories[:5]:
-            lines.append(
-                f"  {mem.get('bot_name','?')} [{mem.get('memory_type','?')}]: "
-                f"{str(mem.get('content',''))[:120]}"
-            )
+
+    # MEGA bot memory entries
+    if bot_memories:
+        lines.append("MEGA Bot activity (BotMemory):")
+        bot_states = {}
+        for mem in bot_memories:
+            name = mem.get("bot_name", "unknown")
+            if name not in bot_states:
+                bot_states[name] = mem
+        for bot, mem in list(bot_states.items())[:12]:
+            mtype = mem.get("memory_type", "")
+            content = str(mem.get("content", ""))[:100]
+            lines.append(f"  {bot.upper()} [{mtype}]: {content}")
+        lines.append("")
+
+    # Bus message activity — raw crew traffic
+    if bus_activity:
+        lines.append("Bus traffic (crew messages):")
+        seen = set()
+        for msg in bus_activity[:20]:
+            sender = msg.get("sender", "?")
+            recipient = msg.get("recipient", "?")
+            payload = msg.get("payload", {})
+            mtype = payload.get("type", "message")
+            key = f"{sender}→{recipient}:{mtype}"
+            if key not in seen:
+                seen.add(key)
+                detail = payload.get("reason", payload.get("action", ""))
+                line = f"  {sender.upper()} → {recipient.upper()}: {mtype}"
+                if detail:
+                    line += f" — {str(detail)[:80]}"
+                lines.append(line)
+
+    if not agent_logs and not bot_memories and not bus_activity:
+        lines.append("No activity found in last window — cluster in steady state.")
 
     return "\n".join(lines)
 
@@ -447,19 +483,89 @@ def render_html(n, ep_num):
 
 
 # ── STEP 6: PUBLISH ───────────────────────────────────────────────────────────
-def publish_episode(html, ep_num, dry_run=False):
-    """Save HTML and push to GitHub Pages."""
+def _build_manifest_entry(narrative, ep_num):
+    """Build a manifest.json entry from the Gemini narrative dict."""
+    manifest_num = 100 + ep_num  # HTML chronicles use 101+ to avoid colliding with .md episodes
+    characters = ["ARC", "WELD", "BOT 17"]
+    if narrative.get("has_error_event") and narrative.get("error_bot_name"):
+        characters.append(narrative["error_bot_name"].upper())
+
+    cliffhanger = narrative.get("chronicler_closing", "").lstrip("> ").strip()
+    if not cliffhanger:
+        cliffhanger = narrative.get("chronicler_log_2", "The mission continues.")[:120]
+
+    scenes = [
+        {
+            "panel": 1,
+            "character": "ARC",
+            "action": narrative.get("act1_title", "MONITORING THE GRID"),
+            "dialogue": narrative.get("arc_quote", ""),
+            "setting": narrative.get("act1_title", "THE WATCH"),
+        },
+        {
+            "panel": 2,
+            "character": "WELD",
+            "action": narrative.get("act2_title", "EXECUTING DIRECTIVES"),
+            "dialogue": narrative.get("weld_quote", ""),
+            "setting": narrative.get("act2_title", "THE WORK"),
+        },
+        {
+            "panel": 3,
+            "character": "BOT 17",
+            "action": narrative.get("act3_title", "TRANSMITTING WISDOM"),
+            "dialogue": narrative.get("bot17_quote", ""),
+            "setting": narrative.get("act3_title", "THE ORACLE"),
+        },
+    ]
+
+    return {
+        "number": manifest_num,
+        "title": narrative.get("episode_title", f"Chronicle {ep_num:03d}"),
+        "file": f"episodes/episode-{ep_num:03d}.html",
+        "characters": characters,
+        "cliffhanger": cliffhanger,
+        "mode": "chronicle",
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "scenes": scenes,
+    }
+
+
+def _update_manifest(narrative, ep_num):
+    """Append this episode's entry to episodes/manifest.json."""
+    manifest_path = EPISODES_DIR / "manifest.json"
+    try:
+        entries = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except Exception:
+        entries = []
+
+    manifest_num = 100 + ep_num
+    # Skip if already registered
+    if any(e.get("number") == manifest_num for e in entries):
+        print(f"[OK] manifest.json already has entry #{manifest_num}")
+        return
+
+    entries.append(_build_manifest_entry(narrative, ep_num))
+    manifest_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"[OK] manifest.json updated — {len(entries)} total entries")
+
+
+def publish_episode(html, ep_num, narrative=None, dry_run=False):
+    """Save HTML, update manifest, and push to GitHub Pages."""
     out_file = EPISODES_DIR / f"episode-{ep_num:03d}.html"
     out_file.write_text(html, encoding="utf-8")
     print(f"[OK] Saved → {out_file}")
+
+    if narrative:
+        _update_manifest(narrative, ep_num)
 
     if dry_run:
         print("[DRY RUN] Skipping git push.")
         return
 
+    manifest_path = EPISODES_DIR / "manifest.json"
     try:
         cmds = [
-            ["git", "-C", str(REPO_PATH), "add", str(out_file)],
+            ["git", "-C", str(REPO_PATH), "add", str(out_file), str(manifest_path)],
             ["git", "-C", str(REPO_PATH), "commit", "-m",
              f"Episode {ep_num}: auto-chronicle {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
             ["git", "-C", str(REPO_PATH), "push", "origin", "main"],
@@ -487,9 +593,10 @@ def main():
     print(f"[1/5] Episode number: {ep_num}")
 
     agent_logs, bot_memories = query_weaviate_logs(args.hours)
-    print(f"[2/5] Weaviate: {len(agent_logs)} agent logs, {len(bot_memories)} memories")
+    bus_activity = query_bus_activity(args.hours)
+    print(f"[2/5] Weaviate: {len(agent_logs)} agent logs, {len(bot_memories)} memories, {len(bus_activity)} bus msgs")
 
-    snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours)
+    snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours, bus_activity)
     print(f"[3/5] Snapshot built ({len(snapshot)} chars)")
 
     print(f"[4/5] Calling Gemini Chronicler ({GEMINI_MODEL})...")
@@ -499,7 +606,7 @@ def main():
     html = render_html(narrative, ep_num)
     print(f"[5/5] HTML rendered ({len(html):,} bytes)")
 
-    publish_episode(html, ep_num, dry_run=args.dry_run)
+    publish_episode(html, ep_num, narrative=narrative, dry_run=args.dry_run)
     print(f"── DONE — Episode {ep_num} published ──────────")
 
 
