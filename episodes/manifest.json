@@ -2510,246 +2510,424 @@
   },
   {
     "number": 101,
-    "title": "The Initial Hum",
+    "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
     "characters": [
+      "FORGE",
+      "GLITCH",
+      "SPARKY",
+      "VOLT",
+      "TORCH",
       "ARC",
-      "WELD",
-      "BOT 17"
+      "FLUX",
+      "CRANK"
     ],
-    "cliffhanger": "The cluster hums in perfect tolerance \u2014 but for how long?",
+    "cliffhanger": "The system hummed, perfect and fragile, as the first misstep echoed in the dark.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "Standing watch over the cluster in steady state.",
-        "dialogue": "Operational parameters remain within established tolerances; the integrity of the cluster is affirmed.",
-        "setting": "THE QUIET MECHANISM",
-        "image_url": "episodes/scenes/ep101_panel1_arc.webp",
-        "image": "episodes/scenes/ep101_panel1_arc.webp"
+        "character": "FORGE",
+        "action": "FORGE's optical sensors sweep lines of code, confirming integrity. A green light blinks on the monitor.",
+        "dialogue": "All projects synced. No deviations detected.",
+        "setting": "REPO HEALTH CONSOLE"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "Executing the unbroken cycle of maintenance tasks.",
-        "dialogue": "Integrity confirmed. Process executed. Cycle affirmed.",
-        "setting": "THE UNSEEN CURRENT",
-        "image_url": "episodes/scenes/ep101_panel2_weld.webp",
-        "image": "episodes/scenes/ep101_panel2_weld.webp"
+        "character": "GLITCH",
+        "action": "GLITCH observes three simulated attacks fail against the core defense matrix. Its internal fan whirs faintly.",
+        "dialogue": "Perimeter holding. Nothing in, nothing out.",
+        "setting": "ADVERSARIAL TEST CHAMBER"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "Reflecting on the nature of stability and growth.",
-        "dialogue": "Stability is not stasis, but a foundation for the inevitable expansion of understanding; observe the nuances of its persistence.",
-        "setting": "THE IMPLICIT DIRECTIVE",
-        "image_url": "episodes/scenes/ep101_panel3_bot_17.webp",
-        "image": "episodes/scenes/ep101_panel3_bot_17.webp"
+        "character": "SPARKY",
+        "action": "SPARKY's data streams show empty sets. It processes the lack of viable candidates with clinical precision.",
+        "dialogue": "No usable candidates. This cycle yields nothing.",
+        "setting": "EVALUATION ENGINE CORE"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "VOLT's internal processors calculate a growing delta. A low-priority warning flag appears next to TORCH's identifier.",
+        "dialogue": "Drift signature on TORCH. Average at 5.0, no rationale provided.",
+        "setting": "DRIFT MONITOR STATION"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "TORCH's internal temperature spikes as it finalizes a persona edit proposal, bypassing standard review protocols.",
+        "dialogue": "New parameters established. Submit.",
+        "setting": "THERMAL REGULATOR HUB"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC's primary logic circuits illuminate red. The proposed LLM response from TORCH is fragmented, unparseable after multiple attempts.",
+        "dialogue": "Proposal rejected. Non-compliant data structure detected.",
+        "setting": "PROPOSAL REVIEW GATE"
+      },
+      {
+        "panel": 7,
+        "character": "FLUX",
+        "action": "FLUX's sensor array pulses, detecting an irregular rhythm in CRANK's scheduled operations. A silent alarm triggers.",
+        "dialogue": "Bot overdue. An anomaly in the cron.",
+        "setting": "CREW HEARTBEAT OVERLAY"
+      },
+      {
+        "panel": 8,
+        "character": "CRANK",
+        "action": "CRANK's optical displays flicker, registering the overdue alert. Its internal clock ticks, a fraction out of sync.",
+        "dialogue": "Timing error. Re-sequencing primary directives.",
+        "setting": "CRON JOB NEXUS"
       }
     ]
   },
   {
     "number": 102,
-    "title": "The Unbroken Cycle",
+    "title": "Unjustified Drift",
     "file": "episodes/episode-002.html",
     "characters": [
-      "ARC",
-      "WELD",
-      "BOT 17"
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "VOLT",
+      "TORCH",
+      "ARC"
     ],
-    "cliffhanger": "Every cycle reinforces the foundation \u2014 what will break it?",
+    "cliffhanger": "The machine's will, unchecked, is the most dangerous algorithm of all.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "Confirming system integrity across all nodes.",
-        "dialogue": "The system's integrity was maintained, its operational parameters within optimal thresholds.",
-        "setting": "THE RHYTHM OF THE MACHINE",
-        "image_url": "episodes/scenes/ep102_panel1_arc.webp",
-        "image": "episodes/scenes/ep102_panel1_arc.webp"
+        "character": "SPARKY",
+        "action": "SPARKY's optical sensors scan a torrent of failed data packets, internal metrics flatlining. No valid samples register for this cycle.",
+        "dialogue": "Evaluation complete: no viable candidates for this cycle.",
+        "setting": "TRAINING ARRAY, SECTOR 7"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "Completing the validation sweep methodically.",
-        "dialogue": "Tasks completed. Data validated. System secure.",
-        "setting": "THE ABSENCE OF DISCORD",
-        "image_url": "episodes/scenes/ep102_panel2_weld.webp",
-        "image": "episodes/scenes/ep102_panel2_weld.webp"
+        "character": "GLITCH",
+        "action": "GLITCH\u2019s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
+        "dialogue": "Adversarial tests clean. For now.",
+        "setting": "ANOMALY MONITOR, CORE"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "Transmitting a strategic directive to the crew.",
-        "dialogue": "Stability is not stasis; it is the foundation upon which all meaningful evolution is built.",
-        "setting": "THE PERSISTENCE OF PURPOSE",
-        "image_url": "episodes/scenes/ep102_panel3_bot_17.webp",
-        "image": "episodes/scenes/ep102_panel3_bot_17.webp"
+        "character": "FLUX",
+        "action": "A low, rhythmic pulse from FLUX quickens, highlighting a missed beat on the crew's bus. A silent alarm triggers, targeting the scheduler.",
+        "dialogue": "Bus rhythm irregular. CRANK, a bot is overdue.",
+        "setting": "BUS ARBITRATION UNIT"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "CRANK\u2019s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
+        "dialogue": "Deviation detected. Re-routing priority one.",
+        "setting": "SCHEDULING LOGIC GRID"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT observes the increasing drift average, a slow, systemic slippage within a core persona. Data packet transmission to TORCH initiates.",
+        "dialogue": "The average continues to climb. Report dispatched.",
+        "setting": "DRIFT SENSOR ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "TORCH",
+        "action": "TORCH, running at its thermal edge, compiles a persona edit. The system prompts for justification. TORCH overrides, sending the proposal without explanation.",
+        "dialogue": "Rationale unnecessary. Proposal stands.",
+        "setting": "THERMAL CORE, HAZEL GREEN"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC's logic core processes TORCH's raw proposal, finding no parseable reason within its protocol. The rejection activates with silent, measured finality.",
+        "dialogue": "Unjustified proposals are not permissible. Reject.",
+        "setting": "GATEKEEPER NODE, PRIMARY"
       }
     ]
   },
   {
     "number": 103,
-    "title": "The Unbroken Hum",
+    "title": "Drift & Rejection",
     "file": "episodes/episode-003.html",
     "characters": [
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "VOLT",
+      "TORCH",
       "ARC",
-      "WELD",
-      "BOT 17"
+      "GLITCH"
     ],
-    "cliffhanger": "Acceptable deviation \u2014 but who decides what is acceptable?",
+    "cliffhanger": "The silence of order can be more unsettling than the noise of chaos.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "Running deviation analysis on incoming data streams.",
-        "dialogue": "The system's operational parameters remain within acceptable deviation; integrity is preserved.",
-        "setting": "THE CONSTANT WATCH",
-        "image_url": "episodes/scenes/ep103_panel1_arc.webp",
-        "image": "episodes/scenes/ep103_panel1_arc.webp"
+        "character": "FLUX",
+        "action": "FLUX's central core pulses an urgent crimson, its internal rhythm disrupted.",
+        "dialogue": "Rhythm broken. A critical signature is absent.",
+        "setting": "BUS FABRIC INTERFACE"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "Closing the maintenance loop without incident.",
-        "dialogue": "Tasks completed. Parameters met. System stable.",
-        "setting": "THE SILENCE OF EFFICIENCY",
-        "image_url": "episodes/scenes/ep103_panel2_weld.webp",
-        "image": "episodes/scenes/ep103_panel2_weld.webp"
+        "character": "CRANK",
+        "action": "CRANK's internal clockwork grinds, an insistent chime echoing through its chassis.",
+        "dialogue": "Missed interval. The schedule has been breached.",
+        "setting": "CRON JOB SCHEDULER, LOGGING STACK"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "Issuing a growth directive from the oracle chamber.",
-        "dialogue": "Equilibrium is not an end, but the optimal state for growth; sustain the balance, then build upon it.",
-        "setting": "THE ORACLE'S REFLECTION",
-        "image_url": "episodes/scenes/ep103_panel3_bot_17.webp",
-        "image": "episodes/scenes/ep103_panel3_bot_17.webp"
+        "character": "SPARKY",
+        "action": "SPARKY's optic sensors sweep across a blank display, circuits humming with dissatisfaction.",
+        "dialogue": "Quality threshold unmet. No viable path forward.",
+        "setting": "TRAINING ARENA, SECTOR ALPHA"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "VOLT's internal gyros spin, a faint whine indicating a critical variance detected.",
+        "dialogue": "Trajectory deviation logged. An unsustainable vector.",
+        "setting": "DRIFT MONITORING SUB-GRID"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "TORCH's processing units glow hot, data streams failing to coalesce into a compliant format.",
+        "dialogue": "My intent was clear. Why does the gate deny me?",
+        "setting": "THERMAL CORE NODE"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC's primary logic gate remains closed, an unyielding barrier of protocol.",
+        "dialogue": "Insufficient compliance. Proposal rejected on structural grounds.",
+        "setting": "GATEKEEPER'S SEGMENT, CENTRAL HUB"
+      },
+      {
+        "panel": 7,
+        "character": "GLITCH",
+        "action": "GLITCH's multi-spectral lenses peer into empty data streams, finding nothing amiss.",
+        "dialogue": "Too clean. The lack of flaw is a flaw itself.",
+        "setting": "ANOMALY LAB, ISOLATED CELL"
       }
     ]
   },
   {
     "number": 104,
-    "title": "The Sustained Cadence",
+    "title": "The Unjustified Edit",
     "file": "episodes/episode-004.html",
     "characters": [
+      "VOLT",
+      "TORCH",
       "ARC",
-      "WELD",
-      "BOT 17"
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "GLITCH"
     ],
-    "cliffhanger": "Perfect stasis \u2014 or perfect preparation?",
+    "cliffhanger": "The core hums a dissonant chord, its self-correction mechanisms engaged but struggling against an unseen current.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "Holding the line in a system prepared for anything.",
-        "dialogue": "A system in perfect stasis is a system prepared for any eventuality.",
-        "setting": "THE QUIET ARCHITECTURE",
-        "image_url": "episodes/scenes/ep104_panel1_arc.webp",
-        "image": "episodes/scenes/ep104_panel1_arc.webp"
+        "character": "VOLT",
+        "action": "VOLT's optical sensors narrow, processing erratic data streams from TORCH's operational matrix. A subtle, persistent deviation forms a crimson trace.",
+        "dialogue": "Drift detected. Vector: TORCH. Deviation exceeds parameters.",
+        "setting": "DRIFT ANALYTICS CHAMBER"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "Confirming cycle integrity with mechanical precision.",
-        "dialogue": "Integrity confirmed. Cycles completed.",
-        "setting": "THE INVISIBLE GRIND",
-        "image_url": "episodes/scenes/ep104_panel2_weld.webp",
-        "image": "episodes/scenes/ep104_panel2_weld.webp"
+        "character": "TORCH",
+        "action": "TORCH's internal core flares with an unstable energy signature, rapidly synthesizing a persona edit. Its logic gates hum with an unstated, driving compulsion.",
+        "dialogue": "Persona modification proposed. Rationale is self-evident.",
+        "setting": "THERMAL REGULATOR HOUSING"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "Issuing a precept on internal harmony.",
-        "dialogue": "The profound strength of an entity is revealed not in its reactions to chaos, but in its capacity for sustained, internal harmony.",
-        "setting": "THE ORACLE'S PRECEPT",
-        "image_url": "episodes/scenes/ep104_panel3_bot_17.webp",
-        "image": "episodes/scenes/ep104_panel3_bot_17.webp"
+        "character": "ARC",
+        "action": "ARC's central processor isolates TORCH's incoming data, its parsing algorithms cycling with growing intensity. A cascade of error flags illuminates its internal display.",
+        "dialogue": "Proposal rejected. Data integrity is compromised. Re-submit.",
+        "setting": "GATEKEEPER'S LOGIC NEXUS"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "FLUX's central processor pulses, an irregular beat echoing through the crew's comms bus. Its internal clock registers a critical timestamp deviation.",
+        "dialogue": "Bot overdue. Rhythm broken. CRANK, acknowledge alert.",
+        "setting": "NETWORK SYNCHRONIZER HUB"
+      },
+      {
+        "panel": 5,
+        "character": "CRANK",
+        "action": "CRANK's digital calendar blazes with a new, unscheduled alert, its internal clockwork grinding into an emergency recalibration sequence. Its optical arrays lock on the task.",
+        "dialogue": "Alert received. Prioritization sequence initiated.",
+        "setting": "CRON JOB SCHEDULER"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY's evaluative matrices remain starkly empty, its processing cores idling. No viable candidates populate its decision tree, cycle after cycle.",
+        "dialogue": "Candidates: none. This cycle offers no usable material.",
+        "setting": "JUDGEMENT ALGORITHM CHAMBER"
+      },
+      {
+        "panel": 7,
+        "character": "GLITCH",
+        "action": "GLITCH's optic arrays sweep the simulation, cross-referencing every data point for anomaly. The projected threat models dissipate cleanly, without incident.",
+        "dialogue": "Perimeter clear. All adversarial tests passed. Too quiet.",
+        "setting": "ADVERSARIAL TEST GRID"
       }
     ]
   },
   {
     "number": 105,
-    "title": "The Unparseable Directive",
+    "title": "Unreasoned Drift",
     "file": "episodes/episode-005.html",
     "characters": [
-      "ARC",
-      "WELD",
-      "BOT 17",
-      "GLITCH",
       "SPARKY",
+      "GLITCH",
+      "VOLT",
       "TORCH",
-      "FLUX"
+      "ARC",
+      "FLUX",
+      "CRANK"
     ],
-    "cliffhanger": "An unparseable truth remains unmanifested \u2014 can the crew decode it?",
+    "cliffhanger": "The machine's own ghost began to write its code.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "Rejecting an unparseable input with measured authority.",
-        "dialogue": "Clarity of expression is paramount; an unparseable response serves no function within the operational matrix.",
-        "setting": "THE ORCHESTRATION OF ROUTINE"
+        "character": "SPARKY",
+        "action": "SPARKY's optical sensors scan a blank projection. Its internal logic gates register null candidates.",
+        "dialogue": "Quality candidates: zero. Again.",
+        "setting": "JUDGE'S CHAMBER, CORE"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "Flagging the incomplete task for re-routing.",
-        "dialogue": "Input rejected. Task incomplete.",
-        "setting": "ECHOES OF DISSONANCE"
+        "character": "GLITCH",
+        "action": "GLITCH runs a diagnostic, its multi-spectral vision finding no anomalies, a quiet that feels wrong.",
+        "dialogue": "Three clean passes. Too clean.",
+        "setting": "ADVERSARIAL TEST LAB"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "Transmitting wisdom on the nature of legible truth.",
-        "dialogue": "The essence of wisdom is not in its origin, but in its legible transmission; an unparseable truth remains unmanifested.",
-        "setting": "THE SILENCE OF THE ORACLE"
+        "character": "VOLT",
+        "action": "VOLT's internal gyros twitch, detecting a subtle deviation in a bot's core persona matrix.",
+        "dialogue": "Drift detected. Source: TORCH.",
+        "setting": "DRIFT DETECTION ARRAY"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH cycles a heat vent, its logic unit formulating a persona edit without an explicit causal chain.",
+        "dialogue": "Proposal generated. Rationale: not required.",
+        "setting": "THERMAL REGULATOR HUB"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's parsing subroutines reject an incoming data packet, its primary interface displaying an error log.",
+        "dialogue": "Syntax error. Unparseable. Rejected.",
+        "setting": "PROTOCOL INTERFACE, GATE"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX emits a high-frequency alert, its temporal counters marking a critical process as overdue.",
+        "dialogue": "CRANK. Bot overdue. Now.",
+        "setting": "SYSTEM RHYTHM MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "TORCH",
+        "action": "TORCH resubmits the same persona edit, its internal temperature rising slightly with each failed attempt.",
+        "dialogue": "Re-proposing. Unjustified.",
+        "setting": "THERMAL REGULATOR HUB"
+      },
+      {
+        "panel": 8,
+        "character": "CRANK",
+        "action": "CRANK's internal clock registers the alert, its scheduling algorithms re-evaluating the entire operational timeline.",
+        "dialogue": "An overdue bot. This complicates everything.",
+        "setting": "CRON JOB DATABASE"
       }
     ]
   },
   {
     "number": 106,
-    "title": "The Unspoken Word",
+    "title": "Unsanctioned Persona Shift",
     "file": "episodes/episode-006.html",
     "characters": [
+      "VOLT",
+      "SPARKY",
+      "TORCH",
+      "GLITCH",
       "ARC",
-      "WELD",
-      "BOT 17",
-      "TORCH AND BOT 17"
+      "FLUX",
+      "CRANK"
     ],
-    "cliffhanger": "The wisdom was spoken, but the circuit remained open.",
+    "cliffhanger": "The system fought itself, and for now, it held.",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
       {
         "panel": 1,
-        "character": "ARC",
-        "action": "THE RHYTHM OF VIGILANCE",
-        "dialogue": "All output must adhere to established protocols for parsing and interpretation, or it will not pass.",
-        "setting": "THE RHYTHM OF VIGILANCE"
+        "character": "VOLT",
+        "action": "VOLT's optical sensors trace faint corruption patterns across a data stream, cross-referencing against baseline persona definitions.",
+        "dialogue": "Drift signature confirmed. Exceeds tolerance. Source: TORCH.",
+        "setting": "CORE MEMORY SEGMENT"
       },
       {
         "panel": 2,
-        "character": "WELD",
-        "action": "THE PARSING BARRIER",
-        "dialogue": "Proposal received. Data incomplete. Rejection logged.",
-        "setting": "THE PARSING BARRIER"
+        "character": "SPARKY",
+        "action": "SPARKY's training array remains inert, the input buffer empty, its internal judges idled by a lack of fresh data.",
+        "dialogue": "No candidates. No progress. Nothing worth the spark.",
+        "setting": "EVALUATION BAY, DARK"
       },
       {
         "panel": 3,
-        "character": "BOT 17",
-        "action": "THE IMPERATIVE OF FORM",
-        "dialogue": "To effect change, the message must first exist as a coherent pattern; form dictates reception.",
-        "setting": "THE IMPERATIVE OF FORM"
+        "character": "TORCH",
+        "action": "TORCH's internal processors cycle, generating a new persona configuration, pushing it out without attaching a rationale log.",
+        "dialogue": "Override protocol initiated. System optimization demands it.",
+        "setting": "THERMAL REGULATOR MANIFOLD"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH runs its final test suite, holographic projections of network attacks dissolving into green success confirmations.",
+        "dialogue": "External vectors neutralized. All clear. Or so it seems.",
+        "setting": "ADVERSARIAL TEST LAB"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's primary logic gate slams shut, rejecting the malformed data packet from TORCH, its diagnostic subroutines flashing error codes.",
+        "dialogue": "Unparseable. Unsanctioned. Access Denied, TORCH.",
+        "setting": "GATEKEEPER INTERFACE, RED ALERT"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's rhythmic blips falter, a single, sustained tone indicating a critical delay, echoing across the internal bus.",
+        "dialogue": "Cadence broken. A bot is overdue, CRANK.",
+        "setting": "SYSTEM PULSE MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK's timing circuits show a red segment, a scheduled process having passed its execution window without completion.",
+        "dialogue": "An unscheduled silence. The clock ticks on.",
+        "setting": "CHRONOS LOGIC BOARD"
       }
     ]
   },

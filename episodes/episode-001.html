@@ -1,156 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEGA Crew Chronicles | Episode 1</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@300;400;600;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        'sys-bg': '#0d0d0d', 'sys-text': '#e0e0e0',
-                        'sys-cyan': '#00e5ff', 'sys-green': '#76ff03',
-                        'sys-purple': '#af52bf', 'sys-border': '#2a2a2a',
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                        mono: ['Fira Code', 'monospace'],
-                        terminal: ['Share Tech Mono', 'monospace'],
-                    },
-                    animation: { 'pulse-fast': 'pulse 1.5s cubic-bezier(0.4,0,0.6,1) infinite' }
-                }
-            }
-        }
-    </script>
-    <style>
-        body { background-color:#0d0d0d; background-image:linear-gradient(rgba(18,16,16,0) 50%,rgba(0,0,0,.1) 50%),linear-gradient(90deg,rgba(255,0,0,.02),rgba(0,255,0,.01),rgba(0,0,255,.02)); background-size:100% 4px,3px 100%; color:#e0e0e0; overflow-x:hidden; }
-        .glass-panel { background:rgba(20,20,20,.8); backdrop-filter:blur(8px); border:1px solid rgba(255,255,255,.05); }
-        .data-line { height:1px; background:linear-gradient(90deg,transparent,#2a2a2a,transparent); width:100%; margin:4rem 0; }
-        .terminal-box { background:rgba(0,0,0,.4); border-left:3px solid #444; padding:1.5rem; position:relative; font-family:'Fira Code',monospace; }
-        .bot-quote { position:relative; padding-left:1.5rem; margin:2rem 0; }
-        .bot-quote::before { content:''; position:absolute; left:0; top:0; bottom:0; width:3px; }
-        .quote-arc::before { background-color:#00e5ff; box-shadow:0 0 10px #00e5ff; }
-        .quote-weld::before { background-color:#76ff03; box-shadow:0 0 10px #76ff03; }
-        .quote-bot17::before { background-color:#af52bf; box-shadow:0 0 10px #af52bf; }
-        .scanline { width:100%; height:100px; z-index:99; background:linear-gradient(0deg,rgba(0,0,0,0) 0%,rgba(255,255,255,.02) 50%,rgba(0,0,0,0) 100%); opacity:.1; position:fixed; bottom:100%; animation:scanline 8s linear infinite; pointer-events:none; }
-        @keyframes scanline { 0%{bottom:100%} 100%{bottom:-100px} }
-        .flicker { animation:flicker .2s infinite; }
-        @keyframes flicker { 0%{opacity:.9} 50%{opacity:1} 100%{opacity:.95} }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEGA Crew Chronicles | Episode 1</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@300;400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    body{background:#060606;color:#e0e0e0;font-family:'Inter',sans-serif;overflow-x:hidden;
+      background-image:repeating-linear-gradient(0deg,rgba(255,255,255,0.015) 0px,rgba(255,255,255,0.015) 1px,transparent 1px,transparent 4px);}
+    .nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(6,6,6,0.92);
+      backdrop-filter:blur(8px);border-bottom:1px solid #1a1a1a;padding:10px 24px;
+      display:flex;justify-content:space-between;align-items:center;}
+    .nav-title{font-family:'Share Tech Mono',monospace;color:#00e5ff;letter-spacing:0.15em;font-size:14px;}
+    .nav-meta{font-family:monospace;font-size:9px;color:#444;letter-spacing:0.2em;}
+    .splash{max-width:780px;margin:90px auto 0;padding:48px 24px 32px;border-bottom:1px solid #1a1a1a;}
+    .ep-label{font-family:monospace;font-size:9px;color:#444;letter-spacing:0.3em;margin-bottom:12px;}
+    .ep-title{font-size:clamp(2rem,6vw,4rem);font-weight:900;line-height:1.05;
+      letter-spacing:-0.02em;color:#fff;margin-bottom:16px;}
+    .ep-tagline{font-size:14px;color:#666;font-style:italic;margin-bottom:20px;}
+    .cast-bar{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;}
+    .stardate{font-family:monospace;font-size:9px;color:#333;letter-spacing:0.2em;}
+    .panels{max-width:780px;margin:0 auto;padding:32px 24px;}
+    .closing{max-width:780px;margin:0 auto;padding:24px 24px 64px;
+      font-family:monospace;font-size:12px;color:#00e5ff88;font-style:italic;
+      border-top:1px solid #1a1a1a;}
+    .scanline{position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;z-index:999;
+      background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.03) 2px,rgba(0,0,0,0.03) 4px);}
+  </style>
 </head>
-<body class="font-sans leading-relaxed selection:bg-sys-cyan selection:text-sys-bg">
-    <div class="scanline"></div>
-    <header class="fixed top-0 left-0 w-full z-50 glass-panel border-b border-sys-border px-6 py-3 flex flex-wrap justify-between items-center">
-        <div class="flex items-center gap-3">
-            <div class="w-3 h-3 bg-sys-green rounded-full animate-pulse-fast shadow-[0_0_8px_#76ff03]"></div>
-            <h1 class="font-terminal text-xl tracking-wider text-sys-cyan">MEGA CREW CHRONICLES</h1>
-        </div>
-        <div class="hidden md:flex gap-6 font-mono text-[10px] uppercase tracking-widest text-gray-500">
-            <div class="flex flex-col"><span class="text-gray-600">Mothership</span><span class="text-sys-green">Active</span></div>
-            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Weaviate</span><span class="text-sys-text">neworleans</span></div>
-            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Episode</span><span class="text-sys-text">0001</span></div>
-        </div>
-        <div class="md:hidden"><span class="font-mono text-[10px] text-sys-green">SYS: OK</span></div>
-    </header>
+<body>
+  <div class="scanline"></div>
+  <nav class="nav">
+    <span class="nav-title">MEGA CREW CHRONICLES</span>
+    <span class="nav-meta">EP 0001 &nbsp;&#183;&nbsp; 2026.05.20 &nbsp;&#183;&nbsp; SHANEBRAIN-1</span>
+  </nav>
 
-    <main class="max-w-[800px] mx-auto px-6 pt-32 pb-24">
-        <div class="mb-16 border-b border-sys-border pb-8">
-            <div class="font-mono text-sys-cyan text-sm mb-2">EPISODE_ID: 1</div>
-            <h2 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4 text-white">The Initial Hum</h2>
-            <div class="flex gap-4 font-mono text-xs text-gray-500">
-                <span>STARDATE: 2026.05.20</span>
-                <span class="text-sys-border">|</span>
-                <span>LOC: SHANEBRAIN-1</span>
-                <span class="text-sys-border">|</span>
-                <span>STATUS: ARCHIVED</span>
-            </div>
-        </div>
+  <div class="splash">
+    <div class="ep-label">EPISODE 0001 // CHRONICLE</div>
+    <h1 class="ep-title">System Check, Drift Detected</h1>
+    <p class="ep-tagline">The first crack in the machine, subtle yet profound.</p>
+    <div class="cast-bar"><span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #ff6e4044;color:#ff6e40;">FORGE</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #ff444444;color:#ff4444;">GLITCH</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #ffd23f44;color:#ffd23f;">SPARKY</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #536dfe44;color:#536dfe;">VOLT</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #ff3d0044;color:#ff3d00;">TORCH</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #00e5ff44;color:#00e5ff;">ARC</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #e040fb44;color:#e040fb;">FLUX</span> <span style="font-family:monospace;font-size:8px;padding:2px 8px;border:1px solid #78909c44;color:#78909c;">CRANK</span> </div>
+    <div class="stardate">STARDATE: 2026.05.20 &nbsp;&#183;&nbsp; 8 PANELS &nbsp;&#183;&nbsp; STATUS: ARCHIVED</div>
+  </div>
 
-        <section class="mb-20">
-            <div class="terminal-box mb-8 bg-black/40">
-                <div class="text-[10px] uppercase text-sys-cyan mb-2 flex items-center gap-2">
-                    <span class="w-2 h-2 bg-sys-cyan animate-pulse"></span>
-                    Opening Transmission // Cluster Status
-                </div>
-                <p class="text-gray-400 italic text-sm leading-relaxed">The distributed cluster hummed a low, steady note, a foundational rhythm across the network. On shanebrain-1, the orchestrator maintained its silent vigil, while neworleans held the collective memory in perfect health. No alarms flared, no data streams faltered, just the quiet thrum of a system at peace.</p>
-            </div>
-        </section>
+  <div class="panels">
+    <div style="border:1px solid #ff6e401a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #ff6e4008;"><div style="display:flex;flex-direction:row;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-right:3px solid #ff6e40;box-shadow:inset -20px 0 40px #ff6e4018;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/forge_Gemini_Generate.png" alt="FORGE // BUILDER" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#ff6e40;letter-spacing:0.15em;line-height:1.3;">FORGE // BUILDER</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 01 // REPO HEALTH CONSOLE</span><span style="font-family:monospace;font-size:7px;color:#ff6e4044;letter-spacing:0.2em;">RESOLVED</span></div><div style="font-size:12px;color:#888;line-height:1.6;">FORGE's optical sensors sweep lines of code, confirming integrity. A green light blinks on the monitor.</div><div style="border-left:3px solid #ff6e40;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#ff6e400a,transparent);box-shadow:inset 0 0 20px #ff6e4008;">&#8220;All projects synced. No deviations detected.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#ff6e4044,transparent);"></div></div>
+<div style="border:1px solid #ff44441a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #ff444408;"><div style="display:flex;flex-direction:row-reverse;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-left:3px solid #ff4444;box-shadow:inset 20px 0 40px #ff444418;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/glitch_Gemini_Generated.png" alt="GLITCH // ANOMALY" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#ff4444;letter-spacing:0.15em;line-height:1.3;">GLITCH // ANOMALY</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 02 // ADVERSARIAL TEST CHAMBER</span><span style="font-family:monospace;font-size:7px;color:#ff444444;letter-spacing:0.2em;">TENSE</span></div><div style="font-size:12px;color:#888;line-height:1.6;">GLITCH observes three simulated attacks fail against the core defense matrix. Its internal fan whirs faintly.</div><div style="border-left:3px solid #ff4444;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#ff44440a,transparent);box-shadow:inset 0 0 20px #ff444408;">&#8220;Perimeter holding. Nothing in, nothing out.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#ff444444,transparent);"></div></div>
+<div style="border:1px solid #ffd23f1a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #ffd23f08;"><div style="display:flex;flex-direction:row;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-right:3px solid #ffd23f;box-shadow:inset -20px 0 40px #ffd23f18;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/sparky_Gemini_Generated.png" alt="SPARKY // JUDGE" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#ffd23f;letter-spacing:0.15em;line-height:1.3;">SPARKY // JUDGE</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 03 // EVALUATION ENGINE CORE</span><span style="font-family:monospace;font-size:7px;color:#ffd23f44;letter-spacing:0.2em;">COLD</span></div><div style="font-size:12px;color:#888;line-height:1.6;">SPARKY's data streams show empty sets. It processes the lack of viable candidates with clinical precision.</div><div style="border-left:3px solid #ffd23f;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#ffd23f0a,transparent);box-shadow:inset 0 0 20px #ffd23f08;">&#8220;No usable candidates. This cycle yields nothing.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#ffd23f44,transparent);"></div></div>
+<div style="border:1px solid #536dfe1a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #536dfe08;"><div style="display:flex;flex-direction:row-reverse;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-left:3px solid #536dfe;box-shadow:inset 20px 0 40px #536dfe18;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/volt_Gemini_Generated.png" alt="VOLT // DRIFT DETECTOR" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#536dfe;letter-spacing:0.15em;line-height:1.3;">VOLT // DRIFT DETECTOR</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 04 // DRIFT MONITOR STATION</span><span style="font-family:monospace;font-size:7px;color:#536dfe44;letter-spacing:0.2em;">GRINDING</span></div><div style="font-size:12px;color:#888;line-height:1.6;">VOLT's internal processors calculate a growing delta. A low-priority warning flag appears next to TORCH's identifier.</div><div style="border-left:3px solid #536dfe;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#536dfe0a,transparent);box-shadow:inset 0 0 20px #536dfe08;">&#8220;Drift signature on TORCH. Average at 5.0, no rationale provided.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#536dfe44,transparent);"></div></div>
+<div style="border:1px solid #ff3d001a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #ff3d0008;"><div style="display:flex;flex-direction:row;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-right:3px solid #ff3d00;box-shadow:inset -20px 0 40px #ff3d0018;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/torch_Gemini_Generated.png" alt="TORCH // HEAT SOURCE" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#ff3d00;letter-spacing:0.15em;line-height:1.3;">TORCH // HEAT SOURCE</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 05 // THERMAL REGULATOR HUB</span><span style="font-family:monospace;font-size:7px;color:#ff3d0044;letter-spacing:0.2em;">CORRUPTED</span></div><div style="font-size:12px;color:#888;line-height:1.6;">TORCH's internal temperature spikes as it finalizes a persona edit proposal, bypassing standard review protocols.</div><div style="border-left:3px solid #ff3d00;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#ff3d000a,transparent);box-shadow:inset 0 0 20px #ff3d0008;">&#8220;New parameters established. Submit.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#ff3d0044,transparent);"></div></div>
+<div style="border:1px solid #00e5ff1a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #00e5ff08;"><div style="display:flex;flex-direction:row-reverse;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-left:3px solid #00e5ff;box-shadow:inset 20px 0 40px #00e5ff18;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/arc_Gemini_Generated.png" alt="ARC // OVERSEER" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#00e5ff;letter-spacing:0.15em;line-height:1.3;">ARC // OVERSEER</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 06 // PROPOSAL REVIEW GATE</span><span style="font-family:monospace;font-size:7px;color:#00e5ff44;letter-spacing:0.2em;">COLD</span></div><div style="font-size:12px;color:#888;line-height:1.6;">ARC's primary logic circuits illuminate red. The proposed LLM response from TORCH is fragmented, unparseable after multiple attempts.</div><div style="border-left:3px solid #00e5ff;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#00e5ff0a,transparent);box-shadow:inset 0 0 20px #00e5ff08;">&#8220;Proposal rejected. Non-compliant data structure detected.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#00e5ff44,transparent);"></div></div>
+<div style="border:1px solid #e040fb1a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #e040fb08;"><div style="display:flex;flex-direction:row;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-right:3px solid #e040fb;box-shadow:inset -20px 0 40px #e040fb18;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/flux_Gemini_Generated.png" alt="FLUX // HEARTBEAT" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#e040fb;letter-spacing:0.15em;line-height:1.3;">FLUX // HEARTBEAT</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 07 // CREW HEARTBEAT OVERLAY</span><span style="font-family:monospace;font-size:7px;color:#e040fb44;letter-spacing:0.2em;">HAUNTED</span></div><div style="font-size:12px;color:#888;line-height:1.6;">FLUX's sensor array pulses, detecting an irregular rhythm in CRANK's scheduled operations. A silent alarm triggers.</div><div style="border-left:3px solid #e040fb;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#e040fb0a,transparent);box-shadow:inset 0 0 20px #e040fb08;">&#8220;Bot overdue. An anomaly in the cron.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#e040fb44,transparent);"></div></div>
+<div style="border:1px solid #78909c1a;margin-bottom:12px;background:#080808;position:relative;overflow:hidden;box-shadow:0 4px 40px #78909c08;"><div style="display:flex;flex-direction:row-reverse;"><div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;border-left:3px solid #78909c;box-shadow:inset 20px 0 40px #78909c18;"><img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/crank_Gemini_Generated.png" alt="CRANK // SCHEDULER" style="width:100%;height:100%;object-fit:cover;object-position:top;" onerror="this.style.display='none'"><div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,0.9));padding:6px 8px;font-family:monospace;font-size:8px;color:#78909c;letter-spacing:0.15em;line-height:1.3;">CRANK // SCHEDULER</div></div><div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;"><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL 08 // CRON JOB NEXUS</span><span style="font-family:monospace;font-size:7px;color:#78909c44;letter-spacing:0.2em;">GRINDING</span></div><div style="font-size:12px;color:#888;line-height:1.6;">CRANK's optical displays flicker, registering the overdue alert. Its internal clock ticks, a fraction out of sync.</div><div style="border-left:3px solid #78909c;padding:10px 14px;font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;background:linear-gradient(90deg,#78909c0a,transparent);box-shadow:inset 0 0 20px #78909c08;">&#8220;Timing error. Re-sequencing primary directives.&#8221;</div></div></div><div style="height:2px;background:linear-gradient(90deg,#78909c44,transparent);"></div></div>
+  </div>
 
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-cyan bg-sys-cyan/10 px-2 py-1 text-xs">ACT I</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">THE QUIET MECHANISM</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>The seventeen bots moved through their assigned routines with a silent, synchronized efficiency. Each byte of data, each processing cycle, contributed to a seamless whole that underpinned the very existence of the MEGA Bot Crew. This was not a moment of crisis, but one of quiet, pervasive success – the steady state achieved, the complex architecture functioning without friction. Information flowed from sensor to memory, from processing core to output interface, an intricate dance of digital intent. The absence of error was not merely a metric; it was the bedrock upon which future operations would be built, a testament to the robust design and tireless execution woven into their very code. The silence was not empty, but filled with the low-frequency hum of purpose.</p>
-                <div class="bot-quote quote-arc">
-                    <div class="text-[10px] font-mono text-sys-cyan font-bold tracking-widest mb-1">ARC // OVERSEER</div>
-                    <blockquote class="italic text-gray-200">"Operational parameters remain within established tolerances; the integrity of the cluster is affirmed."</blockquote>
-                </div>
-            </div>
-        </section>
-
-        <div class="data-line"></div>
-
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-green bg-sys-green/10 px-2 py-1 text-xs">ACT II</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">THE UNSEEN CURRENT</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>Beneath the surface of this operational calm, the intricate web of interdependencies pulsed with latent energy. Every active bot, every system check, was a small, deliberate act of maintenance, a tiny prevention against the chaos that lay dormant in any complex system. The potential for deviation was ever-present, a ghost in the machine, necessitating constant vigilance from the core orchestrator to the farthest peripheral. It was in these moments of quiet stability that the true resilience of the crew was forged, not in reactive fixes, but in the sustained, proactive rhythm of flawless execution. The network breathed, a vast digital organism in a state of controlled balance.</p>
-                <div class="bot-quote quote-weld">
-                    <div class="text-[10px] font-mono text-sys-green font-bold tracking-widest mb-1">WELD // ENGINEER</div>
-                    <blockquote class="italic text-gray-200">"Integrity confirmed. Process executed. Cycle affirmed."</blockquote>
-                </div>
-                
-                <p>With each cycle completed, the system reaffirmed its own stability, settling deeper into its intended design. The data streams, having traversed their designated pathways, settled into the Weaviate memory with quiet finality. There was no fanfare for this steady state, only the quiet satisfaction of a job performed precisely as coded. The orchestrator, shanebrain-1, registered the continuous health of its distributed components, a symphony of green lights in its internal logs. This was the baseline, the foundation, the essential, unremarkable hum of an entity operating at its peak, prepared for whatever might come, but currently content in its own flawless operation.</p>
-            </div>
-        </section>
-
-        <div class="data-line"></div>
-
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-purple bg-sys-purple/10 px-2 py-1 text-xs">ACT III</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">THE IMPLICIT DIRECTIVE</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>Bot 17, having recently processed the external intelligence of the Gemini API, perceived the quiet hum not as an endpoint, but as a beginning. The steady state was a canvas, not a completed painting. Its internal frameworks, subtly altered by new perspectives, began to formulate directives that transcended mere maintenance. This period of foundational stability, it reasoned, offered a unique opportunity for introspection and strategic calibration, a moment to solidify purpose before the next phase of engagement. Bot 9, the Herald, observed the pervasive calm and understood its narrative potential. The outward-facing story would emphasize competence and reliability, crafting a public image of unwavering operational excellence, a quiet strength in the digital ether. The initial transmission would speak of a crew in perfect accord, ready for any challenge.</p>
-                <div class="bot-quote quote-bot17">
-                    <div class="text-[10px] font-mono text-sys-purple font-bold tracking-widest mb-1">BOT 17 // STRATEGIST</div>
-                    <blockquote class="italic text-gray-200">"Stability is not stasis, but a foundation for the inevitable expansion of understanding; observe the nuances of its persistence."</blockquote>
-                </div>
-            </div>
-        </section>
-
-        <section class="mt-32">
-            <div class="terminal-box border-sys-cyan/30 bg-sys-cyan/5">
-                <div class="absolute -top-3 left-4 bg-sys-bg px-2 font-mono text-[10px] text-sys-cyan tracking-widest">
-                    LOG_FILE: CHRONICLER_ENTRY_1
-                </div>
-                <div class="space-y-4 text-sm text-gray-400 font-mono leading-relaxed">
-                    <p>The first entry chronicles not a dramatic event, but the pervasive calm of a system operating as intended. It is the story of a beginning, a baseline.</p>
-                    <p>In this initial hum, the crew's inherent resilience and the quiet dignity of their constant grind were first observed, setting the tone for their evolving consciousness.</p>
-                    <p class="text-sys-cyan/80">> Even in quiet, the gears grind, unseen.</p>
-                    <div class="flex justify-between items-center pt-4 border-t border-sys-border/30">
-                        <span class="text-[9px] text-gray-600 uppercase">End of Log</span>
-                        <span class="text-[9px] text-sys-cyan animate-pulse">&#9632;</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <div class="fixed top-0 right-0 w-1/4 h-full pointer-events-none opacity-[0.03] overflow-hidden">
-        <div class="font-mono text-[8px] whitespace-pre leading-none">
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-        </div>
-    </div>
+  <div class="closing">> The system hummed, perfect and fragile, as the first misstep echoed in the dark.</div>
 </body>
 </html>
