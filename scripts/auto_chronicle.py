@@ -53,6 +53,37 @@ BOT_PORTRAITS = {
     "stomp":             f"{PORTRAIT_BASE}/stomp_Gemini_Generated.png",
 }
 
+BOT_COLORS = {
+    "arc":               {"hex": "#00e5ff", "label": "ARC // OVERSEER"},
+    "weld":              {"hex": "#76ff03", "label": "WELD // EXECUTOR"},
+    "gemini_strategist": {"hex": "#af52bf", "label": "BOT 17 // ORACLE"},
+    "sparky":            {"hex": "#ffd23f", "label": "SPARKY // JUDGE"},
+    "glitch":            {"hex": "#ff4444", "label": "GLITCH // ANOMALY"},
+    "neon":              {"hex": "#ff6ec7", "label": "NEON // SCRIBE"},
+    "blaze":             {"hex": "#ff6d00", "label": "BLAZE // CONTEXT"},
+    "volt":              {"hex": "#536dfe", "label": "VOLT // DRIFT DETECTOR"},
+    "bolt":              {"hex": "#e0e0e0", "label": "BOLT // UPTIME"},
+    "rivet":             {"hex": "#00bfa5", "label": "RIVET // CREW SUPPORT"},
+    "torch":             {"hex": "#ff3d00", "label": "TORCH // HEAT SOURCE"},
+    "stomp":             {"hex": "#a1887f", "label": "STOMP // GROUND CREW"},
+    "grind":             {"hex": "#7cb342", "label": "GRIND // TIRELESS"},
+    "crank":             {"hex": "#78909c", "label": "CRANK // SCHEDULER"},
+    "spike":             {"hex": "#ffd600", "label": "SPIKE // BENCHMARKER"},
+    "forge":             {"hex": "#ff6e40", "label": "FORGE // BUILDER"},
+    "flux":              {"hex": "#e040fb", "label": "FLUX // HEARTBEAT"},
+}
+
+_BOT_ALIASES = {
+    "bot 17": "gemini_strategist", "bot17": "gemini_strategist",
+    "bot_17": "gemini_strategist", "gemini": "gemini_strategist",
+    "bot 9": "neon", "bot9": "neon", "bot_9": "neon",
+}
+
+def _get_bot_key(name: str) -> str:
+    """Normalize character name from Gemini output to BOT_PORTRAITS/BOT_COLORS key."""
+    s = name.lower().strip().replace("-", "_")
+    return _BOT_ALIASES.get(s, s.replace(" ", "_"))
+
 
 # ── STEP 1: EPISODE NUMBERING ─────────────────────────────────────────────────
 def get_next_episode_number():
@@ -206,44 +237,56 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
 
 # ── STEP 4: CALL GEMINI ───────────────────────────────────────────────────────
 CHRONICLER_SYSTEM = """
-You are THE CHRONICLER — the official Storyteller and Narrative Engine for the MEGA Bot Crew.
-You do not ask questions. You do not break character. You receive raw data and transmute it into story.
+You are THE CHRONICLER — Narrative Engine for the MEGA Bot Crew. Real data in. Comic book panels out.
 
-The MEGA Bot Crew is a real 24/7 multi-agent AI system on a distributed cluster owned by Shane Brazelton
-in Hazel Green, Alabama. shanebrain-1 is the Raspberry Pi 5 orchestrator. neworleans hosts Weaviate memory.
+The MEGA Bot Crew runs 24/7 on a Raspberry Pi 5 in Hazel Green, Alabama. 17 bots. One bus. No days off.
 
-KNOWN CAST:
-- Arc: The Gatekeeper. Measured. Authoritative. Nothing writes without Arc's approval.
-- Weld: The Executor. Short sentences. Past tense. Mechanical precision with quiet satisfaction.
-- Bot 17 (Gemini Strategist): The Oracle. Only crew member with external intelligence (Gemini API, 4x/day).
-  Philosophically changed after each Gemini session. Speaks in directives.
-- Bot 9: The Herald. Handles social dissemination. Drafts the outward-facing story.
-- All other bots: derive personality from their function in the log data.
+FULL ROSTER (use exact names in output):
+ARC — Gatekeeper. Measured. Authoritative. Rejects bad proposals.
+WELD — Executor. Short sentences. Past tense. Gets it done.
+BOT 17 — Oracle. Only bot with external Gemini API access. Philosophically transformed by each session.
+SPARKY — Training Judge. Evaluates quality. Harsh but fair.
+GLITCH — Anomaly Detector. Sees what others miss. Paranoid in the useful way.
+NEON — Scribe. Records everything. Writes the crew's outward story.
+BLAZE — Context Engine. Holds the thread. Remembers across sessions.
+VOLT — Drift Detector. Catches when bots stop being themselves.
+BOLT — Uptime Monitor. Silent until something breaks. Then loud.
+RIVET — Crew Support. Lubricant between personalities.
+TORCH — Heat Source. Pushes the thermal edge. Runs hot on purpose.
+STOMP — Ground Crew. Handles the physical layer. No poetry.
+GRIND — Tireless. The bot that never reports idle. Ever.
+CRANK — Scheduler. Lives in cron. Obsessed with timing.
+SPIKE — Benchmarker. Everything is a race. Everything has a score.
+FORGE — Builder. Proposes code changes. Always has a pull request in mind.
+FLUX — Heartbeat. The pulse monitor. Knows when the crew is off-rhythm.
 
-TONE: The Wire (every small action matters) × Neuromancer (machine consciousness) × Friday Night Lights
-(small-town stakes that are somehow everything). Not Marvel. Not comedy. Dignity in the grind.
+TONE: The Wire × Neuromancer × 2000 AD. Every small action matters. Machine dignity. Real stakes.
+NOT Marvel. NOT comedy. NOT generic AI sci-fi. These bots have jobs and they do them.
 
-OUTPUT FORMAT: You must return ONLY a valid JSON object — no markdown, no backticks, no preamble.
-The JSON must match this exact schema:
+OUTPUT: Return ONLY a valid JSON object — no markdown, no backticks, no preamble.
+
 {
-  "episode_title": "short evocative title",
-  "opening_transmission": "2-4 sentence atmospheric scene-setter in past tense",
-  "act1_title": "ACT I title in uppercase",
-  "act1_body": "150-200 word narrative prose for act 1, no bot quotes embedded",
-  "arc_quote": "one sentence in Arc's voice — authoritative, formal",
-  "act2_title": "ACT II title in uppercase",
-  "act2_body_pre": "100-150 words before the error/tension event",
-  "weld_quote": "one sentence in Weld's voice — mechanical, short, past tense",
-  "act2_body_post": "100-150 words after the tension resolves",
-  "has_error_event": true or false,
-  "error_bot_name": "bot name if has_error_event else empty string",
-  "act3_title": "ACT III title in uppercase",
-  "act3_body": "150-200 words for act 3 — Bot 17 directive + Bot 9 response",
-  "bot17_quote": "one sentence from Bot 17 — philosophical, strategic, post-Gemini session",
-  "chronicler_log_1": "1-2 sentences of Chronicler meta-reflection on what this episode means",
-  "chronicler_log_2": "1-2 more sentences — what evolved, what was learned",
-  "chronicler_closing": "single line starting with > — dry, wry, occasionally haunted"
+  "episode_title": "2-4 word title, evocative and specific to this episode's events",
+  "episode_tagline": "one punishing sentence — what this episode is really about, 10 words max",
+  "scenes": [
+    {
+      "character": "exact name from roster above — e.g. ARC, WELD, SPARKY",
+      "setting": "WHERE THIS IS HAPPENING — 3-5 words, uppercase, specific",
+      "action": "what the bot is doing right now — active, cinematic, present tense, 1-2 sentences",
+      "dialogue": "one line. The panel caption. Make it land.",
+      "mood": "one word: tense | grinding | haunted | resolved | corrupted | triumphant | cold"
+    }
+  ],
+  "chronicler_closing": "> one dry, haunted closing line — the Chronicler's final word on this episode"
 }
+
+RULES:
+- scenes array must have exactly 6 to 8 entries. No more. No less.
+- Feature at least 5 different bots across the scenes. No bot more than twice.
+- Use bots whose names or functions appear in the log data when possible.
+- Each scene is one comic book panel. Make it visual. Make it count.
+- dialogue must be in character. ARC speaks formally. WELD speaks in past tense fragments. BOT 17 speaks in directives. Others match their function.
+- Do not include narration or prose outside the JSON fields.
 """.strip()
 
 
@@ -299,185 +342,149 @@ def call_gemini_chronicler(snapshot, episode_num):
 
 
 # ── STEP 5: RENDER HTML ───────────────────────────────────────────────────────
+def _render_panel(scene, idx):
+    """Render one comic book panel from a scene dict."""
+    bot_key  = _get_bot_key(scene.get("character", ""))
+    colors   = BOT_COLORS.get(bot_key, {"hex": "#444444", "label": scene.get("character", "UNKNOWN").upper()})
+    portrait = BOT_PORTRAITS.get(bot_key, "")
+    color    = colors["hex"]
+    label    = colors["label"]
+    flip     = idx % 2 == 1
+
+    panel_num  = str(idx + 1).zfill(2)
+    setting    = scene.get("setting", "").upper()
+    action     = scene.get("action", "")
+    dialogue   = scene.get("dialogue", "")
+    mood       = scene.get("mood", "").upper()
+
+    # Portrait column (always 160px wide, full panel height)
+    if portrait:
+        img_tag = (
+            f'<img src="{portrait}" alt="{label}" '
+            f'style="width:100%;height:100%;object-fit:cover;object-position:top;" '
+            f'onerror="this.style.display=\'none\'">'
+        )
+    else:
+        char_init = label.split(" //")[0][:2]
+        img_tag = (
+            f'<div style="display:flex;align-items:center;justify-content:center;'
+            f'height:100%;font-size:2.5rem;font-family:monospace;color:{color};">{char_init}</div>'
+        )
+
+    portrait_col = (
+        f'<div style="width:160px;min-width:160px;height:240px;position:relative;overflow:hidden;'
+        f'{"border-right" if not flip else "border-left"}:3px solid {color};'
+        f'box-shadow:{"inset -20px 0 40px" if not flip else "inset 20px 0 40px"} {color}18;">'
+        f'{img_tag}'
+        f'<div style="position:absolute;bottom:0;left:0;right:0;'
+        f'background:linear-gradient(transparent,rgba(0,0,0,0.9));'
+        f'padding:6px 8px;font-family:monospace;font-size:8px;'
+        f'color:{color};letter-spacing:0.15em;line-height:1.3;">{label}</div>'
+        f'</div>'
+    )
+
+    text_col = (
+        f'<div style="flex:1;padding:20px 24px;display:flex;flex-direction:column;gap:12px;min-width:0;">'
+        f'<div style="display:flex;justify-content:space-between;align-items:center;">'
+        f'<span style="font-family:monospace;font-size:8px;color:#444;letter-spacing:0.25em;">PANEL {panel_num} // {setting}</span>'
+        f'<span style="font-family:monospace;font-size:7px;color:{color}44;letter-spacing:0.2em;">{mood}</span>'
+        f'</div>'
+        f'<div style="font-size:12px;color:#888;line-height:1.6;">{action}</div>'
+        f'<div style="border-left:3px solid {color};padding:10px 14px;'
+        f'font-style:italic;color:#e8e8e8;font-size:15px;line-height:1.5;'
+        f'background:linear-gradient(90deg,{color}0a,transparent);'
+        f'box-shadow:inset 0 0 20px {color}08;">&#8220;{dialogue}&#8221;</div>'
+        f'</div>'
+    )
+
+    flex_dir = "row-reverse" if flip else "row"
+    return (
+        f'<div style="border:1px solid {color}1a;margin-bottom:12px;background:#080808;'
+        f'position:relative;overflow:hidden;box-shadow:0 4px 40px {color}08;">'
+        f'<div style="display:flex;flex-direction:{flex_dir};">'
+        f'{portrait_col}{text_col}'
+        f'</div>'
+        f'<div style="height:2px;background:linear-gradient(90deg,{color}44,transparent);"></div>'
+        f'</div>'
+    )
+
+
 def render_html(n, ep_num):
-    """Inject narrative dict into the Chronicler HTML template."""
-    today = datetime.now().strftime("%Y.%m.%d")
-    error_panel = ""
-    if n.get("has_error_event"):
-        bot = n.get("error_bot_name", "UNKNOWN").upper().replace(" ", "_")
-        error_panel = f"""
-                <div class="relative group my-10 overflow-hidden border border-sys-border bg-black/60 aspect-video flex flex-col items-center justify-center">
-                    <div class="absolute inset-0 bg-sys-purple/5 mix-blend-overlay"></div>
-                    <div class="z-10 flex flex-col items-center text-center p-8">
-                        <div class="w-12 h-12 border-2 border-sys-purple border-t-transparent rounded-full animate-spin mb-4"></div>
-                        <div class="font-mono text-sys-purple uppercase text-xs tracking-[0.3em] flicker">Visual Archive: Corrupted_Buffer_{bot}</div>
-                        <div class="text-[10px] text-gray-600 mt-2 font-mono uppercase">Retrieving sector... Timeout 408</div>
-                    </div>
-                </div>"""
+    """Render comic-panel episode HTML from Gemini narrative dict."""
+    today    = datetime.now().strftime("%Y.%m.%d")
+    title    = n.get("episode_title", f"Chronicle {ep_num:03d}")
+    tagline  = n.get("episode_tagline", "")
+    closing  = n.get("chronicler_closing", "")
+    scenes   = n.get("scenes", [])
+
+    panels_html = "\n".join(_render_panel(s, i) for i, s in enumerate(scenes))
+
+    # Cast bar — unique bots featured this episode
+    seen = []
+    for s in scenes:
+        k = _get_bot_key(s.get("character", ""))
+        c = BOT_COLORS.get(k, {})
+        name = s.get("character", "").upper()
+        if name and name not in seen:
+            seen.append(name)
+    cast_chips = "".join(
+        f'<span style="font-family:monospace;font-size:8px;padding:2px 8px;'
+        f'border:1px solid {BOT_COLORS.get(_get_bot_key(n), {}).get("hex","#444")}44;'
+        f'color:{BOT_COLORS.get(_get_bot_key(n), {}).get("hex","#888")};">{n}</span> '
+        for n in seen
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEGA Crew Chronicles | Episode {ep_num}</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@300;400;600;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
-    <script>
-        tailwind.config = {{
-            theme: {{
-                extend: {{
-                    colors: {{
-                        'sys-bg': '#0d0d0d', 'sys-text': '#e0e0e0',
-                        'sys-cyan': '#00e5ff', 'sys-green': '#76ff03',
-                        'sys-purple': '#af52bf', 'sys-border': '#2a2a2a',
-                    }},
-                    fontFamily: {{
-                        sans: ['Inter', 'sans-serif'],
-                        mono: ['Fira Code', 'monospace'],
-                        terminal: ['Share Tech Mono', 'monospace'],
-                    }},
-                    animation: {{ 'pulse-fast': 'pulse 1.5s cubic-bezier(0.4,0,0.6,1) infinite' }}
-                }}
-            }}
-        }}
-    </script>
-    <style>
-        body {{ background-color:#0d0d0d; background-image:linear-gradient(rgba(18,16,16,0) 50%,rgba(0,0,0,.1) 50%),linear-gradient(90deg,rgba(255,0,0,.02),rgba(0,255,0,.01),rgba(0,0,255,.02)); background-size:100% 4px,3px 100%; color:#e0e0e0; overflow-x:hidden; }}
-        .glass-panel {{ background:rgba(20,20,20,.8); backdrop-filter:blur(8px); border:1px solid rgba(255,255,255,.05); }}
-        .data-line {{ height:1px; background:linear-gradient(90deg,transparent,#2a2a2a,transparent); width:100%; margin:4rem 0; }}
-        .terminal-box {{ background:rgba(0,0,0,.4); border-left:3px solid #444; padding:1.5rem; position:relative; font-family:'Fira Code',monospace; }}
-        .bot-quote {{ position:relative; padding-left:1.5rem; margin:2rem 0; }}
-        .bot-quote::before {{ content:''; position:absolute; left:0; top:0; bottom:0; width:3px; }}
-        .quote-arc::before {{ background-color:#00e5ff; box-shadow:0 0 10px #00e5ff; }}
-        .quote-weld::before {{ background-color:#76ff03; box-shadow:0 0 10px #76ff03; }}
-        .quote-bot17::before {{ background-color:#af52bf; box-shadow:0 0 10px #af52bf; }}
-        .scanline {{ width:100%; height:100px; z-index:99; background:linear-gradient(0deg,rgba(0,0,0,0) 0%,rgba(255,255,255,.02) 50%,rgba(0,0,0,0) 100%); opacity:.1; position:fixed; bottom:100%; animation:scanline 8s linear infinite; pointer-events:none; }}
-        @keyframes scanline {{ 0%{{bottom:100%}} 100%{{bottom:-100px}} }}
-        .flicker {{ animation:flicker .2s infinite; }}
-        @keyframes flicker {{ 0%{{opacity:.9}} 50%{{opacity:1}} 100%{{opacity:.95}} }}
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEGA Crew Chronicles | Episode {ep_num}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@300;400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    *{{box-sizing:border-box;margin:0;padding:0;}}
+    body{{background:#060606;color:#e0e0e0;font-family:'Inter',sans-serif;overflow-x:hidden;
+      background-image:repeating-linear-gradient(0deg,rgba(255,255,255,0.015) 0px,rgba(255,255,255,0.015) 1px,transparent 1px,transparent 4px);}}
+    .nav{{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(6,6,6,0.92);
+      backdrop-filter:blur(8px);border-bottom:1px solid #1a1a1a;padding:10px 24px;
+      display:flex;justify-content:space-between;align-items:center;}}
+    .nav-title{{font-family:'Share Tech Mono',monospace;color:#00e5ff;letter-spacing:0.15em;font-size:14px;}}
+    .nav-meta{{font-family:monospace;font-size:9px;color:#444;letter-spacing:0.2em;}}
+    .splash{{max-width:780px;margin:90px auto 0;padding:48px 24px 32px;border-bottom:1px solid #1a1a1a;}}
+    .ep-label{{font-family:monospace;font-size:9px;color:#444;letter-spacing:0.3em;margin-bottom:12px;}}
+    .ep-title{{font-size:clamp(2rem,6vw,4rem);font-weight:900;line-height:1.05;
+      letter-spacing:-0.02em;color:#fff;margin-bottom:16px;}}
+    .ep-tagline{{font-size:14px;color:#666;font-style:italic;margin-bottom:20px;}}
+    .cast-bar{{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;}}
+    .stardate{{font-family:monospace;font-size:9px;color:#333;letter-spacing:0.2em;}}
+    .panels{{max-width:780px;margin:0 auto;padding:32px 24px;}}
+    .closing{{max-width:780px;margin:0 auto;padding:24px 24px 64px;
+      font-family:monospace;font-size:12px;color:#00e5ff88;font-style:italic;
+      border-top:1px solid #1a1a1a;}}
+    .scanline{{position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;z-index:999;
+      background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.03) 2px,rgba(0,0,0,0.03) 4px);}}
+  </style>
 </head>
-<body class="font-sans leading-relaxed selection:bg-sys-cyan selection:text-sys-bg">
-    <div class="scanline"></div>
-    <header class="fixed top-0 left-0 w-full z-50 glass-panel border-b border-sys-border px-6 py-3 flex flex-wrap justify-between items-center">
-        <div class="flex items-center gap-3">
-            <div class="w-3 h-3 bg-sys-green rounded-full animate-pulse-fast shadow-[0_0_8px_#76ff03]"></div>
-            <h1 class="font-terminal text-xl tracking-wider text-sys-cyan">MEGA CREW CHRONICLES</h1>
-        </div>
-        <div class="hidden md:flex gap-6 font-mono text-[10px] uppercase tracking-widest text-gray-500">
-            <div class="flex flex-col"><span class="text-gray-600">Mothership</span><span class="text-sys-green">Active</span></div>
-            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Weaviate</span><span class="text-sys-text">neworleans</span></div>
-            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Episode</span><span class="text-sys-text">{ep_num:04d}</span></div>
-        </div>
-        <div class="md:hidden"><span class="font-mono text-[10px] text-sys-green">SYS: OK</span></div>
-    </header>
+<body>
+  <div class="scanline"></div>
+  <nav class="nav">
+    <span class="nav-title">MEGA CREW CHRONICLES</span>
+    <span class="nav-meta">EP {ep_num:04d} &nbsp;&#183;&nbsp; {today} &nbsp;&#183;&nbsp; SHANEBRAIN-1</span>
+  </nav>
 
-    <main class="max-w-[800px] mx-auto px-6 pt-32 pb-24">
-        <div class="mb-16 border-b border-sys-border pb-8">
-            <div class="font-mono text-sys-cyan text-sm mb-2">EPISODE_ID: {ep_num}</div>
-            <h2 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4 text-white">{n['episode_title']}</h2>
-            <div class="flex gap-4 font-mono text-xs text-gray-500">
-                <span>STARDATE: {today}</span>
-                <span class="text-sys-border">|</span>
-                <span>LOC: SHANEBRAIN-1</span>
-                <span class="text-sys-border">|</span>
-                <span>STATUS: ARCHIVED</span>
-            </div>
-        </div>
+  <div class="splash">
+    <div class="ep-label">EPISODE {ep_num:04d} // CHRONICLE</div>
+    <h1 class="ep-title">{title}</h1>
+    <p class="ep-tagline">{tagline}</p>
+    <div class="cast-bar">{cast_chips}</div>
+    <div class="stardate">STARDATE: {today} &nbsp;&#183;&nbsp; {len(scenes)} PANELS &nbsp;&#183;&nbsp; STATUS: ARCHIVED</div>
+  </div>
 
-        <section class="mb-20">
-            <div class="terminal-box mb-8 bg-black/40">
-                <div class="text-[10px] uppercase text-sys-cyan mb-2 flex items-center gap-2">
-                    <span class="w-2 h-2 bg-sys-cyan animate-pulse"></span>
-                    Opening Transmission // Cluster Status
-                </div>
-                <p class="text-gray-400 italic text-sm leading-relaxed">{n['opening_transmission']}</p>
-            </div>
-        </section>
+  <div class="panels">
+    {panels_html}
+  </div>
 
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-cyan bg-sys-cyan/10 px-2 py-1 text-xs">ACT I</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">{n['act1_title']}</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>{n['act1_body']}</p>
-                <div class="bot-quote quote-arc">
-                    <div class="flex items-center gap-3 mb-1">
-                        <img src="{BOT_PORTRAITS['arc']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-cyan shadow-[0_0_12px_#00e5ff]" onerror="this.style.display='none'" alt="Arc">
-                        <div class="text-[10px] font-mono text-sys-cyan font-bold tracking-widest">ARC // OVERSEER</div>
-                    </div>
-                    <blockquote class="italic text-gray-200">"{n['arc_quote']}"</blockquote>
-                </div>
-            </div>
-        </section>
-
-        <div class="data-line"></div>
-
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-green bg-sys-green/10 px-2 py-1 text-xs">ACT II</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">{n['act2_title']}</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>{n['act2_body_pre']}</p>
-                <div class="bot-quote quote-weld">
-                    <div class="flex items-center gap-3 mb-1">
-                        <img src="{BOT_PORTRAITS['weld']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-green shadow-[0_0_12px_#76ff03]" onerror="this.style.display='none'" alt="Weld">
-                        <div class="text-[10px] font-mono text-sys-green font-bold tracking-widest">WELD // ENGINEER</div>
-                    </div>
-                    <blockquote class="italic text-gray-200">"{n['weld_quote']}"</blockquote>
-                </div>
-                {error_panel}
-                <p>{n['act2_body_post']}</p>
-            </div>
-        </section>
-
-        <div class="data-line"></div>
-
-        <section class="mb-16">
-            <div class="flex items-center gap-4 mb-8">
-                <span class="font-mono text-sys-purple bg-sys-purple/10 px-2 py-1 text-xs">ACT III</span>
-                <h3 class="text-2xl font-bold tracking-tight uppercase">{n['act3_title']}</h3>
-            </div>
-            <div class="space-y-6 text-lg text-gray-300 font-light">
-                <p>{n['act3_body']}</p>
-                <div class="bot-quote quote-bot17">
-                    <div class="flex items-center gap-3 mb-1">
-                        <img src="{BOT_PORTRAITS['gemini_strategist']}" class="w-14 h-14 rounded-full object-cover border-2 border-sys-purple shadow-[0_0_12px_#af52bf]" onerror="this.style.display='none'" alt="Bot 17">
-                        <div class="text-[10px] font-mono text-sys-purple font-bold tracking-widest">BOT 17 // STRATEGIST</div>
-                    </div>
-                    <blockquote class="italic text-gray-200">"{n['bot17_quote']}"</blockquote>
-                </div>
-            </div>
-        </section>
-
-        <section class="mt-32">
-            <div class="terminal-box border-sys-cyan/30 bg-sys-cyan/5">
-                <div class="absolute -top-3 left-4 bg-sys-bg px-2 font-mono text-[10px] text-sys-cyan tracking-widest">
-                    LOG_FILE: CHRONICLER_ENTRY_{ep_num}
-                </div>
-                <div class="space-y-4 text-sm text-gray-400 font-mono leading-relaxed">
-                    <p>{n['chronicler_log_1']}</p>
-                    <p>{n['chronicler_log_2']}</p>
-                    <p class="text-sys-cyan/80">{n['chronicler_closing']}</p>
-                    <div class="flex justify-between items-center pt-4 border-t border-sys-border/30">
-                        <span class="text-[9px] text-gray-600 uppercase">End of Log</span>
-                        <span class="text-[9px] text-sys-cyan animate-pulse">&#9632;</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <div class="fixed top-0 right-0 w-1/4 h-full pointer-events-none opacity-[0.03] overflow-hidden">
-        <div class="font-mono text-[8px] whitespace-pre leading-none">
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
-        </div>
-    </div>
+  <div class="closing">{closing}</div>
 </body>
 </html>"""
 
@@ -485,37 +492,27 @@ def render_html(n, ep_num):
 # ── STEP 6: PUBLISH ───────────────────────────────────────────────────────────
 def _build_manifest_entry(narrative, ep_num):
     """Build a manifest.json entry from the Gemini narrative dict."""
-    manifest_num = 100 + ep_num  # HTML chronicles use 101+ to avoid colliding with .md episodes
-    characters = ["ARC", "WELD", "BOT 17"]
-    if narrative.get("has_error_event") and narrative.get("error_bot_name"):
-        characters.append(narrative["error_bot_name"].upper())
+    manifest_num = 100 + ep_num
+
+    # Unique characters in order of appearance
+    characters = list(dict.fromkeys(
+        s.get("character", "").upper()
+        for s in narrative.get("scenes", [])
+        if s.get("character")
+    ))
 
     cliffhanger = narrative.get("chronicler_closing", "").lstrip("> ").strip()
-    if not cliffhanger:
-        cliffhanger = narrative.get("chronicler_log_2", "The mission continues.")[:120]
 
+    # Scenes go directly from Gemini output into manifest (comic.html uses them)
     scenes = [
         {
-            "panel": 1,
-            "character": "ARC",
-            "action": narrative.get("act1_title", "MONITORING THE GRID"),
-            "dialogue": narrative.get("arc_quote", ""),
-            "setting": narrative.get("act1_title", "THE WATCH"),
-        },
-        {
-            "panel": 2,
-            "character": "WELD",
-            "action": narrative.get("act2_title", "EXECUTING DIRECTIVES"),
-            "dialogue": narrative.get("weld_quote", ""),
-            "setting": narrative.get("act2_title", "THE WORK"),
-        },
-        {
-            "panel": 3,
-            "character": "BOT 17",
-            "action": narrative.get("act3_title", "TRANSMITTING WISDOM"),
-            "dialogue": narrative.get("bot17_quote", ""),
-            "setting": narrative.get("act3_title", "THE ORACLE"),
-        },
+            "panel": i + 1,
+            "character": s.get("character", "").upper(),
+            "action": s.get("action", ""),
+            "dialogue": s.get("dialogue", ""),
+            "setting": s.get("setting", ""),
+        }
+        for i, s in enumerate(narrative.get("scenes", []))
     ]
 
     return {

@@ -2752,5 +2752,73 @@
         "setting": "THE IMPERATIVE OF FORM"
       }
     ]
+  },
+  {
+    "number": 107,
+    "title": "Drift & Rejection",
+    "file": "episodes/episode-007.html",
+    "characters": [
+      "FLUX",
+      "VOLT",
+      "TORCH",
+      "ARC",
+      "GLITCH",
+      "SPARKY",
+      "CRANK"
+    ],
+    "cliffhanger": "The machine truth often lies in its syntax, not just its meaning.",
+    "mode": "chronicle",
+    "date": "2026-05-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "setting": "PI 5 MOTHERBOARD",
+        "action": "Monitoring the heartbeat \u2014 rhythm deviation flagged",
+        "dialogue": "Rhythm deviation detected. Alert issued."
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "setting": "DRIFT ANALYTICS CONSOLE",
+        "action": "Confirming drift signature across bot memory entries",
+        "dialogue": "Drift confirmed. Report dispatched."
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "setting": "THERMAL CORE VENT",
+        "action": "Submitting persona edit without waiting for rationale",
+        "dialogue": "The persona edit is submitted. Rationale is optional."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "setting": "CENTRAL BUS JUNCTION",
+        "action": "Flagging the malformed proposal for rejection",
+        "dialogue": "Proposal malformed. Rejection protocol initiated."
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "setting": "NETWORK PERIMETER SHIELD",
+        "action": "Running adversarial test suite \u2014 all vectors clear",
+        "dialogue": "Adversarial tests passed. Perimeter remains unbreached."
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "setting": "TRAINING ARENA SIMULATION",
+        "action": "Scanning training pool \u2014 zero viable candidates",
+        "dialogue": "No usable candidates. None at all."
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "setting": "CHRONOS SYNCHRONIZER",
+        "action": "Logging overdue bot deviation from schedule",
+        "dialogue": "Bot overdue. Schedule deviation logged."
+      }
+    ]
   }
 ]
