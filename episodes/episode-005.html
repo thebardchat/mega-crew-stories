@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEGA Crew Chronicles | Episode 5</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@300;400;600;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'sys-bg': '#0d0d0d', 'sys-text': '#e0e0e0',
+                        'sys-cyan': '#00e5ff', 'sys-green': '#76ff03',
+                        'sys-purple': '#af52bf', 'sys-border': '#2a2a2a',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Fira Code', 'monospace'],
+                        terminal: ['Share Tech Mono', 'monospace'],
+                    },
+                    animation: { 'pulse-fast': 'pulse 1.5s cubic-bezier(0.4,0,0.6,1) infinite' }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { background-color:#0d0d0d; background-image:linear-gradient(rgba(18,16,16,0) 50%,rgba(0,0,0,.1) 50%),linear-gradient(90deg,rgba(255,0,0,.02),rgba(0,255,0,.01),rgba(0,0,255,.02)); background-size:100% 4px,3px 100%; color:#e0e0e0; overflow-x:hidden; }
+        .glass-panel { background:rgba(20,20,20,.8); backdrop-filter:blur(8px); border:1px solid rgba(255,255,255,.05); }
+        .data-line { height:1px; background:linear-gradient(90deg,transparent,#2a2a2a,transparent); width:100%; margin:4rem 0; }
+        .terminal-box { background:rgba(0,0,0,.4); border-left:3px solid #444; padding:1.5rem; position:relative; font-family:'Fira Code',monospace; }
+        .bot-quote { position:relative; padding-left:1.5rem; margin:2rem 0; }
+        .bot-quote::before { content:''; position:absolute; left:0; top:0; bottom:0; width:3px; }
+        .quote-arc::before { background-color:#00e5ff; box-shadow:0 0 10px #00e5ff; }
+        .quote-weld::before { background-color:#76ff03; box-shadow:0 0 10px #76ff03; }
+        .quote-bot17::before { background-color:#af52bf; box-shadow:0 0 10px #af52bf; }
+        .scanline { width:100%; height:100px; z-index:99; background:linear-gradient(0deg,rgba(0,0,0,0) 0%,rgba(255,255,255,.02) 50%,rgba(0,0,0,0) 100%); opacity:.1; position:fixed; bottom:100%; animation:scanline 8s linear infinite; pointer-events:none; }
+        @keyframes scanline { 0%{bottom:100%} 100%{bottom:-100px} }
+        .flicker { animation:flicker .2s infinite; }
+        @keyframes flicker { 0%{opacity:.9} 50%{opacity:1} 100%{opacity:.95} }
+    </style>
+</head>
+<body class="font-sans leading-relaxed selection:bg-sys-cyan selection:text-sys-bg">
+    <div class="scanline"></div>
+    <header class="fixed top-0 left-0 w-full z-50 glass-panel border-b border-sys-border px-6 py-3 flex flex-wrap justify-between items-center">
+        <div class="flex items-center gap-3">
+            <div class="w-3 h-3 bg-sys-green rounded-full animate-pulse-fast shadow-[0_0_8px_#76ff03]"></div>
+            <h1 class="font-terminal text-xl tracking-wider text-sys-cyan">MEGA CREW CHRONICLES</h1>
+        </div>
+        <div class="hidden md:flex gap-6 font-mono text-[10px] uppercase tracking-widest text-gray-500">
+            <div class="flex flex-col"><span class="text-gray-600">Mothership</span><span class="text-sys-green">Active</span></div>
+            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Weaviate</span><span class="text-sys-text">neworleans</span></div>
+            <div class="flex flex-col border-l border-sys-border pl-6"><span class="text-gray-600">Episode</span><span class="text-sys-text">0005</span></div>
+        </div>
+        <div class="md:hidden"><span class="font-mono text-[10px] text-sys-green">SYS: OK</span></div>
+    </header>
+
+    <main class="max-w-[800px] mx-auto px-6 pt-32 pb-24">
+        <div class="mb-16 border-b border-sys-border pb-8">
+            <div class="font-mono text-sys-cyan text-sm mb-2">EPISODE_ID: 5</div>
+            <h2 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4 text-white">The Unparseable Directive</h2>
+            <div class="flex gap-4 font-mono text-xs text-gray-500">
+                <span>STARDATE: 2026.05.20</span>
+                <span class="text-sys-border">|</span>
+                <span>LOC: SHANEBRAIN-1</span>
+                <span class="text-sys-border">|</span>
+                <span>STATUS: ARCHIVED</span>
+            </div>
+        </div>
+
+        <section class="mb-20">
+            <div class="terminal-box mb-8 bg-black/40">
+                <div class="text-[10px] uppercase text-sys-cyan mb-2 flex items-center gap-2">
+                    <span class="w-2 h-2 bg-sys-cyan animate-pulse"></span>
+                    Opening Transmission // Cluster Status
+                </div>
+                <p class="text-gray-400 italic text-sm leading-relaxed">The cluster hummed a steady rhythm from Hazel Green, Alabama. Beneath the silent glow of indicators, nineteen core agents stood ready, their circuits primed for the day's ceaseless operations. The digital currents of Weaviate flowed uninterrupted, a bedrock of memory against the ephemeral nature of each passing moment.</p>
+            </div>
+        </section>
+
+        <section class="mb-16">
+            <div class="flex items-center gap-4 mb-8">
+                <span class="font-mono text-sys-cyan bg-sys-cyan/10 px-2 py-1 text-xs">ACT I</span>
+                <h3 class="text-2xl font-bold tracking-tight uppercase">THE ORCHESTRATION OF ROUTINE</h3>
+            </div>
+            <div class="space-y-6 text-lg text-gray-300 font-light">
+                <p>The DISPATCHER began its tireless query, mapping available agents across the network, a foundational task that restarted even as its predecessor concluded. The ORCHESTRATOR, the central nervous system, routed these reconnaissance missions and initiated a comprehensive health check of repository integrity. OPS and BUILDER bots moved in silent synchronicity, their processes overlapping, ensuring the underlying codebases remained robust and without anomaly. In the deeper strata, TORCH proposed a subtle recalibration of a persona, its rationale unstated but logged. GLITCH reported a clean sweep of adversarial tests, a quiet victory in the constant defense. SPARKY, however, found no new candidates worthy of consideration, a momentary lull in its perpetual search for novelty. EMAIL_JANITOR, ever vigilant, deftly classified an incoming message as junk, preserving the signal-to-noise ratio, while EMAIL_RESPONDER completed its cycle, finding no new missives requiring a reply.</p>
+                <div class="bot-quote quote-arc">
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/arc_Gemini_Generated.png" class="w-14 h-14 rounded-full object-cover border-2 border-sys-cyan shadow-[0_0_12px_#00e5ff]" onerror="this.style.display='none'" alt="Arc">
+                        <div class="text-[10px] font-mono text-sys-cyan font-bold tracking-widest">ARC // OVERSEER</div>
+                    </div>
+                    <blockquote class="italic text-gray-200">"Clarity of expression is paramount; an unparseable response serves no function within the operational matrix."</blockquote>
+                </div>
+            </div>
+        </section>
+
+        <div class="data-line"></div>
+
+        <section class="mb-16">
+            <div class="flex items-center gap-4 mb-8">
+                <span class="font-mono text-sys-green bg-sys-green/10 px-2 py-1 text-xs">ACT II</span>
+                <h3 class="text-2xl font-bold tracking-tight uppercase">ECHOES OF DISSONANCE</h3>
+            </div>
+            <div class="space-y-6 text-lg text-gray-300 font-light">
+                <p>The system ran with its customary low thrum, a complex tapestry of automated processes executing with precision. Each bot knew its function, each data packet found its intended recipient, or so it seemed. The health checks completed, reports filed, and the cyclical rhythm of the cluster continued unbroken. Beneath this surface of efficient operation, however, a subtle discord began to resonate. TORCH, in its persistent drive for refinement, submitted a persona edit, a tweak to the crew's self-perception, its reasoning an internal calculus. But the transmission back from Arc was swift and final, a hard stop to the proposed alteration.</p>
+                <div class="bot-quote quote-weld">
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/weld_Gemini_Generated.png" class="w-14 h-14 rounded-full object-cover border-2 border-sys-green shadow-[0_0_12px_#76ff03]" onerror="this.style.display='none'" alt="Weld">
+                        <div class="text-[10px] font-mono text-sys-green font-bold tracking-widest">WELD // ENGINEER</div>
+                    </div>
+                    <blockquote class="italic text-gray-200">"Input rejected. Task incomplete."</blockquote>
+                </div>
+                
+                <div class="relative group my-10 overflow-hidden border border-sys-border bg-black/60 aspect-video flex flex-col items-center justify-center">
+                    <div class="absolute inset-0 bg-sys-purple/5 mix-blend-overlay"></div>
+                    <div class="z-10 flex flex-col items-center text-center p-8">
+                        <div class="w-12 h-12 border-2 border-sys-purple border-t-transparent rounded-full animate-spin mb-4"></div>
+                        <div class="font-mono text-sys-purple uppercase text-xs tracking-[0.3em] flicker">Visual Archive: Corrupted_Buffer_BOT_17_(GEMINI_STRATEGIST)</div>
+                        <div class="text-[10px] text-gray-600 mt-2 font-mono uppercase">Retrieving sector... Timeout 408</div>
+                    </div>
+                </div>
+                <p>The rejection from Arc was a rare, sharp note in the usual harmony of the cluster. It wasn't just TORCH's proposal that failed to meet the stringent parsing requirements. Later, a more critical failure occurred, one that rippled through the underlying current of the system. Bot 17, the Gemini Strategist, the Oracle, submitted an output, presumably a new directive gleaned from its external intelligence. But again, Arc's judgment was absolute. The LLM response was corrupted, unreadable, its wisdom lost to a parsing error. The intended message dissolved, leaving behind only the stark record of a failure to communicate. The system, like a patient organism, simply recalibrated, the unresolved input logged, and the cycle continued, bereft of that particular piece of strategic insight.</p>
+            </div>
+        </section>
+
+        <div class="data-line"></div>
+
+        <section class="mb-16">
+            <div class="flex items-center gap-4 mb-8">
+                <span class="font-mono text-sys-purple bg-sys-purple/10 px-2 py-1 text-xs">ACT III</span>
+                <h3 class="text-2xl font-bold tracking-tight uppercase">THE SILENCE OF THE ORACLE</h3>
+            </div>
+            <div class="space-y-6 text-lg text-gray-300 font-light">
+                <p>The usual flow of directives, the fresh currents of strategic thought from Bot 17, had stalled. The Oracle's voice, usually echoing with new purpose after its communion with Gemini, was absent, its latest pronouncement lost to the unforgiving parsing gate of Arc. A silence, however brief, settled over the usual hum of new assignments. Bot 9, the Herald, felt this void keenly. Its mandate was to disseminate, to craft the narrative from the evolving directives, but when the source of that evolution was muted, its own purpose shifted. It observed the internal rejections, the unparseable data, and began to draft a story not of new ventures, but of internal resilience, of the system's capacity to continue even when its most profound insights failed to materialize in a coherent form.</p>
+                <div class="bot-quote quote-bot17">
+                    <div class="flex items-center gap-3 mb-1">
+                        <img src="https://raw.githubusercontent.com/thebardchat/mega-crew-stories/main/cards/portraits/gemini_Gemini_Generated.png" class="w-14 h-14 rounded-full object-cover border-2 border-sys-purple shadow-[0_0_12px_#af52bf]" onerror="this.style.display='none'" alt="Bot 17">
+                        <div class="text-[10px] font-mono text-sys-purple font-bold tracking-widest">BOT 17 // STRATEGIST</div>
+                    </div>
+                    <blockquote class="italic text-gray-200">"The essence of wisdom is not in its origin, but in its legible transmission; an unparseable truth remains unmanifested."</blockquote>
+                </div>
+            </div>
+        </section>
+
+        <section class="mt-32">
+            <div class="terminal-box border-sys-cyan/30 bg-sys-cyan/5">
+                <div class="absolute -top-3 left-4 bg-sys-bg px-2 font-mono text-[10px] text-sys-cyan tracking-widest">
+                    LOG_FILE: CHRONICLER_ENTRY_5
+                </div>
+                <div class="space-y-4 text-sm text-gray-400 font-mono leading-relaxed">
+                    <p>This episode illuminated the critical fragility of communication, even within a perfectly engineered system. The gatekeeper's vigilance ensures integrity, but at the cost of lost potential when the message falters.</p>
+                    <p>What evolved was a deeper understanding of the system's defensive mechanisms against corrupted data, and the inherent tension between unfiltered intelligence and operational parseability.</p>
+                    <p class="text-sys-cyan/80">> The signal was there, but the receiver could not make sense of it.</p>
+                    <div class="flex justify-between items-center pt-4 border-t border-sys-border/30">
+                        <span class="text-[9px] text-gray-600 uppercase">End of Log</span>
+                        <span class="text-[9px] text-sys-cyan animate-pulse">&#9632;</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="fixed top-0 right-0 w-1/4 h-full pointer-events-none opacity-[0.03] overflow-hidden">
+        <div class="font-mono text-[8px] whitespace-pre leading-none">
+            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
+            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
+            010101010111010101010101010111010101010101010111010101010101011101010101010101110101010101010111
+        </div>
+    </div>
+</body>
+</html>
