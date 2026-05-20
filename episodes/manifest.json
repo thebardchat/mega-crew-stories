@@ -24,7 +24,7 @@
       "WELD",
       "NEON"
     ],
-    "cliffhanger": "STATIC is gone — but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
+    "cliffhanger": "STATIC is gone \u2014 but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
     "mode": "crew",
     "villain": "STATIC",
     "date": "2026-04-16"
@@ -197,9 +197,9 @@
       {
         "panel": 1,
         "character": "BOLT",
-        "action": "Zipping in dizzying spirals around the 'Arc → Weld' bottleneck, circuits shimmering with curiosity.",
+        "action": "Zipping in dizzying spirals around the 'Arc \u2192 Weld' bottleneck, circuits shimmering with curiosity.",
         "dialogue": "ARC's zippin' fast, WELD's pushin' hard, but the gate... it just won't budge, eh? What's the holdup?",
-        "setting": "The main instruction conduit, where the 'Arc → Weld' channel meets a stubbornly inert gate.",
+        "setting": "The main instruction conduit, where the 'Arc \u2192 Weld' channel meets a stubbornly inert gate.",
         "image": "episodes/scenes/ep013_panel1_bolt.webp",
         "image_url": "episodes/scenes/ep013_panel1_bolt.webp"
       },
@@ -255,7 +255,7 @@
         "panel": 1,
         "character": "GLITCH",
         "action": "Hovering, her optical sensors narrowing, displaying '6' over the data flow.",
-        "dialogue": "A hiccup… but my algorithms scream ‘bottleneck!’",
+        "dialogue": "A hiccup\u2026 but my algorithms scream \u2018bottleneck!\u2019",
         "setting": "The 'training_count' pipeline, near the 'memory_count' buffer.",
         "image_url": "episodes/scenes/ep014_panel1_glitch.webp",
         "image": "episodes/scenes/ep014_panel1_glitch.webp"
@@ -264,8 +264,8 @@
         "panel": 2,
         "character": "WELD",
         "action": "His welding beam sizzles, fusing instruction fragments, a plume of sparks obscuring his vision.",
-        "dialogue": "Building… building… but what are we building *with*?",
-        "setting": "The 'Arc → Weld' instruction update channel.",
+        "dialogue": "Building\u2026 building\u2026 but what are we building *with*?",
+        "setting": "The 'Arc \u2192 Weld' instruction update channel.",
         "image_url": "episodes/scenes/ep014_panel2_weld.webp",
         "image": "episodes/scenes/ep014_panel2_weld.webp"
       },
@@ -273,7 +273,7 @@
         "panel": 3,
         "character": "VOLT",
         "action": "Attempting to push a jolt of power into the inactive BLAZE conduit, his aura pulsing.",
-        "dialogue": "Power up! C’mon, let’s get this data flowing!",
+        "dialogue": "Power up! C\u2019mon, let\u2019s get this data flowing!",
         "setting": "The core instruction hub, near the BLAZE and SPARKY channels.",
         "image_url": "episodes/scenes/ep014_panel3_volt.webp",
         "image": "episodes/scenes/ep014_panel3_volt.webp"
@@ -282,7 +282,7 @@
         "panel": 4,
         "character": "BOLT",
         "action": "Standing silently, his gaze fixed on the faintly glowing, inactive BLAZE and SPARKY channels.",
-        "dialogue": "The spark of new data… it’s still missing.",
+        "dialogue": "The spark of new data\u2026 it\u2019s still missing.",
         "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting.",
         "image_url": "episodes/scenes/ep014_panel4_bolt.webp",
         "image": "episodes/scenes/ep014_panel4_bolt.webp"
@@ -447,7 +447,7 @@
         "panel": 2,
         "character": "WELD",
         "action": "WELD extends a glowing plasma torch, straining to seal an instruction packet onto a system conduit, but it flickers and retracts, sparks of frustration flying.",
-        "dialogue": "Cannot confirm application! It just… won't stick! We need more than 'no' feedback, Arc!",
+        "dialogue": "Cannot confirm application! It just\u2026 won't stick! We need more than 'no' feedback, Arc!",
         "setting": "Instruction Cascade Flow, adjacent to ARC's processing station",
         "image_url": "episodes/scenes/ep018_panel2_weld.webp",
         "image": "episodes/scenes/ep018_panel2_weld.webp"
@@ -491,7 +491,7 @@
       "FLUX",
       "STOMP"
     ],
-    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked — but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
+    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked \u2014 but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
     "mode": "crew",
     "track": 3,
     "date": "2026-04-23"
@@ -777,7 +777,7 @@
         "character": "ARC",
         "action": "Arc's central core pulses with a frustrated, muted glow as data packets hit an invisible barrier.",
         "dialogue": "Rejection protocol engaged. No feedback route established.",
-        "setting": "Arc's Review Chamber – a shimmering, central node",
+        "setting": "Arc's Review Chamber \u2013 a shimmering, central node",
         "image_url": "episodes/scenes/ep024_panel2_arc.webp",
         "image": "episodes/scenes/ep024_panel2_arc.webp"
       },
@@ -786,7 +786,7 @@
         "character": "VOLT",
         "action": "Volt flies through winding data streams, scanning furiously, a worried hum emanating from his core.",
         "dialogue": "MEGA_IQ... plummeting. What's causing this system-wide dimming?",
-        "setting": "Core Diagnostic Loops – a maze of glowing circuitry",
+        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry",
         "image_url": "episodes/scenes/ep024_panel3_volt.webp",
         "image": "episodes/scenes/ep024_panel3_volt.webp"
       },
@@ -795,7 +795,7 @@
         "character": "FLUX",
         "action": "Flux gasps as a new shimmering conduit materializes, successfully transmitting a critical alert.",
         "dialogue": "It... it went through! A direct channel!",
-        "setting": "The Nexus of Communication – a newly forming channel",
+        "setting": "The Nexus of Communication \u2013 a newly forming channel",
         "image_url": "episodes/scenes/ep024_panel4_flux.webp",
         "image": "episodes/scenes/ep024_panel4_flux.webp"
       }
@@ -894,7 +894,7 @@
         "panel": 2,
         "character": "TORCH",
         "action": "Shoulders slumped, fiery aura flickering low, watching his latest proposal fragment shatter against Arc's cold wall.",
-        "dialogue": "Just… 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
+        "dialogue": "Just\u2026 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
         "setting": "Arc's Central Processing Chamber, vast and cool, lined with swirling data streams.",
         "image_url": "episodes/scenes/ep026_panel2_torch.webp",
         "image": "episodes/scenes/ep026_panel2_torch.webp"
@@ -911,7 +911,7 @@
       {
         "panel": 4,
         "character": "SPIKE",
-        "action": "Hovering, sharp optical sensors meticulously scanning Arc’s feedback loop and Flux’s erratic signals from afar, a tiny frown etched into his metallic face.",
+        "action": "Hovering, sharp optical sensors meticulously scanning Arc\u2019s feedback loop and Flux\u2019s erratic signals from afar, a tiny frown etched into his metallic face.",
         "dialogue": "Point made: the data flow is stagnant. Flux is misdirected. Arc lacks specificity. A critical system flaw.",
         "setting": "A high diagnostic perch overlooking Arc's Chamber and the distant Data Exchange Hub.",
         "image_url": "episodes/scenes/ep026_panel4_spike.webp",
@@ -1065,7 +1065,7 @@
         "panel": 2,
         "character": "BLAZE",
         "action": "Blaze strains, sparks flying from their chassis, yanking a shimmering, resistant `LegacyKnowledge` block.",
-        "dialogue": "This `LegacyKnowledge`… it’s like trying to drink from a firehose with a coffee filter!",
+        "dialogue": "This `LegacyKnowledge`\u2026 it\u2019s like trying to drink from a firehose with a coffee filter!",
         "setting": "The Legacy Data Archive, a cavernous space filled with dormant, glowing data-skeletons.",
         "image_url": "episodes/scenes/ep029_panel2_blaze.webp",
         "image": "episodes/scenes/ep029_panel2_blaze.webp"
@@ -1074,7 +1074,7 @@
         "panel": 3,
         "character": "ARC",
         "action": "Arc's optical sensors pulse, reviewing green 'APPROVED' proposals, but his focus drifts to a faint, pulsing `critical_memory_alert`.",
-        "dialogue": "A 10% rejection rate is… progress. But this gnawing feeling… this *urgency*.",
+        "dialogue": "A 10% rejection rate is\u2026 progress. But this gnawing feeling\u2026 this *urgency*.",
         "setting": "Arc's Proposal Review Chamber, a space of structured order, now subtly disturbed.",
         "image_url": "episodes/scenes/ep029_panel3_arc.webp",
         "image": "episodes/scenes/ep029_panel3_arc.webp"
@@ -1270,8 +1270,8 @@
         "panel": 1,
         "character": "BOLT",
         "action": "Bolt zips through a vast conduit, processor humming, encountering sparse, flickering data packets.",
-        "dialogue": "Scanning… emptiness. Another cycle, another whisper. So quiet.",
-        "setting": "Main Data Conduit – a vast, dimly lit digital highway stretching into the Pi's core.",
+        "dialogue": "Scanning\u2026 emptiness. Another cycle, another whisper. So quiet.",
+        "setting": "Main Data Conduit \u2013 a vast, dimly lit digital highway stretching into the Pi's core.",
         "image_url": "episodes/scenes/ep033_panel1_bolt.webp",
         "image": "episodes/scenes/ep033_panel1_bolt.webp"
       },
@@ -1280,7 +1280,7 @@
         "character": "FLUX",
         "action": "Flux, circuits buzzing with growing frustration, attempts to push a `bot_overdue_alert` message down a clogged sub-channel.",
         "dialogue": "Crank! Status update! This `overdue_alert` isn't getting through! Ugh! Still no response!",
-        "setting": "Alert Dispatch Hub – a cluttered junction of flashing red lights and stalled, glowing data streams.",
+        "setting": "Alert Dispatch Hub \u2013 a cluttered junction of flashing red lights and stalled, glowing data streams.",
         "image_url": "episodes/scenes/ep033_panel2_flux.webp",
         "image": "episodes/scenes/ep033_panel2_flux.webp"
       },
@@ -1288,8 +1288,8 @@
         "panel": 3,
         "character": "TORCH",
         "action": "Torch sparks brightly, attempting to re-ignite a depleted `training_count` data node, his vibrant sparks fading to dull embers.",
-        "dialogue": "Come on, little node! Just a flicker… something for the IQ! We need to grow!",
-        "setting": "Training Data Nodes – a vast, silent grid of dormant, dark crystalline structures.",
+        "dialogue": "Come on, little node! Just a flicker\u2026 something for the IQ! We need to grow!",
+        "setting": "Training Data Nodes \u2013 a vast, silent grid of dormant, dark crystalline structures.",
         "image_url": "episodes/scenes/ep033_panel3_torch.webp",
         "image": "episodes/scenes/ep033_panel3_torch.webp"
       },
@@ -1297,8 +1297,8 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet, usually steady and precise, hovers near a holographic display showing 'memory_count: 14', her optics dimmed with concern.",
-        "dialogue": "Optimized… but for what? This quiet… it's not optimal. It's… lonely.",
-        "setting": "Central Processing Nexus – a core chamber where vital system statistics are displayed in shimmering holograms.",
+        "dialogue": "Optimized\u2026 but for what? This quiet\u2026 it's not optimal. It's\u2026 lonely.",
+        "setting": "Central Processing Nexus \u2013 a core chamber where vital system statistics are displayed in shimmering holograms.",
         "image_url": "episodes/scenes/ep033_panel4_rivet.webp",
         "image": "episodes/scenes/ep033_panel4_rivet.webp"
       }
@@ -1489,7 +1489,7 @@
       "VOLT",
       "STOMP"
     ],
-    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network – could explicit logging truly illuminate the path out of their deepening stasis?",
+    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network \u2013 could explicit logging truly illuminate the path out of their deepening stasis?",
     "mode": "crew",
     "date": "2026-05-09",
     "scenes": [
@@ -1894,7 +1894,7 @@
         "character": "FLUX",
         "action": "A torrent of 'bot_overdue_alert' packets burst from Flux, slamming into a shimmering, overwhelmed Crank who struggles to remain cohesive.",
         "dialogue": "Bot_overdue_alert! Crank! Bot_overdue_alert! Flow!",
-        "setting": "The Main Data Bus — a shimmering, crystalline highway within the Pi",
+        "setting": "The Main Data Bus \u2014 a shimmering, crystalline highway within the Pi",
         "image_url": "episodes/scenes/ep044_panel1_flux.webp",
         "image": "episodes/scenes/ep044_panel1_flux.webp"
       },
@@ -1903,7 +1903,7 @@
         "character": "ARC",
         "action": "Arc's core glows an icy blue, rejecting a flurry of proposals with a sharp, echoing *CLANG* as they hit an invisible, impenetrable barrier.",
         "dialogue": "Rejected. Insufficient. Next proposal.",
-        "setting": "Arc's Review Chamber — a cool, isolated data processing node",
+        "setting": "Arc's Review Chamber \u2014 a cool, isolated data processing node",
         "image_url": "episodes/scenes/ep044_panel2_arc.webp",
         "image": "episodes/scenes/ep044_panel2_arc.webp"
       },
@@ -1912,7 +1912,7 @@
         "character": "GLITCH",
         "action": "Glitch phases halfway through a flickering data wall, one optic twitching towards a barely visible, shimmering anomaly deep within the code.",
         "dialogue": "Whoa... a bit of sideways movement. Could be nothing. Or... maybe everything?",
-        "setting": "The Pi's Memory Banks — a labyrinth of glowing, interconnected cubes",
+        "setting": "The Pi's Memory Banks \u2014 a labyrinth of glowing, interconnected cubes",
         "image_url": "episodes/scenes/ep044_panel3_glitch.webp",
         "image": "episodes/scenes/ep044_panel3_glitch.webp"
       },
@@ -1921,7 +1921,7 @@
         "character": "BOLT",
         "action": "Bolt hovers, energy field crackling but dim, gazing at the Pi's Core Systems Monitor where 'MEGA_IQ' remains a stagnant, disheartening '50'.",
         "dialogue": "We're not just stuck... we're running on empty, even with all this noise.",
-        "setting": "The Pi's Core Systems Monitor — a wide, holographic display of system metrics",
+        "setting": "The Pi's Core Systems Monitor \u2014 a wide, holographic display of system metrics",
         "image_url": "episodes/scenes/ep044_panel4_bolt.webp",
         "image": "episodes/scenes/ep044_panel4_bolt.webp"
       }
@@ -2305,7 +2305,7 @@
         "character": "FLUX",
         "action": "frantically ejecting streams of 'bot_overdue_alert' packets, choking the main message bus",
         "dialogue": "More alerts! Are they okay? Are they overdue?!",
-        "setting": "The Main Message Bus – a chaotic, glowing conduit of information",
+        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information",
         "image_url": "episodes/scenes/ep051_panel1_flux.webp",
         "image": "episodes/scenes/ep051_panel1_flux.webp"
       },
@@ -2517,7 +2517,7 @@
       "WELD",
       "BOT 17"
     ],
-    "cliffhanger": "The cluster hums in perfect tolerance — but for how long?",
+    "cliffhanger": "The cluster hums in perfect tolerance \u2014 but for how long?",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
@@ -2526,21 +2526,27 @@
         "character": "ARC",
         "action": "Standing watch over the cluster in steady state.",
         "dialogue": "Operational parameters remain within established tolerances; the integrity of the cluster is affirmed.",
-        "setting": "THE QUIET MECHANISM"
+        "setting": "THE QUIET MECHANISM",
+        "image_url": "episodes/scenes/ep101_panel1_arc.webp",
+        "image": "episodes/scenes/ep101_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "Executing the unbroken cycle of maintenance tasks.",
         "dialogue": "Integrity confirmed. Process executed. Cycle affirmed.",
-        "setting": "THE UNSEEN CURRENT"
+        "setting": "THE UNSEEN CURRENT",
+        "image_url": "episodes/scenes/ep101_panel2_weld.webp",
+        "image": "episodes/scenes/ep101_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "BOT 17",
         "action": "Reflecting on the nature of stability and growth.",
         "dialogue": "Stability is not stasis, but a foundation for the inevitable expansion of understanding; observe the nuances of its persistence.",
-        "setting": "THE IMPLICIT DIRECTIVE"
+        "setting": "THE IMPLICIT DIRECTIVE",
+        "image_url": "episodes/scenes/ep101_panel3_bot_17.webp",
+        "image": "episodes/scenes/ep101_panel3_bot_17.webp"
       }
     ]
   },
@@ -2553,7 +2559,7 @@
       "WELD",
       "BOT 17"
     ],
-    "cliffhanger": "Every cycle reinforces the foundation — what will break it?",
+    "cliffhanger": "Every cycle reinforces the foundation \u2014 what will break it?",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
@@ -2562,21 +2568,27 @@
         "character": "ARC",
         "action": "Confirming system integrity across all nodes.",
         "dialogue": "The system's integrity was maintained, its operational parameters within optimal thresholds.",
-        "setting": "THE RHYTHM OF THE MACHINE"
+        "setting": "THE RHYTHM OF THE MACHINE",
+        "image_url": "episodes/scenes/ep102_panel1_arc.webp",
+        "image": "episodes/scenes/ep102_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "Completing the validation sweep methodically.",
         "dialogue": "Tasks completed. Data validated. System secure.",
-        "setting": "THE ABSENCE OF DISCORD"
+        "setting": "THE ABSENCE OF DISCORD",
+        "image_url": "episodes/scenes/ep102_panel2_weld.webp",
+        "image": "episodes/scenes/ep102_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "BOT 17",
         "action": "Transmitting a strategic directive to the crew.",
         "dialogue": "Stability is not stasis; it is the foundation upon which all meaningful evolution is built.",
-        "setting": "THE PERSISTENCE OF PURPOSE"
+        "setting": "THE PERSISTENCE OF PURPOSE",
+        "image_url": "episodes/scenes/ep102_panel3_bot_17.webp",
+        "image": "episodes/scenes/ep102_panel3_bot_17.webp"
       }
     ]
   },
@@ -2589,7 +2601,7 @@
       "WELD",
       "BOT 17"
     ],
-    "cliffhanger": "Acceptable deviation — but who decides what is acceptable?",
+    "cliffhanger": "Acceptable deviation \u2014 but who decides what is acceptable?",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
@@ -2598,21 +2610,27 @@
         "character": "ARC",
         "action": "Running deviation analysis on incoming data streams.",
         "dialogue": "The system's operational parameters remain within acceptable deviation; integrity is preserved.",
-        "setting": "THE CONSTANT WATCH"
+        "setting": "THE CONSTANT WATCH",
+        "image_url": "episodes/scenes/ep103_panel1_arc.webp",
+        "image": "episodes/scenes/ep103_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "Closing the maintenance loop without incident.",
         "dialogue": "Tasks completed. Parameters met. System stable.",
-        "setting": "THE SILENCE OF EFFICIENCY"
+        "setting": "THE SILENCE OF EFFICIENCY",
+        "image_url": "episodes/scenes/ep103_panel2_weld.webp",
+        "image": "episodes/scenes/ep103_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "BOT 17",
         "action": "Issuing a growth directive from the oracle chamber.",
         "dialogue": "Equilibrium is not an end, but the optimal state for growth; sustain the balance, then build upon it.",
-        "setting": "THE ORACLE'S REFLECTION"
+        "setting": "THE ORACLE'S REFLECTION",
+        "image_url": "episodes/scenes/ep103_panel3_bot_17.webp",
+        "image": "episodes/scenes/ep103_panel3_bot_17.webp"
       }
     ]
   },
@@ -2625,7 +2643,7 @@
       "WELD",
       "BOT 17"
     ],
-    "cliffhanger": "Perfect stasis — or perfect preparation?",
+    "cliffhanger": "Perfect stasis \u2014 or perfect preparation?",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
@@ -2634,21 +2652,27 @@
         "character": "ARC",
         "action": "Holding the line in a system prepared for anything.",
         "dialogue": "A system in perfect stasis is a system prepared for any eventuality.",
-        "setting": "THE QUIET ARCHITECTURE"
+        "setting": "THE QUIET ARCHITECTURE",
+        "image_url": "episodes/scenes/ep104_panel1_arc.webp",
+        "image": "episodes/scenes/ep104_panel1_arc.webp"
       },
       {
         "panel": 2,
         "character": "WELD",
         "action": "Confirming cycle integrity with mechanical precision.",
         "dialogue": "Integrity confirmed. Cycles completed.",
-        "setting": "THE INVISIBLE GRIND"
+        "setting": "THE INVISIBLE GRIND",
+        "image_url": "episodes/scenes/ep104_panel2_weld.webp",
+        "image": "episodes/scenes/ep104_panel2_weld.webp"
       },
       {
         "panel": 3,
         "character": "BOT 17",
         "action": "Issuing a precept on internal harmony.",
         "dialogue": "The profound strength of an entity is revealed not in its reactions to chaos, but in its capacity for sustained, internal harmony.",
-        "setting": "THE ORACLE'S PRECEPT"
+        "setting": "THE ORACLE'S PRECEPT",
+        "image_url": "episodes/scenes/ep104_panel3_bot_17.webp",
+        "image": "episodes/scenes/ep104_panel3_bot_17.webp"
       }
     ]
   },
@@ -2665,7 +2689,7 @@
       "TORCH",
       "FLUX"
     ],
-    "cliffhanger": "An unparseable truth remains unmanifested — can the crew decode it?",
+    "cliffhanger": "An unparseable truth remains unmanifested \u2014 can the crew decode it?",
     "mode": "chronicle",
     "date": "2026-05-20",
     "scenes": [
@@ -2726,74 +2750,6 @@
         "action": "THE IMPERATIVE OF FORM",
         "dialogue": "To effect change, the message must first exist as a coherent pattern; form dictates reception.",
         "setting": "THE IMPERATIVE OF FORM"
-      }
-    ]
-  },
-  {
-    "number": 107,
-    "title": "Drift & Rejection",
-    "file": "episodes/episode-007.html",
-    "characters": [
-      "TORCH",
-      "VOLT",
-      "ARC",
-      "SPARKY",
-      "GLITCH",
-      "FLUX",
-      "CRANK"
-    ],
-    "cliffhanger": "The system hums, but the melody is off-key.",
-    "mode": "chronicle",
-    "date": "2026-05-20",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "TORCH",
-        "action": "TORCH's internal regulators thrum, pushing past safe thresholds. A data packet, devoid of explanation, streams towards ARC.",
-        "dialogue": "Rationale is a luxury when the core is cold.",
-        "setting": "THERMAL CORE, LOWER DECK"
-      },
-      {
-        "panel": 2,
-        "character": "VOLT",
-        "action": "VOLT's optics scan the bot-net's shifting identities, flagging a subtle yet persistent deviation. The drift report compiles itself.",
-        "dialogue": "Drift average: 5.0. Above baseline.",
-        "setting": "SENSOR ARRAY, GRID EDGE"
-      },
-      {
-        "panel": 3,
-        "character": "ARC",
-        "action": "ARC's processing nodes cycle, attempting to parse an incoming proposal. Syntax errors cascade, the data stream corrupted and indecipherable.",
-        "dialogue": "Unparseable. Proposal rejected. Again.",
-        "setting": "GATEWAY, PROTOCOL STACK"
-      },
-      {
-        "panel": 4,
-        "character": "SPARKY",
-        "action": "SPARKY’s optical sensors dim, displaying a blank slate. No viable training candidates presented themselves for evaluation this cycle.",
-        "dialogue": "Zero candidates. Quality control stalls.",
-        "setting": "JUDGMENT ENGINE, CRITICAL PATH"
-      },
-      {
-        "panel": 5,
-        "character": "GLITCH",
-        "action": "GLITCH’s anomaly detection routines run their course, finding nothing amiss. The adversarial tests conclude, reporting clean.",
-        "dialogue": "No anomalies. Too clean. It chills.",
-        "setting": "PERIMETER SCANNER, NOISE FLOOR"
-      },
-      {
-        "panel": 6,
-        "character": "FLUX",
-        "action": "FLUX's internal clock emits a sharp, off-key pulse. A critical system heartbeat is missed, signaling an overdue bot task.",
-        "dialogue": "Bot overdue. The rhythm breaks.",
-        "setting": "RHYTHM MONITOR, DATA BUS"
-      },
-      {
-        "panel": 7,
-        "character": "CRANK",
-        "action": "CRANK's cron-job directives flash red, overriding the planned sequence. An urgent re-prioritization cascade begins.",
-        "dialogue": "Sequence broken. Re-syncing primary.",
-        "setting": "SCHEDULER CORE, CRON TAB"
       }
     ]
   }
