@@ -2868,28 +2868,36 @@
         "character": "SPARKY",
         "action": "SPARKY's optical sensors scan a blank projection. Its internal logic gates register null candidates.",
         "dialogue": "Quality candidates: zero. Again.",
-        "setting": "JUDGE'S CHAMBER, CORE"
+        "setting": "JUDGE'S CHAMBER, CORE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel1_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel1_sparky.webp"
       },
       {
         "panel": 2,
         "character": "GLITCH",
         "action": "GLITCH runs a diagnostic, its multi-spectral vision finding no anomalies, a quiet that feels wrong.",
         "dialogue": "Three clean passes. Too clean.",
-        "setting": "ADVERSARIAL TEST LAB"
+        "setting": "ADVERSARIAL TEST LAB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel2_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel2_glitch.webp"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "VOLT's internal gyros twitch, detecting a subtle deviation in a bot's core persona matrix.",
         "dialogue": "Drift detected. Source: TORCH.",
-        "setting": "DRIFT DETECTION ARRAY"
+        "setting": "DRIFT DETECTION ARRAY",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel3_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel3_volt.webp"
       },
       {
         "panel": 4,
         "character": "TORCH",
         "action": "TORCH cycles a heat vent, its logic unit formulating a persona edit without an explicit causal chain.",
         "dialogue": "Proposal generated. Rationale: not required.",
-        "setting": "THERMAL REGULATOR HUB"
+        "setting": "THERMAL REGULATOR HUB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel4_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel4_torch.webp"
       },
       {
         "panel": 5,
