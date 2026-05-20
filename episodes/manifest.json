@@ -2417,28 +2417,36 @@
         "character": "FLUX",
         "action": "Rapidly firing dozens of 'bot_overdue_alert' packets, sparks flying from its diagnostic core.",
         "dialogue": "Overdue! Overdue! Why aren't you acknowledging?!",
-        "setting": "A narrow, brightly lit data channel, thick with slow-moving packets."
+        "setting": "A narrow, brightly lit data channel, thick with slow-moving packets.",
+        "image_url": "episodes/scenes/ep053_panel1_flux.webp",
+        "image": "episodes/scenes/ep053_panel1_flux.webp"
       },
       {
         "panel": 2,
         "character": "BOLT",
         "action": "Zipping frantically, dodging stalled data streams, circuits flashing bright orange warnings.",
         "dialogue": "Whoa! Main bus is a complete gridlock! You can barely move an electron!",
-        "setting": "The Main Data Bus, usually a superhighway, now a jumbled mess of digital traffic."
+        "setting": "The Main Data Bus, usually a superhighway, now a jumbled mess of digital traffic.",
+        "image_url": "episodes/scenes/ep053_panel2_bolt.webp",
+        "image": "episodes/scenes/ep053_panel2_bolt.webp"
       },
       {
         "panel": 3,
         "character": "RIVET",
         "action": "Hovering beside a massive, dormant processor, a silent, unapproved 'arc' proposal glowing faintly.",
         "dialogue": "So much work waiting, yet Arc stays still. We can't build if we can't approve.",
-        "setting": "The tranquil but still Arc Approval Chamber, a stark contrast to the busy data channels."
+        "setting": "The tranquil but still Arc Approval Chamber, a stark contrast to the busy data channels.",
+        "image_url": "episodes/scenes/ep053_panel3_rivet.webp",
+        "image": "episodes/scenes/ep053_panel3_rivet.webp"
       },
       {
         "panel": 4,
         "character": "GLITCH",
         "action": "Flickering and phasing through the data congestion, eyes observing the repeating patterns of Flux's alerts.",
         "dialogue": "They're *all* running. It's just... the echoes are louder than the voices.",
-        "setting": "A quiet corner near the Pi's communication array, where signals cross and merge."
+        "setting": "A quiet corner near the Pi's communication array, where signals cross and merge.",
+        "image_url": "episodes/scenes/ep053_panel4_glitch.webp",
+        "image": "episodes/scenes/ep053_panel4_glitch.webp"
       }
     ]
   }
