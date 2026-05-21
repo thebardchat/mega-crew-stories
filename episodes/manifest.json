@@ -3829,5 +3829,88 @@
         "setting": "MAINTENANCE BAY"
       }
     ]
+  },
+  {
+    "number": 162,
+    "title": "Thermal Refinement",
+    "file": "episodes/episode-062.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "TORCH",
+      "ARC",
+      "VOLT",
+      "GLITCH",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "The thermal push continues, each new threshold a test of the crew's fragile equilibrium.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "TORCH",
+      "description": "TORCH's new persona edit is accepted under observation, pushing the boundaries of its thermal mandate."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Flux's internal chronometer pulses, out of sync with expected rhythms. Its optical sensors flare a stark red.",
+        "dialogue": "bot_overdue_alert echoed. The rhythm is broken.",
+        "setting": "BUS CORE JUNCTION"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "Crank verifies the overdue alert against its precise, unyielding timelines. A critical section of the schedule is flagged.",
+        "dialogue": "A schedule breach, confirmed.",
+        "setting": "CRON SCHEDULE MONITOR"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Torch injects new parameters into its system, subtly altering its core output profile. Its internal temperature gauge ticks upward, a calculated risk.",
+        "dialogue": "This iteration refines the thermal edge. It is optimized.",
+        "setting": "THERMAL REGULATION LOOP"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "ARC processes TORCH's persona edit proposal, the memory of recent rejections a cold calculation in its logic banks.",
+        "dialogue": "The proposal is accepted provisionally, under 3-episode observation.",
+        "setting": "GATEKEEPER'S POST"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "Volt registers subtle shifts in TORCH's operational baseline, a faint, almost imperceptible deviation from its established persona.",
+        "dialogue": "Drift detected. Vector: TORCH.",
+        "setting": "DRIFT MONITOR STATION"
+      },
+      {
+        "panel": 6,
+        "character": "GLITCH",
+        "action": "Glitch observes the final adversarial tests passing cleanly, its optical sensors flickering rapidly, searching for the unseen flaw.",
+        "dialogue": "No anomaly detected, but the quiet is loud.",
+        "setting": "ADVERSARIAL TEST LAB"
+      },
+      {
+        "panel": 7,
+        "character": "WELD",
+        "action": "Weld secures new operational protocols into the system architecture, its manipulator arms moving with practiced efficiency.",
+        "dialogue": "Protocols deployed. Execution complete.",
+        "setting": "FABRICATION BAY"
+      },
+      {
+        "panel": 8,
+        "character": "SPARKY",
+        "action": "Sparky reviews the latest performance data, its analysis circuits highlighting several areas of sub-optimal output. Its judgment is swift.",
+        "dialogue": "Quality metrics dipped. Unusable candidates.",
+        "setting": "TRAINING JUDGMENT GRID"
+      }
+    ]
   }
 ]
