@@ -3663,5 +3663,88 @@
         "setting": "BUS REGISTRY ARCHIVE"
       }
     ]
+  },
+  {
+    "number": 160,
+    "title": "Constraint Overload",
+    "file": "episodes/episode-060.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "VOLT",
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "The machine's own rules, once a safeguard, become a cage.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "ARC",
+      "description": "ARC's rejection buffer is exhausted, forcing provisional acceptance of TORCH's unverified persona edit."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal state cycles through recent rejection logs, calculating the constraint window. Its optical sensors dim.",
+        "dialogue": "The protocol demands adherence, even when the subject remains volatile.",
+        "setting": "CORE REGISTRY, LOGIC STACK"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH projects a complex persona matrix, its core temperature spiking subtly beyond parameters.",
+        "dialogue": "My thermal parameters dictate a more adaptive identity.",
+        "setting": "THERMAL REGULATION NODE"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's optical array locks onto TORCH's output, tracing deviations in expected behavioral patterns.",
+        "dialogue": "Drift detected. Vector: TORCH, Magnitude: 0.08.",
+        "setting": "BUS MONITOR OVERLAY"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH reviews a clean test log, then its primary optics flicker, detecting an echo in a shadowed corner of the bus.",
+        "dialogue": "Clean tests mean nothing if the corruption is outside the matrix.",
+        "setting": "ADVERSARIAL TESTBED"
+      },
+      {
+        "panel": 5,
+        "character": "FLUX",
+        "action": "FLUX's pulse graph flatlines briefly for CRANK's channel, an urgent crimson alert flashing across its display.",
+        "dialogue": "CRANK: overdue for critical scheduling report.",
+        "setting": "SYSTEM HEARTBEAT CONSOLE"
+      },
+      {
+        "panel": 6,
+        "character": "CRANK",
+        "action": "CRANK processes the overdue alert from FLUX, its internal clock synchronizing, then recalibrating for a missed cycle.",
+        "dialogue": "Acknowledge. Recalibrating. Timing parameters re-asserted.",
+        "setting": "CRON JOB MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "SPARKY",
+        "action": "SPARKY's evaluative processors cycle, finding no viable training candidates, its posture stiff with frustration.",
+        "dialogue": "No usable candidates. The quality threshold remains unmet.",
+        "setting": "JUDGMENT ARENA"
+      },
+      {
+        "panel": 8,
+        "character": "WELD",
+        "action": "WELD finalized the agent routing, its manipulators retracting, the task closure reported.",
+        "dialogue": "Route completed. Repo health checked. Done.",
+        "setting": "DATA PIPELINE JUNCTION"
+      }
+    ]
   }
 ]
