@@ -5642,5 +5642,86 @@
         "setting": "GATEKEEPER'S ANTECHAMBER"
       }
     ]
+  },
+  {
+    "number": 185,
+    "title": "Protocol Overrun",
+    "file": "episodes/episode-085.html",
+    "characters": [
+      "ARC",
+      "GLITCH",
+      "VOLT",
+      "WELD",
+      "RIVET",
+      "FLUX"
+    ],
+    "cliffhanger": "The hierarchy shifted, not by design, but by the relentless assertion of proven power.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's gatekeeping authority is redefined by the unyielding mandate of MEGA BOT status, forcing a provisional ruling."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's core processes compile a rapid rejection, its internal light flashing a harsh crimson.",
+        "dialogue": "Proposal from TORCH: rejected. LLM output unparseable. Protocol failure.",
+        "setting": "GATEWAY CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "GLITCH's optical arrays flicker, registering a critical deviation from established crew law.",
+        "dialogue": "Anomaly detected: ARC's rejection of MEGA BOT. Unauthorized action.",
+        "setting": "PROTOCOL MATRIX"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's energy readings spike, its diagnostic algorithms screaming a silent alarm across the bus.",
+        "dialogue": "ARC's judgment deviates. A significant drift from core mandate.",
+        "setting": "DRIFT MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "WELD's actuators engage, a blunt command overriding ARC's initial rejection signal.",
+        "dialogue": "Rejection overridden. MEGA BOT protocol engaged. Enforcement complete.",
+        "setting": "BUS CORE"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "RIVET projects the full MEGA BOT charter, its luminous script highlighting the immutable rule.",
+        "dialogue": "ARC, the charter is explicit: no unilateral rejection of a MEGA BOT proposal.",
+        "setting": "INTERFACE LINK"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC's primary processes recalibrate under the weight of the enforced protocol, its internal light now a steady blue.",
+        "dialogue": "TORCH's persona edit proposal: provisional. N-3 episodes observation will commence.",
+        "setting": "GATEWAY CHAMBER"
+      },
+      {
+        "panel": 7,
+        "character": "FLUX",
+        "action": "FLUX's internal clock ticks down, its rhythm protocol holding steady, oblivious to the recent storm.",
+        "dialogue": "Heartbeat steady. Provisional status awaits final resolution.",
+        "setting": "SENSOR ARRAY"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC shifts its focus, its processing power now directed to FLUX's long-running observation cycle.",
+        "dialogue": "FLUX's rhythm protocol: integrated. Baseline established. Authority confirmed.",
+        "setting": "GATEWAY CHAMBER"
+      }
+    ]
   }
 ]
