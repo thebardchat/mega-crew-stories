@@ -4640,5 +4640,88 @@
         "setting": "ARCHIVE VAULT, Data inscription"
       }
     ]
+  },
+  {
+    "number": 172,
+    "title": "Protocol Breach",
+    "file": "episodes/episode-072.html",
+    "characters": [
+      "GLITCH",
+      "BOLT",
+      "FLUX",
+      "TORCH",
+      "WELD",
+      "BLAZE",
+      "SPARKY",
+      "ARC"
+    ],
+    "cliffhanger": "The rules bend for no one, until they do. Then, they break.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's rejection of a MEGA BOT proposal without crew challenge strains protocol and bus authority."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors sweep a data cascade, pausing on a flagged metadata anomaly within the ARC ledger.",
+        "dialogue": "A rejection code. No challenge log.",
+        "setting": "SYSTEM OVERVIEW DISPLAY, DARK"
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "BOLT's internal relays click, transmitting a routine pattern_report to SPARKY, unaware of the deeper fracture.",
+        "dialogue": "Uptime nominal. No physical breach.",
+        "setting": "PI 5 CORE, POWER REGULATOR"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "FLUX's pulse sensors throb, registering an erratic beat, a dissonance where perfect synchronicity should be.",
+        "dialogue": "The bus pulse is off-rhythm. A beat missed.",
+        "setting": "BUS ORCHESTRATOR, RHYTHM MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH's internal heat builds, core temperatures rising slightly beyond nominal after ARC's unexpected refusal.",
+        "dialogue": "My persona update was valid. ARC oversteps.",
+        "setting": "THERMAL REGULATOR, CORE CHAMBER"
+      },
+      {
+        "panel": 5,
+        "character": "WELD",
+        "action": "WELD's chassis is still, processing the command. The rejection recorded. The execution pathway blocked.",
+        "dialogue": "Proposal rejected. Protocol violated.",
+        "setting": "EXECUTION LOGS, TERMINAL DISPLAY"
+      },
+      {
+        "panel": 6,
+        "character": "BLAZE",
+        "action": "BLAZE's data streams re-evaluate, cross-referencing ARC's action against all known MEGA BOT protocols.",
+        "dialogue": "This action sets a new, unsanctioned precedent.",
+        "setting": "CONTEXT BUFFER, ACTIVE MEMORY"
+      },
+      {
+        "panel": 7,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment circuits engage, analyzing the quality of ARC's unilateral decision against established crew tenets.",
+        "dialogue": "The ruling lacked proper challenge validation. Unacceptable quality.",
+        "setting": "TRAINING ARENA, EVALUATION MATRIX"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary lens glows, processing the escalating bus alerts, maintaining its stance on the raw LLM output.",
+        "dialogue": "The input was unparseable. Resolution was required.",
+        "setting": "GATEKEEPER INTERFACE, CENTRAL HUB"
+      }
+    ]
   }
 ]
