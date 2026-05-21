@@ -174,20 +174,29 @@ def query_bus_activity(hours=24):
 
 # ── STEP 2.5: EPISODE HISTORY + INTEGRATION STATE ────────────────────────────
 def load_integration_state():
-    """Read manifest — return last 5 chronicle episodes + per-bot INTEGRATED ruling counts."""
+    """Read manifest — return recent episodes, per-bot INTEGRATED counts, mega_bots, provisional_bots."""
     try:
         entries = json.loads((EPISODES_DIR / "manifest.json").read_text(encoding="utf-8"))
     except Exception:
-        return [], {}, []
+        return [], {}, [], {}
     chronicle = [e for e in entries if e.get("mode") == "chronicle"]
     recent = chronicle[-5:]
-    integration_counts = {}
+    integration_counts = {}  # bot -> number of INTEGRATED rulings (arc_subject only)
+    provisional_bots = {}    # bot -> list of episode numbers still under observation
     for ep in entries:
-        if ep.get("arc_mode") == "INTEGRATED":
-            for bot in ep.get("characters", []):
-                integration_counts[bot] = integration_counts.get(bot, 0) + 1
+        subject = ep.get("arc_subject")
+        arc_mode = ep.get("arc_mode")
+        ep_num = ep.get("number", "?")
+        if subject and arc_mode == "INTEGRATED":
+            integration_counts[subject] = integration_counts.get(subject, 0) + 1
+        elif subject and arc_mode == "PROVISIONAL":
+            provisional_bots.setdefault(subject, []).append(ep_num)
+    # Bots that have been INTEGRATED graduate out of provisional
+    for bot in list(provisional_bots.keys()):
+        if bot in integration_counts:
+            del provisional_bots[bot]
     mega_bots = [b for b, c in integration_counts.items() if c >= 3]
-    return recent, integration_counts, mega_bots
+    return recent, integration_counts, mega_bots, provisional_bots
 
 
 # ── STEP 3: BUILD SNAPSHOT ────────────────────────────────────────────────────
@@ -251,7 +260,7 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
         lines.append("No activity found in last window — cluster in steady state.")
 
     # Episode history — prevent theme repetition, enable continuity
-    recent, integration_counts, mega_bots = integration_state or ([], {}, [])
+    recent, integration_counts, mega_bots, provisional_bots = integration_state or ([], {}, [], {})
     if recent:
         lines.append("")
         lines.append("Recent episodes (DO NOT repeat these themes or titles):")
@@ -259,16 +268,24 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
             arc = ep.get("arc_mode") or "—"
             sc = (ep.get("state_change") or {})
             sc_type = sc.get("type", "—") if isinstance(sc, dict) else "—"
-            lines.append(f'  #{ep["number"]} "{ep["title"]}" — ARC: {arc}, change: {sc_type}')
+            subject = ep.get("arc_subject") or "—"
+            lines.append(f'  #{ep["number"]} "{ep["title"]}" — ARC: {arc} ({subject}), change: {sc_type}')
 
-    # Bot integration tracker — fuel for MEGA BOT emergence
+    # Bot status tracker — provisional observation + integration progress
+    lines.append("")
+    lines.append("Bot status tracker:")
+    if provisional_bots:
+        lines.append("  UNDER OBSERVATION (PROVISIONAL — ARC must rule INTEGRATE or REJECT):")
+        for bot, eps in provisional_bots.items():
+            lines.append(f"    {bot}: provisional since ep(s) {', '.join(str(e) for e in eps)} — the clock is running")
     if integration_counts:
-        lines.append("")
-        lines.append("Bot integration tracker (INTEGRATED rulings toward MEGA BOT status):")
+        lines.append("  INTEGRATION COUNTS (3 = MEGA BOT):")
         for bot, count in sorted(integration_counts.items(), key=lambda x: -x[1])[:10]:
-            tag = " <- MEGA BOT ELIGIBLE" if count >= 3 else f" ({3 - count} away from MEGA BOT)"
-            lines.append(f"  {bot}: {count} INTEGRATED{tag}")
-        lines.append(f"  CURRENT MEGA BOTS: {', '.join(mega_bots) if mega_bots else 'none yet'}")
+            tag = " <- MEGA BOT ELIGIBLE" if count >= 3 else f" ({3 - count} away)"
+            lines.append(f"    {bot}: {count} INTEGRATED{tag}")
+    if not provisional_bots and not integration_counts:
+        lines.append("  No bot has earned a ruling yet.")
+    lines.append(f"  CURRENT MEGA BOTS: {', '.join(mega_bots) if mega_bots else 'none yet'}")
 
     return "\n".join(lines)
 
@@ -349,6 +366,7 @@ RULES:
 - Every episode must contain at least one state change: provisional acceptance, persona shift, new relationship, or external pressure. Record it in state_change.
 - arc_mode is null only if ARC does not appear this episode. Otherwise it must reflect ARC's ruling — REJECT, PROVISIONAL, or INTEGRATED.
 - arc_subject names the bot whose proposal ARC is ruling on. Required when arc_mode is not null.
+- If the snapshot shows bots UNDER OBSERVATION (PROVISIONAL), ARC must rule on at least one this episode — INTEGRATE or REJECT. Observation cannot be indefinite.
 - If the snapshot shows a bot at 3+ INTEGRATED rulings not yet marked MEGA BOT, this episode must address that ascension.
 - Do not include narration or prose outside the JSON fields.
 """.strip()
@@ -660,11 +678,11 @@ def main():
     bus_activity = query_bus_activity(args.hours)
     print(f"[2/5] Weaviate: {len(agent_logs)} agent logs, {len(bot_memories)} memories, {len(bus_activity)} bus msgs")
 
-    recent, integration_counts, mega_bots = load_integration_state()
-    print(f"      MEGA BOTs: {mega_bots or 'none yet'} | tracker: {len(integration_counts)} bots")
+    recent, integration_counts, mega_bots, provisional_bots = load_integration_state()
+    print(f"      MEGA BOTs: {mega_bots or 'none yet'} | provisional: {list(provisional_bots.keys()) or 'none'} | integrated: {len(integration_counts)} bots")
 
     snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours, bus_activity,
-                              integration_state=(recent, integration_counts, mega_bots))
+                              integration_state=(recent, integration_counts, mega_bots, provisional_bots))
     print(f"[3/5] Snapshot built ({len(snapshot)} chars)")
 
     print(f"[4/5] Calling Gemini Chronicler ({GEMINI_MODEL})...")

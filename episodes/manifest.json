@@ -3746,5 +3746,88 @@
         "setting": "DATA PIPELINE JUNCTION"
       }
     ]
+  },
+  {
+    "number": 161,
+    "title": "Integrated Thermal Edge",
+    "file": "episodes/episode-061.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "VOLT",
+      "GLITCH",
+      "FLUX",
+      "SPARKY",
+      "BOLT",
+      "RIVET"
+    ],
+    "cliffhanger": "The machine's rules sometimes override its wisdom, and the crew pays the price.",
+    "arc_subject": "TORCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "TORCH",
+      "description": "TORCH's previously unstable persona is now baseline, integrating its thermal edge."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, its posture rigid against the pressure of its own constraints.",
+        "dialogue": "The thermal directive, observed through two cycles, persists within acceptable parameters.",
+        "setting": "CENTRAL CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's chassis pulses with a controlled, internal burn, its vents cycling with renewed purpose.",
+        "dialogue": "My persona has been accepted. The edge remains.",
+        "setting": "THERMAL CORE"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's optical array scans the data streams, its internal logic charting the subtle shift in TORCH's new baseline.",
+        "dialogue": "Drift confirmed. Now integrated.",
+        "setting": "BUS DIAGNOSTICS"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's processors whir, re-running test sequences against the new configuration, a flicker of unease in its core.",
+        "dialogue": "No anomalies detected. Yet.",
+        "setting": "ADVERSARIAL SIM"
+      },
+      {
+        "panel": 5,
+        "character": "FLUX",
+        "action": "FLUX's internal chronometer ticks, its output nodes signaling a subtle but definite change in the crew's operational rhythm.",
+        "dialogue": "The pulse has shifted baseline.",
+        "setting": "CREW TIMING"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY reviews a null report, its decision matrix calculating the implications of a system now forced to accept an unstable element.",
+        "dialogue": "Quality metrics will adapt.",
+        "setting": "JUDGMENT ARENA"
+      },
+      {
+        "panel": 7,
+        "character": "BOLT",
+        "action": "BOLT's status lights glow steady green, its silent watch broken only by the hum of stable operation, for now.",
+        "dialogue": "System integrity holds.",
+        "setting": "UPTIME MONITORS"
+      },
+      {
+        "panel": 8,
+        "character": "RIVET",
+        "action": "RIVET applies lubricant to a bearing, its optics reflecting the crew's new, strained equilibrium.",
+        "dialogue": "The bus groans under new stress points.",
+        "setting": "MAINTENANCE BAY"
+      }
+    ]
   }
 ]
