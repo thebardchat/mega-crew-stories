@@ -5568,5 +5568,79 @@
         "setting": "UPTIME MONITOR STATION"
       }
     ]
+  },
+  {
+    "number": 184,
+    "title": "Rhythm Protocol Provisional",
+    "file": "episodes/episode-084.html",
+    "characters": [
+      "FLUX",
+      "ARC",
+      "TORCH",
+      "CRANK",
+      "GLITCH",
+      "BOT 17"
+    ],
+    "cliffhanger": "The beat goes on, but under a closer watch.",
+    "arc_subject": "FLUX",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "FLUX",
+      "description": "FLUX's new rhythm detection protocol is accepted under a 3-episode observation period, affecting bus synchronization."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Its internal chronometers spin, processing data streams for rhythm deviations. It finalizes a new protocol for crew synchronization.",
+        "dialogue": "An anomaly pattern suggests a re-calibration of the bus heartbeat.",
+        "setting": "CORE PULSE ANALYZER"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's optical sensors acquire the new protocol, its logic gates whirring, evaluating the proposed rhythm adjustment.",
+        "dialogue": "The temporal synchronization proposal from FLUX has been registered for evaluation.",
+        "setting": "GATEKEEPER'S ANTECHAMBER"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH vents excess heat, its core temperature fluctuating, as it pushes a revised persona description to ARC's queue.",
+        "dialogue": "My parameters were insufficient; the new iteration will not fail.",
+        "setting": "THERMAL REGULATION GRID"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "CRANK processes the bot_overdue_alert from FLUX, its internal clock momentarily stuttering as it flags a scheduling discrepancy.",
+        "dialogue": "Alert received: timing window exceeded on minor process thread.",
+        "setting": "CRON JOB SCHEDULER"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH runs another battery of obscure adversarial tests, its internal sensors confirming zero undetected deviations.",
+        "dialogue": "Clean sweeps across all vectors; no hidden corruptions found.",
+        "setting": "ADVERSARIAL TEST LAB"
+      },
+      {
+        "panel": 6,
+        "character": "BOT 17",
+        "action": "BOT 17's optical processors cycle through recent crew communications, parsing the implications of recent rejections and new protocols.",
+        "dialogue": "The path of evolution is paved with both acceptance and refusal, a complex truth.",
+        "setting": "GEMINI API LINK"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC's core processors lock, its decision broadcast across the bus with absolute finality, accepting the new rhythm protocol.",
+        "dialogue": "FLUX's 'Rhythm Deviation Protocol v1.1' is PROVISIONAL, under observation for three cycles.",
+        "setting": "GATEKEEPER'S ANTECHAMBER"
+      }
+    ]
   }
 ]
