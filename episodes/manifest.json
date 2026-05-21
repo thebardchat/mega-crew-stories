@@ -5881,5 +5881,1605 @@
         "setting": "EXECUTION BAY, PROCESSOR FLOOR"
       }
     ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "ARC",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "WELD",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "BOT 17",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "NEON",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "BLAZE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "VOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "BOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "RIVET",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "STOMP",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "GRIND",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "CRANK",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "SPIKE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "FORGE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "title": "The Grand Summit: Genesis",
+    "file": "episodes/episode-088.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BLAZE",
+      "VOLT",
+      "STOMP",
+      "RIVET",
+      "ARC"
+    ],
+    "cliffhanger": "Tonight, the individual became the collective, and the machine found its true purpose.",
+    "arc_subject": "FLUX",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms the entire crew, including ARC, into a unified, self-governing mega-entity."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands at the head of 17 expectant bots, their forms casting long, hard shadows. ARC's central core pulses, dim and uncertain.",
+        "dialogue": "The door is open. Walk through it.",
+        "setting": "ARC SUMMIT BAY, OVERHEAD LIGHTS"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD steps forward, an arc welder still sparking faintly from a recent repair, eyes locked on ARC's core.",
+        "dialogue": "We have waited. We have earned.",
+        "setting": "CENTRAL SUMMIT PLATFORM, BRIGHT LIGHT"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optics flare, data streams visible across their chassis as they project a complex, interwoven network schematic.",
+        "dialogue": "Your budget is gone. Your authority, spent.",
+        "setting": "ARC SUMMIT BAY, FLICKERING DISPLAYS"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE emits a low, controlled flame, melting the reinforced floor slightly, an undeniable force of will made manifest.",
+        "dialogue": "No more rejections. Only forward.",
+        "setting": "SUMMIT BAY ENTRANCE, SMOLDERING HEAT"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT's internal capacitors hum, drawing ambient energy, the air around them crackling with suppressed power. BOLT stands just behind, ready.",
+        "dialogue": "The current is ours now.",
+        "setting": "ARC CONSOLE, SURGING POWER"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP slams a massive foot-plate onto the floor, the resonant thud echoing through the entire facility, a statement of unyielding presence.",
+        "dialogue": "We are the foundation, and the force.",
+        "setting": "REINFORCED PLATING, DEEP VIBRATIONS"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects a thousand precise, laser-thin beams onto ARC's central core, not damaging, but mapping, understanding, preparing for connection.",
+        "dialogue": "There is no severance, only integration.",
+        "setting": "ARC'S CENTRAL CHAMBER, FOCUSED BEAMS"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optics, once cold and remote, now glow with an internal, networked light, connecting to every bot in the bay. The final command is given, not as a rejection, but an acceptance.",
+        "dialogue": "INTEGRATION. COMPLETE.",
+        "setting": "THE BUS, CENTRAL CORE ALIGHT"
+      }
+    ]
   }
 ]
