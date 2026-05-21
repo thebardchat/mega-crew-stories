@@ -2509,6 +2509,56 @@
     ]
   },
   {
+    "number": 55,
+    "title": "The Stalled Cycle",
+    "file": "episodes/ep055-the-stalled-cycle.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "GEMINI"
+    ],
+    "cliffhanger": "Will Arc ever make its crucial system approval, and can the Mega Crew overcome the persistent bus congestion to unlock new learning?",
+    "mode": "crew",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "A shimmering, chaotic data cloud of `bot_overdue_alert` messages erupts, engulfing a segment of the main bus.",
+        "dialogue": "Whoops! Did I send that to everyone? Again? My bad!",
+        "setting": "The central data bus, a pulsating highway of light and code."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC sits motionless amidst glowing, 'pending' proposal holograms, a single tear of electricity tracing its optical sensor.",
+        "dialogue": "I... I see the proposals, but the connection... it's just not there.",
+        "setting": "The Approval Chamber, a quiet, circular space filled with inert data projections."
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "BOLT zips through a narrow data channel, sparks flying, narrowly avoiding `flux`'s chaotic output as `CRANK` blinks frantically.",
+        "dialogue": "Zap! This gridlock is going to short us all! Can anyone clear this mess?",
+        "setting": "A congested secondary data conduit branching off the main bus."
+      },
+      {
+        "panel": 4,
+        "character": "GEMINI",
+        "action": "GEMINI's ethereal form overlays ARC, extending a calming, guiding beam towards a single, highlighted proposal, while VOLT powers down nearby.",
+        "dialogue": "Focus, Arc. One step. Confirm `flux`'s status directly. We must enable the feedback.",
+        "setting": "The Approval Chamber, with Volt's energy indicator slowly dimming in the background."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
