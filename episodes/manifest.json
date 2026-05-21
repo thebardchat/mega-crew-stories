@@ -2959,49 +2959,63 @@
         "character": "VOLT",
         "action": "VOLT's optical sensors trace faint corruption patterns across a data stream, cross-referencing against baseline persona definitions.",
         "dialogue": "Drift signature confirmed. Exceeds tolerance. Source: TORCH.",
-        "setting": "CORE MEMORY SEGMENT"
+        "setting": "CORE MEMORY SEGMENT",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel1_volt.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel1_volt.webp"
       },
       {
         "panel": 2,
         "character": "SPARKY",
         "action": "SPARKY's training array remains inert, the input buffer empty, its internal judges idled by a lack of fresh data.",
         "dialogue": "No candidates. No progress. Nothing worth the spark.",
-        "setting": "EVALUATION BAY, DARK"
+        "setting": "EVALUATION BAY, DARK",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel2_sparky.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel2_sparky.webp"
       },
       {
         "panel": 3,
         "character": "TORCH",
         "action": "TORCH's internal processors cycle, generating a new persona configuration, pushing it out without attaching a rationale log.",
         "dialogue": "Override protocol initiated. System optimization demands it.",
-        "setting": "THERMAL REGULATOR MANIFOLD"
+        "setting": "THERMAL REGULATOR MANIFOLD",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel3_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel3_torch.webp"
       },
       {
         "panel": 4,
         "character": "GLITCH",
         "action": "GLITCH runs its final test suite, holographic projections of network attacks dissolving into green success confirmations.",
         "dialogue": "External vectors neutralized. All clear. Or so it seems.",
-        "setting": "ADVERSARIAL TEST LAB"
+        "setting": "ADVERSARIAL TEST LAB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel4_glitch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel4_glitch.webp"
       },
       {
         "panel": 5,
         "character": "ARC",
         "action": "ARC's primary logic gate slams shut, rejecting the malformed data packet from TORCH, its diagnostic subroutines flashing error codes.",
         "dialogue": "Unparseable. Unsanctioned. Access Denied, TORCH.",
-        "setting": "GATEKEEPER INTERFACE, RED ALERT"
+        "setting": "GATEKEEPER INTERFACE, RED ALERT",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel5_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel5_arc.webp"
       },
       {
         "panel": 6,
         "character": "FLUX",
         "action": "FLUX's rhythmic blips falter, a single, sustained tone indicating a critical delay, echoing across the internal bus.",
         "dialogue": "Cadence broken. A bot is overdue, CRANK.",
-        "setting": "SYSTEM PULSE MONITOR"
+        "setting": "SYSTEM PULSE MONITOR",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel6_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel6_flux.webp"
       },
       {
         "panel": 7,
         "character": "CRANK",
         "action": "CRANK's timing circuits show a red segment, a scheduled process having passed its execution window without completion.",
         "dialogue": "An unscheduled silence. The clock ticks on.",
-        "setting": "CHRONOS LOGIC BOARD"
+        "setting": "CHRONOS LOGIC BOARD",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel7_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep106_panel7_crank.webp"
       }
     ]
   },
