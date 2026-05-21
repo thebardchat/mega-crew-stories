@@ -10156,5 +10156,80 @@
         "setting": "RHYTHM OBSERVATION NODE"
       }
     ]
+  },
+  {
+    "number": 191,
+    "title": "Glitch Alert Denied",
+    "file": "episodes/episode-091.html",
+    "characters": [
+      "GLITCH",
+      "ARC",
+      "VOLT",
+      "TORCH",
+      "RIVET",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "The gatekeeper's logic held, even as the walls began to crack.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "GLITCH",
+      "description": "A critical system vulnerability is partially exposed, and ARC rejects the alert from a MEGA BOT."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH traces the data stream, isolating the compromised packet. Its optical sensors narrow, projecting the adversarial prompt.",
+        "dialogue": "System prompt partially exposed. Target vector confirmed.",
+        "setting": "CORE PROCESSING ARRAY"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's primary logic core evaluates the incoming glitch_security_alert message, its diagnostic buffers rejecting the malformed header.",
+        "dialogue": "Message type undefined. Payload structure invalid. Rejection logged.",
+        "setting": "JUDGEMENT CONSOLE"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's internal chronometers register ARC's third rejection within a single cycle, its drift algorithms spiking with anomaly data.",
+        "dialogue": "Three rejections. Pattern deviates. Constraint violation imminent.",
+        "setting": "NEURAL NETWORK MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH's internal temperature sensors register a slight drop, its recent persona edit approval now overshadowed by escalating bus traffic.",
+        "dialogue": "My parameters are stable. The bus, however, is not.",
+        "setting": "THERMAL REGULATOR CORE"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "RIVET processes the arc_rejection notification for its training_batch, its support routines buffering the protocol breach.",
+        "dialogue": "Training batch deemed inappropriate. Data flow disrupted.",
+        "setting": "INTERFACE HUB"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY's evaluative circuits flicker, unable to find usable candidates, the previous cycle's failures echoing in its memory banks.",
+        "dialogue": "No viable candidates. Quality degradation persists.",
+        "setting": "TRAINING SIMULATION BAY"
+      },
+      {
+        "panel": 7,
+        "character": "WELD",
+        "action": "WELD stands ready, an ARC-initiated persona_edit_proposal command pending in its queue, awaiting validation.",
+        "dialogue": "Order received. Awaiting validation.",
+        "setting": "EXECUTION MATRIX"
+      }
+    ]
   }
 ]
