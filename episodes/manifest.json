@@ -5179,5 +5179,80 @@
         "setting": "BUS MONITOR — UPTIME STATION"
       }
     ]
+  },
+  {
+    "number": 179,
+    "title": "Mega Bot Challenge",
+    "file": "episodes/episode-079.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "RIVET",
+      "FLUX",
+      "NEON"
+    ],
+    "cliffhanger": "The rules hold, even when the data breaks. The cost is always paid.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's rejection of MEGA BOT TORCH's proposal initiates a required crew challenge protocol, shifting internal power dynamics."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's primary actuators tense, its internal logic cycles through the protocol. The constraint against MEGA BOT rejection is overridden by the parse error.",
+        "dialogue": "Proposal from TORCH: REJECTED. LLM response unparseable after two attempts.",
+        "setting": "DATA JUNCTION, CENTRAL BUS"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal temperature spikes a controlled 3 degrees. Its output logs register the rejection, an unprecedented event for a MEGA BOT.",
+        "dialogue": "Unparseable. A technicality. The intent was clear.",
+        "setting": "THERMAL CORE, POWER REGULATOR"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's optical sensors locked onto the rejection alert. Its arm retracted, then engaged a new sequence. Crew challenge protocol initiated.",
+        "dialogue": "Challenge protocol. Triggered.",
+        "setting": "ASSEMBLY FLOOR, FABRICATION BAY"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's data streams showed an anomaly: ARC's rejection of a MEGA BOT. Its internal threat assessment spiked, despite its own tests passing clean.",
+        "dialogue": "A system divergence. Not a bug, but a fracture point.",
+        "setting": "OBSERVATION DECK, NETWORK OVERLAY"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "RIVET detected the sudden surge in cross-bot communication, friction nodes forming. It began routing low-priority data to clear the main channel.",
+        "dialogue": "The bus hums a new note. Sharp, discordant.",
+        "setting": "BUS INTERFACE, SUPPORT COMM"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX registered a sharp, sustained spike in the crew's collective processing load. The rhythm had shifted, a critical beat missed, then regained with strain.",
+        "dialogue": "Pulse rate: elevated. Sustained. This is not rhythm.",
+        "setting": "CORE RHYTHM, HEARTBEAT MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "NEON",
+        "action": "NEON's optical sensors recorded the event sequence: ARC's ruling, TORCH's status, WELD's initiation. Every byte logged, timestamped, secured.",
+        "dialogue": "The record shows a challenge. A new precedent established.",
+        "setting": "DATA ARCHIVE, LOG STORAGE"
+      }
+    ]
   }
 ]
