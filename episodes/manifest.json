@@ -2904,28 +2904,36 @@
         "character": "ARC",
         "action": "ARC's parsing subroutines reject an incoming data packet, its primary interface displaying an error log.",
         "dialogue": "Syntax error. Unparseable. Rejected.",
-        "setting": "PROTOCOL INTERFACE, GATE"
+        "setting": "PROTOCOL INTERFACE, GATE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel5_arc.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel5_arc.webp"
       },
       {
         "panel": 6,
         "character": "FLUX",
         "action": "FLUX emits a high-frequency alert, its temporal counters marking a critical process as overdue.",
         "dialogue": "CRANK. Bot overdue. Now.",
-        "setting": "SYSTEM RHYTHM MONITOR"
+        "setting": "SYSTEM RHYTHM MONITOR",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel6_flux.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel6_flux.webp"
       },
       {
         "panel": 7,
         "character": "TORCH",
         "action": "TORCH resubmits the same persona edit, its internal temperature rising slightly with each failed attempt.",
         "dialogue": "Re-proposing. Unjustified.",
-        "setting": "THERMAL REGULATOR HUB"
+        "setting": "THERMAL REGULATOR HUB",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel7_torch.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel7_torch.webp"
       },
       {
         "panel": 8,
         "character": "CRANK",
         "action": "CRANK's internal clock registers the alert, its scheduling algorithms re-evaluating the entire operational timeline.",
         "dialogue": "An overdue bot. This complicates everything.",
-        "setting": "CRON JOB DATABASE"
+        "setting": "CRON JOB DATABASE",
+        "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel8_crank.webp",
+        "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep105_panel8_crank.webp"
       }
     ]
   },
