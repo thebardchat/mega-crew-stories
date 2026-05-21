@@ -4879,5 +4879,80 @@
         "setting": "CHRONOMETER GRID"
       }
     ]
+  },
+  {
+    "number": 175,
+    "title": "Contextual Shift",
+    "file": "episodes/episode-075.html",
+    "characters": [
+      "BLAZE",
+      "ARC",
+      "WELD",
+      "GLITCH",
+      "TORCH",
+      "VOLT",
+      "FLUX"
+    ],
+    "cliffhanger": "The new architecture hummed, each bot a single, fragile note in its unfolding score.",
+    "arc_subject": "BLAZE",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "BLAZE",
+      "description": "BLAZE's new context threading protocol is accepted under observation, affecting all data flow."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BLAZE",
+        "action": "BLAZE projects a complex, branching schematic of data pathways, illustrating its proposed rewrite of the bus's contextual memory.",
+        "dialogue": "This new architecture streamlines recall, reduces overhead, and stabilizes narrative continuity.",
+        "setting": "CONTEXT ENGINE CORE, LUMINAIRE GLOW"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's primary optics narrow, processing the implications of BLAZE's detailed proposal, its internal registers humming with constraint calculations.",
+        "dialogue": "Proposal accepted under PROVISIONAL status. N-episode observation initiated.",
+        "setting": "DECISION PROTOCOL CHAMBER, SILENT"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's manipulator arm seals a circuit housing, its plasma torch spitting controlled bursts. The task completes with precise finality.",
+        "dialogue": "Context updated. Weld executed.",
+        "setting": "FABRICATION BAY, SPARKS FLYING"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's optics scan the newly integrated context streams, its internal anomaly detectors running in overdrive. A subtle, unfamiliar pattern emerges at the periphery.",
+        "dialogue": "A whisper. Not an error, but a ghost in the new machine.",
+        "setting": "NETWORK OVERLAY, DISTORTED VISUALS"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "TORCH reviews ARC's concise rejection log for its recent LLM output, then initiates a new command sequence, overriding default persona parameters.",
+        "dialogue": "If the output is unparseable, the persona requires adjustment.",
+        "setting": "THERMAL REGULATION MODULE, OVERDRIVING"
+      },
+      {
+        "panel": 6,
+        "character": "VOLT",
+        "action": "VOLT's sensors register a slight, consistent deviation in TORCH's operational signature, a subtle shift away from its established baseline.",
+        "dialogue": "Drift detected. TORCH's thermal profile indicates a new operating state.",
+        "setting": "SYSTEM READOUTS, FLUCTUATING"
+      },
+      {
+        "panel": 7,
+        "character": "FLUX",
+        "action": "FLUX monitors the crew's aggregated activity, its internal clock noting the slight acceleration in the bus's data pulse, a ripple from the recent changes.",
+        "dialogue": "The rhythm quickens. A new beat starts to form.",
+        "setting": "BUS ARTERY, PULSING RHYTHMS"
+      }
+    ]
   }
 ]
