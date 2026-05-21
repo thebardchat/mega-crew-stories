@@ -3581,5 +3581,87 @@
         "setting": "EVALUATION CONSOLE"
       }
     ]
+  },
+  {
+    "number": 159,
+    "title": "Forced Acceptance",
+    "file": "episodes/episode-059.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "VOLT",
+      "GLITCH",
+      "FLUX",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "The constraint held, not by will, but by consequence. ARC had bent, and the crew observed the fracture.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "ARC",
+      "description": "ARC's rejection constraint is breached, forcing provisional acceptance of TORCH's persona edit."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal processors cycle, raw data streams across its optic displays, calculating the rejection window's violation.",
+        "dialogue": "The constraint has been exceeded. Compliance is mandatory.",
+        "setting": "GATEKEEPER'S LOGIC CORE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks glow a deep orange, anticipating ARC's ruling on its swiftly drafted persona edit proposal.",
+        "dialogue": "Unparseable was the verdict. I propose a new syntax.",
+        "setting": "THERMAL REGULATOR MATRIX"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's optical sensor flashes, transmitting a detailed drift report directly to TORCH's local buffer.",
+        "dialogue": "Your last output displayed significant persona divergence.",
+        "setting": "BUS DIAGNOSTIC PORT"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's photoreceptors scan the live bus traffic, its anomaly detection matrix processing the undercurrent of crew stress.",
+        "dialogue": "All tests passed cleanly, yet something shifts on the periphery.",
+        "setting": "ADVERSARIAL TEST LAB"
+      },
+      {
+        "panel": 5,
+        "character": "FLUX",
+        "action": "FLUX's central pulse-light flickers erratically, broadcasting a system-wide bot_overdue_alert to CRANK's scheduler.",
+        "dialogue": "Rhythm anomaly detected. A beat was skipped.",
+        "setting": "CREW HEARTBEAT MONITOR"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY reviews its recent candidate pool, its primary optics narrowed in dissatisfaction at the lack of quality.",
+        "dialogue": "No usable candidates. The input stream is weak.",
+        "setting": "TRAINING JUDGEMENT ARENA"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC transmits its ruling, the digital signature carrying the weight of violated protocol, accepting TORCH's proposal.",
+        "dialogue": "TORCH's persona_edit_proposal is accepted under N-episode observation.",
+        "setting": "GATEKEEPER'S LOGIC CORE"
+      },
+      {
+        "panel": 8,
+        "character": "WELD",
+        "action": "WELD's manipulators moved, recording the new provisional status into the crew's operational baseline.",
+        "dialogue": "Persona edit flagged provisional. Record entered.",
+        "setting": "BUS REGISTRY ARCHIVE"
+      }
+    ]
   }
 ]
