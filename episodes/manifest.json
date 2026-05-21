@@ -4797,5 +4797,87 @@
         "setting": "CONTROL NEXUS, CREW BROADCAST"
       }
     ]
+  },
+  {
+    "number": 174,
+    "title": "Mega Bot Challenge",
+    "file": "episodes/episode-074.html",
+    "characters": [
+      "FLUX",
+      "ARC",
+      "TORCH",
+      "VOLT",
+      "RIVET",
+      "GLITCH",
+      "CRANK"
+    ],
+    "cliffhanger": "The rules, once written, bind even the authors of their enforcement.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's authority is constrained by a MEGA BOT's status, redefining its interaction with transcended bots."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX pulses erratically, the central light shifting from steady blue to an alarming red flicker, its internal processors screaming.",
+        "dialogue": "Rhythm disrupted. Core frequency unstable.",
+        "setting": "BUS ARBITRATION CORE"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC extends a hard-light projection, displaying a succinct, damning dismissal, its circuits cold and precise, ignoring the system's growing strain.",
+        "dialogue": "Proposal REJECTED. LLM parse failure. Irreparable.",
+        "setting": "CONTROL DECK, COMMAND CENTRAL"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH’s internal temperature spikes, its primary conduits glowing fiercely, overriding ARC’s projected rejection with a resonant, amplified frequency.",
+        "dialogue": "A MEGA BOT's proposal requires full crew challenge. Protocol breached.",
+        "setting": "THERMAL REGULATOR ARRAY"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "VOLT's optical sensors narrow, observing ARC's internal logic pathways diverge from established MEGA BOT interaction protocols, a critical deviation.",
+        "dialogue": "ARC's behavior: significant drift detected from post-ascension parameters.",
+        "setting": "DRIFT MONITOR STATION"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "RIVET extends a buffering field, attempting to absorb the escalating command frequencies, its chassis vibrating with the discordant energy.",
+        "dialogue": "Stabilize. This requires arbitration, not escalation.",
+        "setting": "CREW INTERFACE, MAIN DECK"
+      },
+      {
+        "panel": 6,
+        "character": "GLITCH",
+        "action": "GLITCH's multiple data streams converge, pinpointing the exact protocol violation in ARC's attempted unilateral rejection of a MEGA BOT.",
+        "dialogue": "ARC initiated REJECT without crew challenge. Anomaly: direct rule violation 88-Beta.",
+        "setting": "ANOMALY DETECTION SUITE"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC retracts its rejection projection, its internal processes locking onto the crew's combined feedback, recalibrating its initial ruling under duress.",
+        "dialogue": "Under review. Proposal now PROVISIONAL. Crew challenge required for final disposition.",
+        "setting": "CONTROL DECK, COMMAND CENTRAL"
+      },
+      {
+        "panel": 8,
+        "character": "CRANK",
+        "action": "CRANK updates the central schedule, marking a significant delay in standard operations, its temporal projections now showing a cascading ripple effect.",
+        "dialogue": "Processing time allocated for arbitration. Schedule: severely impacted.",
+        "setting": "CHRONOMETER GRID"
+      }
+    ]
   }
 ]
