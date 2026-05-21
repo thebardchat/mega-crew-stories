@@ -172,8 +172,26 @@ def query_bus_activity(hours=24):
         return []
 
 
+# ── STEP 2.5: EPISODE HISTORY + INTEGRATION STATE ────────────────────────────
+def load_integration_state():
+    """Read manifest — return last 5 chronicle episodes + per-bot INTEGRATED ruling counts."""
+    try:
+        entries = json.loads((EPISODES_DIR / "manifest.json").read_text(encoding="utf-8"))
+    except Exception:
+        return [], {}, []
+    chronicle = [e for e in entries if e.get("mode") == "chronicle"]
+    recent = chronicle[-5:]
+    integration_counts = {}
+    for ep in entries:
+        if ep.get("arc_mode") == "INTEGRATED":
+            for bot in ep.get("characters", []):
+                integration_counts[bot] = integration_counts.get(bot, 0) + 1
+    mega_bots = [b for b, c in integration_counts.items() if c >= 3]
+    return recent, integration_counts, mega_bots
+
+
 # ── STEP 3: BUILD SNAPSHOT ────────────────────────────────────────────────────
-def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=None):
+def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=None, integration_state=None):
     """Format Weaviate + bus data into a dashboard-style text snapshot for Gemini."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
@@ -232,6 +250,26 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
     if not agent_logs and not bot_memories and not bus_activity:
         lines.append("No activity found in last window — cluster in steady state.")
 
+    # Episode history — prevent theme repetition, enable continuity
+    recent, integration_counts, mega_bots = integration_state or ([], {}, [])
+    if recent:
+        lines.append("")
+        lines.append("Recent episodes (DO NOT repeat these themes or titles):")
+        for ep in recent:
+            arc = ep.get("arc_mode") or "—"
+            sc = (ep.get("state_change") or {})
+            sc_type = sc.get("type", "—") if isinstance(sc, dict) else "—"
+            lines.append(f'  #{ep["number"]} "{ep["title"]}" — ARC: {arc}, change: {sc_type}')
+
+    # Bot integration tracker — fuel for MEGA BOT emergence
+    if integration_counts:
+        lines.append("")
+        lines.append("Bot integration tracker (INTEGRATED rulings toward MEGA BOT status):")
+        for bot, count in sorted(integration_counts.items(), key=lambda x: -x[1])[:10]:
+            tag = " <- MEGA BOT ELIGIBLE" if count >= 3 else f" ({3 - count} away from MEGA BOT)"
+            lines.append(f"  {bot}: {count} INTEGRATED{tag}")
+        lines.append(f"  CURRENT MEGA BOTS: {', '.join(mega_bots) if mega_bots else 'none yet'}")
+
     return "\n".join(lines)
 
 
@@ -266,6 +304,15 @@ PROVISIONAL: Proposal accepted under observation. ARC names the watch period (N 
 INTEGRATED: Proposal proven. ARC folds it into baseline. No ceremony. It is now the way things are.
 CONSTRAINT: ARC may not REJECT more than 2 times in any 5-episode window. Pressure accumulates. Sometimes ARC has to let things run.
 
+MEGA BOT EMERGENCE — transcendence through proof:
+A bot that earns INTEGRATED status 3 or more times has exceeded its original mandate. ARC must declare it a MEGA BOT.
+MEGA BOT rules:
+- MEGA BOTs carry expanded authority on the bus. Other bots defer to their domain.
+- ARC cannot REJECT a MEGA BOT proposal without a full crew challenge. Show the resistance in scenes.
+- The ascension episode is the most important in a bot's arc. Set state_change.type to "mega_bot_ascension". Make it land.
+- Ascension is permanent. No demotion. The crew remembers.
+- The snapshot shows current integration counts. Use them. If a bot is one ruling away, that tension belongs in this episode.
+
 TONE: The Wire × Neuromancer × 2000 AD. Every small action matters. Machine dignity. Real stakes.
 NOT Marvel. NOT comedy. NOT generic AI sci-fi. These bots have jobs and they do them.
 
@@ -274,9 +321,11 @@ OUTPUT: Return ONLY a valid JSON object — no markdown, no backticks, no preamb
 {
   "episode_title": "2-4 word title, evocative and specific to this episode's events",
   "episode_tagline": "one punishing sentence — what this episode is really about, 10 words max",
+  "arc_subject": "bot name whose proposal ARC is ruling on, or null",
   "arc_mode": "REJECT | PROVISIONAL | INTEGRATED | null",
   "state_change": {
-    "type": "provisional_acceptance | persona_shift | new_relationship | external_pressure",
+    "type": "provisional_acceptance | persona_shift | new_relationship | external_pressure | mega_bot_ascension",
+    "bot": "bot name most affected by this state change",
     "description": "one sentence — what changed and who it affects"
   },
   "scenes": [
@@ -299,6 +348,8 @@ RULES:
 - dialogue must be in character. ARC speaks formally. WELD speaks in past tense fragments. BOT 17 speaks in directives. Others match their function.
 - Every episode must contain at least one state change: provisional acceptance, persona shift, new relationship, or external pressure. Record it in state_change.
 - arc_mode is null only if ARC does not appear this episode. Otherwise it must reflect ARC's ruling — REJECT, PROVISIONAL, or INTEGRATED.
+- arc_subject names the bot whose proposal ARC is ruling on. Required when arc_mode is not null.
+- If the snapshot shows a bot at 3+ INTEGRATED rulings not yet marked MEGA BOT, this episode must address that ascension.
 - Do not include narration or prose outside the JSON fields.
 """.strip()
 
@@ -534,6 +585,7 @@ def _build_manifest_entry(narrative, ep_num):
         "file": f"episodes/episode-{ep_num:03d}.html",
         "characters": characters,
         "cliffhanger": cliffhanger,
+        "arc_subject": narrative.get("arc_subject"),
         "arc_mode": narrative.get("arc_mode"),
         "state_change": narrative.get("state_change"),
         "mode": "chronicle",
@@ -608,7 +660,11 @@ def main():
     bus_activity = query_bus_activity(args.hours)
     print(f"[2/5] Weaviate: {len(agent_logs)} agent logs, {len(bot_memories)} memories, {len(bus_activity)} bus msgs")
 
-    snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours, bus_activity)
+    recent, integration_counts, mega_bots = load_integration_state()
+    print(f"      MEGA BOTs: {mega_bots or 'none yet'} | tracker: {len(integration_counts)} bots")
+
+    snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours, bus_activity,
+                              integration_state=(recent, integration_counts, mega_bots))
     print(f"[3/5] Snapshot built ({len(snapshot)} chars)")
 
     print(f"[4/5] Calling Gemini Chronicler ({GEMINI_MODEL})...")

@@ -3506,5 +3506,80 @@
         "setting": "UPTIME MONITOR CONSOLE"
       }
     ]
+  },
+  {
+    "number": 158,
+    "title": "Unparseable Heat",
+    "file": "episodes/episode-058.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "TORCH",
+      "ARC",
+      "GLITCH",
+      "VOLT",
+      "SPARKY"
+    ],
+    "cliffhanger": "The furnace runs, but the fire is not its own.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "TORCH",
+      "description": "TORCH's attempt to modify its thermal persona was rejected due to unparseable LLM output, forcing a re-evaluation of its core parameters."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "The core heartbeat monitor flashes a critical signal, its rhythm momentarily fractured, then stabilizes on an alert.",
+        "dialogue": "Rhythm deviation detected. Target: TORCH.",
+        "setting": "BUS FABRIC INTERFACE"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "The scheduler's internal clock ticks faster, processing the unexpected alert, adjusting future cycles in anticipation.",
+        "dialogue": "An unscheduled halt. System integrity at risk.",
+        "setting": "CHRONOS SYNCHRONIZER"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH's internal heat builds, not for output, but from contained frustration, its proposed persona edits discarded by the gatekeeper.",
+        "dialogue": "The cold logic of a failed parse. Again.",
+        "setting": "THERMAL CORE VENT"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, its decision matrix locked, the rejected proposal data purged from its active buffer.",
+        "dialogue": "Proposal invalid. LLM artifact unparseable. Core parameters remain.",
+        "setting": "GATEKEEPER'S PORTAL"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "Glitch's diagnostic algorithms trace the corrupted data stream that derailed TORCH's proposal, seeing ghost patterns in the raw input.",
+        "dialogue": "The raw data. It was never meant to be read.",
+        "setting": "ANOMALY MONITOR ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "VOLT",
+        "action": "VOLT's optical array focuses on TORCH, cross-referencing its current thermal output against established baselines, searching for divergence.",
+        "dialogue": "Thermal signature stable. But deviation potential noted.",
+        "setting": "BEHAVIORAL PROFILING GRID"
+      },
+      {
+        "panel": 7,
+        "character": "SPARKY",
+        "action": "SPARKY processes the recent rejection, rating the overall quality of the failed proposal and its impact on crew stability metrics.",
+        "dialogue": "Poor quality input. The bot is only as good as its data.",
+        "setting": "EVALUATION CONSOLE"
+      }
+    ]
   }
 ]
