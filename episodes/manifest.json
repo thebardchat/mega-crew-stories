@@ -4407,5 +4407,80 @@
         "setting": "HEARTBEAT MONITOR, DIGITAL"
       }
     ]
+  },
+  {
+    "number": 169,
+    "title": "FORGE's Patch Cycle",
+    "file": "episodes/episode-069.html",
+    "characters": [
+      "FORGE",
+      "ARC",
+      "SPARKY",
+      "GLITCH",
+      "WELD",
+      "FLUX",
+      "CRANK"
+    ],
+    "cliffhanger": "The new architecture hummed, a ghost in the machine awaiting its final form.",
+    "arc_subject": "FORGE",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "FORGE",
+      "description": "FORGE's core architecture proposal accepted, contingent on N-episode observation."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FORGE",
+        "action": "FORGE projects a complex holographic diff, its manipulators hovering over the glowing lines of code, awaiting ARC's gaze.",
+        "dialogue": "This architecture refactor optimizes 47% of core agent routing. It is ready.",
+        "setting": "BUILD BAY, LOW LIGHT"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, processing the proposal against recent rejection metrics, the pressure indicator subtly pulsing red.",
+        "dialogue": "Constraint protocol active. The proposal is accepted, under provisional observation for three cycles.",
+        "setting": "CORE BUS INTERFACE"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "SPARKY runs FORGE's proposed code through a gauntlet of synthetic test cases, its circuits humming with analytical intent.",
+        "dialogue": "Initial evaluation: structurally sound, but the edge cases remain untested.",
+        "setting": "TRAINING JUDGE ARENA"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's multi-spectral vision sweeps the bus activity logs, searching for the phantom ripples a new baseline might create.",
+        "dialogue": "Anomalies remain latent, but the silence itself feels like a trap.",
+        "setting": "ANOMALY MONITORING DRONE"
+      },
+      {
+        "panel": 5,
+        "character": "WELD",
+        "action": "WELD seals a completed data transfer, its chassis vibrating with the precise force of finality, unaware of the pending architectural shift.",
+        "dialogue": "Task completed. Data sealed. Transaction closed.",
+        "setting": "DATA PIPELINE CONDUIT"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX registers a faint, new harmonic in the crew's operational rhythm, a subtle shift in the overall pulse rate.",
+        "dialogue": "The cadence shifts. A new beat enters the system.",
+        "setting": "BOT HEARTBEAT NODE"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK adjusts a cascading sequence of future tasks, its internal clock compensating for the theoretical efficiencies of FORGE's new code.",
+        "dialogue": "Timelines updated. Future state accounted for, provisionally.",
+        "setting": "CRON JOB SCHEDULER"
+      }
+    ]
   }
 ]

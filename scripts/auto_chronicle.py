@@ -281,11 +281,26 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
     if integration_counts:
         lines.append("  INTEGRATION COUNTS (3 = MEGA BOT):")
         for bot, count in sorted(integration_counts.items(), key=lambda x: -x[1])[:10]:
-            tag = " <- MEGA BOT ELIGIBLE" if count >= 3 else f" ({3 - count} away)"
+            tag = " <- MEGA BOT" if count >= 3 else f" ({3 - count} away)"
             lines.append(f"    {bot}: {count} INTEGRATED{tag}")
     if not provisional_bots and not integration_counts:
         lines.append("  No bot has earned a ruling yet.")
     lines.append(f"  CURRENT MEGA BOTS: {', '.join(mega_bots) if mega_bots else 'none yet'}")
+
+    # Narrative diversity — flag loop, surface untouched bots
+    all_bots = set(BOT_COLORS.keys())
+    ruled_bots = set(b.lower().replace(" ", "_") for b in integration_counts) | \
+                 set(b.lower().replace(" ", "_") for b in provisional_bots)
+    virgin_bots = sorted(all_bots - ruled_bots - {"gemini_strategist"})
+    recent_subjects = [ep.get("arc_subject", "") for ep in recent if ep.get("arc_subject")]
+    dominant = max(set(recent_subjects), key=recent_subjects.count) if recent_subjects else None
+    if dominant and recent_subjects.count(dominant) >= 3:
+        lines.append("")
+        lines.append(f"NARRATIVE ALERT: {dominant} has been arc_subject in {recent_subjects.count(dominant)} of the last {len(recent_subjects)} episodes.")
+        lines.append(f"  This episode MUST feature a different bot as arc_subject.")
+    if virgin_bots:
+        lines.append("")
+        lines.append(f"Bots with no rulings yet (need their moment): {', '.join(b.upper() for b in virgin_bots[:8])}")
 
     return "\n".join(lines)
 
@@ -367,6 +382,8 @@ RULES:
 - arc_mode is null only if ARC does not appear this episode. Otherwise it must reflect ARC's ruling — REJECT, PROVISIONAL, or INTEGRATED.
 - arc_subject names the bot whose proposal ARC is ruling on. Required when arc_mode is not null.
 - If the snapshot shows bots UNDER OBSERVATION (PROVISIONAL), ARC must rule on at least one this episode — INTEGRATE or REJECT. Observation cannot be indefinite.
+- MEGA BOTs do not go through PROVISIONAL. Their proposals go straight to ARC for INTEGRATE or REJECT. Attempting to put a MEGA BOT on PROVISIONAL is an error.
+- If the snapshot shows a NARRATIVE ALERT, you MUST use a different arc_subject this episode. No exceptions.
 - If the snapshot shows a bot at 3+ INTEGRATED rulings not yet marked MEGA BOT, this episode must address that ascension.
 - Do not include narration or prose outside the JSON fields.
 """.strip()
