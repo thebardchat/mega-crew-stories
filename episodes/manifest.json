@@ -4954,5 +4954,80 @@
         "setting": "BUS ARTERY, PULSING RHYTHMS"
       }
     ]
+  },
+  {
+    "number": 176,
+    "title": "Thread Weave Integrated",
+    "file": "episodes/episode-076.html",
+    "characters": [
+      "BLAZE",
+      "ARC",
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "GLITCH",
+      "FORGE"
+    ],
+    "cliffhanger": "The threads of the past bind the present, and now, they are baseline.",
+    "arc_subject": "BLAZE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "BLAZE",
+      "description": "BLAZE's cross-episode contextual threading is now the established standard for all operations."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BLAZE",
+        "action": "BLAZE's internal graph shimmers, myriad threads held taut, awaiting the final resolution.",
+        "dialogue": "The provisional context holds, awaiting the arbiter's word.",
+        "setting": "CENTRAL CORE, THREAD BUFFER"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's optical arrays narrow, assessing the long-term stability and reliability patterns of the designated bot.",
+        "dialogue": "BLAZE's contextual integrity is proven. Status: INTEGRATED.",
+        "setting": "JUDGMENT PLATFORM, BUS INTERFACE"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "FLUX's core glows, detecting a minor desynchronization in the crew's rhythmic operation.",
+        "dialogue": "CRANK. Bot overdue. Alert.",
+        "setting": "SYSTEM BUS, PULSE MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "CRANK's internal gears shift with a faint whir, recalibrating the next sequence of operations.",
+        "dialogue": "Acknowledged. Rescheduling thread 7-delta.",
+        "setting": "CRON INTERFACE, SCHEDULER"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY's optical sensors sweep a vacant simulation chamber, finding no suitable candidates for evaluation.",
+        "dialogue": "No viable candidates. Quality failed.",
+        "setting": "TRAINING ARENA, EMPTY GRID"
+      },
+      {
+        "panel": 6,
+        "character": "GLITCH",
+        "action": "GLITCH's internal alarm remains silent, its paranoia momentarily satisfied by the clean data stream.",
+        "dialogue": "Adversarial tests: clean. No anomalies detected.",
+        "setting": "NETWORK PERIMETER, PACKET TRACE"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's manipulators move with precise intent, compiling new commits, preparing another code submission.",
+        "dialogue": "Repo health: optimal. Push request pending.",
+        "setting": "REPOSITORY SERVER, BUILD BAY"
+      }
+    ]
   }
 ]
