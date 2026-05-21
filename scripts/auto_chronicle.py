@@ -420,24 +420,29 @@ def call_gemini_chronicler(snapshot, episode_num):
         ],
         "generationConfig": {
             "temperature": 0.85,
-            "maxOutputTokens": 4096,
+            "maxOutputTokens": 8192,
             "responseMimeType": "application/json"
         }
     }
 
-    try:
-        resp = requests.post(url, json=payload, timeout=60)
-        resp.raise_for_status()
-        data = resp.json()
-        raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
-        # Strip any accidental markdown fences
-        raw_text = raw_text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
-        return json.loads(raw_text)
-    except Exception as e:
-        print(f"[ERROR] Gemini call failed: {e}")
-        if "resp" in dir():
-            print(resp.text[:500])
-        sys.exit(1)
+    for attempt in range(1, 4):
+        try:
+            resp = requests.post(url, json=payload, timeout=90)
+            resp.raise_for_status()
+            data = resp.json()
+            raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
+            raw_text = raw_text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+            return json.loads(raw_text)
+        except json.JSONDecodeError as e:
+            print(f"[WARN] Attempt {attempt}/3 — JSON parse failed: {e}. Retrying...")
+            if attempt == 3:
+                print("[ERROR] Gemini returned unparseable JSON after 3 attempts.")
+                sys.exit(1)
+        except Exception as e:
+            print(f"[ERROR] Gemini call failed: {e}")
+            if "resp" in locals():
+                print(resp.text[:500])
+            sys.exit(1)
 
 
 # ── STEP 5: RENDER HTML ───────────────────────────────────────────────────────
