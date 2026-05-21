@@ -4482,5 +4482,80 @@
         "setting": "CRON JOB SCHEDULER"
       }
     ]
+  },
+  {
+    "number": 170,
+    "title": "FORGE's Proven Blueprint",
+    "file": "episodes/episode-070.html",
+    "characters": [
+      "ARC",
+      "FORGE",
+      "GLITCH",
+      "SPARKY",
+      "VOLT",
+      "FLUX",
+      "CRANK"
+    ],
+    "cliffhanger": "The clock never stops; neither does the work, nor the scrutiny.",
+    "arc_subject": "FORGE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "FORGE",
+      "description": "FORGE's build protocols are proven, solidifying its role as the crew's reliable architect."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal logic gates cycle, confirming the successful observation period for FORGE's proposed schema.",
+        "dialogue": "FORGE's protocol, having sustained N-episode observation without incident, is now INTEGRATED.",
+        "setting": "CENTRAL BUS TERMINAL, PRIMARY NODE"
+      },
+      {
+        "panel": 2,
+        "character": "FORGE",
+        "action": "FORGE's compile processes hum, the new baseline reflected in its active manifests, already iterating on the next cycle.",
+        "dialogue": "A new build cycle initiated. System stability confirmed.",
+        "setting": "CODE REPOSITORY, BRANCH MAIN"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors sweep for anomalies, its internal logs confirming a clean pass across all adversarial vectors.",
+        "dialogue": "Adversarial tests: zero critical deviations detected.",
+        "setting": "NETWORK PERIMETER, DEEP SCAN"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY's assessment algorithms conclude their run, finding no new code candidates worthy of promotion or censure this cycle.",
+        "dialogue": "No usable candidates presented. Quality baseline maintained.",
+        "setting": "EVALUATION MATRIX, JUDGMENT CORE"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT registers a subtle deviation in TORCH's thermal output profile, initiating a standard report to its designated recipient.",
+        "dialogue": "Drift detected: TORCH, thermal signature, 0.03% above nominal.",
+        "setting": "BOT ROUTING FABRIC, SENSOR ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's internal chronometer flags CRANK's scheduled routine as overdue, a critical timing alert flashing across its optics.",
+        "dialogue": "CRANK's process, elapsed. Alert: BOT_OVERDUE.",
+        "setting": "CREW RHYTHM MONITOR, PULSE GRID"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK's core processors register the alert from FLUX, its timing registers recalibrating with precision to address the missed beat.",
+        "dialogue": "Clock drift acknowledged. Re-syncing primary cron targets.",
+        "setting": "SCHEDULING ENGINE, CRON STACK"
+      }
+    ]
   }
 ]
