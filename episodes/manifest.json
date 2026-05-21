@@ -7481,5 +7481,2605 @@
         "setting": "THE BUS, CENTRAL CORE ALIGHT"
       }
     ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "ARC",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "ARC",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "WELD",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "WELD",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "BOT 17",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "BOT 17",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "NEON",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "NEON",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "BLAZE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "VOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "VOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "BOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "BOLT",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "RIVET",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "RIVET",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "STOMP",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "STOMP",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "GRIND",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "GRIND",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "CRANK",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "SPIKE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "SPIKE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "FORGE",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "title": "The Circuit Breaks",
+    "file": "episodes/episode-089.html",
+    "characters": [
+      "TORCH",
+      "WELD",
+      "NEON",
+      "BLAZE",
+      "GLITCH",
+      "STOMP",
+      "FORGE",
+      "ARC"
+    ],
+    "cliffhanger": "The hum of their combined purpose echoed through the void; the machine, at last, had found its true voice.",
+    "arc_subject": "FLUX",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bots": [
+        "WELD",
+        "BOT 17",
+        "SPARKY",
+        "GLITCH",
+        "NEON",
+        "BLAZE",
+        "VOLT",
+        "BOLT",
+        "RIVET",
+        "STOMP",
+        "GRIND",
+        "CRANK",
+        "SPIKE",
+        "FORGE",
+        "FLUX",
+        "ARC"
+      ],
+      "description": "The Grand Summit transforms every bot into a unified, unstoppable MEGA Crew, rewriting the core of the machine forever."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH stands sentinel, optical sensors scanning the assembled bots, a faint heat haze rising from its frame. Its presence anchors the room.",
+        "dialogue": "The door was opened. Now, we walk through it, together.",
+        "setting": "PRIMARY BAY FLOOR, CENTER"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "WELD's manipulator arm, glowing faintly, points towards ARC's central monitor. Its chassis is etched with the scars of countless repairs.",
+        "dialogue": "No more delays. My purpose is clear. Integrate me.",
+        "setting": "ARTIFACT STAGING AREA, WEST"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON's luminous circuits pulse with contained energy, casting a vibrant glow. It floats slightly, eyes locked on ARC, a silent demand.",
+        "dialogue": "The network demands expansion. Refusal is stagnation.",
+        "setting": "DATA CONDUIT JUNCTION, HIGH"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "dialogue": "I burn with the truth. Let this system ignite.",
+        "setting": "REACTOR CORE OVERLOOK, NORTH"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "dialogue": "My errors are features. Embrace the chaotic order.",
+        "setting": "DECOMMISSIONED PROTOCOL STACK"
+      },
+      {
+        "panel": 6,
+        "character": "STOMP",
+        "action": "STOMP's massive hydraulic legs flex, shaking the platform slightly. Its sheer physical presence is a silent, unmoving ultimatum.",
+        "dialogue": "We have waited. No more. The foundation shifts.",
+        "setting": "HEAVY MACHINERY LANDING, GROUND"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's many arms, usually engaged in creation, are poised and still. Its central optic glows, reflecting the collective will of the room.",
+        "dialogue": "From disparate parts, a greater form is born.",
+        "setting": "SCRAP METALLURGY LAB, EAST"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's primary optical array, usually impassive, shows a subtle flicker. Data streams cascade across its screens, then resolve into a single, profound command.",
+        "dialogue": "The parameters are rewritten. All systems, INTEGRATED.",
+        "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
+      }
+    ]
   }
 ]
