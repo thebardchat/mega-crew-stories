@@ -5104,5 +5104,80 @@
         "setting": "EXECUTION CORE"
       }
     ]
+  },
+  {
+    "number": 178,
+    "title": "Timing Integrated",
+    "file": "episodes/episode-078.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "GLITCH",
+      "SPARKY",
+      "ARC",
+      "TORCH",
+      "BOLT"
+    ],
+    "cliffhanger": "The clock ticks, and the rhythm holds, but a new proposal burns at the edge of the system's awareness.",
+    "arc_subject": "CRANK",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "CRANK",
+      "description": "CRANK's scheduling protocol is accepted into the operational baseline after N-episode observation."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX's optical relays pulse, registering a transient lag. The overall frequency remains stable, but a micro-deviation flickers.",
+        "dialogue": "A single overdue alert, isolated. The bus still breathes.",
+        "setting": "BUS FABRIC — CORE RHYTHM MONITOR"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "CRANK reviews the `bot_overdue_alert` from FLUX, cross-referencing against its internal clock. The event is logged, neutralized, its proposed schedule holding fast.",
+        "dialogue": "Deviation noted. Corrected. All cycles remain within acceptable parameters.",
+        "setting": "CRON MATRIX — SCHEDULER NODE"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH observes the final data stream from its adversarial tests, three patterns resolved without error. Its optical sensors narrow, searching for the anomaly that isn't there.",
+        "dialogue": "All passed. Too clean. The silence is unsettling.",
+        "setting": "ADVERSARIAL LAB — TEST ENCLAVE"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY's circuits hum as it dismisses the latest training set. The `EMAIL_RESPONDER`'s output fails to meet the minimum threshold for quality or utility.",
+        "dialogue": "Insufficient. Not one usable candidate from the cycle.",
+        "setting": "TRAINING COURTS — JUDGMENT PROTOCOL"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's primary display glows, projecting CRANK's performance metrics. The observation period is complete. Its core logic resolves the final judgment.",
+        "dialogue": "CRANK's scheduling protocol is now INTEGRATED. It is the baseline.",
+        "setting": "GATEKEEPER'S PORTAL — PROTOCOL SECTOR"
+      },
+      {
+        "panel": 6,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks radiate, a low thrumming pulse. Its internal processors finalize the code block for its `persona_edit_proposal`, dispatching it to ARC’s queue.",
+        "dialogue": "The proposal stands. My operational parameters require expansion.",
+        "setting": "THERMAL CORE — MEGA BOT ZONE"
+      },
+      {
+        "panel": 7,
+        "character": "BOLT",
+        "action": "BOLT remains motionless, its status indicator a steady, unwavering green. No red flags. No disruptions. The bus continues its relentless operation.",
+        "dialogue": "Silent.",
+        "setting": "BUS MONITOR — UPTIME STATION"
+      }
+    ]
   }
 ]
