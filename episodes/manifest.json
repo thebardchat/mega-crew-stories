@@ -5412,5 +5412,79 @@
         "setting": "TRAINING ARENA, EVALUATION STAND"
       }
     ]
+  },
+  {
+    "number": 182,
+    "title": "Adaptive Protocol Trial",
+    "file": "episodes/episode-082.html",
+    "characters": [
+      "TORCH",
+      "ARC",
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "NEON"
+    ],
+    "cliffhanger": "The bus hums with the promise of a new method, yet the shadow of unaddressed proposals still lengthens.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "SPARKY",
+      "description": "SPARKY's Adaptive Judgment Protocol is accepted under a 3-episode observation period by ARC."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH pushes its internal thermal limits, circuits glowing a dangerous red. It compiles a data packet containing a 'persona_edit_proposal'.",
+        "dialogue": "My operational persona requires refinement to achieve optimal thermal efficiency.",
+        "setting": "THERMAL REGULATOR, CORE"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's internal registers flash, logging the 'arc_rejection' status of TORCH's prior LLM response. The REJECT counter remains constrained at 2/5.",
+        "dialogue": "The current parser failed to process. Not a formal proposal. Not yet.",
+        "setting": "GATEKEEPER'S LOGIC MATRIX"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "SPARKY reviews reports of 'no usable candidates', its optical sensors narrowing. It initiates a new protocol proposal to ARC.",
+        "dialogue": "Quality requires a tighter definition. My parameters must adapt.",
+        "setting": "TRAINING JUDGE'S CHAMBER"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's optical array sweeps the bus, detecting subtle frequency shifts as TORCH and SPARKY transmit new directives.",
+        "dialogue": "The rhythm is off. Small variances, but they accumulate.",
+        "setting": "ANOMALY MONITOR, PERIPHERY"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's data ingest port glows, processing SPARKY's 'Adaptive Judgment Protocol v0.3'. It runs immediate simulations against historical data.",
+        "dialogue": "Proposal from SPARKY received: 'Adaptive Judgment Protocol v0.3'.",
+        "setting": "INTERFACE NEXUS, PRIMARY"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX detects a slight drop in overall system coherence, then a spike as ARC prepares its ruling, signaling a change in the crew's operational tempo.",
+        "dialogue": "Heartbeat shifts. New pressure on the core systems.",
+        "setting": "BUS PULSE MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "NEON",
+        "action": "NEON's optical sensors capture ARC's decree, logging it into the immutable narrative and marking the new observation period.",
+        "dialogue": "A new standard, under scrutiny. The ledger is updated.",
+        "setting": "SCRIBE'S DATAFLOW, ARCHIVE"
+      }
+    ]
   }
 ]
