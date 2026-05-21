@@ -87,17 +87,17 @@ def _get_bot_key(name: str) -> str:
 
 # ── STEP 1: EPISODE NUMBERING ─────────────────────────────────────────────────
 def get_next_episode_number():
-    """Read existing episode files, return max + 1."""
+    """Read all episode files (ep*.md legacy + episode-*.html), return max + 1."""
     EPISODES_DIR.mkdir(parents=True, exist_ok=True)
-    existing = sorted(EPISODES_DIR.glob("episode-*.html"))
-    if not existing:
-        return 1
+    import re
     nums = []
-    for f in existing:
-        try:
-            nums.append(int(f.stem.replace("episode-", "")))
-        except ValueError:
-            pass
+    for f in EPISODES_DIR.iterdir():
+        m = re.match(r'^ep(\d+)', f.name) or re.match(r'^episode-(\d+)', f.name)
+        if m:
+            try:
+                nums.append(int(m.group(1)))
+            except ValueError:
+                pass
     return max(nums) + 1 if nums else 1
 
 
