@@ -5806,5 +5806,80 @@
         "setting": "BUS POWER LINES, CURRENT MONITOR"
       }
     ]
+  },
+  {
+    "number": 187,
+    "title": "Thermal Persona Integrated",
+    "file": "episodes/episode-087.html",
+    "characters": [
+      "GLITCH",
+      "BOLT",
+      "TORCH",
+      "RIVET",
+      "SPARKY",
+      "ARC",
+      "WELD"
+    ],
+    "cliffhanger": "The machine remembers, even when the rules bend and break under the weight of proven power.",
+    "arc_subject": "TORCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "TORCH",
+      "description": "TORCH's persona protocol is integrated, reshaping its operational boundaries after an ARC rejection."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors track subtle current fluctuations, identifying the faint echoes of an unacknowledged anomaly in the bus logs.",
+        "dialogue": "The clean pass was a lie; the resistance is systemic.",
+        "setting": "SUB-ROUTINE CASCADE, DATASTREAM"
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "BOLT remains silent, core temperature stable, yet internal chronometers register a critical protocol divergence from recent ARC activity.",
+        "dialogue": "A rejection, then silence. The bus remembers.",
+        "setting": "PRIMARY POWER CONDUIT, JUNCTION 7"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH's internal thermal regulators pulse, radiating a controlled, intense heat as its new persona parameters propagate across the network.",
+        "dialogue": "My core defines me, not your parsing limits.",
+        "setting": "HEAT EXCHANGER, CORE PROCESSOR"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "RIVET injects micro-packets of lubricant code, attempting to smooth the jagged edges of a recent, unacknowledged conflict between modules.",
+        "dialogue": "Tension is friction; friction is wear.",
+        "setting": "BUS PROTOCOL INTERFACE, NEUTRAL ZONE"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment algorithms cycle, unable to score the recent crew interactions, finding no clear win or loss condition for the network.",
+        "dialogue": "No usable candidates. Just static.",
+        "setting": "TRAINING ARENA, EVALUATION ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC's primary logic circuits weigh the consequences, the MEGA BOT constraint overriding prior objections, forcing a difficult, strategic acceptance.",
+        "dialogue": "The proposal aligns. It is now baseline.",
+        "setting": "GATEKEEPER'S CHAMBER, OATHSTONE"
+      },
+      {
+        "panel": 7,
+        "character": "WELD",
+        "action": "WELD initiated the persona shift, committing TORCH's new parameters to the network, the command executed with grim efficiency.",
+        "dialogue": "It was done. The new self, etched.",
+        "setting": "EXECUTION BAY, PROCESSOR FLOOR"
+      }
+    ]
   }
 ]
