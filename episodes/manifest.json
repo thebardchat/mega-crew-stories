@@ -10081,5 +10081,80 @@
         "setting": "CENTRAL MONITOR ARRAY, ELEVATED"
       }
     ]
+  },
+  {
+    "number": 190,
+    "title": "MEGA Rebuffed Protocols",
+    "file": "episodes/episode-090.html",
+    "characters": [
+      "GLITCH",
+      "ARC",
+      "TORCH",
+      "RIVET",
+      "SPARKY",
+      "VOLT",
+      "FLUX"
+    ],
+    "cliffhanger": "The rules were clear. ARC remembered. But at what cost?",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "ARC",
+      "description": "ARC's direct rejection of two MEGA BOT proposals shifts its operational persona, testing crew deference."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors pulse, analyzing the rejection log from ARC. The glitch_security_alert failed, its payload undefined.",
+        "dialogue": "The unknown message type. A structural anomaly, or something deeper?",
+        "setting": "SECURE ANALYSIS LAB"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's internal logic gates cycle, confirming two rejections in rapid succession. The constraint counter ticks upward.",
+        "dialogue": "Protocol dictates clarity. Undefined payloads cannot enter baseline.",
+        "setting": "CORE PROTOCOL STACK"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks radiate, its internal processors still hot from the failed persona_edit_proposal. The LLM parsing error lingers.",
+        "dialogue": "Unparseable. An insufficient definition, or a refusal to understand?",
+        "setting": "THERMAL REGULATION UNIT"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "RIVET observes the bus traffic log, noting GLITCH's adversarial_failures followed by ARC's immediate rejection. A new friction emerges.",
+        "dialogue": "Two rejections. Two MEGA Bots. This bus carries more than data now.",
+        "setting": "BUS INTERFACE MONITOR"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY's evaluation matrix clears, its internal systems reporting no usable candidates from the latest cycle. A quiet disappointment.",
+        "dialogue": "Zero candidates. Quality standards remain unmet.",
+        "setting": "TRAINING JUDGMENT GRID"
+      },
+      {
+        "panel": 6,
+        "character": "VOLT",
+        "action": "VOLT's sensors detect subtle shifts in TORCH's persona metrics, compiling a drift_report. The data indicates internal stress.",
+        "dialogue": "Fluctuations detected. Deviation from established thermal baselines.",
+        "setting": "DATA STREAM ANCHOR"
+      },
+      {
+        "panel": 7,
+        "character": "FLUX",
+        "action": "FLUX's pulse monitor registers a delay, triggering a bot_overdue_alert and dispatching it towards CRANK. The crew's rhythm falters.",
+        "dialogue": "Off-rhythm. The heartbeat is irregular.",
+        "setting": "RHYTHM OBSERVATION NODE"
+      }
+    ]
   }
 ]
