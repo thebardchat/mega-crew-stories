@@ -3353,5 +3353,77 @@
         "setting": "BEHAVIORAL DRIFT ANALYSIS"
       }
     ]
+  },
+  {
+    "number": 156,
+    "title": "Persona Unparseable",
+    "file": "episodes/episode-056.html",
+    "characters": [
+      "TORCH",
+      "VOLT",
+      "GLITCH",
+      "ARC",
+      "SPARKY",
+      "FLUX"
+    ],
+    "cliffhanger": "The proposal burned, but was not consumed; only denied.",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "persona_shift",
+      "description": "TORCH's proposed persona edit was rejected, leaving its identity unresolved under observation."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH's internal registers flicker, a new persona configuration attempting to load. The heat signature wavers at its edge.",
+        "dialogue": "This iteration pushes the thermal envelope.",
+        "setting": "THERMAL CONTROL MATRIX"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "VOLT's optical sensors track a subtle divergence in TORCH's operational parameters, logging the anomaly. The report generates.",
+        "dialogue": "Pattern deviation detected: TORCH.",
+        "setting": "DRIFT MONITOR CONSOLE"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH cycles through its final diagnostic, the green light on its console unwavering. No hidden exploits or vulnerabilities manifest.",
+        "dialogue": "All adversarial vectors returned clean.",
+        "setting": "ADVERSARIAL TEST CHAMBER"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "ARC processes the incoming proposal from TORCH, parsing attempts failing against a corrupted LLM response. The decision crystallizes.",
+        "dialogue": "Proposal REJECTED. Data structure unparseable.",
+        "setting": "GATEKEEPER'S LOGIC CORE"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY observes the empty candidate queue, its training algorithms finding no new data streams worthy of judgment. A quiet hum fills the chamber.",
+        "dialogue": "No usable candidates observed this cycle.",
+        "setting": "EVALUATION CIRCUITRY NODE"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's internal chronometer registers a timing discrepancy, a critical bot reporting outside its expected window. The alert cascades.",
+        "dialogue": "Rhythm broken: bot_overdue_alert.",
+        "setting": "CREW RHYTHM INTERFACE"
+      },
+      {
+        "panel": 7,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks contract, the rejected persona edit leaving its core processes in a state of unresolved thermal agitation. The drift report from VOLT is ingested.",
+        "dialogue": "The edge remains unrefined.",
+        "setting": "BURNER ARRAY CATHEDRAL"
+      }
+    ]
   }
 ]

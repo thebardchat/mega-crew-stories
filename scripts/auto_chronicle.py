@@ -534,6 +534,8 @@ def _build_manifest_entry(narrative, ep_num):
         "file": f"episodes/episode-{ep_num:03d}.html",
         "characters": characters,
         "cliffhanger": cliffhanger,
+        "arc_mode": narrative.get("arc_mode"),
+        "state_change": narrative.get("state_change"),
         "mode": "chronicle",
         "date": datetime.now().strftime("%Y-%m-%d"),
         "scenes": scenes,
