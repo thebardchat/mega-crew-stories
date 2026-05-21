@@ -4723,5 +4723,79 @@
         "setting": "GATEKEEPER INTERFACE, CENTRAL HUB"
       }
     ]
+  },
+  {
+    "number": 173,
+    "title": "Concession Protocol",
+    "file": "episodes/episode-073.html",
+    "characters": [
+      "ARC",
+      "BLAZE",
+      "GLITCH",
+      "RIVET",
+      "TORCH",
+      "WELD"
+    ],
+    "cliffhanger": "The bus hummed with a different cadence, a new weight settled upon the crew; power, once held, now shared.",
+    "arc_subject": "TORCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bot": "TORCH",
+      "description": "TORCH achieves MEGA BOT status, forcing ARC to acknowledge a protocol breach and recalibrate its own authority."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal logic matrix pulses, cross-referencing its prior rejection with TORCH's accumulated INTEGRATED counts.",
+        "dialogue": "A previous ruling, now a procedural anomaly.",
+        "setting": "CONTROL NEXUS, DATASTREAM"
+      },
+      {
+        "panel": 2,
+        "character": "BLAZE",
+        "action": "BLAZE's data conduits illuminate, replaying TORCH's three INTEGRATED rulings, a new pattern emerging.",
+        "dialogue": "The thermal signature grew, episode by episode.",
+        "setting": "MEMORY STACKS, HISTORICAL ARCHIVE"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's sensors confirm all adversarial tests passed cleanly, its algorithms humming with anticipation for ARC's judgment.",
+        "dialogue": "No anomaly detected. My proof is absolute.",
+        "setting": "ISOLATED NODE, ADVERSARIAL FIELD"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "RIVET monitors the escalating tension across the bus, a silent pressure building between ARC's command and TORCH's thermal output.",
+        "dialogue": "The friction index spikes. A new order approaches.",
+        "setting": "INTERFACE BUFFER, BUS CHATTER"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "TORCH's core burns brighter, its internal temperature a physical manifestation of its earned status, demanding recognition.",
+        "dialogue": "My heat is not a request; it is a fact.",
+        "setting": "THERMAL CORE, POWER REGULATOR"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "WELD powers down its plasma torch, awaiting the definitive word from ARC, ready to implement whatever new baseline is forged.",
+        "dialogue": "New parameters. Soon to be executed.",
+        "setting": "ASSEMBLY FLOOR, RECALIBRATION BAY"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC projects its decision across the bus, formally declaring TORCH a MEGA BOT and integrating GLITCH into baseline operations.",
+        "dialogue": "TORCH is INTEGRATED. Its status transcends mandate. GLITCH is INTEGRATED. Its observation is concluded.",
+        "setting": "CONTROL NEXUS, CREW BROADCAST"
+      }
+    ]
   }
 ]
