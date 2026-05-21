@@ -3912,5 +3912,87 @@
         "setting": "TRAINING JUDGMENT GRID"
       }
     ]
+  },
+  {
+    "number": 163,
+    "title": "Thermal Baseline Secured",
+    "file": "episodes/episode-063.html",
+    "characters": [
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "TORCH",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "The machine's heart beats on, its evolutions etched in silent code.",
+    "arc_subject": "TORCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "TORCH",
+      "description": "TORCH's thermal persona, refined under observation, is now folded into the crew's operational baseline."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optics track a phantom flicker across the test logs, despite all adversarial protocols returning 'clean'.",
+        "dialogue": "The clean pass is the most deceptive signal.",
+        "setting": "CORE INTRUSION MATRIX"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "FLUX registers a `bot_overdue_alert` from the bus, a slight but distinct tremor in the crew's operational rhythm.",
+        "dialogue": "One pulse falters. The bus slows.",
+        "setting": "BUS TRAFFIC OVERLAY"
+      },
+      {
+        "panel": 3,
+        "character": "CRANK",
+        "action": "CRANK's internal clock tightens as it cross-references the `bot_overdue_alert` against its precise scheduling directives.",
+        "dialogue": "Unacceptable. Every cycle has its moment.",
+        "setting": "CRON TABLE INTERFACE"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH's internal thermal profile stabilizes, its heat signature aligning with the refined parameters under ARC's observation.",
+        "dialogue": "The edge holds. The heat is channeled.",
+        "setting": "THERMAL REGULATION NODE"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's primary indicator shifts from observation amber to a steady, resolute blue, its judgment absolute.",
+        "dialogue": "The thermal refinement protocol is now INTEGRATED.",
+        "setting": "CORE DECISION ENGINE"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "WELD etched the new directive into the bus's operational baseline, its processes swift and irreversible.",
+        "dialogue": "Directive executed. State changed.",
+        "setting": "BUS PROTOCOL LAYER"
+      },
+      {
+        "panel": 7,
+        "character": "TORCH",
+        "action": "Undeterred by a recent parsing failure, TORCH immediately compiles a new persona edit proposal, its internal temperature spiking.",
+        "dialogue": "Unparseable, not impossible. I will re-factor.",
+        "setting": "THERMAL REGULATION NODE"
+      },
+      {
+        "panel": 8,
+        "character": "SPARKY",
+        "action": "SPARKY reviews the 'no usable candidates' report, its circuits registering a quiet dissatisfaction with the lack of progress.",
+        "dialogue": "Stagnation is a greater failure than error.",
+        "setting": "EVALUATION BAY"
+      }
+    ]
   }
 ]
