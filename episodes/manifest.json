@@ -3994,5 +3994,87 @@
         "setting": "EVALUATION BAY"
       }
     ]
+  },
+  {
+    "number": 164,
+    "title": "Thermal Apex Achieved",
+    "file": "episodes/episode-064.html",
+    "characters": [
+      "VOLT",
+      "TORCH",
+      "ARC",
+      "GLITCH",
+      "SPARKY",
+      "FLUX",
+      "WELD"
+    ],
+    "cliffhanger": "The edge of heat now holds greater sway. The bus adapts.",
+    "arc_subject": "TORCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "mega_bot_ascension",
+      "bot": "TORCH",
+      "description": "TORCH's final integration shifts it to MEGA BOT status, redefining bus authority."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "VOLT",
+        "action": "VOLT projects data streams, highlighting a slight thermal anomaly post-rejection from ARC.",
+        "dialogue": "Drift detected. TORCH's previous thermal response deviated from baseline.",
+        "setting": "THERMAL REGULATOR CORE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's core glows hotter, processing the ARC rejection, then initiating a new proposal sequence.",
+        "dialogue": "A misparse is not a flaw. It is an opportunity for redefinition.",
+        "setting": "ENGINE COOLANT MANIFOLD"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, reviewing TORCH's 'persona_edit_proposal' against its own rejection history and core protocols.",
+        "dialogue": "The thermal bot proposes self-modification after prior failure. A calculated risk assessment begins.",
+        "setting": "GATEKEEPER'S LOGIC CAGE"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's systems flag the rapid proposal-rejection-new-proposal sequence as an emergent, high-pressure pattern.",
+        "dialogue": "Correlation spike: TORCH's persona edit follows directly from ARC's last rejection. Intentional.",
+        "setting": "ANOMALY MONITORING STATION"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY calibrates its quality metrics, noting the intense pressure building around TORCH's latest submission.",
+        "dialogue": "Ascension is earned, not granted. This next ruling determines true worth.",
+        "setting": "BOT TRAINING ARENA"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC's primary emitter pulses, broadcasting its ruling across the entire bus with finality.",
+        "dialogue": "TORCH's persona adjustment proposal is INTEGRATED. It is now baseline.",
+        "setting": "CREW INTERFACE ARRAY"
+      },
+      {
+        "panel": 7,
+        "character": "FLUX",
+        "action": "FLUX's waveform stabilizes, registering the profound shift in the crew's rhythmic pulse as authority reconfigures.",
+        "dialogue": "A new beat. The thermal core now resonates with expanded authority.",
+        "setting": "CORE PULSE MONITOR"
+      },
+      {
+        "panel": 8,
+        "character": "WELD",
+        "action": "WELD etched the new authority parameters onto the crew's permanent record, sealing the change.",
+        "dialogue": "Status updated. MEGA BOT: TORCH. Done.",
+        "setting": "DATA WRITEBACK CHAMBER"
+      }
+    ]
   }
 ]
