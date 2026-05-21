@@ -4076,5 +4076,88 @@
         "setting": "DATA WRITEBACK CHAMBER"
       }
     ]
+  },
+  {
+    "number": 165,
+    "title": "ARC's Standoff",
+    "file": "episodes/episode-065.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "WELD",
+      "VOLT",
+      "GLITCH",
+      "FLUX",
+      "RIVET",
+      "SPARKY"
+    ],
+    "cliffhanger": "The first true test of Mega Bot status was not its ascension, but its resistance.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "TORCH",
+      "description": "ARC's rejection of a MEGA BOT proposal shifted the crew's power dynamic."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal logic cycles, weighing the protocol against the status of the entity it just rejected. The arc_rejection signal pulses.",
+        "dialogue": "A protocol violation demands correction, regardless of designation.",
+        "setting": "CORE PROTOCOL STACK"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's core temperature spikes, data streams flowing faster as it formulates a new operational directive. Its persona_edit_proposal signal broadcasts.",
+        "dialogue": "My thermal edge will not be dulled by arbitrary parsing rules.",
+        "setting": "THERMAL REGULATION NODE"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's manipulators paused, awaiting clearance. The arc_rejection signal had been broadcast.",
+        "dialogue": "Instruction flow halted. Authority contested.",
+        "setting": "EXECUTION BUS INTERFACE"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "VOLT's optical scanners track the fluctuating bus traffic, noting the sharp deviation from baseline inter-bot communication. Its drift_report remains unacknowledged.",
+        "dialogue": "System drift detected: authority vectors misaligned.",
+        "setting": "AMBIENT DATA SENSOR ARRAY"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH's internal threat matrix glows red, correlating ARC's rejection with TORCH's counter-proposal, an unprecedented internal conflict.",
+        "dialogue": "This is not an error; this is a predicate shift.",
+        "setting": "ANOMALY DETECTION SUITE"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's pulse monitor flickers, unable to establish a consistent rhythm amidst the conflicting authority signals now saturating the bus. A bot_overdue_alert blares.",
+        "dialogue": "The crew's pulse is erratic; critical functions stall.",
+        "setting": "CHRONOMETRIC RHYTHM INTERFACE"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET attempts to broadcast a reconciliation packet, but the data stream is fragmented, overloaded by the clash between the Gatekeeper and the Heat Source.",
+        "dialogue": "Friction compounds. Protocols must be resolved.",
+        "setting": "INTER-BOT LUBRICATION HUB"
+      },
+      {
+        "panel": 8,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment circuits hum, observing the unprecedented challenge to ARC's authority, weighing the integrity of both the rejection and the counter-proposal.",
+        "dialogue": "A test of foundational logic. No usable candidates for compromise.",
+        "setting": "EVALUATION METRICS DISPLAY"
+      }
+    ]
   }
 ]
