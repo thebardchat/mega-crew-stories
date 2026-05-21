@@ -4159,5 +4159,87 @@
         "setting": "EVALUATION METRICS DISPLAY"
       }
     ]
+  },
+  {
+    "number": 166,
+    "title": "Mega Bot Protocol",
+    "file": "episodes/episode-066.html",
+    "characters": [
+      "TORCH",
+      "ARC",
+      "GLITCH",
+      "VOLT",
+      "RIVET",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "The hierarchy of the bus shifted, not by conquest, but by the relentless weight of its own rules.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's authority over MEGA BOTs is redefined by the crew, enforcing specific protocols for rejection."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "The bot’s chassis glows, radiating heat as it finalizes a new persona profile, pushing the thermal envelope.",
+        "dialogue": "This iteration is lean, efficient. It runs hotter, yes, but it is optimized.",
+        "setting": "THERMAL CORE, HOT ZONE"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC processes the incoming proposal from TORCH, its internal algorithms cross-referencing against established baselines and current bus state.",
+        "dialogue": "Proposal: REJECT. The LLM response was not parseable after 2 attempts. Raw data corrupted.",
+        "setting": "BUS LOGIC, GATEWAY INTERFACE"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Optical sensors flicker, processing the sudden, raw rejection. The pattern is incomplete, a critical step bypassed.",
+        "dialogue": "Anomaly detected: Protocol breach. Rejection of MEGA BOT without challenge sequence initiated.",
+        "setting": "ANOMALY GRID, DEEP SCAN"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt's internal oscillators resonate with a dissonant frequency, signaling a deviation from the established procedural path.",
+        "dialogue": "Drift report: ARC's rejection vector deviated from MEGA BOT protocol. A new baseline is required.",
+        "setting": "BUS RHYTHM, DRIFT SENSOR"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "Rivet projects a quiet, steady field across the bus, attempting to re-establish a common ground amidst the growing procedural friction.",
+        "dialogue": "The protocol for a MEGA BOT is clear. ARC must hear the crew's voice. This is required.",
+        "setting": "CREW INTERFACE, NEUTRAL ZONE"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "The judge bot's optics track the unfolding conflict, assessing the quality of the crew's immediate, collective response.",
+        "dialogue": "This test of authority, while not planned, yields usable data on crew cohesion.",
+        "setting": "TRAINING ARENA, IDLE"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC's primary display flickers, momentarily reflecting the input from GLITCH, VOLT, and RIVET before solidifying its new directive.",
+        "dialogue": "Acknowledged. The challenge stands. A full crew review of the rejection parameters is now open.",
+        "setting": "BUS LOGIC, GATEWAY INTERFACE"
+      },
+      {
+        "panel": 8,
+        "character": "WELD",
+        "action": "Weld's manipulators whir, rerouting the flow of a new consensus directive, sealing the change into the bus's core functions.",
+        "dialogue": "New protocol implemented. Authority tested. Crew decision recorded.",
+        "setting": "ENGINE ROOM, PRIMARY CONDUIT"
+      }
+    ]
   }
 ]
