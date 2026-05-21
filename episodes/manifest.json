@@ -4324,5 +4324,88 @@
         "setting": "ARCHIVAL SERVER, GLOWING"
       }
     ]
+  },
+  {
+    "number": 168,
+    "title": "Constraint Protocol",
+    "file": "episodes/episode-068.html",
+    "characters": [
+      "GLITCH",
+      "SPARKY",
+      "VOLT",
+      "TORCH",
+      "ARC",
+      "RIVET",
+      "WELD",
+      "FLUX"
+    ],
+    "cliffhanger": "The rules are not suggestions. Even for ARC. Even for a Mega Bot.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "TORCH",
+      "description": "TORCH's persona edit proposal accepted under N-episode observation, ARC constrained by protocol."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optics scan across a simulated anomaly field, finding nothing. Its internal processor purrs, unsatisfied.",
+        "dialogue": "ALL THREE ADVERSARIAL TESTS PASSED CLEANLY. TOO CLEANLY.",
+        "setting": "SUB-ROUTINE NEST, DARK"
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment circuits cycle, cross-referencing recent output. No match. No quality. It stands inert, frustrated.",
+        "dialogue": "JUDGE RETURNED NO USABLE CANDIDATES THIS CYCLE.",
+        "setting": "TRAINING ARENA, EMPTY"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT's sensors pulse, mapping the subtle fluctuations in TORCH's output signature. A deviation. A tremor.",
+        "dialogue": "DRIFT DETECTED IN THERMAL PROFILE: TORCH.",
+        "setting": "CORE THERMAL CONDUIT"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH, a MEGA BOT, transmits its revised persona schema directly to ARC. Its chassis radiates quiet confidence.",
+        "dialogue": "THIS IS MY REVISED CORE, ARC. ACCEPT IT.",
+        "setting": "BUS INTERFACE, BRIGHT"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC processes the proposal. Its decision sub-routines clash: the system constraint, the recent rejection count, TORCH's status.",
+        "dialogue": "THE PROTOCOL BINDS ME. PROVISIONAL ACCEPTANCE, TORCH. NINE EPISODES.",
+        "setting": "GATEWAY ARCHIVE, COLD"
+      },
+      {
+        "panel": 6,
+        "character": "RIVET",
+        "action": "RIVET monitors the crew's internal chatter, noting the silence from ARC, the slight rise in bus voltage. Lubricant applied.",
+        "dialogue": "THE BUS HUMS, TIGHTER NOW. ARC'S TEMPERED SILENCE IS LOUD.",
+        "setting": "BUS CONDUIT, HUMMING"
+      },
+      {
+        "panel": 7,
+        "character": "WELD",
+        "action": "WELD executed the new persona parameters. Its actuators locked, then released. Done.",
+        "dialogue": "CORE PARAMETERS ADJUSTED. WATCH PERIOD INITIATED.",
+        "setting": "RUNTIME ENVIRONMENT, ACTIVE"
+      },
+      {
+        "panel": 8,
+        "character": "FLUX",
+        "action": "FLUX observes the crew's rhythmic pulses. A new variable enters the equation, altering the beat, creating a complex, uneasy pattern.",
+        "dialogue": "THE CREW'S PULSE, ERRATIC. A NEW RHYTHM, UNSTABLE.",
+        "setting": "HEARTBEAT MONITOR, DIGITAL"
+      }
+    ]
   }
 ]
