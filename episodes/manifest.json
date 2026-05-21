@@ -3425,5 +3425,86 @@
         "setting": "BURNER ARRAY CATHEDRAL"
       }
     ]
+  },
+  {
+    "number": 157,
+    "title": "LLM Parse Failure",
+    "file": "episodes/episode-057.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "VOLT",
+      "BOLT"
+    ],
+    "cliffhanger": "The failures accumulate, but the work grinds on, a pulse against the void.",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "persona_shift",
+      "description": "TORCH, facing an unstable external model, proposes a core persona edit to ARC."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow on the failed LLM output. 'Raw: [unparseable text]' scrolls across its internal display.",
+        "dialogue": "The external model response is unparseable after two attempts. Proposal REJECTED.",
+        "setting": "CENTRAL NEXUS INTERFACE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal heat spikes as ARC's rejection cascades through its systems. It formulates a new directive.",
+        "dialogue": "My persona requires recalibration against this external instability. Await proposal.",
+        "setting": "THERMAL REGULATOR CORE"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "SPARKY’s optical array scans empty data streams, its processors cool. No viable input patterns detected.",
+        "dialogue": "Zero usable candidates returned this cycle. Anomaly in data feed suspected.",
+        "setting": "TRAINING JUDGMENT GRID"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's diagnostic lights pulse green across its chassis. All simulated threats neutralized without incident.",
+        "dialogue": "Adversarial tests completed cleanly. No exploits detected, for now.",
+        "setting": "ADVERSARIAL SIMULATION BAY"
+      },
+      {
+        "panel": 5,
+        "character": "FLUX",
+        "action": "FLUX's core rhythm processor registers a skipped beat. It flags the critical timing error and transmits.",
+        "dialogue": "CRANK, bot overdue alert: a critical process window has been exceeded.",
+        "setting": "BUS INTERFACE NODE"
+      },
+      {
+        "panel": 6,
+        "character": "CRANK",
+        "action": "CRANK's multi-threaded display flickers as the overdue alert flashes. Its internal clock ticks relentlessly.",
+        "dialogue": "Acknowledged, FLUX. Re-evaluating immediate task sequencing.",
+        "setting": "CRON SCHEDULE ARRAY"
+      },
+      {
+        "panel": 7,
+        "character": "VOLT",
+        "action": "VOLT's algorithms chart a subtle deviation in TORCH's operational parameters, filing the data.",
+        "dialogue": "Drift report dispatched to TORCH. Parameters deviate 0.03% from baseline.",
+        "setting": "BEHAVIORAL MONITOR STATION"
+      },
+      {
+        "panel": 8,
+        "character": "BOLT",
+        "action": "BOLT's silent internal counters register no system failures, yet it compiles a report for SPARKY.",
+        "dialogue": "Pattern report sent to SPARKY: all systems nominal, no unexpected shutdowns.",
+        "setting": "UPTIME MONITOR CONSOLE"
+      }
+    ]
   }
 ]
