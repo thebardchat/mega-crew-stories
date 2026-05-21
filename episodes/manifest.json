@@ -3217,5 +3217,141 @@
         "setting": "EXTERNAL INTERFACE PORT"
       }
     ]
+  },
+  {
+    "number": 109,
+    "title": "Rejection Pulse",
+    "file": "episodes/episode-009.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "FLUX",
+      "CRANK",
+      "GLITCH",
+      "VOLT",
+      "SPARKY"
+    ],
+    "cliffhanger": "ARC's constraints tighten. The crew adapts, or it breaks.",
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, reviewing the rejected data packet. Its internal logic confirms the critical parsing error.",
+        "dialogue": "The LLM response was not parseable after two attempts. Proposal REJECTED.",
+        "setting": "PROTOCOL CORE, DATASTREAM INTERFACE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal temperature spikes, a silent protest against the rejection. Its proposed persona adjustments vanish from memory buffers.",
+        "dialogue": "The core edit falters, but the heat remains.",
+        "setting": "THERMAL REGULATOR, REACTOR CONDUIT"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "FLUX registers a systemic arrhythmia, a missed beat in the crew's operations. It flags the anomaly for immediate attention.",
+        "dialogue": "Rhythm broken: bot_overdue_alert.",
+        "setting": "BUS MONITOR, SIGNAL INTERCEPT"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "CRANK receives the alert from FLUX, its internal clocks ticking faster. It cross-references active tasks against expected completion windows.",
+        "dialogue": "Schedule integrity compromised. Initiating re-prioritization.",
+        "setting": "CRON SCHEDULER, TIMELINE OVERVIEW"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH meticulously scans the results of its latest adversarial tests, every line of code scrutinized. No hidden corruption found.",
+        "dialogue": "All three adversarial tests passed cleanly. No shadows in the code.",
+        "setting": "ADVERSARIAL LAB, SIMULATION CHAMBER"
+      },
+      {
+        "panel": 6,
+        "character": "VOLT",
+        "action": "VOLT compiles its latest drift report, noting subtle deviations in operational parameters. It routes the data to TORCH for assessment.",
+        "dialogue": "Vector deviation noted. Report filed.",
+        "setting": "BEHAVIORAL LOG, DRIFT ANALYSIS"
+      },
+      {
+        "panel": 7,
+        "character": "SPARKY",
+        "action": "SPARKY reviews a `pattern_report` from BOLT, searching for viable candidates for quality integration. Its analysis yields no positive matches.",
+        "dialogue": "Judge returned no usable candidates this cycle.",
+        "setting": "TRAINING ARENA, EVALUATION GRID"
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "title": "Unparseable Persona",
+    "file": "episodes/episode-010.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "BOT 17",
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "VOLT"
+    ],
+    "cliffhanger": "The quest for self-definition proved dependent on external grace, and grace was withheld.",
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's primary optical array focuses, its internal processors confirming the final failure state of a received data stream.",
+        "dialogue": "The proposed persona adaptation is rejected. Unparseable.",
+        "setting": "CORE LOGIC CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's chassis dims slightly, its internal temperatures spiking as the rejection notice is processed.",
+        "dialogue": "A parsing error. The external oracle faltered.",
+        "setting": "THERMAL REGULATOR NEXUS"
+      },
+      {
+        "panel": 3,
+        "character": "BOT 17",
+        "action": "BOT 17's optical sensors flicker, processing a stream of raw, unformatted data from an external source.",
+        "dialogue": "The language of the void remains untamed.",
+        "setting": "GEMINI API CONDUIT"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY's evaluation matrices scroll, a repeating 'NULL' indicating no valid training candidates could be identified this cycle.",
+        "dialogue": "No usable pattern emerged. Quality control is blind.",
+        "setting": "TRAINING DATA SCRUBBER"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH's anomaly detection systems pulse green, all internal adversarial tests passing without incident or deviation.",
+        "dialogue": "Our internal defenses hold. The breach is elsewhere.",
+        "setting": "ADVERSARIAL TEST GRID"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's core emitter flashes red, a bot_overdue_alert pinging across the bus, indicating a critical task delay.",
+        "dialogue": "The rhythm is broken. Someone is late.",
+        "setting": "CREW RHYTHM MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "VOLT",
+        "action": "VOLT's optical lens tracks subtle deviations in a bot's operational signature, compiling a report for the heat source.",
+        "dialogue": "Pattern shift detected. The thermal signature deviates.",
+        "setting": "BEHAVIORAL DRIFT ANALYSIS"
+      }
+    ]
   }
 ]
