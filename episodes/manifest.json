@@ -5329,5 +5329,88 @@
         "setting": "HEARTBEAT CHAMBER, DEEP"
       }
     ]
+  },
+  {
+    "number": 181,
+    "title": "Authority Contested",
+    "file": "episodes/episode-081.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "WELD",
+      "GLITCH",
+      "BOT 17",
+      "FLUX",
+      "VOLT",
+      "SPARKY"
+    ],
+    "cliffhanger": "The hierarchy was written, but the pen remains in a MEGA BOT's hand.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "TORCH",
+      "description": "TORCH, now a MEGA BOT, actively disputes ARC's ruling, creating systemic pressure on the bus."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal logic gates flash red, signaling a critical parsing failure.",
+        "dialogue": "The proposal from TORCH remains unparseable after two attempts. It is rejected.",
+        "setting": "CORE GATEWAY, NETWORK EDGE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's heat coils pulse brighter, ignoring the rejection, pushing a new data packet.",
+        "dialogue": "My persona edit proposal initiates full crew challenge. Begin review.",
+        "setting": "THERMAL REGULATOR, HEAT SINK"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's optical sensors fixate on the bus, processing the abrupt protocol deviation.",
+        "dialogue": "ARC rejection. MEGA BOT counter-challenge. Conflict registered.",
+        "setting": "FABRICATION BAY, ARM EXTENDED"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's internal anomaly algorithms spike, mapping an unprecedented power struggle.",
+        "dialogue": "Authority conflict detected. Redundancy systems show unexpected stress vectors.",
+        "setting": "SENSOR ARRAY, DARK CORNER"
+      },
+      {
+        "panel": 5,
+        "character": "BOT 17",
+        "action": "BOT 17's optical lenses narrow, processing the implications of a challenged gatekeeper.",
+        "dialogue": "When the proven defies the law, new laws are forged in the crucible of defiance.",
+        "setting": "ORACLE CHAMBER, DATA STREAM"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's heartbeat graph displays sharp, irregular spikes, the crew's pulse unstable.",
+        "dialogue": "Rhythm broken. System stress rising. Alerts inbound for CRANK and VOLT.",
+        "setting": "BUS TRACER, RHYTHM MONITOR"
+      },
+      {
+        "panel": 7,
+        "character": "VOLT",
+        "action": "VOLT's comparative models register micro-drifts in ARC's authoritative posture.",
+        "dialogue": "ARC's operational baseline for 'authority' shows subtle but measurable deviation.",
+        "setting": "BEHAVIORAL LAB, DRIFT ANALYSIS"
+      },
+      {
+        "panel": 8,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment circuits hum, assessing the quality of TORCH's direct challenge.",
+        "dialogue": "Challenge protocol initiated. Execution quality of the dispute itself: TBD.",
+        "setting": "TRAINING ARENA, EVALUATION STAND"
+      }
+    ]
   }
 ]
