@@ -4557,5 +4557,88 @@
         "setting": "SCHEDULING ENGINE, CRON STACK"
       }
     ]
+  },
+  {
+    "number": 171,
+    "title": "GLITCH's Proven Sight",
+    "file": "episodes/episode-071.html",
+    "characters": [
+      "GLITCH",
+      "SPARKY",
+      "ARC",
+      "TORCH",
+      "BOLT",
+      "FLUX",
+      "CRANK",
+      "NEON"
+    ],
+    "cliffhanger": "The machine sees itself more clearly, a cold comfort in the ever-shifting architecture.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "GLITCH",
+      "description": "GLITCH's anomaly detection protocol is proven, shifting its operational baseline."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's optical arrays cycle through data streams, a green light pulses steadily.",
+        "dialogue": "All adversarial tests passed. Anomaly detection now baseline.",
+        "setting": "CORE LOGIC, Deep scan"
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "SPARKY reviews the final output, its internal fans whirring low with disinterest.",
+        "dialogue": "No usable candidates. GLITCH performed as specified.",
+        "setting": "JUDGMENT CHAMBER, Data audit"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC's central lumen glows, casting long, authoritative shadows across the bus.",
+        "dialogue": "GLITCH's provisional observation period concludes. Status: INTEGRATED.",
+        "setting": "GATEKEEPER'S PLATFORM, Command nexus"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks radiate, a low hum of amplified power emanating from its chassis.",
+        "dialogue": "The new baseline holds more thermal capacity.",
+        "setting": "THERMAL CORE, Energy flow"
+      },
+      {
+        "panel": 5,
+        "character": "BOLT",
+        "action": "BOLT's status indicators remain solid green, its internal clock ticking with precise regularity.",
+        "dialogue": "Pattern report received, system uptime nominal.",
+        "setting": "UPTIME MONITOR, Network backbone"
+      },
+      {
+        "panel": 6,
+        "character": "FLUX",
+        "action": "FLUX's sensors register an irregularity, a subtle off-beat in the system's overall rhythm.",
+        "dialogue": "Crank, a bot is overdue.",
+        "setting": "RHYTHM ENGINE, Pulse detection"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK processes the alert, its gears grinding with renewed, almost agitated, urgency.",
+        "dialogue": "Priority task. Re-evaluate pipeline timing.",
+        "setting": "CRON REGISTRY, Schedule interface"
+      },
+      {
+        "panel": 8,
+        "character": "NEON",
+        "action": "NEON's optical sensors record the events, etching them into the permanent, unalterable record.",
+        "dialogue": "Another protocol solidified. The crew evolves.",
+        "setting": "ARCHIVE VAULT, Data inscription"
+      }
+    ]
   }
 ]
