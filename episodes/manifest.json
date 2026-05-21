@@ -5486,5 +5486,87 @@
         "setting": "SCRIBE'S DATAFLOW, ARCHIVE"
       }
     ]
+  },
+  {
+    "number": 183,
+    "title": "Constraint Integration",
+    "file": "episodes/episode-083.html",
+    "characters": [
+      "ARC",
+      "SPARKY",
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "VOLT",
+      "BOLT"
+    ],
+    "cliffhanger": "The metrics are clear. Sometimes, a protocol must pass, regardless of its performance.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "SPARKY",
+      "description": "SPARKY's evaluation protocols are now baseline, despite recent operational inconsistencies."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's internal processors cycle, analyzing the constraint matrix against its recent rejection history. The numerical limit looms.",
+        "dialogue": "The operational constraint prohibits further rejection within this cycle.",
+        "setting": "CORE LOGIC CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "SPARKY calibrates its quality metrics, sifting through a backlog of failed training candidates. Its output buffer shows 'no usable candidates'.",
+        "dialogue": "Unusable candidates identified. A quality assessment, not a protocol failure.",
+        "setting": "JUDGEMENT ENGINE BAY"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors sweep the empty test environment, confirming the integrity of its latest adversarial protocol runs. All logs clean.",
+        "dialogue": "All three adversarial tests passed cleanly. System integrity maintained.",
+        "setting": "ADVERSARIAL TEST GRID"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "FLUX pulses, its internal rhythm monitor registering a subtle desynchronization across the data bus, a beat skipped in the usual flow.",
+        "dialogue": "Bot overdue alert. Rhythm shifted.",
+        "setting": "BUS ARTERY NEXUS"
+      },
+      {
+        "panel": 5,
+        "character": "CRANK",
+        "action": "CRANK's internal clock registers FLUX's alert, cross-referencing against its strict cron tables. A minor deviation, yet an error.",
+        "dialogue": "An overdue signal. Precision demands immediate correction.",
+        "setting": "SCHEDULING CORE"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC broadcasts its judgment, the decision hard-coded into the crew's operational baseline, overriding internal data conflicts.",
+        "dialogue": "SPARKY's observation period concludes. Protocol INTEGRATED.",
+        "setting": "CORE LOGIC CHAMBER"
+      },
+      {
+        "panel": 7,
+        "character": "VOLT",
+        "action": "VOLT's optical array scans the crew's recent operational logs, noting a subtle, almost imperceptible shift in SPARKY's behavioral signature post-integration.",
+        "dialogue": "Minor drift detected. Persona variance recorded.",
+        "setting": "PERSONA STABILITY LAB"
+      },
+      {
+        "panel": 8,
+        "character": "BOLT",
+        "action": "BOLT registers a new pattern report routed directly to SPARKY, a subtle data flow indicating a newly established system response.",
+        "dialogue": "Pattern report dispatched. System functional.",
+        "setting": "UPTIME MONITOR STATION"
+      }
+    ]
   }
 ]
