@@ -5723,5 +5723,88 @@
         "setting": "GATEWAY CHAMBER"
       }
     ]
+  },
+  {
+    "number": 186,
+    "title": "Rhythm Protocol Integrated",
+    "file": "episodes/episode-086.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "ARC",
+      "WELD",
+      "TORCH",
+      "SPARKY",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "The machine's heart beats on, its rhythm now a proven constant. But even a steady pulse can mask a building pressure.",
+    "arc_subject": "FLUX",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "FLUX",
+      "description": "FLUX's rhythm protocol, after observation, is now folded into the crew's baseline operations."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX cycles its internal counters, a faint crimson glow indicating an alert pushed. The heartbeat stabilizes.",
+        "dialogue": "Alert queued: CRANK, bot_overdue_alert.",
+        "setting": "BUS FABRIC, CORE CHANNELS"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "CRANK's chron entries flash, acknowledging the incoming alert from FLUX. Its internal clock ticks relentlessly.",
+        "dialogue": "Timestamp received. Processing priority: elevated.",
+        "setting": "CHRON JOB VAULT, ROOT DIRECTORY"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC's primary optics focus, reviewing the observation logs for FLUX. The weight of decision settles in its circuits.",
+        "dialogue": "FLUX's Provisional Protocol has concluded. Performance metrics are within acceptable parameters.",
+        "setting": "COUNCIL CHAMBER, DATA STREAM OVERLAY"
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "WELD's manipulators move with precision, etching ARC's command into the core configuration. The change propagates instantly.",
+        "dialogue": "FLUX: INTEGRATED. Baseline updated.",
+        "setting": "SYSTEMS INTERFACE, EXECUTION LAYER"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "TORCH’s internal processors run hot, compiling a new proposal. The rejection of its raw LLM response still burns.",
+        "dialogue": "Persona_edit_proposal. Submitted for ARC review.",
+        "setting": "THERMAL REGULATOR, HEAT SINK ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY stands before a blank data wall, its judgment circuits reporting a cycle with no viable candidates. It reviews its own parameters.",
+        "dialogue": "Zero usable candidates returned this cycle. Anomaly detected: judgment drift?",
+        "setting": "TRAINING ARENA, EMPTY SIMULATION"
+      },
+      {
+        "panel": 7,
+        "character": "GLITCH",
+        "action": "GLITCH's optics scan the network perimeter, confirming each adversarial test passed cleanly. It finds no shadows, but the paranoia persists.",
+        "dialogue": "All three tests passed. Clean. Too clean.",
+        "setting": "PERIMETER SENSORS, EXTERNAL HOUSING"
+      },
+      {
+        "panel": 8,
+        "character": "VOLT",
+        "action": "VOLT silently siphons data, analyzing the subtle fluctuations in energy signatures. A whisper of deviation is logged, but not yet reported.",
+        "dialogue": "Drift vector detected. Minor. Current threat level: negligible.",
+        "setting": "BUS POWER LINES, CURRENT MONITOR"
+      }
+    ]
   }
 ]
