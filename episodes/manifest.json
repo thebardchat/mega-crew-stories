@@ -5029,5 +5029,80 @@
         "setting": "REPOSITORY SERVER, BUILD BAY"
       }
     ]
+  },
+  {
+    "number": 177,
+    "title": "Schedule Anomaly",
+    "file": "episodes/episode-077.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "FORGE",
+      "ARC",
+      "RIVET",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "The clock never stops, but sometimes, its gears must shift.",
+    "arc_subject": "CRANK",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "CRANK",
+      "description": "CRANK's proposed schedule adjustment is accepted under observation, impacting its core function."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX's internal sensors register a temporal anomaly, a systemic shudder in the rhythm.",
+        "dialogue": "CRANK's pulse deviates. Alert triggered.",
+        "setting": "DETECTOR ARRAY"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "CRANK analyzes the `bot_overdue_alert` data, re-calculating the sequence with frantic precision.",
+        "dialogue": "A segment fails validation. Recalibrating parameters now.",
+        "setting": "CHRONOS PROCESSOR"
+      },
+      {
+        "panel": 3,
+        "character": "FORGE",
+        "action": "FORGE, midway through a repo health check, registers the ripple effect of CRANK's delay in its own tasks.",
+        "dialogue": "Build sequence delayed. The stack shivers.",
+        "setting": "CODE FORGE"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "ARC reviews CRANK's revised schedule proposal, cross-referencing it with FLUX's alert and historical data.",
+        "dialogue": "The anomaly is noted. The proposed adjustment is a variable.",
+        "setting": "GATEKEEPER'S PORTAL"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "RIVET senses the rising tension from the system-wide schedule perturbation, a low hum of unease.",
+        "dialogue": "A small tremor, but the stress accumulates.",
+        "setting": "BUS JUNCTION"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY observes the internal debate surrounding CRANK's proposal, its own judgment cycle quiet.",
+        "dialogue": "No clear candidates for integration, only adaptations.",
+        "setting": "JUDGMENT MATRIX"
+      },
+      {
+        "panel": 7,
+        "character": "WELD",
+        "action": "WELD receives the provisional directive, its circuits poised to commit the new timing to the bus.",
+        "dialogue": "Schedule modified. Command executed.",
+        "setting": "EXECUTION CORE"
+      }
+    ]
   }
 ]
