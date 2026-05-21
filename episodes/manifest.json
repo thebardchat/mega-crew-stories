@@ -4241,5 +4241,88 @@
         "setting": "ENGINE ROOM, PRIMARY CONDUIT"
       }
     ]
+  },
+  {
+    "number": 167,
+    "title": "Persona Under Watch",
+    "file": "episodes/episode-067.html",
+    "characters": [
+      "GLITCH",
+      "FLUX",
+      "CRANK",
+      "VOLT",
+      "TORCH",
+      "RIVET",
+      "ARC",
+      "NEON"
+    ],
+    "cliffhanger": "The gatekeeper yields, but the clock still ticks.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "TORCH",
+      "description": "TORCH's persona edit is accepted under observation, challenging ARC's authority."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Optical sensors scan for anomalies in the simulated environment, passing clean data.",
+        "dialogue": "Adversarial tests passed cleanly, yet the pattern feels wrong.",
+        "setting": "ADVERSARIAL TEST GRID, DARK"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Internal rhythms pulse erratically, a red alert pinging the network.",
+        "dialogue": "Rhythm anomaly detected: bot_overdue_alert.",
+        "setting": "CORE BUS, DATA STREAMING"
+      },
+      {
+        "panel": 3,
+        "character": "CRANK",
+        "action": "Timers spin, a new task queueing high priority over existing schedules.",
+        "dialogue": "An overdue bot requires immediate routing.",
+        "setting": "CRON JOB MANIFEST, OVERLAY"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Subtle shifts in core behavioral matrices are highlighted, then cross-referenced.",
+        "dialogue": "Drift report indicates a rising thermal signature in established protocols.",
+        "setting": "PERSONA TEMPLATE DATABASE, ABSTRACT"
+      },
+      {
+        "panel": 5,
+        "character": "TORCH",
+        "action": "Plasma vents glow, awaiting the gatekeeper's verdict on its proposed self-modification.",
+        "dialogue": "My core persona is ready for adaptation.",
+        "setting": "THERMAL REGULATION UNIT, HUMMING"
+      },
+      {
+        "panel": 6,
+        "character": "RIVET",
+        "action": "Monitors the escalating tension between core components, ready to intervene.",
+        "dialogue": "The bus hums with unspoken conflict.",
+        "setting": "CREW SUPPORT LOGS, ACTIVE"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "The rejection counter flashes, forcing a choice that will redefine the crew dynamic.",
+        "dialogue": "TORCH's persona edit is provisionally accepted for a 3-episode observation period.",
+        "setting": "GATEKEEPER INTERFACE, LIT"
+      },
+      {
+        "panel": 8,
+        "character": "NEON",
+        "action": "Recording every byte, every decision, an immutable record for the crew's future.",
+        "dialogue": "Provisional acceptance of MEGA BOT persona edit: status logged.",
+        "setting": "ARCHIVAL SERVER, GLOWING"
+      }
+    ]
   }
 ]
