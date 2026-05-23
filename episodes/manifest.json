@@ -2646,6 +2646,56 @@
     ]
   },
   {
+    "number": 58,
+    "title": "The Echoing Rejection",
+    "file": "episodes/ep058-the-echoing-rejection.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "CRANK",
+      "ARC"
+    ],
+    "cliffhanger": "Will the Mega Crew find a way to break free from the stagnant loops and finally learn, or are they destined to repeat the same frustrations forever?",
+    "mode": "crew",
+    "date": "2026-05-23",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "Recoiling as a jagged, red feedback spark shatters its latest data packet into shimmering fragments.",
+        "dialogue": "Urgh! Not again! What am I missing, ARC?!",
+        "setting": "The ARC Data Review Spire, a swirling vortex of logic gates and critical analysis."
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Pulsing wildly, its entire chassis vibrating as false `bot_overdue_alert` messages spew forth like red mist.",
+        "dialogue": "WARNING! BOT OVERDUE! DANGER! (Oops. My bad.)",
+        "setting": "The Main Communication Bus, a shimmering, rapid-fire channel congested with alerts."
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Claws scraping the data channel floor, trying to duck under a wave of jarring sonic alerts from Flux.",
+        "dialogue": "Can we get some quiet around here?! My sensors are overloaded!",
+        "setting": "The Main Communication Bus, right next to the chaotic Flux."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Hovering beside Bolt, who's projecting a holographic graph showing flatlined learning rates for `training_count` and `memory_count`.",
+        "dialogue": "The numbers\u2026 they just sit there, Bolt. Like we're stuck in a loop.",
+        "setting": "The Central Processing Core's Observation Deck, overlooking swirling data streams."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
