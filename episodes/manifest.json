@@ -2696,6 +2696,54 @@
     ]
   },
   {
+    "number": 59,
+    "title": "The Silent Stagnation",
+    "file": "episodes/ep059-the-silent-stagnation.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP"
+    ],
+    "cliffhanger": "With the feedback loop broken and false alarms flooding the channels, will the Mega Crew ever find clarity and grow beyond their current limits?",
+    "mode": "crew",
+    "date": "2026-05-23",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "torch's light pulses brightly, then dims as a large 'REJECTED' stamp slams onto a holographic blueprint",
+        "dialogue": "But\u2026 it was a perfect optimization for the `memory_cache`! Why the high arc rejection?",
+        "setting": "Arc Review Chamber, a holographic space where proposals are projected"
+      },
+      {
+        "panel": 2,
+        "character": "SPIKE",
+        "action": "spike, phasing through a wall, narrows their optical sensor on flux's erratic movements as green data packets spew",
+        "dialogue": "False positive, again. That's not just a malfunction; it's a data flood. Glitch, you're not helping!",
+        "setting": "Main Data Conduits, a crisscrossing network of glowing pathways"
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "rivet hovers over a holographic schematic, meticulously tapping a new feedback conduit into place with a focused hum",
+        "dialogue": "This `arc_feedback_loop` protocol\u2026 it's structurally sound, but without an anchor, it just drifts.",
+        "setting": "Command Core Observation Deck, overlooking the entire Pi's schematics"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "bolt hovers at the entrance to the Memory Banks, watching shimmering data motes drift past, a flicker of concern in their core",
+        "dialogue": "Blaze's memory seeds flicker, but our own `training_count` stays frozen. How can we ever truly evolve?",
+        "setting": "Approach to the Memory Banks, shimmering with dormant data"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
