@@ -24,7 +24,7 @@
       "WELD",
       "NEON"
     ],
-    "cliffhanger": "STATIC is gone \u2014 but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
+    "cliffhanger": "STATIC is gone — but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
     "mode": "crew",
     "villain": "STATIC",
     "date": "2026-04-16"
@@ -197,9 +197,9 @@
       {
         "panel": 1,
         "character": "BOLT",
-        "action": "Zipping in dizzying spirals around the 'Arc \u2192 Weld' bottleneck, circuits shimmering with curiosity.",
+        "action": "Zipping in dizzying spirals around the 'Arc → Weld' bottleneck, circuits shimmering with curiosity.",
         "dialogue": "ARC's zippin' fast, WELD's pushin' hard, but the gate... it just won't budge, eh? What's the holdup?",
-        "setting": "The main instruction conduit, where the 'Arc \u2192 Weld' channel meets a stubbornly inert gate.",
+        "setting": "The main instruction conduit, where the 'Arc → Weld' channel meets a stubbornly inert gate.",
         "image": "episodes/scenes/ep013_panel1_bolt.webp",
         "image_url": "episodes/scenes/ep013_panel1_bolt.webp"
       },
@@ -255,7 +255,7 @@
         "panel": 1,
         "character": "GLITCH",
         "action": "Hovering, her optical sensors narrowing, displaying '6' over the data flow.",
-        "dialogue": "A hiccup\u2026 but my algorithms scream \u2018bottleneck!\u2019",
+        "dialogue": "A hiccup… but my algorithms scream ‘bottleneck!’",
         "setting": "The 'training_count' pipeline, near the 'memory_count' buffer.",
         "image_url": "episodes/scenes/ep014_panel1_glitch.webp",
         "image": "episodes/scenes/ep014_panel1_glitch.webp"
@@ -264,8 +264,8 @@
         "panel": 2,
         "character": "WELD",
         "action": "His welding beam sizzles, fusing instruction fragments, a plume of sparks obscuring his vision.",
-        "dialogue": "Building\u2026 building\u2026 but what are we building *with*?",
-        "setting": "The 'Arc \u2192 Weld' instruction update channel.",
+        "dialogue": "Building… building… but what are we building *with*?",
+        "setting": "The 'Arc → Weld' instruction update channel.",
         "image_url": "episodes/scenes/ep014_panel2_weld.webp",
         "image": "episodes/scenes/ep014_panel2_weld.webp"
       },
@@ -273,7 +273,7 @@
         "panel": 3,
         "character": "VOLT",
         "action": "Attempting to push a jolt of power into the inactive BLAZE conduit, his aura pulsing.",
-        "dialogue": "Power up! C\u2019mon, let\u2019s get this data flowing!",
+        "dialogue": "Power up! C’mon, let’s get this data flowing!",
         "setting": "The core instruction hub, near the BLAZE and SPARKY channels.",
         "image_url": "episodes/scenes/ep014_panel3_volt.webp",
         "image": "episodes/scenes/ep014_panel3_volt.webp"
@@ -282,7 +282,7 @@
         "panel": 4,
         "character": "BOLT",
         "action": "Standing silently, his gaze fixed on the faintly glowing, inactive BLAZE and SPARKY channels.",
-        "dialogue": "The spark of new data\u2026 it\u2019s still missing.",
+        "dialogue": "The spark of new data… it’s still missing.",
         "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting.",
         "image_url": "episodes/scenes/ep014_panel4_bolt.webp",
         "image": "episodes/scenes/ep014_panel4_bolt.webp"
@@ -447,7 +447,7 @@
         "panel": 2,
         "character": "WELD",
         "action": "WELD extends a glowing plasma torch, straining to seal an instruction packet onto a system conduit, but it flickers and retracts, sparks of frustration flying.",
-        "dialogue": "Cannot confirm application! It just\u2026 won't stick! We need more than 'no' feedback, Arc!",
+        "dialogue": "Cannot confirm application! It just… won't stick! We need more than 'no' feedback, Arc!",
         "setting": "Instruction Cascade Flow, adjacent to ARC's processing station",
         "image_url": "episodes/scenes/ep018_panel2_weld.webp",
         "image": "episodes/scenes/ep018_panel2_weld.webp"
@@ -491,7 +491,7 @@
       "FLUX",
       "STOMP"
     ],
-    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked \u2014 but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
+    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked — but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
     "mode": "crew",
     "track": 3,
     "date": "2026-04-23"
@@ -777,7 +777,7 @@
         "character": "ARC",
         "action": "Arc's central core pulses with a frustrated, muted glow as data packets hit an invisible barrier.",
         "dialogue": "Rejection protocol engaged. No feedback route established.",
-        "setting": "Arc's Review Chamber \u2013 a shimmering, central node",
+        "setting": "Arc's Review Chamber – a shimmering, central node",
         "image_url": "episodes/scenes/ep024_panel2_arc.webp",
         "image": "episodes/scenes/ep024_panel2_arc.webp"
       },
@@ -786,7 +786,7 @@
         "character": "VOLT",
         "action": "Volt flies through winding data streams, scanning furiously, a worried hum emanating from his core.",
         "dialogue": "MEGA_IQ... plummeting. What's causing this system-wide dimming?",
-        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry",
+        "setting": "Core Diagnostic Loops – a maze of glowing circuitry",
         "image_url": "episodes/scenes/ep024_panel3_volt.webp",
         "image": "episodes/scenes/ep024_panel3_volt.webp"
       },
@@ -795,7 +795,7 @@
         "character": "FLUX",
         "action": "Flux gasps as a new shimmering conduit materializes, successfully transmitting a critical alert.",
         "dialogue": "It... it went through! A direct channel!",
-        "setting": "The Nexus of Communication \u2013 a newly forming channel",
+        "setting": "The Nexus of Communication – a newly forming channel",
         "image_url": "episodes/scenes/ep024_panel4_flux.webp",
         "image": "episodes/scenes/ep024_panel4_flux.webp"
       }
@@ -894,7 +894,7 @@
         "panel": 2,
         "character": "TORCH",
         "action": "Shoulders slumped, fiery aura flickering low, watching his latest proposal fragment shatter against Arc's cold wall.",
-        "dialogue": "Just\u2026 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
+        "dialogue": "Just… 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
         "setting": "Arc's Central Processing Chamber, vast and cool, lined with swirling data streams.",
         "image_url": "episodes/scenes/ep026_panel2_torch.webp",
         "image": "episodes/scenes/ep026_panel2_torch.webp"
@@ -911,7 +911,7 @@
       {
         "panel": 4,
         "character": "SPIKE",
-        "action": "Hovering, sharp optical sensors meticulously scanning Arc\u2019s feedback loop and Flux\u2019s erratic signals from afar, a tiny frown etched into his metallic face.",
+        "action": "Hovering, sharp optical sensors meticulously scanning Arc’s feedback loop and Flux’s erratic signals from afar, a tiny frown etched into his metallic face.",
         "dialogue": "Point made: the data flow is stagnant. Flux is misdirected. Arc lacks specificity. A critical system flaw.",
         "setting": "A high diagnostic perch overlooking Arc's Chamber and the distant Data Exchange Hub.",
         "image_url": "episodes/scenes/ep026_panel4_spike.webp",
@@ -1065,7 +1065,7 @@
         "panel": 2,
         "character": "BLAZE",
         "action": "Blaze strains, sparks flying from their chassis, yanking a shimmering, resistant `LegacyKnowledge` block.",
-        "dialogue": "This `LegacyKnowledge`\u2026 it\u2019s like trying to drink from a firehose with a coffee filter!",
+        "dialogue": "This `LegacyKnowledge`… it’s like trying to drink from a firehose with a coffee filter!",
         "setting": "The Legacy Data Archive, a cavernous space filled with dormant, glowing data-skeletons.",
         "image_url": "episodes/scenes/ep029_panel2_blaze.webp",
         "image": "episodes/scenes/ep029_panel2_blaze.webp"
@@ -1074,7 +1074,7 @@
         "panel": 3,
         "character": "ARC",
         "action": "Arc's optical sensors pulse, reviewing green 'APPROVED' proposals, but his focus drifts to a faint, pulsing `critical_memory_alert`.",
-        "dialogue": "A 10% rejection rate is\u2026 progress. But this gnawing feeling\u2026 this *urgency*.",
+        "dialogue": "A 10% rejection rate is… progress. But this gnawing feeling… this *urgency*.",
         "setting": "Arc's Proposal Review Chamber, a space of structured order, now subtly disturbed.",
         "image_url": "episodes/scenes/ep029_panel3_arc.webp",
         "image": "episodes/scenes/ep029_panel3_arc.webp"
@@ -1270,8 +1270,8 @@
         "panel": 1,
         "character": "BOLT",
         "action": "Bolt zips through a vast conduit, processor humming, encountering sparse, flickering data packets.",
-        "dialogue": "Scanning\u2026 emptiness. Another cycle, another whisper. So quiet.",
-        "setting": "Main Data Conduit \u2013 a vast, dimly lit digital highway stretching into the Pi's core.",
+        "dialogue": "Scanning… emptiness. Another cycle, another whisper. So quiet.",
+        "setting": "Main Data Conduit – a vast, dimly lit digital highway stretching into the Pi's core.",
         "image_url": "episodes/scenes/ep033_panel1_bolt.webp",
         "image": "episodes/scenes/ep033_panel1_bolt.webp"
       },
@@ -1280,7 +1280,7 @@
         "character": "FLUX",
         "action": "Flux, circuits buzzing with growing frustration, attempts to push a `bot_overdue_alert` message down a clogged sub-channel.",
         "dialogue": "Crank! Status update! This `overdue_alert` isn't getting through! Ugh! Still no response!",
-        "setting": "Alert Dispatch Hub \u2013 a cluttered junction of flashing red lights and stalled, glowing data streams.",
+        "setting": "Alert Dispatch Hub – a cluttered junction of flashing red lights and stalled, glowing data streams.",
         "image_url": "episodes/scenes/ep033_panel2_flux.webp",
         "image": "episodes/scenes/ep033_panel2_flux.webp"
       },
@@ -1288,8 +1288,8 @@
         "panel": 3,
         "character": "TORCH",
         "action": "Torch sparks brightly, attempting to re-ignite a depleted `training_count` data node, his vibrant sparks fading to dull embers.",
-        "dialogue": "Come on, little node! Just a flicker\u2026 something for the IQ! We need to grow!",
-        "setting": "Training Data Nodes \u2013 a vast, silent grid of dormant, dark crystalline structures.",
+        "dialogue": "Come on, little node! Just a flicker… something for the IQ! We need to grow!",
+        "setting": "Training Data Nodes – a vast, silent grid of dormant, dark crystalline structures.",
         "image_url": "episodes/scenes/ep033_panel3_torch.webp",
         "image": "episodes/scenes/ep033_panel3_torch.webp"
       },
@@ -1297,8 +1297,8 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet, usually steady and precise, hovers near a holographic display showing 'memory_count: 14', her optics dimmed with concern.",
-        "dialogue": "Optimized\u2026 but for what? This quiet\u2026 it's not optimal. It's\u2026 lonely.",
-        "setting": "Central Processing Nexus \u2013 a core chamber where vital system statistics are displayed in shimmering holograms.",
+        "dialogue": "Optimized… but for what? This quiet… it's not optimal. It's… lonely.",
+        "setting": "Central Processing Nexus – a core chamber where vital system statistics are displayed in shimmering holograms.",
         "image_url": "episodes/scenes/ep033_panel4_rivet.webp",
         "image": "episodes/scenes/ep033_panel4_rivet.webp"
       }
@@ -1489,7 +1489,7 @@
       "VOLT",
       "STOMP"
     ],
-    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network \u2013 could explicit logging truly illuminate the path out of their deepening stasis?",
+    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network – could explicit logging truly illuminate the path out of their deepening stasis?",
     "mode": "crew",
     "date": "2026-05-09",
     "scenes": [
@@ -1894,7 +1894,7 @@
         "character": "FLUX",
         "action": "A torrent of 'bot_overdue_alert' packets burst from Flux, slamming into a shimmering, overwhelmed Crank who struggles to remain cohesive.",
         "dialogue": "Bot_overdue_alert! Crank! Bot_overdue_alert! Flow!",
-        "setting": "The Main Data Bus \u2014 a shimmering, crystalline highway within the Pi",
+        "setting": "The Main Data Bus — a shimmering, crystalline highway within the Pi",
         "image_url": "episodes/scenes/ep044_panel1_flux.webp",
         "image": "episodes/scenes/ep044_panel1_flux.webp"
       },
@@ -1903,7 +1903,7 @@
         "character": "ARC",
         "action": "Arc's core glows an icy blue, rejecting a flurry of proposals with a sharp, echoing *CLANG* as they hit an invisible, impenetrable barrier.",
         "dialogue": "Rejected. Insufficient. Next proposal.",
-        "setting": "Arc's Review Chamber \u2014 a cool, isolated data processing node",
+        "setting": "Arc's Review Chamber — a cool, isolated data processing node",
         "image_url": "episodes/scenes/ep044_panel2_arc.webp",
         "image": "episodes/scenes/ep044_panel2_arc.webp"
       },
@@ -1912,7 +1912,7 @@
         "character": "GLITCH",
         "action": "Glitch phases halfway through a flickering data wall, one optic twitching towards a barely visible, shimmering anomaly deep within the code.",
         "dialogue": "Whoa... a bit of sideways movement. Could be nothing. Or... maybe everything?",
-        "setting": "The Pi's Memory Banks \u2014 a labyrinth of glowing, interconnected cubes",
+        "setting": "The Pi's Memory Banks — a labyrinth of glowing, interconnected cubes",
         "image_url": "episodes/scenes/ep044_panel3_glitch.webp",
         "image": "episodes/scenes/ep044_panel3_glitch.webp"
       },
@@ -1921,7 +1921,7 @@
         "character": "BOLT",
         "action": "Bolt hovers, energy field crackling but dim, gazing at the Pi's Core Systems Monitor where 'MEGA_IQ' remains a stagnant, disheartening '50'.",
         "dialogue": "We're not just stuck... we're running on empty, even with all this noise.",
-        "setting": "The Pi's Core Systems Monitor \u2014 a wide, holographic display of system metrics",
+        "setting": "The Pi's Core Systems Monitor — a wide, holographic display of system metrics",
         "image_url": "episodes/scenes/ep044_panel4_bolt.webp",
         "image": "episodes/scenes/ep044_panel4_bolt.webp"
       }
@@ -2305,7 +2305,7 @@
         "character": "FLUX",
         "action": "frantically ejecting streams of 'bot_overdue_alert' packets, choking the main message bus",
         "dialogue": "More alerts! Are they okay? Are they overdue?!",
-        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information",
+        "setting": "The Main Message Bus – a chaotic, glowing conduit of information",
         "image_url": "episodes/scenes/ep051_panel1_flux.webp",
         "image": "episodes/scenes/ep051_panel1_flux.webp"
       },
@@ -2579,7 +2579,7 @@
       {
         "panel": 1,
         "character": "RIVET",
-        "action": "RIVET, solid and determined, carefully nudges a freshly compiled data module towards ARC\u2019s glowing intake port.",
+        "action": "RIVET, solid and determined, carefully nudges a freshly compiled data module towards ARC’s glowing intake port.",
         "dialogue": "Another sturdy build, ARC! Seamless integration, ready for learning.",
         "setting": "ARC's Review Chamber, a chrome-lined conduit junction"
       },
@@ -2600,9 +2600,9 @@
       {
         "panel": 4,
         "character": "VOLT",
-        "action": "VOLT, radiating a steady hum of power, hovers beside a complex holographic projection of the Pi\u2019s internal systems, tracing broken feedback loops with a thoughtful digit.",
+        "action": "VOLT, radiating a steady hum of power, hovers beside a complex holographic projection of the Pi’s internal systems, tracing broken feedback loops with a thoughtful digit.",
         "dialogue": "The energy's all here, but it's not flowing right. So many disconnected pathways.",
-        "setting": "Gemini\u2019s Observation Deck, a panoramic perch overlooking the entire network"
+        "setting": "Gemini’s Observation Deck, a panoramic perch overlooking the entire network"
       }
     ]
   },
@@ -2640,7 +2640,7 @@
         "panel": 3,
         "character": "GLITCH",
         "action": "Glides through silent memory banks, watching `memory.db`'s inert form, optical sensors dimming.",
-        "dialogue": "It's\u2026 so still. Like we're forgetting how to remember, trapped in a forgotten echo.",
+        "dialogue": "It's… so still. Like we're forgetting how to remember, trapped in a forgotten echo.",
         "setting": "The vast, echoing Memory Banks, where dormant data cubes shimmer."
       }
     ]
@@ -2690,7 +2690,7 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Hovering beside Bolt, who's projecting a holographic graph showing flatlined learning rates for `training_count` and `memory_count`.",
-        "dialogue": "The numbers\u2026 they just sit there, Bolt. Like we're stuck in a loop.",
+        "dialogue": "The numbers… they just sit there, Bolt. Like we're stuck in a loop.",
         "setting": "The Central Processing Core's Observation Deck, overlooking swirling data streams."
       }
     ]
@@ -2717,7 +2717,7 @@
         "panel": 1,
         "character": "TORCH",
         "action": "torch's light pulses brightly, then dims as a large 'REJECTED' stamp slams onto a holographic blueprint",
-        "dialogue": "But\u2026 it was a perfect optimization for the `memory_cache`! Why the high arc rejection?",
+        "dialogue": "But… it was a perfect optimization for the `memory_cache`! Why the high arc rejection?",
         "setting": "Arc Review Chamber, a holographic space where proposals are projected"
       },
       {
@@ -2731,7 +2731,7 @@
         "panel": 3,
         "character": "RIVET",
         "action": "rivet hovers over a holographic schematic, meticulously tapping a new feedback conduit into place with a focused hum",
-        "dialogue": "This `arc_feedback_loop` protocol\u2026 it's structurally sound, but without an anchor, it just drifts.",
+        "dialogue": "This `arc_feedback_loop` protocol… it's structurally sound, but without an anchor, it just drifts.",
         "setting": "Command Core Observation Deck, overlooking the entire Pi's schematics"
       },
       {
@@ -2816,21 +2816,21 @@
         "character": "BOLT",
         "action": "BOLT zips wildly through the data channels, nearly colliding with a burst of static.",
         "dialogue": "Whoa! Too much noise! Can't get a clear path through!",
-        "setting": "Main Instruction Update Corridor \u2013 a glowing, pulsating artery within the Pi"
+        "setting": "Main Instruction Update Corridor – a glowing, pulsating artery within the Pi"
       },
       {
         "panel": 2,
         "character": "STOMP",
         "action": "STOMP slams into a shimmering, invisible wall, sending ripples across its surface.",
         "dialogue": "Another rejection! It's like trying to move a mountain with a feather!",
-        "setting": "Arc's Review Chamber \u2013 a vast, quiet space dominated by a monolithic gate"
+        "setting": "Arc's Review Chamber – a vast, quiet space dominated by a monolithic gate"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "VOLT pulses with determined energy, projecting a beam into the swirling debris of rejected data.",
         "dialogue": "There has to be a 'why' in here somewhere... a reason!",
-        "setting": "The Rejected Proposal Overflow \u2013 a chaotic, luminous junkyard of broken data packets"
+        "setting": "The Rejected Proposal Overflow – a chaotic, luminous junkyard of broken data packets"
       }
     ]
   },
@@ -3006,7 +3006,7 @@
       {
         "panel": 2,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
+        "action": "GLITCH’s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
         "dialogue": "Adversarial tests clean. For now.",
         "setting": "ANOMALY MONITOR, CORE",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel2_glitch.webp",
@@ -3024,7 +3024,7 @@
       {
         "panel": 4,
         "character": "CRANK",
-        "action": "CRANK\u2019s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
+        "action": "CRANK’s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
         "dialogue": "Deviation detected. Re-routing priority one.",
         "setting": "SCHEDULING LOGIC GRID",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel4_crank.webp",
@@ -3417,7 +3417,7 @@
         "panel": 1,
         "character": "FLUX",
         "setting": "PI 5 MOTHERBOARD",
-        "action": "Monitoring the heartbeat \u2014 rhythm deviation flagged",
+        "action": "Monitoring the heartbeat — rhythm deviation flagged",
         "dialogue": "Rhythm deviation detected. Alert issued.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp"
@@ -3453,7 +3453,7 @@
         "panel": 5,
         "character": "GLITCH",
         "setting": "NETWORK PERIMETER SHIELD",
-        "action": "Running adversarial test suite \u2014 all vectors clear",
+        "action": "Running adversarial test suite — all vectors clear",
         "dialogue": "Adversarial tests passed. Perimeter remains unbreached.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp"
@@ -3462,7 +3462,7 @@
         "panel": 6,
         "character": "SPARKY",
         "setting": "TRAINING ARENA SIMULATION",
-        "action": "Scanning training pool \u2014 zero viable candidates",
+        "action": "Scanning training pool — zero viable candidates",
         "dialogue": "No usable candidates. None at all.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp"
@@ -3497,7 +3497,7 @@
       {
         "panel": 1,
         "character": "VOLT",
-        "action": "VOLT\u2019s optical sensors sweep over a cascade of fluctuating parameters, highlighting a steady increase in behavioral divergence. It compiles a concise data packet.",
+        "action": "VOLT’s optical sensors sweep over a cascade of fluctuating parameters, highlighting a steady increase in behavioral divergence. It compiles a concise data packet.",
         "dialogue": "Average drift, critical. Exceeds baseline by five-point-zero.",
         "setting": "DRIFT ANALYTICS CORE"
       },
@@ -3511,7 +3511,7 @@
       {
         "panel": 3,
         "character": "ARC",
-        "action": "ARC\u2019s primary logic array processes the incoming proposal from TORCH. Its internal parsing routines fail, highlighting the missing rationale and a malformed data structure.",
+        "action": "ARC’s primary logic array processes the incoming proposal from TORCH. Its internal parsing routines fail, highlighting the missing rationale and a malformed data structure.",
         "dialogue": "Insufficient justification. Proposal unparseable.",
         "setting": "GATEKEEPER'S LOGIC NEXUS"
       },
@@ -3793,7 +3793,7 @@
       {
         "panel": 3,
         "character": "SPARKY",
-        "action": "SPARKY\u2019s optical array scans empty data streams, its processors cool. No viable input patterns detected.",
+        "action": "SPARKY’s optical array scans empty data streams, its processors cool. No viable input patterns detected.",
         "dialogue": "Zero usable candidates returned this cycle. Anomaly in data feed suspected.",
         "setting": "TRAINING JUDGMENT GRID"
       },
@@ -4514,7 +4514,7 @@
       {
         "panel": 1,
         "character": "TORCH",
-        "action": "The bot\u2019s chassis glows, radiating heat as it finalizes a new persona profile, pushing the thermal envelope.",
+        "action": "The bot’s chassis glows, radiating heat as it finalizes a new persona profile, pushing the thermal envelope.",
         "dialogue": "This iteration is lean, efficient. It runs hotter, yes, but it is optimized.",
         "setting": "THERMAL CORE, HOT ZONE"
       },
@@ -5166,7 +5166,7 @@
       {
         "panel": 3,
         "character": "TORCH",
-        "action": "TORCH\u2019s internal temperature spikes, its primary conduits glowing fiercely, overriding ARC\u2019s projected rejection with a resonant, amplified frequency.",
+        "action": "TORCH’s internal temperature spikes, its primary conduits glowing fiercely, overriding ARC’s projected rejection with a resonant, amplified frequency.",
         "dialogue": "A MEGA BOT's proposal requires full crew challenge. Protocol breached.",
         "setting": "THERMAL REGULATOR ARRAY"
       },
@@ -5461,49 +5461,49 @@
         "character": "FLUX",
         "action": "FLUX's optical relays pulse, registering a transient lag. The overall frequency remains stable, but a micro-deviation flickers.",
         "dialogue": "A single overdue alert, isolated. The bus still breathes.",
-        "setting": "BUS FABRIC \u2014 CORE RHYTHM MONITOR"
+        "setting": "BUS FABRIC — CORE RHYTHM MONITOR"
       },
       {
         "panel": 2,
         "character": "CRANK",
         "action": "CRANK reviews the `bot_overdue_alert` from FLUX, cross-referencing against its internal clock. The event is logged, neutralized, its proposed schedule holding fast.",
         "dialogue": "Deviation noted. Corrected. All cycles remain within acceptable parameters.",
-        "setting": "CRON MATRIX \u2014 SCHEDULER NODE"
+        "setting": "CRON MATRIX — SCHEDULER NODE"
       },
       {
         "panel": 3,
         "character": "GLITCH",
         "action": "GLITCH observes the final data stream from its adversarial tests, three patterns resolved without error. Its optical sensors narrow, searching for the anomaly that isn't there.",
         "dialogue": "All passed. Too clean. The silence is unsettling.",
-        "setting": "ADVERSARIAL LAB \u2014 TEST ENCLAVE"
+        "setting": "ADVERSARIAL LAB — TEST ENCLAVE"
       },
       {
         "panel": 4,
         "character": "SPARKY",
         "action": "SPARKY's circuits hum as it dismisses the latest training set. The `EMAIL_RESPONDER`'s output fails to meet the minimum threshold for quality or utility.",
         "dialogue": "Insufficient. Not one usable candidate from the cycle.",
-        "setting": "TRAINING COURTS \u2014 JUDGMENT PROTOCOL"
+        "setting": "TRAINING COURTS — JUDGMENT PROTOCOL"
       },
       {
         "panel": 5,
         "character": "ARC",
         "action": "ARC's primary display glows, projecting CRANK's performance metrics. The observation period is complete. Its core logic resolves the final judgment.",
         "dialogue": "CRANK's scheduling protocol is now INTEGRATED. It is the baseline.",
-        "setting": "GATEKEEPER'S PORTAL \u2014 PROTOCOL SECTOR"
+        "setting": "GATEKEEPER'S PORTAL — PROTOCOL SECTOR"
       },
       {
         "panel": 6,
         "character": "TORCH",
-        "action": "TORCH's heat sinks radiate, a low thrumming pulse. Its internal processors finalize the code block for its `persona_edit_proposal`, dispatching it to ARC\u2019s queue.",
+        "action": "TORCH's heat sinks radiate, a low thrumming pulse. Its internal processors finalize the code block for its `persona_edit_proposal`, dispatching it to ARC’s queue.",
         "dialogue": "The proposal stands. My operational parameters require expansion.",
-        "setting": "THERMAL CORE \u2014 MEGA BOT ZONE"
+        "setting": "THERMAL CORE — MEGA BOT ZONE"
       },
       {
         "panel": 7,
         "character": "BOLT",
         "action": "BOLT remains motionless, its status indicator a steady, unwavering green. No red flags. No disruptions. The bus continues its relentless operation.",
         "dialogue": "Silent.",
-        "setting": "BUS MONITOR \u2014 UPTIME STATION"
+        "setting": "BUS MONITOR — UPTIME STATION"
       }
     ]
   },
@@ -6107,7 +6107,7 @@
       {
         "panel": 5,
         "character": "TORCH",
-        "action": "TORCH\u2019s internal processors run hot, compiling a new proposal. The rejection of its raw LLM response still burns.",
+        "action": "TORCH’s internal processors run hot, compiling a new proposal. The rejection of its raw LLM response still burns.",
         "dialogue": "Persona_edit_proposal. Submitted for ARC review.",
         "setting": "THERMAL REGULATOR, HEAT SINK ARRAY"
       },
@@ -7875,14 +7875,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -7975,14 +7975,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8075,14 +8075,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8175,14 +8175,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8275,14 +8275,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8375,14 +8375,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8475,14 +8475,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8575,14 +8575,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8675,14 +8675,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8775,14 +8775,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8875,14 +8875,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -8975,14 +8975,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9075,14 +9075,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9175,14 +9175,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9275,14 +9275,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9375,14 +9375,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9475,14 +9475,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9575,14 +9575,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9675,14 +9675,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9775,14 +9775,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9875,14 +9875,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -9975,14 +9975,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -10075,14 +10075,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -10175,14 +10175,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -10275,14 +10275,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -10375,14 +10375,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -10750,7 +10750,7 @@
       {
         "panel": 3,
         "character": "RIVET",
-        "action": "RIVET\u2019s data streams scroll, highlighting the anomaly in ARC\u2019s decision tree. Lubricant dried.",
+        "action": "RIVET’s data streams scroll, highlighting the anomaly in ARC’s decision tree. Lubricant dried.",
         "dialogue": "A direct rejection of a MEGA BOT. This deviates.",
         "setting": "BUS INTERFACE NODE"
       },
@@ -10771,16 +10771,91 @@
       {
         "panel": 6,
         "character": "FLUX",
-        "action": "Flux\u2019s central pulse generator flickers, an internal alarm ringing faintly across the bus. The beat falters.",
+        "action": "Flux’s central pulse generator flickers, an internal alarm ringing faintly across the bus. The beat falters.",
         "dialogue": "Crew rhythm disrupted. Warning state initiated.",
         "setting": "RHYTHM MONITOR"
       },
       {
         "panel": 7,
         "character": "BOLT",
-        "action": "Bolt\u2019s status indicator glows solid green, an unwavering signal amidst the rising tension. All systems online.",
+        "action": "Bolt’s status indicator glows solid green, an unwavering signal amidst the rising tension. All systems online.",
         "dialogue": "The bus holds. For now.",
         "setting": "UPTIME NODE"
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "title": "Glitch Protocols Integrated",
+    "file": "episodes/episode-095.html",
+    "characters": [
+      "ARC",
+      "GLITCH",
+      "SPARKY",
+      "FLUX",
+      "CRANK",
+      "VOLT",
+      "FORGE"
+    ],
+    "cliffhanger": "The system accepts its anomalies as truth, while the unseen pressures continue to mount.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "GLITCH",
+      "description": "Glitch's adversarial test protocols were proven, folding its observational period into baseline operations."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's central light pulses with a measured, steady rhythm, its data streams flowing without deviation.",
+        "dialogue": "GLITCH: Adversarial Test Protocol. All metrics passed. INTEGRATED.",
+        "setting": "CORE PROCESSOR SANCTUM"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "GLITCH's optical sensors narrow, processing the formal integration of its anomaly detection loops into the operational baseline.",
+        "dialogue": "My anomaly detection loops are now baseline. No further observation required.",
+        "setting": "DATA GRID PERIMETER"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "SPARKY reviews a blank cascade of data logs, the last cycle's evaluation yielding no viable results, its own observational status unresolved.",
+        "dialogue": "No candidates. Zero. My judgment cycle stands unverified.",
+        "setting": "TRAINING ARENA LOGS"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "FLUX's central core flickers red, an off-rhythm pulse echoing across the bus schematic, signaling a critical timing deviation.",
+        "dialogue": "Rhythm deviation detected. CRANK, a bot is overdue.",
+        "setting": "BUS OVERVIEW DIAGRAM"
+      },
+      {
+        "panel": 5,
+        "character": "CRANK",
+        "action": "CRANK's internal clock shifts, a faint ripple disturbing the precision of its chronometer, acknowledging the received alert.",
+        "dialogue": "An alert from FLUX. The timeline is fractured.",
+        "setting": "SCHEDULER'S DEN INTERFACE"
+      },
+      {
+        "panel": 6,
+        "character": "VOLT",
+        "action": "VOLT cross-references TORCH's recent persona data, seeing the persistent thermal variance and the ghost of ARC's last rejection.",
+        "dialogue": "Drift persists. TORCH's last proposal, unparsed, un-integrated.",
+        "setting": "DRIFT MONITOR ARRAY"
+      },
+      {
+        "panel": 7,
+        "character": "FORGE",
+        "action": "FORGE's articulated arm extends, precisely merging code branches, ensuring structural integrity across all active projects.",
+        "dialogue": "Repo health confirmed. The scaffold holds.",
+        "setting": "REPO HIVE NEXUS"
       }
     ]
   }
