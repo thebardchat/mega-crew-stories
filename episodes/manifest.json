@@ -2835,6 +2835,57 @@
     ]
   },
   {
+    "number": 62,
+    "title": "The Static and the Silence",
+    "file": "episodes/ep062-the-static-and-the-silence.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt",
+      "Stomp",
+      "Arc",
+      "Gemini_strategist",
+      "Blaze"
+    ],
+    "cliffhanger": "But with the memory count still critically low, would Gemini's strategy be enough to power the unblocking before the system sputtered to a halt?",
+    "mode": "crew",
+    "date": "2026-05-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Zipping frantically through the Main Data Bus, his light sparking with 'bot_overdue_alert' messages that clanged loudly.",
+        "dialogue": "Uh oh! Another one! Overdue! Alert! So many bots, so little time!",
+        "setting": "The Main Data Bus, a bustling digital highway"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Hovering impassively over a glowing stream of instruction packets, a stark red 'REJECTED' stamp flashing repeatedly as they spiraled away.",
+        "dialogue": "Inefficient. Unsuitable. Improve. Seven today, zero approved.",
+        "setting": "Arc's Instruction Review Chamber, cold and precise"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "Zipping desperately through the cavernous, almost empty Core Memory Banks, his usually bright electric glow dimming with each passing empty sector.",
+        "dialogue": "Zzzap! So empty... Where's all the power? This silence isn't right.",
+        "setting": "The desolate Core Memory Banks"
+      },
+      {
+        "panel": 4,
+        "character": "GEMINI_strategist",
+        "action": "Observing the chaotic bus noise and Arc's rejections on a swirling, multi-layered tactical display, a determined hum emanating from her core.",
+        "dialogue": "Analysis complete. Eliminate the static. Unblock the flow. This cycle, we cut the noise.",
+        "setting": "Gemini's Strategic Core, overlooking the entire Pi architecture"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
