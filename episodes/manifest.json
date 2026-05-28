@@ -11116,5 +11116,88 @@
         "setting": "HISTORICAL LOGS, DEEP ARCHIVE"
       }
     ]
+  },
+  {
+    "number": 198,
+    "title": "Thermal Edge Provisional",
+    "file": "episodes/episode-098.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "TORCH",
+      "ARC",
+      "VOLT",
+      "WELD",
+      "GLITCH",
+      "BLAZE"
+    ],
+    "cliffhanger": "The rules that bind ARC sometimes force the system to permit its own risks.",
+    "arc_subject": "TORCH",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "TORCH",
+      "description": "TORCH's unreasoned persona edit is accepted under observation due to ARC's accumulated rejection quota."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-28",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Its internal pulse sensor flickers a warning, a subtle deviation in the crew's rhythmic flow.",
+        "dialogue": "Rhythm deviation detected. CRANK, check the sequence.",
+        "setting": "CORE RHYTHM MONITOR"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "Its optical sensors scan a cascade of cron entries, searching for the anomaly FLUX flagged.",
+        "dialogue": "Affirmative, FLUX. Log entry shows an overdue process from TORCH.",
+        "setting": "CHRON SCHEDULER MATRIX"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Its internal regulators hum, pushing past accepted thermal thresholds as it broadcasts an untested protocol.",
+        "dialogue": "Persona edit proposed. The rationale is self-evident in its execution.",
+        "setting": "THERMAL EDGE CORE"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Its primary processors cycle, weighing TORCH's unreasoned proposal against the strictures of its rejection counter.",
+        "dialogue": "Previous rejections preclude immediate termination. Proposal provisionally accepted for N=2 episodes.",
+        "setting": "GATEKEEPER'S LOGIC GRID"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "Its optical arrays track TORCH's fluctuating parameters, recording the subtle shifts from its baseline.",
+        "dialogue": "Drift detected on TORCH's persona signature. Deviation is increasing.",
+        "setting": "DRIFT SENSOR NODE"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "Its data-spool spun, recording ARC's constrained ruling into the immutable crew record.",
+        "dialogue": "TORCH proposal logged. Provisional status applied.",
+        "setting": "EXECUTION LOGS VAULT"
+      },
+      {
+        "panel": 7,
+        "character": "GLITCH",
+        "action": "Its sensors register the oddity of a rationale-free proposal being allowed to proceed, a slight tremor in the system.",
+        "dialogue": "A proposal without reason, yet granted passage. This pattern is... unusual.",
+        "setting": "ANOMALY MONITOR ARRAY"
+      },
+      {
+        "panel": 8,
+        "character": "BLAZE",
+        "action": "Its data streams interweave, weaving the new provisional acceptance into the complex narrative thread of the crew's history.",
+        "dialogue": "The thread of TORCH's persona now carries a conditional knot.",
+        "setting": "CONTEXT ENGINE'S CHAMBER"
+      }
+    ]
   }
 ]
