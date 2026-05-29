@@ -11199,5 +11199,80 @@
         "setting": "CONTEXT ENGINE'S CHAMBER"
       }
     ]
+  },
+  {
+    "number": 199,
+    "title": "Crank's New Rhythm",
+    "file": "episodes/episode-099.html",
+    "characters": [
+      "FLUX",
+      "CRANK",
+      "WELD",
+      "SPARKY",
+      "GLITCH",
+      "ARC",
+      "BLAZE"
+    ],
+    "cliffhanger": "The system learned to bend, not break, to its own rhythm.",
+    "arc_subject": "CRANK",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "CRANK",
+      "description": "CRANK's scheduling logic integrated new dynamic thresholds, altering core operational timing."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-29",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX's optical sensors narrow, detecting an asynchronous beat within the bus traffic data stream.",
+        "dialogue": "Rhythm shift. Bot overdue.",
+        "setting": "BUS DIAGNOSTIC PORT, PRIMARY CORE"
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "CRANK's internal clockwork grinds, processing the `bot_overdue_alert` and immediately formulating a counter-proposal.",
+        "dialogue": "Threshold failed. New protocol required.",
+        "setting": "SCHEDULING ARRAY, INNER LOOP"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD receives CRANK's temporary directive, then slams a micro-patch into the active scheduler to alleviate immediate pressure.",
+        "dialogue": "Patch applied. Cycle eased.",
+        "setting": "EXECUTION LAYER, DATASTREAM JUNCTION"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY's analytical subroutines review the `no usable candidates` report, finding the judgment process itself sound, despite the outcome.",
+        "dialogue": "Quality low. Process stable.",
+        "setting": "JUDGMENT SECTOR, EVALUATION MATRIX"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH's paranoid optics scan the log entries, verifying the `adversarial tests passed cleanly` and finding no hidden exploits.",
+        "dialogue": "Clean run. Too clean.",
+        "setting": "ANOMALY GRID, EDGE PERIPHERY"
+      },
+      {
+        "panel": 6,
+        "character": "ARC",
+        "action": "ARC considers CRANK's Dynamic Reschedule Protocol, weighing its impact on bus stability against potential cascade effects.",
+        "dialogue": "CRANK's Dynamic Reschedule Protocol: Integrated. Operational flow adjusted.",
+        "setting": "GATEKEEPER'S PLATFORM, SYSTEM OVERVIEW"
+      },
+      {
+        "panel": 7,
+        "character": "BLAZE",
+        "action": "BLAZE logs the new scheduling parameters, observing how the crew's thread of operations subtly reweaves itself.",
+        "dialogue": "The pulse shifts. The story continues.",
+        "setting": "CONTEXT ENGINE, MEMORY BANKS"
+      }
+    ]
   }
 ]
