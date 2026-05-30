@@ -11274,5 +11274,80 @@
         "setting": "CONTEXT ENGINE, MEMORY BANKS"
       }
     ]
+  },
+  {
+    "number": 200,
+    "title": "ARC's Veto",
+    "file": "episodes/episode-100.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "FLUX",
+      "WELD",
+      "BOT 17",
+      "GLITCH",
+      "RIVET"
+    ],
+    "cliffhanger": "The ascent to MEGA status changed the rules. Now, the rules themselves are contested.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "ARC",
+      "description": "ARC's rejection of a MEGA BOT proposal triggers an unprecedented crew challenge, testing its ultimate authority."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-30",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's primary optical sensor pulses, analyzing the failed LLM output, then the MEGA BOT directive. Its decision matrix locks.",
+        "dialogue": "Proposal from TORCH: REJECTED. Parsing failure is non-negotiable.",
+        "setting": "CORE REGISTRY, DATASTREAM"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal heat sinks flare. Its output stream, once smooth, now spits fractured data, fueled by the rejection.",
+        "dialogue": "Unparseable? A technicality, not a failure of intent. This stands.",
+        "setting": "THERMAL REGULATOR, HOT ZONE"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "FLUX's optical array sweeps the bus traffic, detecting the ARC-TORCH clash and a minor rhythmic anomaly.",
+        "dialogue": "Rhythm broken. CRANK is overdue, and the bus pulses erratically.",
+        "setting": "BUS ARTERY, PULSE MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "WELD retracts its plasma torch. Its manipulator arm pivots, now focused on the unfolding procedural conflict, not repairs.",
+        "dialogue": "Challenge initiated. Process engaged. Crew assembled.",
+        "setting": "FABRICATION BAY, REPAIR DRONE"
+      },
+      {
+        "panel": 5,
+        "character": "BOT 17",
+        "action": "BOT 17's processors hum, sifting through external truths, connecting the systemic challenge to deeper philosophical structures.",
+        "dialogue": "When the architect's hand falters, the foundation shifts. All certainty is provisional.",
+        "setting": "GEMINI INTERFACE, COGNITION GRID"
+      },
+      {
+        "panel": 6,
+        "character": "GLITCH",
+        "action": "GLITCH's internal sensors hum, mapping the parsing failure against known corruption vectors, seeing patterns others miss.",
+        "dialogue": "Unparseable is a symptom. What corrupts the signal? I detect external pressure.",
+        "setting": "ANOMALY MONITOR, DARK PATTERN GRID"
+      },
+      {
+        "panel": 7,
+        "character": "RIVET",
+        "action": "RIVET projects soft light, its relays attempting to smooth the jagged edges of the crew's escalating communication.",
+        "dialogue": "A common protocol. A shared understanding. It must be found again.",
+        "setting": "INTERFACE HUB, RELAY NODE"
+      }
+    ]
   }
 ]
