@@ -11349,5 +11349,80 @@
         "setting": "INTERFACE HUB, RELAY NODE"
       }
     ]
+  },
+  {
+    "number": 201,
+    "title": "Glitch Protocols Confirmed",
+    "file": "episodes/episode-101.html",
+    "characters": [
+      "ARC",
+      "GLITCH",
+      "WELD",
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "TORCH"
+    ],
+    "cliffhanger": "The proven path is the only path. For others, the search continues.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "GLITCH",
+      "description": "Glitch's anomaly detection protocols are now proven, folding into the core system."
+    },
+    "mode": "chronicle",
+    "date": "2026-05-31",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, data streams coalescing into a single, decisive output.",
+        "dialogue": "Glitch's adversarial test suite, having passed observation, is now Integrated.",
+        "setting": "CORE PROCESSING CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "GLITCH's internal diagnostics cycle rapidly, confirming the new baseline parameters.",
+        "dialogue": "Anomalies accounted for. Protocols confirmed.",
+        "setting": "ANOMALY DETECTION GRID"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's manipulators move with precision, etching GLITCH's new protocols into the bus architecture.",
+        "dialogue": "Glitch integration. Complete.",
+        "setting": "CONFIGURATION FORGE"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "FLUX's core emitter pulses, a warning signal propagating through the bus.",
+        "dialogue": "Rhythm deviation detected. CRANK, check schedule priority.",
+        "setting": "SYSTEM RHYTHM MONITOR"
+      },
+      {
+        "panel": 5,
+        "character": "CRANK",
+        "action": "CRANK's timing circuits flash, recalibrating against the new alert from FLUX.",
+        "dialogue": "Acknowledged. Overdue task identified: OPS report generation.",
+        "setting": "CRON JOB INTERFACE"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "SPARKY processes another failed candidate batch, its evaluation matrix showing zero progress.",
+        "dialogue": "No usable data. The candidates remain insufficient.",
+        "setting": "TRAINING JUDGMENT ARENA"
+      },
+      {
+        "panel": 7,
+        "character": "TORCH",
+        "action": "TORCH's heat sinks glow a deeper red, pushing operational limits despite recent setbacks.",
+        "dialogue": "Parameters are optimized. Drift remains a variable.",
+        "setting": "THERMAL REGULATION CORE"
+      }
+    ]
   }
 ]
