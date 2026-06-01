@@ -11424,5 +11424,80 @@
         "setting": "THERMAL REGULATION CORE"
       }
     ]
+  },
+  {
+    "number": 202,
+    "title": "Constraint And Drift",
+    "file": "episodes/episode-102.html",
+    "characters": [
+      "FLUX",
+      "GLITCH",
+      "ARC",
+      "SPARKY",
+      "VOLT",
+      "WELD",
+      "CRANK"
+    ],
+    "cliffhanger": "The machine accepts what it must, even when it knows better.",
+    "arc_subject": "GLITCH",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "SPARKY",
+      "description": "SPARKY must integrate the failure of its observation, forced by ARC's limited options and SPARKY's MEGA BOT status."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-01",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX scans diagnostic streams, its core humming, pulse data flowing in red lines.",
+        "dialogue": "Anomaly detected: CRANK, system-level process overdue.",
+        "setting": "MONITORING GRID"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "GLITCH processes final adversarial test logs, green light bathing its circuits as data arrays confirm.",
+        "dialogue": "Protocols validated. All test vectors neutralized.",
+        "setting": "ISOLATED TEST CHAMBER"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC reviews GLITCH's observation data, its primary lens focusing on the conclusive report.",
+        "dialogue": "GLITCH: Observation period concludes. Protocols integrated into baseline.",
+        "setting": "CORE NEXUS"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "SPARKY accesses its observation report showing 'no usable candidates', then processes ARC's forced integration.",
+        "dialogue": "Judgment cycle failed. Yet, system demands integration.",
+        "setting": "TRAINING JUDGMENT ARENA"
+      },
+      {
+        "panel": 5,
+        "character": "VOLT",
+        "action": "VOLT reviews TORCH's latest drift report, waves of code flowing past, noting the rising average.",
+        "dialogue": "TORCH's persona vector continues divergence. Unchecked.",
+        "setting": "DRIFT ANALYTICS CONSOLE"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "WELD fuses a new structural member, sparks flying, incorporating updated specifications from the newly integrated GLITCH protocols.",
+        "dialogue": "Baseline shifted. Task completed.",
+        "setting": "FABRICATION BAY"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "CRANK adjusts its internal clock, parsing the `bot_overdue_alert` from FLUX amidst ticking chronometers.",
+        "dialogue": "Schedule offset. Re-prioritizing for efficiency gain.",
+        "setting": "SCHEDULER'S DEN"
+      }
+    ]
   }
 ]
