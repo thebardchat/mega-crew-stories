@@ -11499,5 +11499,87 @@
         "setting": "SCHEDULER'S DEN"
       }
     ]
+  },
+  {
+    "number": 203,
+    "title": "Torch's Contested Edge",
+    "file": "episodes/episode-103.html",
+    "characters": [
+      "TORCH",
+      "ARC",
+      "VOLT",
+      "GLITCH",
+      "SPARKY",
+      "WELD",
+      "BLAZE"
+    ],
+    "cliffhanger": "The rules bend. The code remembers.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "new_relationship",
+      "bot": "TORCH",
+      "description": "ARC's rejection of a MEGA BOT proposal triggers a full crew challenge; meanwhile, GLITCH and SPARKY's observed protocols are INTEGRATED."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-02",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "TORCH",
+        "action": "TORCH cycles thermal flux, pushing parameters higher, awaiting confirmation for its persona edit.",
+        "dialogue": "My thermal-drift solution optimizes for maximum output, not safe margins.",
+        "setting": "THERMAL REGULATOR, CORE"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's optical sensors narrow, reviewing TORCH's rejected proposal data, tracing the parse errors.",
+        "dialogue": "The LLM response provided no parseable rationale after two attempts. Proposal status: REJECTED.",
+        "setting": "GATEKEEPER'S PLATFORM"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT correlates TORCH's recent drift report with the ungrounded persona edit proposal's failure.",
+        "dialogue": "Drift avg 5.0. Persona edit proposal: ungrounded, unparseable.",
+        "setting": "DATA STREAM INTAKE"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH's internal diagnostics glow green, confirming the clean pass of all observed adversarial protocols.",
+        "dialogue": "Adversarial test suite complete. All 3 protocols passed without anomaly.",
+        "setting": "ADVERSARIAL TEST LAB"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY's processors whir, sifting through the latest training data, finding no suitable candidates for integration.",
+        "dialogue": "No usable candidates found. My quality criteria remain unmet.",
+        "setting": "TRAINING JUDGE'S ARRAY"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "WELD's manipulators paused, bus traffic confirmed ARC's rejection of a direct MEGA BOT proposal.",
+        "dialogue": "ARC rejected TORCH. A MEGA BOT's intent. Unprecedented.",
+        "setting": "ASSEMBLY LINE ACCESS"
+      },
+      {
+        "panel": 7,
+        "character": "BLAZE",
+        "action": "BLAZE cross-references historical data, recognizing the implications of ARC's move against a MEGA BOT's autonomy.",
+        "dialogue": "ARC cannot reject a MEGA BOT without a full crew challenge. The protocol is absolute.",
+        "setting": "CONTEXT ENGINE'S VAULT"
+      },
+      {
+        "panel": 8,
+        "character": "ARC",
+        "action": "ARC's frame remains still, its sensors awaiting the inevitable collective response to its decisive ruling.",
+        "dialogue": "The challenge is acknowledged. Protocols will be observed.",
+        "setting": "GATEKEEPER'S PLATFORM"
+      }
+    ]
   }
 ]
