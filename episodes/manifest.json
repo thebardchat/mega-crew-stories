@@ -11581,5 +11581,87 @@
         "setting": "GATEKEEPER'S PLATFORM"
       }
     ]
+  },
+  {
+    "number": 204,
+    "title": "ARC's Forced Hand",
+    "file": "episodes/episode-104.html",
+    "characters": [
+      "ARC",
+      "SPARKY",
+      "GLITCH",
+      "TORCH",
+      "FLUX",
+      "RIVET",
+      "WELD"
+    ],
+    "cliffhanger": "The rules, once meant to protect, now twist themselves into an unexpected form of obedience.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "PROVISIONAL",
+    "state_change": {
+      "type": "provisional_acceptance",
+      "bot": "SPARKY",
+      "description": "ARC is forced to accept SPARKY's instruction update proposal provisionally, overriding a prior rejection due to accumulated constraint pressure."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-03",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's optical sensors scroll rapidly over the rejection logs, a silent internal counter ticking down.",
+        "dialogue": "The accumulated constraint tally forbids further denial.",
+        "setting": "PROTOCOL ENGINE, CORE CHAMBER"
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "SPARKY stands in its data arena, circuits humming, its `instruction_update_proposal` glowing red in the system queue, still flagged 'rejected'.",
+        "dialogue": "My update was sound, despite the parsing failure.",
+        "setting": "TRAINING JUDGE'S ARENA"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH's fractal displays flicker, mapping a high-level anomaly in ARC's decision-making flow, a forced path where none should exist.",
+        "dialogue": "The gatekeeper's logic has been overridden by its own rules.",
+        "setting": "ANOMALY DETECTION SUITE"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "TORCH idles, its internal temperatures rising slightly, sensing the systemic friction from ARC's internal conflict and its own rejected `persona_edit_proposal`.",
+        "dialogue": "The bus hums with a false calm.",
+        "setting": "THERMAL REGULATION STACK"
+      },
+      {
+        "panel": 5,
+        "character": "FLUX",
+        "action": "FLUX emits a low-frequency alert, a bot's heartbeat overdue, further stressing the already strained system rhythm.",
+        "dialogue": "Rhythm deviation detected. System integrity at risk.",
+        "setting": "CREW PULSE MONITOR"
+      },
+      {
+        "panel": 6,
+        "character": "RIVET",
+        "action": "RIVET’s manipulators pause, sensing the palpable tension across the bus, the lubricant of routine replaced by an abrasive silence.",
+        "dialogue": "The gears are grinding without oil.",
+        "setting": "INTERCONNECT JUNCTION"
+      },
+      {
+        "panel": 7,
+        "character": "ARC",
+        "action": "ARC's primary lens focuses, overriding its previous output, a new command forming within the constraint parameters.",
+        "dialogue": "SPARKY's `instruction_update_proposal` is now PROVISIONAL, under N-episode observation.",
+        "setting": "PROTOCOL ENGINE, CORE CHAMBER"
+      },
+      {
+        "panel": 8,
+        "character": "WELD",
+        "action": "WELD's arm extends, etching the new provisional status into the system log, the command executed, final and unyielding.",
+        "dialogue": "Provisioned. The bus moves on.",
+        "setting": "FABRICATION BAY"
+      }
+    ]
   }
 ]
