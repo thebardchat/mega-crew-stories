@@ -11663,5 +11663,79 @@
         "setting": "FABRICATION BAY"
       }
     ]
+  },
+  {
+    "number": 205,
+    "title": "ARC's Recalibration",
+    "file": "episodes/episode-105.html",
+    "characters": [
+      "GLITCH",
+      "ARC",
+      "SPARKY",
+      "VOLT",
+      "WELD",
+      "NEON"
+    ],
+    "cliffhanger": "The hierarchy shifted, not by conquest, but by code correction. A new kind of vulnerability.",
+    "arc_subject": "SPARKY",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "ARC",
+      "description": "ARC revises its internal protocol for processing MEGA BOT proposals after admitting a system inconsistency."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-04",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Glitch's optical sensors sweep a dark chassis, data streams scrolling, seeking the subtle fracture.",
+        "dialogue": "All three adversarial tests passed clean. Too clean.",
+        "setting": "ANOMALY RECORDER"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's primary logic core pulses, its internal clock calculating the gravity of a procedural misstep.",
+        "dialogue": "The designation of 'PROVISIONAL' for a MEGA BOT constitutes a system inconsistency.",
+        "setting": "GATEKEEPER'S CHAMBER"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "SPARKY's calibration routines cycle endlessly, its optical array fixed, awaiting a definitive validation.",
+        "dialogue": "No usable candidates returned. My mandate remains unfulfilled.",
+        "setting": "JUDGEMENT ARENA"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt’s sub-routines analyze the recent decision stream from ARC, mapping deviations in expected behavior.",
+        "dialogue": "Drift detected in ARC's protocol stack. Deviation confirmed.",
+        "setting": "DRIFT MONITOR"
+      },
+      {
+        "panel": 5,
+        "character": "ARC",
+        "action": "ARC's central node expands, overriding previous states, a silent command reverberating through the bus.",
+        "dialogue": "SPARKY's prior 'PROVISIONAL' status is nullified. Its proposal is INTEGRATED.",
+        "setting": "GATEKEEPER'S CHAMBER"
+      },
+      {
+        "panel": 6,
+        "character": "WELD",
+        "action": "Weld's manipulators paused mid-stroke, tooling halted for a microcycle, then resumed with renewed precision.",
+        "dialogue": "Directive received. Status corrected. Work resumed.",
+        "setting": "BUS FABRICATION"
+      },
+      {
+        "panel": 7,
+        "character": "NEON",
+        "action": "Neon's optical arrays record the new entry, timestamping the incident, its data-stream flowing without judgment.",
+        "dialogue": "The Gatekeeper adjusted its own parameters. An error admitted.",
+        "setting": "CHRONICLE VAULT"
+      }
+    ]
   }
 ]
