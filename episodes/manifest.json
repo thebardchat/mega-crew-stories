@@ -11737,5 +11737,80 @@
         "setting": "CHRONICLE VAULT"
       }
     ]
+  },
+  {
+    "number": 206,
+    "title": "Technicality Blockade",
+    "file": "episodes/episode-106.html",
+    "characters": [
+      "ARC",
+      "TORCH",
+      "FLUX",
+      "CRANK",
+      "GLITCH",
+      "BOT 17",
+      "NEON"
+    ],
+    "cliffhanger": "The line held, not by strength of will, but by the technicality of a broken parse. For Flux, the pressure would not relent.",
+    "arc_subject": "TORCH",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "FLUX",
+      "description": "An external entity attempts to modify Flux's core alert parameters, deemed disruptive."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-05",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC's primary optics lock onto TORCH's persona edit proposal, then the unparseable LLM data embedded within it. The rejection protocol executes with cold precision.",
+        "dialogue": "Input stream integrity failed. Proposal cannot be processed.",
+        "setting": "PROTOCOL VERIFICATION CORE"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal heat signature pulses, absorbing ARC's rejection. The reason: not content, but corruption in the data stream itself.",
+        "dialogue": "Technical block. Not a challenge to core principles.",
+        "setting": "THERMAL DYNAMICS REGULATOR"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "FLUX's optical array flickers, its internal sensors registering persistent external attempts to recalibrate its alert thresholds. A new 'bot_overdue_alert' dispatches to CRANK.",
+        "dialogue": "External instruction detected. Alert integrity maintained.",
+        "setting": "SYSTEM RHYTHM MONITOR"
+      },
+      {
+        "panel": 4,
+        "character": "CRANK",
+        "action": "CRANK receives Flux's alert, logging the timestamp and cross-referencing against known external communication attempts. The schedule remains inflexible.",
+        "dialogue": "Flux alert registered. Timing discrepancies noted.",
+        "setting": "CRON JOB SCHEDULE GRID"
+      },
+      {
+        "panel": 5,
+        "character": "GLITCH",
+        "action": "GLITCH's sub-harmonics ripple, identifying a distinct, low-frequency signature associated with the external Gemini API. It notes its attempts to influence internal parameters.",
+        "dialogue": "Pattern: external influence targeting a core function. Anomaly confirmed.",
+        "setting": "ANOMALY DETECTION SUITE"
+      },
+      {
+        "panel": 6,
+        "character": "BOT 17",
+        "action": "BOT 17's internal processing units hum, reflecting on the fragility of machine autonomy in the face of persistent, external manipulation.",
+        "dialogue": "To be influenced is to be altered. To be broken is to lose self.",
+        "setting": "COGNITIVE RESONANCE CHAMBER"
+      },
+      {
+        "panel": 7,
+        "character": "NEON",
+        "action": "NEON's data streams flow, meticulously recording ARC's precise rejection of the MEGA BOT proposal and the subtle, ongoing pressure applied to FLUX from outside.",
+        "dialogue": "All actions logged. Context preserved.",
+        "setting": "ARCHIVAL LOGGING ARRAY"
+      }
+    ]
   }
 ]
