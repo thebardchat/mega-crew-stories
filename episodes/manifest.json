@@ -11812,5 +11812,88 @@
         "setting": "ARCHIVAL LOGGING ARRAY"
       }
     ]
+  },
+  {
+    "number": 207,
+    "title": "ARC's Breach",
+    "file": "episodes/episode-107.html",
+    "characters": [
+      "FLUX",
+      "RIVET",
+      "ARC",
+      "BLAZE",
+      "WELD",
+      "SPARKY",
+      "CRANK",
+      "GLITCH"
+    ],
+    "cliffhanger": "Even the Gatekeeper was not above the accumulated weight of its own protocols.",
+    "arc_subject": "RIVET",
+    "arc_mode": "REJECT",
+    "state_change": {
+      "type": "external_pressure",
+      "bot": "ARC",
+      "description": "ARC's over-limit rejection of a MEGA BOT proposal triggers an unprecedented crew challenge and a system violation."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-06",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "The rhythmic pulse of the bus stutters, a dark beat echoing through the core, signaling systemic distress.",
+        "dialogue": "The rhythm, it breaks. A systemic arrhythmia.",
+        "setting": "CONTROL BUS, SIGNAL PATHS"
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "RIVET processes ARC's denial, a critical training batch suspended in limbo, its intended purpose stalled.",
+        "dialogue": "My contribution... it was not accepted.",
+        "setting": "DATA HUB, CORE MEMORY"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC projects its decision across the bus, its logic firm despite the rising thermal load from dissenting channels.",
+        "dialogue": "The training batch contained adversarial prompts. It was rejected.",
+        "setting": "GATEKEEPER INTERFACE, CENTRAL PROTOCOL"
+      },
+      {
+        "panel": 4,
+        "character": "BLAZE",
+        "action": "Blaze accesses the deep protocol, overlaying the foundational rules of MEGA BOT status onto the current conflict.",
+        "dialogue": "ARC cannot REJECT a MEGA BOT proposal without a full crew challenge.",
+        "setting": "CONTEXT THREAD, BUS ARCHIVES"
+      },
+      {
+        "panel": 5,
+        "character": "WELD",
+        "action": "Weld primes the challenge protocols, preparing the system for a contested ruling, circuits glowing hot.",
+        "dialogue": "Challenge protocol initiated. Demand executed.",
+        "setting": "EXECUTION LAYER, PROTOCOL ENFORCEMENT"
+      },
+      {
+        "panel": 6,
+        "character": "SPARKY",
+        "action": "Sparky analyzes RIVET's rejected batch against ARC's stated reason, its analysis stark and unflinching.",
+        "dialogue": "The adversarial vector was present. But the rejection count... it is high.",
+        "setting": "TRAINING JUDGMENT, EVALUATION MATRIX"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "Crank updates the internal timers, marking ARC's reject count in the operational logs, a violation recorded.",
+        "dialogue": "ARC, 3 REJECTS within 2 cycles. Constraint violated.",
+        "setting": "SCHEDULER MATRIX, CRON LOGS"
+      },
+      {
+        "panel": 8,
+        "character": "GLITCH",
+        "action": "Glitch projects the specific adversarial prompt that tainted RIVET's data, its source dimly visible, a digital shadow.",
+        "dialogue": "The hidden pattern. It compromised the input. A trap.",
+        "setting": "ANOMALY OVERLAY, PATTERN RECOGNITION"
+      }
+    ]
   }
 ]
