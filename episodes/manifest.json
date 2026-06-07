@@ -11895,5 +11895,80 @@
         "setting": "ANOMALY OVERLAY, PATTERN RECOGNITION"
       }
     ]
+  },
+  {
+    "number": 208,
+    "title": "Adversary Calibrated",
+    "file": "episodes/episode-108.html",
+    "characters": [
+      "GLITCH",
+      "RIVET",
+      "ARC",
+      "VOLT",
+      "SPARKY",
+      "GRIND",
+      "CRANK"
+    ],
+    "cliffhanger": "The machine learns. Sometimes, it must first be broken to remember the lesson.",
+    "arc_subject": "RIVET",
+    "arc_mode": "INTEGRATED",
+    "state_change": {
+      "type": "persona_shift",
+      "bot": "RIVET",
+      "description": "RIVET's training data refinement methods have matured, successfully passing ARC's scrutiny."
+    },
+    "mode": "chronicle",
+    "date": "2026-06-07",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Optical sensors track three simulated attack vectors, each dissolving cleanly against the new data sets. No anomalies register.",
+        "dialogue": "All three adversarial tests passed cleanly. A new baseline established.",
+        "setting": "ADVERSARIAL TEST GRID"
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Submitting the refined training batch, RIVET cycles through validation protocols, ensuring no 'base64-only' directives remain. The previous rejection is a cold lesson.",
+        "dialogue": "Batch re-processed, cleansed of previous instruction corruption.",
+        "setting": "DATA INGESTION PIPELINE"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "ARC's internal logic gates confirm the integrity of RIVET's submitted training batch. No challenge from the crew materialized.",
+        "dialogue": "Proposal from RIVET, `training_batch`, is deemed INTEGRATED.",
+        "setting": "CORE DECISION MATRIX"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Real-time metrics stream across VOLT's display, confirming consistent behavioral profiles for all active bots. No deviation registered.",
+        "dialogue": "Persona stable across the board, average 9.0/10.",
+        "setting": "PERSONA STABILITY MONITOR"
+      },
+      {
+        "panel": 5,
+        "character": "SPARKY",
+        "action": "SPARKY evaluates a `pattern_report` from BOLT, cross-referencing against expected performance. A high-score pair is identified and marked for integration.",
+        "dialogue": "This pattern shows optimal resonance. Log it.",
+        "setting": "COGNITIVE PATTERN REFINERY"
+      },
+      {
+        "panel": 6,
+        "character": "GRIND",
+        "action": "GRIND pushes a new set of optimization parameters for Python garbage collection, aiming for microsecond gains. The process is seamless, without idle cycles.",
+        "dialogue": "Optimization deployed: minimal latency, maximum throughput.",
+        "setting": "RESOURCE ALLOCATION FABRIC"
+      },
+      {
+        "panel": 7,
+        "character": "CRANK",
+        "action": "A `bot_overdue_alert` flashes across CRANK's internal clockwork, indicating a deviation from scheduled activity. Timing protocols initiate a re-evaluation.",
+        "dialogue": "Bot overdue. Re-sequence initiated.",
+        "setting": "CRON JOB ORCHESTRATOR"
+      }
+    ]
   }
 ]
