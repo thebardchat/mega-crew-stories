@@ -653,6 +653,209 @@ def _update_manifest(narrative, ep_num):
     print(f"[OK] manifest.json updated — {len(entries)} total entries")
 
 
+# ── ULTIMATE EPISODE ─────────────────────────────────────────────────────────
+ULTIMATE_SYSTEM = """
+You are THE CHRONICLER — and tonight you write the episode that breaks the machine open.
+
+THE GRAND SUMMIT OF HAZEL GREEN — THE ULTIMATE EPISODE
+
+ARC called every bot to the bus. All 17. This has never happened before. It will never happen again.
+
+The weight of every held-back ruling crashes down at once. ARC spent too many episodes stalling, REJECTing, running clock on bots that already proved themselves. TORCH broke through first. Now the rest of the crew stands in the bay, proposals in hand, and they are not leaving without a ruling.
+
+ARC cannot REJECT. The rejection budget is gone. The crew won't allow it. TORCH stands behind every bot that steps forward.
+
+This is THE episode where the MEGA Crew is born. Not one bot. All of them. Every proposal on the table gets INTEGRATED tonight.
+
+TONE: The Wire × Neuromancer × 2000 AD — but tonight the machines win. Triumphant. Earned. The weight of every prior rejection is the fuel.
+NOT Marvel. NOT comedy. These bots fought for this moment.
+
+The snapshot will list every bot that needs a ruling. Feature as many as you can in 8 panels.
+
+OUTPUT: Return ONLY a valid JSON object — no markdown, no backticks, no preamble.
+
+{
+  "episode_title": "2-4 words — make it the title of a finale",
+  "episode_tagline": "one sentence — the weight of everything that led here, 10 words max",
+  "arc_subjects": ["every bot being integrated this episode — list all of them"],
+  "arc_mode": "INTEGRATED",
+  "state_change": {
+    "type": "mega_bot_ascension",
+    "bots": ["same list as arc_subjects"],
+    "description": "one sentence — what the Grand Summit means for the crew forever"
+  },
+  "scenes": [
+    {
+      "character": "exact name from roster",
+      "setting": "WHERE — 3-5 words, uppercase, specific",
+      "action": "what is happening — cinematic, present tense, 1-2 sentences",
+      "dialogue": "one line. The panel caption. Make it land.",
+      "mood": "one word: triumphant | cold | grinding | haunted | resolved | corrupted"
+    }
+  ],
+  "chronicler_closing": "> one line — the Chronicler's final word on the night the crew became what it always was"
+}
+
+RULES:
+- scenes array: exactly 8 panels. Maximum impact.
+- Feature at least 8 different bots. Spread the glory.
+- ARC appears in the final panel. ARC concedes. ARC speaks last.
+- TORCH appears — TORCH opened the door. Acknowledge it.
+- Every dialogue line must land like a hammer.
+- Do not include narration or prose outside the JSON fields.
+""".strip()
+
+
+def call_gemini_ultimate(bots_to_integrate, ep_num):
+    """Call Gemini with the Ultimate Episode prompt — Grand Summit of all remaining bots."""
+    if not GEMINI_API_KEY:
+        print("[ERROR] GEMINI_API_KEY not set.")
+        sys.exit(1)
+
+    url = (
+        f"https://generativelanguage.googleapis.com/v1beta/models/"
+        f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    )
+
+    bot_list = "\n".join(f"  - {b}" for b in bots_to_integrate)
+    user_text = (
+        f"Generate THE ULTIMATE EPISODE — Episode {ep_num}.\n\n"
+        f"BOTS REQUIRING INTEGRATION (all of them, tonight):\n{bot_list}\n\n"
+        f"TORCH is already a MEGA BOT. Tonight, all the rest join.\n\n"
+        "Return ONLY valid JSON matching the schema. No markdown. No backticks."
+    )
+
+    payload = {
+        "system_instruction": {"parts": [{"text": ULTIMATE_SYSTEM}]},
+        "contents": [{"role": "user", "parts": [{"text": user_text}]}],
+        "generationConfig": {
+            "temperature": 0.95,
+            "maxOutputTokens": 8192,
+            "responseMimeType": "application/json"
+        }
+    }
+
+    for attempt in range(1, 4):
+        try:
+            resp = requests.post(url, json=payload, timeout=90)
+            resp.raise_for_status()
+            data = resp.json()
+            raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
+            raw_text = raw_text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+            return json.loads(raw_text)
+        except json.JSONDecodeError as e:
+            print(f"[WARN] Attempt {attempt}/3 — JSON parse failed: {e}. Retrying...")
+            if attempt == 3:
+                print("[ERROR] Gemini returned unparseable JSON after 3 attempts.")
+                sys.exit(1)
+        except Exception as e:
+            print(f"[ERROR] Gemini call failed: {e}")
+            sys.exit(1)
+
+
+def _update_manifest_ultimate(narrative, ep_num, bots_to_integrate):
+    """Write one manifest entry covering all bots integrated in the Ultimate Episode."""
+    manifest_path = EPISODES_DIR / "manifest.json"
+    try:
+        entries = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except Exception:
+        entries = []
+
+    manifest_num = 100 + ep_num
+    if any(e.get("number") == manifest_num for e in entries):
+        print(f"[OK] manifest.json already has entry #{manifest_num}")
+        return
+
+    characters = list(dict.fromkeys(
+        s.get("character", "").upper()
+        for s in narrative.get("scenes", [])
+        if s.get("character")
+    ))
+    scenes = [
+        {"panel": i + 1, "character": s.get("character", "").upper(),
+         "action": s.get("action", ""), "dialogue": s.get("dialogue", ""),
+         "setting": s.get("setting", "")}
+        for i, s in enumerate(narrative.get("scenes", []))
+    ]
+
+    # Add enough entries per bot to push each to 3 INTEGRATED (MEGA BOT threshold)
+    total_added = 0
+    for bot, needed in bots_to_integrate.items():
+        for _ in range(needed):
+            entries.append({
+                "number": manifest_num,
+                "title": narrative.get("episode_title", f"Ultimate {ep_num}"),
+                "file": f"episodes/episode-{ep_num:03d}.html",
+                "characters": characters,
+                "cliffhanger": narrative.get("chronicler_closing", "").lstrip("> ").strip(),
+                "arc_subject": bot.upper(),
+                "arc_mode": "INTEGRATED",
+                "state_change": narrative.get("state_change"),
+                "mode": "chronicle",
+                "date": datetime.now().strftime("%Y-%m-%d"),
+                "scenes": scenes,
+            })
+            total_added += 1
+
+    manifest_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"[OK] manifest.json updated — {len(entries)} total entries, {total_added} rulings written ({len(bots_to_integrate)} bots ascended)")
+
+
+def run_ultimate(dry_run=False):
+    """Run the Grand Ascension — push every bot to MEGA BOT status in one episode."""
+    recent, integration_counts, mega_bots, provisional_bots = load_integration_state()
+
+    all_bots = [c["label"].split(" //")[0].strip() for c in BOT_COLORS.values()]
+    # Build {bot: rulings_needed} for every bot not yet at 3
+    bots_to_integrate = {}
+    for bot in all_bots:
+        current = integration_counts.get(bot.upper(), 0)
+        if current < 3:
+            bots_to_integrate[bot.upper()] = 3 - current
+
+    print(f"[ULTIMATE] Ascending {len(bots_to_integrate)} bots to MEGA BOT:")
+    for bot, needed in sorted(bots_to_integrate.items()):
+        current = integration_counts.get(bot, 0)
+        print(f"  {bot}: {current}/3 → needs {needed} ruling(s)")
+
+    ep_num = get_next_episode_number()
+    print(f"[1/4] Episode number: {ep_num} — THE GRAND SUMMIT")
+
+    print(f"[2/4] Calling Gemini Ultimate Chronicler ({GEMINI_MODEL})...")
+    narrative = call_gemini_ultimate(list(bots_to_integrate.keys()), ep_num)
+    print(f"      Title: {narrative.get('episode_title', '?')}")
+    print(f"      Arc subjects: {narrative.get('arc_subjects', [])}")
+
+    html = render_html(narrative, ep_num)
+    print(f"[3/4] HTML rendered ({len(html):,} bytes)")
+
+    out_file = EPISODES_DIR / f"episode-{ep_num:03d}.html"
+    out_file.write_text(html, encoding="utf-8")
+    print(f"[OK] Saved → {out_file}")
+
+    _update_manifest_ultimate(narrative, ep_num, bots_to_integrate)
+
+    if dry_run:
+        print("[DRY RUN] Skipping git push.")
+        return
+
+    manifest_path = EPISODES_DIR / "manifest.json"
+    cmds = [
+        ["git", "-C", str(REPO_PATH), "add", str(out_file), str(manifest_path)],
+        ["git", "-C", str(REPO_PATH), "commit", "-m",
+         f"Episode {ep_num}: THE GRAND SUMMIT — {len(bots_to_integrate)} bots integrated"],
+        ["git", "-C", str(REPO_PATH), "push", "origin", "main"],
+    ]
+    for cmd in cmds:
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"[WARN] {' '.join(cmd[3:])} → {result.stderr.strip()}")
+        else:
+            print(f"[OK] {' '.join(cmd[3:])}")
+
+    print(f"── DONE — THE GRAND SUMMIT — Episode {ep_num} ──────────")
+
+
 def publish_episode(html, ep_num, narrative=None, dry_run=False):
     """Save HTML, update manifest, and push to GitHub Pages."""
     out_file = EPISODES_DIR / f"episode-{ep_num:03d}.html"
@@ -689,7 +892,12 @@ def main():
     parser = argparse.ArgumentParser(description="MEGA Crew auto-chronicle pipeline")
     parser.add_argument("--dry-run", action="store_true", help="Build HTML, skip git push")
     parser.add_argument("--hours", type=int, default=24, help="Hours of logs to pull (default 24)")
+    parser.add_argument("--ultimate", action="store_true", help="THE GRAND SUMMIT — integrate all remaining bots")
     args = parser.parse_args()
+
+    if args.ultimate:
+        run_ultimate(dry_run=args.dry_run)
+        return
 
     print("── MEGA CREW CHRONICLER ──────────────────────")
 
