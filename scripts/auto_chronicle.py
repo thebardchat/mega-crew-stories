@@ -199,8 +199,52 @@ def load_integration_state():
     return recent, integration_counts, mega_bots, provisional_bots
 
 
+def load_fable5_state():
+    """Read FABLE 5 arc engine state — value scores, latest arc, per-bot activity."""
+    mega = BUS_DB.parent
+    state = {
+        "value_scores": {},
+        "probation": [],
+        "arc_per_bot": {},
+        "latest_arc": None,
+        "tick_overrides": {},
+    }
+    try:
+        vh = mega / "status" / "value_history.json"
+        if vh.exists():
+            history = json.loads(vh.read_text())
+            for bot, entries in history.items():
+                if entries:
+                    state["value_scores"][bot] = round(entries[-1].get("score", 0.0), 2)
+                    if len(entries) >= 7 and all(e.get("score", 1.0) < 0.15 for e in entries[-7:]):
+                        state["probation"].append(bot)
+    except Exception:
+        pass
+    try:
+        apb = mega / "status" / "arc_per_bot.json"
+        if apb.exists():
+            state["arc_per_bot"] = json.loads(apb.read_text()).get("bots", {})
+    except Exception:
+        pass
+    try:
+        fa = mega / "stories" / "fable5_arcs.json"
+        if fa.exists():
+            arcs = json.loads(fa.read_text()).get("arcs", [])
+            if arcs:
+                state["latest_arc"] = arcs[-1]
+    except Exception:
+        pass
+    try:
+        to = mega / "status" / "tick_overrides.json"
+        if to.exists():
+            state["tick_overrides"] = json.loads(to.read_text())
+    except Exception:
+        pass
+    return state
+
+
 # ── STEP 3: BUILD SNAPSHOT ────────────────────────────────────────────────────
-def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=None, integration_state=None):
+def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=None, integration_state=None, fable5_state=None):
     """Format Weaviate + bus data into a dashboard-style text snapshot for Gemini."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
@@ -301,6 +345,44 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
     if virgin_bots:
         lines.append("")
         lines.append(f"Bots with no rulings yet (need their moment): {', '.join(b.upper() for b in virgin_bots[:8])}")
+
+    # FABLE 5 arc engine — live bot intelligence from the private story engine
+    if fable5_state:
+        lines.append("")
+        lines.append("FABLE 5 ARC ENGINE (internal bot intelligence — use this to shape the story):")
+        arc = fable5_state.get("latest_arc")
+        if arc:
+            arc_type = arc.get("arc_type", "?").upper()
+            subject = arc.get("subject_bot", "?")
+            trigger = arc.get("trigger_reason", "")
+            resolution = arc.get("resolution", "")
+            moral = arc.get("moral_choice", "")
+            ep_ref = arc.get("episode_number", "?")
+            lines.append(f"  Latest arc: {arc_type} — subject: {subject} (FABLE ep {ep_ref})")
+            if trigger:
+                lines.append(f"  Trigger: {trigger}")
+            if moral:
+                lines.append(f"  Moral question: {moral[:120]}")
+            if resolution:
+                lines.append(f"  Resolution: {resolution[:120]}")
+        scores = fable5_state.get("value_scores", {})
+        if scores:
+            sorted_scores = sorted(scores.items(), key=lambda x: -x[1])
+            top = " | ".join(f"{b}:{s:.2f}" for b, s in sorted_scores[:8])
+            bottom = [b for b, s in sorted_scores if s < 0.30]
+            lines.append(f"  Value scores (high→low): {top}")
+            if bottom:
+                lines.append(f"  Low-value bots (throttled): {', '.join(bottom)}")
+        probation = fable5_state.get("probation", [])
+        if probation:
+            lines.append(f"  PROBATION (score < 0.15 for 7+ days): {', '.join(probation)}")
+        arc_per_bot = fable5_state.get("arc_per_bot", {})
+        if arc_per_bot:
+            activity = " | ".join(
+                f"{b}:+{v.get('approved',0)}/-{v.get('rejected',0)}"
+                for b, v in sorted(arc_per_bot.items(), key=lambda x: -(x[1].get('approved',0)))
+            )
+            lines.append(f"  Arc activity today: {activity}")
 
     return "\n".join(lines)
 
@@ -911,8 +993,13 @@ def main():
     recent, integration_counts, mega_bots, provisional_bots = load_integration_state()
     print(f"      MEGA BOTs: {mega_bots or 'none yet'} | provisional: {list(provisional_bots.keys()) or 'none'} | integrated: {len(integration_counts)} bots")
 
+    fable5_state = load_fable5_state()
+    arc = fable5_state.get("latest_arc")
+    print(f"      FABLE 5: arc={arc.get('arc_type','?') if arc else 'none'} | scores={len(fable5_state.get('value_scores',{}))} bots")
+
     snapshot = build_snapshot(agent_logs, bot_memories, ep_num, args.hours, bus_activity,
-                              integration_state=(recent, integration_counts, mega_bots, provisional_bots))
+                              integration_state=(recent, integration_counts, mega_bots, provisional_bots),
+                              fable5_state=fable5_state)
     print(f"[3/5] Snapshot built ({len(snapshot)} chars)")
 
     print(f"[4/5] Calling Gemini Chronicler ({GEMINI_MODEL})...")
