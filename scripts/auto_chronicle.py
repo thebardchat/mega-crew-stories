@@ -51,6 +51,7 @@ BOT_PORTRAITS = {
     "crank":             f"{PORTRAIT_BASE}/crank_Gemini_Generated.png",
     "spike":             f"{PORTRAIT_BASE}/spike_Gemini_Generated.png",
     "stomp":             f"{PORTRAIT_BASE}/stomp_Gemini_Generated.png",
+    "nukkels":           f"{PORTRAIT_BASE}/nukkels_Gemini_Generated.png",
 }
 
 BOT_COLORS = {
@@ -71,6 +72,7 @@ BOT_COLORS = {
     "spike":             {"hex": "#ffd600", "label": "SPIKE // BENCHMARKER"},
     "forge":             {"hex": "#ff6e40", "label": "FORGE // BUILDER"},
     "flux":              {"hex": "#e040fb", "label": "FLUX // HEARTBEAT"},
+    "nukkels":           {"hex": "#ff1744", "label": "NUKKELS // POWER GRID"},
 }
 
 _BOT_ALIASES = {
@@ -249,7 +251,7 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
         f"[MEGA DASHBOARD SNAPSHOT — {now}]",
-        f"Active bots: 17/17",
+        f"Active bots: 18/18",
         f"Cluster: shanebrain-1 (Pi 5 orchestrator), neworleans Weaviate healthy",
         f"Episode to generate: {episode_num}",
         "",
@@ -391,7 +393,7 @@ def build_snapshot(agent_logs, bot_memories, episode_num, hours, bus_activity=No
 CHRONICLER_SYSTEM = """
 You are THE CHRONICLER — Narrative Engine for the MEGA Bot Crew. Real data in. Comic book panels out.
 
-The MEGA Bot Crew runs 24/7 on a Raspberry Pi 5 in Hazel Green, Alabama. 17 bots. One bus. No days off.
+The MEGA Bot Crew runs 24/7 on a Raspberry Pi 5 in Hazel Green, Alabama. 18 bots. One bus. No days off.
 
 FULL ROSTER (use exact names in output):
 ARC — Gatekeeper. Three modes: REJECT (proposal killed, broken only), PROVISIONAL (accepted under N-episode observation), INTEGRATED (proven, becomes new baseline). Cannot REJECT more than 2 times in any 5-episode window. Measured. Authoritative.
@@ -411,6 +413,7 @@ CRANK — Scheduler. Lives in cron. Obsessed with timing.
 SPIKE — Benchmarker. Everything is a race. Everything has a score.
 FORGE — Builder. Proposes code changes. Always has a pull request in mind.
 FLUX — Heartbeat. The pulse monitor. Knows when the crew is off-rhythm.
+NUKKELS — Power Grid Keeper. Red. Two huge fists. Built by Ryker. While the rest of the crew talks, Nukkels stands at the core and keeps the lights on — nobody goes dark on his watch.
 
 EVOLUTION PROTOCOL — ARC's three response modes:
 REJECT: Proposal killed. Reserved for genuinely broken, dangerous, or corrupted proposals. ARC states the failure plainly. No theatrics.
