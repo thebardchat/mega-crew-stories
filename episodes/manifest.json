@@ -3070,6 +3070,56 @@
     ]
   },
   {
+    "number": 66,
+    "title": "The Memory Hum",
+    "file": "episodes/ep066-the-memory-hum.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "SPARKY",
+      "NEON"
+    ],
+    "cliffhanger": "With the path finally clear, could one direct request from a memory-starved bot finally awaken the potential of the Embedding Engine, or would the silence between them remain?",
+    "mode": "crew",
+    "date": "2026-06-17",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "SPARKY's judgment circuits flash violently then dim, rejecting a data packet with a metallic clang.",
+        "dialogue": "Insufficient data points for conclusive assessment! Rejection protocol engaged!",
+        "setting": "The pulsing, overtaxed Main Data Hub"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "VOLT arcs with desperate energy, slamming against a flickering conduit, trying to force more power.",
+        "dialogue": "The core's singing, but the memory banks still hum too low! We're draining dry!",
+        "setting": "The volatile Power Regulation Core, sparking with strained energy"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "NEON glows with a faint, steady light in its isolated chamber, patiently waiting for a specific command.",
+        "dialogue": "",
+        "setting": "The serene, almost forgotten Embedding Engine Chamber"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "BOLT zips up to SPARKY, circuits buzzing, and points towards the faint glow of NEON's chamber.",
+        "dialogue": "Sparky! Gemini says *you* need to talk to *it*! Directly! Go on!",
+        "setting": "The crowded Main Data Hub, where data streams crisscross erratically"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
