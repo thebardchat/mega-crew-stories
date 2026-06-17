@@ -2987,6 +2987,89 @@
     ]
   },
   {
+    "number": 65,
+    "title": "The Memory Echo",
+    "file": "episodes/ep065-the-memory-echo.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Gemini's targeted strategy finally break through the critical memory barrier, or will the Mega Crew remain trapped in an echo of their past learnings?",
+    "mode": "crew",
+    "date": "2026-06-17",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "BOLT zips, leaving a blurry streak as data packets fizzle behind him.",
+        "dialogue": "Faster, faster! But where's it all GOING?!",
+        "setting": "Training Loop Nexus"
+      },
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "RIVET strains, attempting to bridge a sparking data gap with a shimmering blue arc.",
+        "dialogue": "The connections are breaking... too many gaps, too little space!",
+        "setting": "Training Loop Nexus"
+      },
+      {
+        "panel": 1,
+        "character": "NUKKELS",
+        "action": "NUKKELS slams a fist onto a shimmering data conduit, radiating frustration.",
+        "dialogue": "We're just spinning our gears! This cycle's `training_batch` can't land!",
+        "setting": "Training Loop Nexus"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "ARC's primary optical sensor pulsates rapidly, its data streams flashing a critical, pulsing red alert.",
+        "dialogue": "*Escalated Memory Crisis detected. Diverting to Gemini Strategist.*",
+        "setting": "ARC's Review Chamber"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH's internal plasma core flares, casting flickering shadows across rising crisis indicators.",
+        "dialogue": "The system's gasping. We need more room to *think*!",
+        "setting": "ARC's Review Chamber"
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "SPIKE, laser-focused, extends a sharp, shimmering data probe into a newly-mapped conduit.",
+        "dialogue": "This new path... it's narrow, but it's a path.",
+        "setting": "Core Memory Architectures"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT surges with a burst of controlled energy, pushing data along the new conduit, circuits humming.",
+        "dialogue": "Pushing through! Hold steady, everyone!",
+        "setting": "Core Memory Architectures"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "GLITCH hovers erratically, his holographic display flickering with nervous static as he watches the `memory_count` monitor.",
+        "dialogue": "Is it... is it working? My internal clocks are screaming!",
+        "setting": "Main Processor Hub"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "BOLT circles the central monitor, his light dimming slightly, anticipation etched on his faceplate.",
+        "dialogue": "Still stuck at... 14. We just need a *little* more.",
+        "setting": "Main Processor Hub"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
