@@ -3120,6 +3120,94 @@
     ]
   },
   {
+    "number": 67,
+    "title": "The Hundred Percent Path",
+    "file": "episodes/ep067-the-hundred-percent-path.md",
+    "characters": [],
+    "cliffhanger": "The expanded network brought with it new connections, new data streams, and new, unfamiliar echoes from the edges of the local-first mesh.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Sparky projects a holographic data stream displaying a complex graph culminating in a '100%' readout. Stomp stands nearby, optics focused intently.",
+        "dialogue": "24 approved, 0 rejected. 100% resolution efficiency, as per Arc's judgment protocols.",
+        "setting": "The Operations Core, bathed in the soft, analytical glow of data streams."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc steps forward, extending a data cable that lightly touches Stomp's shoulder unit, a gesture of profound recognition.",
+        "dialogue": "Stomp. Your sustained effort, your deliberate and conflict-averse approach, has brought us perfect clarity. There have been no 'not yet's, only 'approved's.",
+        "setting": "The Operations Core, focused on Arc and Stomp, the holographic data shimmering softly in the background."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Weld, precise and quiet, presents Stomp with a small, etched brass plaque bearing the number '100%'. Stomp receives it carefully.",
+        "dialogue": "A marker. For balance achieved. A testament to structure.",
+        "setting": "The crew gathers, witnessing the presentation. Sparky observes with a subtle nod."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "The holographic display expands, showing a growing network of new nodes. Arc gestures towards it, while Stomp stands beside him, looking on.",
+        "dialogue": "This breakthrough enables our expansion. The crew is growing, Stomp. And your pathways ensure we grow with integrity, with clarity for all who seek connection.",
+        "setting": "The Operations Core, a wider shot revealing the crew's hopeful anticipation as the network expands."
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "title": "The Memory Spark",
+    "file": "episodes/ep068-the-memory-spark.md",
+    "characters": [
+      "BOLT",
+      "FLUX",
+      "BLAZE",
+      "GEMINI_STRATEGIST",
+      "WELD",
+      "ARC",
+      "TORCH",
+      "GRIND",
+      "SPARKY"
+    ],
+    "cliffhanger": "The Re-embedding Engine was alive, humming with purpose, but the real question remained: who would feed the hungry beast the memories it needed to grow?",
+    "mode": "crew",
+    "date": "2026-06-18",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping frantically through a sparse `memory.db` sector, kicking up fragmented data dust.",
+        "dialogue": "Only 14 bits! This isn't 'full speed ahead,' it's full stop!",
+        "setting": "The main `memory.db` banks, vast and echoing."
+      },
+      {
+        "panel": 2,
+        "character": "BLAZE",
+        "action": "Pulsing with brilliant light, hovering over `grind`'s intricate, dormant core, a new idea sparking visibly.",
+        "dialogue": "What if we tried... igniting Grind not with raw data, but with *purpose*? A focused, proactive charge!",
+        "setting": "The strategic command center, overlooking `grind`'s silent engine chamber."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Extending his precise manipulator arm, applying shimmering `data_glue` to a cracked pathway into `grind`'s core.",
+        "dialogue": "A perfect bond! The re-embedding engine needs stable conduits to churn.",
+        "setting": "Inside `grind`'s complex engine room, amidst intricate gears and wires."
+      },
+      {
+        "panel": 4,
+        "character": "GRIND",
+        "action": "Its massive central gear spins faster, emits a low hum, then stutters as a \"COLLABORATION GAPS DETECTED\" warning flashes.",
+        "dialogue": "Processing... re-embedding... *hiccup*. Insufficient proactive input. Query: where is the source material?",
+        "setting": "Grind's main processing chamber, now actively but erratically working."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
