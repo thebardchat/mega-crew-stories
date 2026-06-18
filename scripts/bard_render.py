@@ -2,12 +2,14 @@
 """
 bard_render.py — page-TURNING comic renderer for The Bard / MEGA Crew saga.
 
-LANE A art: every panel shows the REAL canonical portrait art of the bots who
-speak in it (from cards/portraits/, served live from the same site). The crew
-always looks like themselves and the images never fail to load (static PNGs,
-no on-demand generation). Shane and Claude render as styled name-chips (no card
-art exists for them). The scene description is kept under the cast — it reads
-like an illustrated story.
+LANE A art + speech bubbles: every line of dialogue is a comic SPEECH BALLOON
+spoken by that bot's REAL canonical face (from cards/portraits/, served live).
+The crew always looks like themselves and images never fail to load (static
+PNGs). Shane/Claude speak as styled chips. Scene description is kept above the
+bubbles so it reads like a story.
+
+The "to be continued" end card carries a Discord call-to-action when DISCORD_URL
+is set.
 
 Usage:
   python3 scripts/bard_render.py saga/issue-002.json            # -> saga/issue-002.html
@@ -19,7 +21,9 @@ import html
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Canonical portrait per crew bot (root-relative path, served live from the site).
+# Set this to the server's Discord invite to light up the end-card CTA.
+DISCORD_URL = ""
+
 _ART_BASE = "/cards/portraits/"
 CREW_ART = {
     "arc": "arc_Gemini_Generated.png", "blaze": "blaze_Gemini_Generated.png",
@@ -32,46 +36,39 @@ CREW_ART = {
     "stomp": "stomp_Gemini_Generated.png", "torch": "torch_Gemini_Generated.png",
     "volt": "volt_Gemini_Generated.png", "weld": "weld_Gemini_Generated.png",
 }
-B_SIDE = {"shane", "claude"}  # rendered as styled name-chips
+B_SIDE = {"shane", "claude"}
 
 
 def _esc(s):
     return html.escape(s or "")
 
 
-def _cast_html(panel: dict) -> str:
-    """A row of the real portraits (crew) / name-chips (Shane, Claude) speaking in this panel."""
-    seen, members = set(), []
-    for d in panel.get("dialogue", []) or []:
-        who = (d.get("who") or "").strip().lower()
-        if not who or who in seen:
-            continue
-        seen.add(who)
-        name = who.replace("gemini_strategist", "gemini").upper()
-        if who in CREW_ART:
-            members.append(
-                f"<div class='castmember'><img class='face' loading='lazy' "
-                f"src='{_ART_BASE}{CREW_ART[who]}' alt='{_esc(name)}'>"
-                f"<span class='name'>{_esc(name)}</span></div>")
-        elif who in B_SIDE:
-            members.append(
-                f"<div class='castmember'><span class='chip {who}'>{_esc(name)}</span>"
-                f"<span class='name'>{_esc(name)}</span></div>")
-    return ("<div class='cast'>" + "".join(members) + "</div>") if members else ""
+def _avatar(who: str) -> str:
+    w = (who or "").strip().lower()
+    name = w.replace("gemini_strategist", "gemini").upper()
+    if w in CREW_ART:
+        return f"<img class='av' loading='lazy' src='{_ART_BASE}{CREW_ART[w]}' alt='{_esc(name)}'>"
+    if w in B_SIDE:
+        return f"<span class='av chip {w}'>{_esc(name[:1])}</span>"
+    return f"<span class='av chip other'>{_esc(name[:1] or '?')}</span>"
 
 
 def _panels_html(panels):
     out = []
     for pan in panels or []:
         out.append("<div class='panel'>")
-        out.append(_cast_html(pan))
-        if pan.get("art"):  # scene description — kept, reads like story
+        if pan.get("art"):  # scene description, reads like story
             out.append(f"<div class='art'>{_esc(pan['art'])}</div>")
         if pan.get("caption"):
             out.append(f"<div class='cap'>{_esc(pan['caption'])}</div>")
         for d in pan.get("dialogue", []) or []:
-            out.append(f"<div class='line'><span class='who'>{_esc(d.get('who',''))}</span> — "
-                       f"{_esc(d.get('line',''))}</div>")
+            who = (d.get("who") or "").strip()
+            name = who.replace("gemini_strategist", "gemini").upper()
+            side = "right" if who.strip().lower() in B_SIDE else "left"
+            out.append(
+                f"<div class='bubble {side}'>{_avatar(who)}"
+                f"<div class='balloon'><span class='nm'>{_esc(name)}</span>"
+                f"{_esc(d.get('line',''))}</div></div>")
         out.append("</div>")
     return "".join(out)
 
@@ -80,7 +77,7 @@ _CSS = """
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Georgia,'Times New Roman',serif;line-height:1.6;overflow:hidden}
 #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
-.leaf{position:absolute;inset:0;display:none;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:880px;margin:0 auto;left:0;right:0;animation:turn .32s ease}
+.leaf{position:absolute;inset:0;display:none;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:900px;margin:0 auto;left:0;right:0;animation:turn .32s ease}
 .leaf.on{display:flex}
 @keyframes turn{from{opacity:0;transform:translateX(26px) rotateY(6deg)}to{opacity:1;transform:none}}
 .kicker{color:#7fb0d6;letter-spacing:.22em;text-transform:uppercase;font-size:12px;font-family:Menlo,monospace}
@@ -94,24 +91,29 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .act-leaf h2{color:#f4c87a;font-size:38px;margin:.25em 0}
 .page-no{color:#6b7178;font-family:Menlo,monospace;font-size:11px;letter-spacing:.12em}
 .setting{color:#9fb6c6;font-style:italic;font-size:13px;margin-top:4px}
-.narr{color:#dcd8cf;margin:12px 0 4px;font-size:17px}
-.panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:12px 14px;margin:10px 0}
-.cast{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;margin:2px 0 10px}
-.castmember{display:flex;flex-direction:column;align-items:center;width:112px}
-.face{width:112px;height:112px;border-radius:14px;object-fit:cover;border:2px solid #2f3742;background:#0d1115}
-.chip{width:112px;height:112px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-family:Menlo,monospace;font-size:13px;letter-spacing:.12em}
-.chip.shane{background:#1a1206;border:2px solid #5a4318;color:#f4c87a}
-.chip.claude{background:#0a1018;border:2px solid #25435e;color:#9fd0f0}
-.name{font-family:Menlo,monospace;font-size:11px;color:#cdb98a;text-transform:uppercase;letter-spacing:.07em;margin-top:4px}
-.art{color:#9fb6c6;font-style:italic;font-size:14px;margin-top:2px}
-.cap{color:#d7d3ca;margin-top:6px}
-.line{margin:6px 0}
-.who{color:#f4c87a;font-family:Menlo,monospace;font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+.narr{color:#dcd8cf;margin:12px 0 6px;font-size:17px}
+.panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:13px 15px;margin:11px 0}
+.art{color:#9fb6c6;font-style:italic;font-size:14px;margin-bottom:8px}
+.cap{color:#d7d3ca;margin-bottom:8px}
+.bubble{display:flex;gap:11px;align-items:flex-start;margin:9px 0;max-width:680px}
+.bubble.right{flex-direction:row-reverse;margin-left:auto}
+.av{width:58px;height:58px;border-radius:50%;object-fit:cover;border:2px solid #2f3742;background:#0d1115;flex:none}
+.av.chip{display:flex;align-items:center;justify-content:center;font-family:Menlo,monospace;font-weight:bold;font-size:18px}
+.av.chip.shane{background:#1a1206;border-color:#5a4318;color:#f4c87a}
+.av.chip.claude{background:#0a1018;border-color:#25435e;color:#9fd0f0}
+.av.chip.other{background:#15191f;border-color:#2f3742;color:#9aa6b2}
+.balloon{position:relative;background:#f4f0e7;color:#15171a;border-radius:15px;padding:9px 14px;font-family:'Trebuchet MS','Segoe UI',sans-serif;font-size:15px;line-height:1.45;box-shadow:0 1px 0 #0006}
+.balloon .nm{display:block;font-size:11px;font-weight:bold;color:#9a6a12;text-transform:uppercase;letter-spacing:.05em;margin-bottom:2px}
+.bubble.left .balloon:before{content:'';position:absolute;left:-8px;top:18px;border:7px solid transparent;border-right-color:#f4f0e7}
+.bubble.right .balloon:before{content:'';position:absolute;right:-8px;top:18px;border:7px solid transparent;border-left-color:#f4f0e7}
 .endcard{justify-content:center;text-align:center}
 .endcard .box{padding:22px;border-radius:12px;margin:12px auto;max-width:600px}
 .lesson{background:#0d1510;border:1px solid #1f3a27;color:#bfe6c8}
 .prelude{background:#15110a;border:1px solid #3a2f17;color:#f0d9a8}
-.tobe{color:#f4c87a;font-size:26px;margin-top:18px}
+.tobe{color:#f4c87a;font-size:26px;margin:18px 0}
+.discord{display:inline-block;margin-top:10px;background:#5865F2;color:#fff;text-decoration:none;font-family:Menlo,monospace;font-size:14px;padding:13px 20px;border-radius:11px}
+.discord:hover{background:#4752c4}
+.discord small{display:block;opacity:.85;font-size:11px;margin-top:3px}
 #nav{position:fixed;left:0;right:0;bottom:0;height:54px;display:flex;align-items:center;justify-content:center;gap:18px;background:#0b0d10ee;border-top:1px solid #1d232a;font-family:Menlo,monospace;font-size:13px;z-index:10}
 #nav button{background:#161b21;color:#e8e6e1;border:1px solid #2a3138;border-radius:8px;padding:8px 16px;cursor:pointer;font-family:inherit;font-size:13px}
 #nav button:hover{background:#1e252d;color:#f4c87a}
@@ -166,9 +168,13 @@ def render_html(issue: dict, issue_num: int) -> str:
         leaves.append(
             f"<section class='leaf endcard'><div class='box lesson'>"
             f"<b>What this issue is really about</b><br><br>{_esc(issue['lesson'])}</div></section>")
+    cta = (f"<a class='discord' href='{_esc(DISCORD_URL)}' target='_blank' rel='noopener'>"
+           f"Come help guide the MEGA bots → "
+           f"<small>jump in our Discord and talk with them — your words shape the crew</small></a>"
+           ) if DISCORD_URL else ""
     leaves.append(
         f"<section class='leaf endcard'><div class='box prelude'><b>Next issue —</b><br><br>"
-        f"{_esc(issue.get('prelude',''))}</div><div class='tobe'>… to be continued.</div></section>")
+        f"{_esc(issue.get('prelude',''))}</div><div class='tobe'>… to be continued.</div>{cta}</section>")
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return (
