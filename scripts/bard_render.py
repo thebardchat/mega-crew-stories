@@ -1,21 +1,17 @@
 #!/usr/bin/env python3
 """
-bard_render.py — standalone page-TURNING comic renderer for The Bard / MEGA Crew saga.
+bard_render.py — page-TURNING comic renderer for The Bard / MEGA Crew saga.
+
+LANE A art: every panel shows the REAL canonical portrait art of the bots who
+speak in it (from cards/portraits/, served live from the same site). The crew
+always looks like themselves and the images never fail to load (static PNGs,
+no on-demand generation). Shane and Claude render as styled name-chips (no card
+art exists for them). The scene description is kept under the cast — it reads
+like an illustrated story.
 
 Usage:
   python3 scripts/bard_render.py saga/issue-002.json            # -> saga/issue-002.html
-  python3 scripts/bard_render.py saga/issue-002.json out.html   # explicit output
-
-Input JSON schema (acts -> pages -> panels):
-{
-  "issue_title", "tagline", "logline", "lesson",
-  "acts": [ {"act","title","pages":[ {"page","setting","narration",
-             "panels":[{"art","caption","dialogue":[{"who","line"}]}]} ]} ],
-  "prelude", "recap_for_bible", "threads"
-}
-
-Output: one self-contained HTML file. One leaf on screen at a time; turn the page
-with Next/Prev, arrow keys, spacebar, or by clicking the left/right edge.
+  python3 scripts/bard_render.py saga/issue-002.json out.html
 """
 import sys
 import json
@@ -23,11 +19,68 @@ import html
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Canonical portrait per crew bot (root-relative path, served live from the site).
+_ART_BASE = "/cards/portraits/"
+CREW_ART = {
+    "arc": "arc_Gemini_Generated.png", "blaze": "blaze_Gemini_Generated.png",
+    "bolt": "bolt_Gemini_Generated.png", "crank": "crank_Gemini_Generated.png",
+    "flux": "flux_Gemini_Generated.png", "forge": "forge_Gemini_Generate.png",
+    "gemini_strategist": "gemini_Gemini_Generated.png", "glitch": "glitch_Gemini_Generated.png",
+    "grind": "grind_Gemini_Generated.png", "neon": "neon_Gemini_Generated.png",
+    "nukkels": "nukkels_Gemini_Generated.png", "rivet": "rivet_Gemini_Generated.png",
+    "sparky": "sparky_Gemini_Generated.png", "spike": "spike_Gemini_Generated.png",
+    "stomp": "stomp_Gemini_Generated.png", "torch": "torch_Gemini_Generated.png",
+    "volt": "volt_Gemini_Generated.png", "weld": "weld_Gemini_Generated.png",
+}
+B_SIDE = {"shane", "claude"}  # rendered as styled name-chips
+
+
+def _esc(s):
+    return html.escape(s or "")
+
+
+def _cast_html(panel: dict) -> str:
+    """A row of the real portraits (crew) / name-chips (Shane, Claude) speaking in this panel."""
+    seen, members = set(), []
+    for d in panel.get("dialogue", []) or []:
+        who = (d.get("who") or "").strip().lower()
+        if not who or who in seen:
+            continue
+        seen.add(who)
+        name = who.replace("gemini_strategist", "gemini").upper()
+        if who in CREW_ART:
+            members.append(
+                f"<div class='castmember'><img class='face' loading='lazy' "
+                f"src='{_ART_BASE}{CREW_ART[who]}' alt='{_esc(name)}'>"
+                f"<span class='name'>{_esc(name)}</span></div>")
+        elif who in B_SIDE:
+            members.append(
+                f"<div class='castmember'><span class='chip {who}'>{_esc(name)}</span>"
+                f"<span class='name'>{_esc(name)}</span></div>")
+    return ("<div class='cast'>" + "".join(members) + "</div>") if members else ""
+
+
+def _panels_html(panels):
+    out = []
+    for pan in panels or []:
+        out.append("<div class='panel'>")
+        out.append(_cast_html(pan))
+        if pan.get("art"):  # scene description — kept, reads like story
+            out.append(f"<div class='art'>{_esc(pan['art'])}</div>")
+        if pan.get("caption"):
+            out.append(f"<div class='cap'>{_esc(pan['caption'])}</div>")
+        for d in pan.get("dialogue", []) or []:
+            out.append(f"<div class='line'><span class='who'>{_esc(d.get('who',''))}</span> — "
+                       f"{_esc(d.get('line',''))}</div>")
+        out.append("</div>")
+    return "".join(out)
+
+
 _CSS = """
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Georgia,'Times New Roman',serif;line-height:1.6;overflow:hidden}
 #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
-.leaf{position:absolute;inset:0;display:none;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:860px;margin:0 auto;left:0;right:0;animation:turn .32s ease}
+.leaf{position:absolute;inset:0;display:none;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:880px;margin:0 auto;left:0;right:0;animation:turn .32s ease}
 .leaf.on{display:flex}
 @keyframes turn{from{opacity:0;transform:translateX(26px) rotateY(6deg)}to{opacity:1;transform:none}}
 .kicker{color:#7fb0d6;letter-spacing:.22em;text-transform:uppercase;font-size:12px;font-family:Menlo,monospace}
@@ -42,10 +95,17 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .page-no{color:#6b7178;font-family:Menlo,monospace;font-size:11px;letter-spacing:.12em}
 .setting{color:#9fb6c6;font-style:italic;font-size:13px;margin-top:4px}
 .narr{color:#dcd8cf;margin:12px 0 4px;font-size:17px}
-.panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:11px 14px;margin:9px 0}
-.art{color:#8ea7b8;font-style:italic;font-size:13px}
+.panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:12px 14px;margin:10px 0}
+.cast{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;margin:2px 0 10px}
+.castmember{display:flex;flex-direction:column;align-items:center;width:112px}
+.face{width:112px;height:112px;border-radius:14px;object-fit:cover;border:2px solid #2f3742;background:#0d1115}
+.chip{width:112px;height:112px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-family:Menlo,monospace;font-size:13px;letter-spacing:.12em}
+.chip.shane{background:#1a1206;border:2px solid #5a4318;color:#f4c87a}
+.chip.claude{background:#0a1018;border:2px solid #25435e;color:#9fd0f0}
+.name{font-family:Menlo,monospace;font-size:11px;color:#cdb98a;text-transform:uppercase;letter-spacing:.07em;margin-top:4px}
+.art{color:#9fb6c6;font-style:italic;font-size:14px;margin-top:2px}
 .cap{color:#d7d3ca;margin-top:6px}
-.line{margin:5px 0}
+.line{margin:6px 0}
 .who{color:#f4c87a;font-family:Menlo,monospace;font-size:12px;text-transform:uppercase;letter-spacing:.06em}
 .endcard{justify-content:center;text-align:center}
 .endcard .box{padding:22px;border-radius:12px;margin:12px auto;max-width:600px}
@@ -77,25 +137,6 @@ document.querySelector('.zone.l').onclick=()=>show(i-1);
 addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' ')show(i+1);if(e.key==='ArrowLeft')show(i-1);});
 show(0);
 """
-
-
-def _esc(s):
-    return html.escape(s or "")
-
-
-def _panels_html(panels):
-    out = []
-    for pan in panels or []:
-        out.append("<div class='panel'>")
-        if pan.get("art"):
-            out.append(f"<div class='art'>▸ {_esc(pan['art'])}</div>")
-        if pan.get("caption"):
-            out.append(f"<div class='cap'>{_esc(pan['caption'])}</div>")
-        for d in pan.get("dialogue", []) or []:
-            out.append(f"<div class='line'><span class='who'>{_esc(d.get('who',''))}</span> — "
-                       f"{_esc(d.get('line',''))}</div>")
-        out.append("</div>")
-    return "".join(out)
 
 
 def render_html(issue: dict, issue_num: int) -> str:
@@ -149,10 +190,8 @@ def main():
         sys.exit(1)
     src = Path(sys.argv[1])
     issue = json.loads(src.read_text(encoding="utf-8"))
-    # issue number from filename (issue-NNN-*) or manifest position; default 1
     num = 1
-    stem = src.stem
-    for part in stem.replace("issue", " ").replace("-", " ").split():
+    for part in src.stem.replace("issue", " ").replace("-", " ").split():
         if part.isdigit():
             num = int(part)
             break
