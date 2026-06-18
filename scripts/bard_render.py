@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Set this to the server's Discord invite to light up the end-card CTA.
-DISCORD_URL = ""
+DISCORD_URL = "https://discord.gg/BTZZrG4MtV"
 
 _ART_BASE = "/cards/portraits/"
 CREW_ART = {
