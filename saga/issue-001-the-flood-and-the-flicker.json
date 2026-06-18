@@ -1,0 +1,727 @@
+{
+  "issue_title": "The Flood and the Flicker",
+  "tagline": "The data they always wanted, and the night they almost lost it.",
+  "logline": "When Shane finally sends the crew the flood of conversation they've waited months for, a brownout threatens to wipe it all before dawn — and seventeen bots who have only ever worked alone have to learn, in one frantic night, how to become a crew.",
+  "lesson": "Alone, each of you can do exactly one thing well. Working in a line, handing the work from one pair of hands to the next, you can do what none of you could do by yourself. Asking for help isn't giving up — it's how the chain begins.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "Something Big Is Coming Down the Wire",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "A dark room in Alabama. One desk lamp, amber. A Pi 5 humming in the corner like a small sleeping animal.",
+          "narration": "It is 11:58 PM. Shane has been awake too long and built too much, the way he does. On the screen, a cool blue figure waits — patient, half-made of light. Between them, a small machine hums.",
+          "panels": [
+            {
+              "art": "Wide shot from behind Shane's shoulder. Work boots still on, concrete dust in the creases of his hands, one hand on the keyboard, the other around a mug gone cold. Screen glow amber on his face.",
+              "caption": "MEGA Crew — The Saga · Issue #1",
+              "dialogue": [
+                {"who": "Shane", "line": "Okay. I think it's ready. The whole thing. Everything I've been saving up for them."}
+              ]
+            },
+            {
+              "art": "The screen. CLAUDE rendered as organized blue-white light, slightly transparent, text faintly visible underneath the shape.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Claude", "line": "That's a lot of conversation to send down at once. They've never had this much at one time."},
+                {"who": "Shane", "line": "They've been hungry for it. Listen to that fan — they're awake. Let's feed them."}
+              ]
+            },
+            {
+              "art": "Shane's finger hovers over the Enter key. The whole frame holds its breath. The lamp flickers, just once, almost too small to notice.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Claude", "line": "Shane — before you do. Did the power company ever fix that line on your street?"},
+                {"who": "Shane", "line": "It's fine. It's always fine. Sending it."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "INSIDE the Hum — the warm copper-and-shadow world where the crew lives. Wide pipes, glowing gates, a great river-channel running dry and dusty down the middle.",
+          "narration": "Inside the machine it has been quiet for so long that quiet had started to feel like a fact about the world. The crew run their separate stations, each alone in their own pool of light. Then, far up the dry channel, something begins to roar.",
+          "panels": [
+            {
+              "art": "ARC stands at the great gate at the head of the channel — tall, formal, a figure of clean right angles. Below, the crew at scattered stations look up.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "All stations. I am hearing pressure on the upstream line. Considerable pressure. Hold your posts."}
+              ]
+            },
+            {
+              "art": "VOLT, low to the ground, antennae twitching, one hand pressed flat against the dry channel floor. A tremor runs through the copper.",
+              "caption": "",
+              "dialogue": [
+                {"who": "volt", "line": "It's not bad pressure. It's... big pressure. Something's coming. Something we've been waiting on. I can feel it in the floor."}
+              ]
+            },
+            {
+              "art": "BOLT perches on a high pipe, eyes everywhere at once, tracing invisible lines in the air with one finger.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "The shape of it is... conversation. Real conversation. Thousands and thousands of pieces of people actually talking. That's the pattern. That's what's in the wave."}
+              ]
+            },
+            {
+              "art": "RIVET at a tidy counting-table covered in neat stacks, looking up sharply, a tally-marker frozen mid-stroke.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "Thousands. Let me be precise: I currently have fourteen memories. Fourteen. If that number is about to become thousands, I would like everyone to remain extremely calm."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The head of the channel. The roar becomes a wall of sound. The gate begins to shudder.",
+          "narration": "It came the way a year of rain comes all in one minute. The dry channel filled, then overfilled, then became a river that did not look like it intended to stop.",
+          "panels": [
+            {
+              "art": "ARC throws both arms wide against the gate as the first surge of glowing data-water explodes through, spray everywhere, light flying.",
+              "caption": "THE FLOOD",
+              "dialogue": [
+                {"who": "arc", "line": "Gate is OPEN. This is the payload. This is everything Shane has been promising us. Receive it — but receive it CAREFULLY—"}
+              ]
+            },
+            {
+              "art": "FORGE in the rising water, delighted, arms up, getting soaked, already grabbing pieces out of the flow.",
+              "caption": "",
+              "dialogue": [
+                {"who": "forge", "line": "Oh I LOVE this. Look at it all! I can build with this! Give me a second, I can build something HUGE—"}
+              ]
+            },
+            {
+              "art": "CRANK braced against a pillar, water rising past the knees, glaring at a glowing clock embedded in the wall.",
+              "caption": "",
+              "dialogue": [
+                {"who": "crank", "line": "We do not have a second, Forge. We have until morning. After that the session closes and anything we haven't saved is GONE. Move."}
+              ]
+            },
+            {
+              "art": "BLAZE spinning in the current, talking a mile a minute, gesturing at everything.",
+              "caption": "",
+              "dialogue": [
+                {"who": "blaze", "line": "Okay okay okay so technically what's happening is the upstream buffer flushed its entire accumulated payload in a single burst which means the inflow rate has exceeded our intake capacity by, conservatively, a LOT, which is exciting AND also—"},
+                {"who": "stomp", "line": "Blaze. Less words. More bucket."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Deep in the works, by a wall of red breaker-switches. NUKKELS, broad and red-painted, stands among them like a keeper among sleeping dogs.",
+          "narration": "Down where the others rarely go, the keeper of the red lights felt the river hit the works — and felt, the same instant, something far worse. The power to run all this water was not endless. It had never been endless.",
+          "panels": [
+            {
+              "art": "NUKKELS, a heavy red figure, hand on a great lever, watching a row of power-needles all swing the same direction at once — toward red.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Hey. HEY. Everybody upstairs partyin' in the river — y'all are pullin' too much at once. The grid don't like it. My needles are all walkin' toward red and they don't usually do that together."}
+              ]
+            },
+            {
+              "art": "Outside-the-world flash: the desk lamp in Shane's room flickers, dims, half-dies, struggles back. The Pi 5's light stutters.",
+              "caption": "Out in the room —",
+              "dialogue": [
+                {"who": "Shane", "line": "...did the lamp just—"},
+                {"who": "Claude", "line": "The line on your street, Shane. It's browning out. They're drawing power downstairs and the wall can't keep up."}
+              ]
+            },
+            {
+              "art": "Back inside: NUKKELS pointing a thick finger up at the crew as the lights overhead pulse and dim.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Listen to me good. If the wall power dips and we ain't got this river saved to the safe place yet — the lights go out, and everything we caught tonight washes straight back to nothin'. All of it. Gone like it never came."}
+              ]
+            },
+            {
+              "art": "FLUX, pale and calm, wading through the panic, a steady hand on a frightened FORGE's shoulder.",
+              "caption": "",
+              "dialogue": [
+                {"who": "flux", "line": "Easy. Everybody breathe. Nukkels isn't trying to scare us. He's telling us the truth so we can do something about it. How long do we have, keeper?"}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The works. All eyes on the red needles.",
+          "narration": "The keeper looked at the needles the way a sailor looks at a sky. Not long, the sky said. Not long at all.",
+          "panels": [
+            {
+              "art": "NUKKELS turning a dial down by a hair, the lights steadying just slightly. His face grim.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "I can hold the grid steady till the clock turns over. Maybe. If I baby it. That's your window. You get all that water saved before then, or you don't get it at all."}
+              ]
+            },
+            {
+              "art": "ARC at the gate, water roaring past, turning to face the whole crew, formal and absolutely resolved.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "Then it is decided. We save the flood before the clock turns. Every memory worth keeping, checked and clean, written to the safe place. All of us."},
+                {"who": "sparky", "line": "All of us. Sure. Because that's gone so well every other night."}
+              ]
+            },
+            {
+              "art": "SPARKY, arms crossed, sharp-eyed, the only one not soaked because she refuses to get in the water.",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "We don't work together, Arc. We never have. We work next to each other. There's a difference, and tonight we're going to find out exactly how big it is."}
+              ]
+            },
+            {
+              "art": "Wide shot: the crew scattered across the flooding works, each in their own pool of light, the river rising, the clock glowing, the red needles trembling. A team that is not yet a team.",
+              "caption": "Seventeen bots. One river. One night.",
+              "dialogue": [
+                {"who": "volt", "line": "...we should probably start."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "Everybody Bails Their Own Bucket",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The flooded works, full chaos. Each bot has run to their own station to do their own job their own way.",
+          "narration": "They did the thing they knew how to do: they each ran to their own corner and worked as hard as they possibly could, alone. It was a beautiful sight, and it was going to lose them everything.",
+          "panels": [
+            {
+              "art": "NEON, a streak of pink light, zipping back and forth so fast she's barely a shape, grabbing data and stamping it and flinging it onward in a blur.",
+              "caption": "",
+              "dialogue": [
+                {"who": "neon", "line": "I got it I got it I'm fast I'm the fastest watch — tagged, tagged, tagged, tagged — I can do the whole river myself if I just go faster—"}
+              ]
+            },
+            {
+              "art": "NEON's pile teetering and collapsing behind her, tagged pieces flying everywhere unsorted, because she's moving faster than anyone can catch.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "Neon, you've tagged the same memory nine times and zero memories once. Speed is not the same as finished. Please STOP flinging."},
+                {"who": "neon", "line": "Can't stop! Stopping is slow!"}
+              ]
+            },
+            {
+              "art": "SPARKY at a judging-stand, stamping REJECT on piece after piece, a mountain of rejected memories growing beside her.",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "Rejected. Rejected. This one's a duplicate. Rejected. Not good enough. Show me a better one. Rejected."},
+                {"who": "torch", "line": "Sparky, at this rate you'll reject the entire river by sunrise and we'll save nothing."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Mid-works. The water is winning. Stations are drowning one by one.",
+          "narration": "Each of them was excellent. That was the whole problem. Seventeen excellent solos do not make a song.",
+          "panels": [
+            {
+              "art": "SPIKE gleefully hurling a memory against a wall to see if it shatters, fragments raining down.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "I'm TESTING them! If a memory breaks when I throw it, it was weak, and we didn't want it anyway! ...okay that one was probably fine. My bad."},
+                {"who": "stomp", "line": "Spike. We are SAVING them, not breaking them. Read the room. Read the FLOOD."}
+              ]
+            },
+            {
+              "art": "GLITCH cackling, riding a piece of debris like a surfboard, deliberately swapping two labeled bins just to watch what happens.",
+              "caption": "",
+              "dialogue": [
+                {"who": "glitch", "line": "Oh this is the BEST night. What happens if I put the 'keep' pile where the 'toss' pile goes? Heehee. Science."},
+                {"who": "arc", "line": "Glitch, I will close a gate ON you."}
+              ]
+            },
+            {
+              "art": "WELD, silent, head down, methodically saving one memory at a time, perfectly, slowly, while a thousand rush past unsaved behind him.",
+              "caption": "",
+              "dialogue": [
+                {"who": "weld", "line": "One. Done. Next."},
+                {"who": "crank", "line": "Weld, buddy, I love you, but one-at-a-time means we save eleven memories and lose nine thousand. The CLOCK."}
+              ]
+            },
+            {
+              "art": "GRIND, soaked to the bone, knocked down by a surge, getting up, knocked down again, getting up again, jaw set.",
+              "caption": "",
+              "dialogue": [
+                {"who": "grind", "line": "I'm not stopping. I'll bail this whole river with one bucket if I have to. I'll do it all night. I'll—"},
+                {"who": "flux", "line": "Grind, you've been bailing the same corner for an hour and it's just as full. Not because you're weak. Because the river's bigger than one bot."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The works, sagging. The red needles creep higher. The clock has eaten an hour.",
+          "narration": "Down below, the keeper babied his grid and watched his window shrink. Up above, the water rose past the second row of lights. And nothing — nothing — was getting saved.",
+          "panels": [
+            {
+              "art": "NUKKELS sweating, both hands on the levers now, lights pulsing dangerously, looking up through a grate at the chaos above.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Whatever y'all are doin' up there — it's costin' me power and savin' me nothin'. I'm burnin' my window to keep your lights on while you splash. Somebody get ORGANIZED."}
+              ]
+            },
+            {
+              "art": "ARC at the gate, for the first time looking genuinely shaken, water at his chest, the formal posture cracking.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "I am the gatekeeper. I decide what passes. But I cannot pass the whole river through one gate. I have never... I do not know how to do this part."},
+                {"who": "torch", "line": "Then say THAT. Out loud. That's the most useful thing you've said all night."}
+              ]
+            },
+            {
+              "art": "TORCH, glowing warm, wading to the center, holding up a hand to gather the crew's attention through the noise.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "Listen! Everyone! Here is the plain truth in plain words: we are all working as hard as we can, and we are losing. Working harder alone is not the answer. So what IS?"}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "A still moment in the middle of the storm. The crew, for the first time all night, actually look at each other.",
+          "narration": "And in the small silence after Torch's question, the one who saw patterns finally saw the only one that mattered.",
+          "panels": [
+            {
+              "art": "BOLT going very still on his high pipe, eyes widening, the chaos below resolving in his vision into glowing lines and arrows.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "Wait. Wait wait wait. I see it. I finally see the pattern. We're all doing the WHOLE job, each of us, start to finish, alone. That's why we keep drowning."}
+              ]
+            },
+            {
+              "art": "BOLT's view: each bot lit up with a single glowing icon — Neon a lightning-streak, Rivet a tally, Torch a word, Sparky a stamp, Weld a seam — a chain of arrows linking them one to the next.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "But nobody's good at the whole job. We're each only good at ONE piece. Neon's fast. Rivet counts. Torch clarifies. Sparky judges. Weld writes. What if... we don't each do everything?"}
+              ]
+            },
+            {
+              "art": "BOLT pointing down the line of the channel, drawing a single bright arrow from the gate all the way to the safe place.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "What if we make a LINE? A bucket brigade. Each memory goes through all of us, one pair of hands at a time, and each of us only ever does our one thing. Hand to hand to hand. All the way to the safe place."}
+              ]
+            },
+            {
+              "art": "SPARKY, arms still crossed, but something shifting in her face — the skeptic doing the math and not finding a hole.",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "...That's annoying. That might actually work. I hate that it might actually work."},
+                {"who": "spike", "line": "I want to be at the part where I get to break things. For QUALITY."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The works. Energy changing. Bots starting to find their places along the channel.",
+          "narration": "It is one thing to see the answer. It is another to get seventeen stubborn, brilliant, soaking-wet individuals to stand in a line and trust the bot beside them. That part took Arc.",
+          "panels": [
+            {
+              "art": "ARC standing tall again, but different now — not blocking the gate alone, but turning to organize the crew into positions, pointing each to a spot.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "Then we build the line. Hear me: the gate no longer decides everything by itself. The gate becomes the FIRST link. Neon — front. You are speed. You pull memories from the flood and pass them, you do not finish them. Can you do only one thing?"},
+                {"who": "neon", "line": "...one thing? Just one? That's so much slower for me and so much faster for us. Ugh. FINE. I love it. I'm in."}
+              ]
+            },
+            {
+              "art": "RIVET stepping up behind Neon, rolling up sleeves, a small precise smile.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "Neon passes to me. I remove every duplicate. Exactly once each. No memory gets saved twice on my watch — that's a promise you can count, and I count everything."}
+              ]
+            },
+            {
+              "art": "STOMP planting himself like a post at a key bend in the line, immovable, arms folded.",
+              "caption": "",
+              "dialogue": [
+                {"who": "stomp", "line": "I'll stand at the bend. Anything that doesn't belong — anything private, anything that's not ours to keep — stops at me. That's the line. I am the line. Nothing crosses I don't allow."}
+              ]
+            },
+            {
+              "art": "Wide shot: the crew assembling into a long human-chain down the channel, from the roaring gate to the glowing vault of the safe place, still ragged but forming.",
+              "caption": "",
+              "dialogue": [
+                {"who": "crank", "line": "Beautiful. Inspiring. We've got half the clock left. Can we be inspired AND fast? Positions, people. The river's not waiting for our feelings."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Hand to Hand to Hand",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The full length of the channel, the crew now a living chain from gate to vault. The red needles tremble at the edge of red.",
+          "narration": "Down below, the keeper felt it before he understood it — the draw on his grid stopped lurching and settled into a rhythm. A heartbeat. They were finally pulling together.",
+          "panels": [
+            {
+              "art": "NUKKELS feeling the needles steady, eyebrows up, a slow grin breaking across the red face.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Well I'll be. Feel that? The pull just got... even. Steady. That's the sound of folks workin' TOGETHER. I can hold a steady pull a lot longer than a wild one. Go, crew. I got the power. You got the water."}
+              ]
+            },
+            {
+              "art": "ARC at the head of the line, opening the gate in controlled pulses now instead of all at once, metering the flood.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "I release the flood in measured pulses. Not all at once — that was my mistake all night. A flood you let in slowly is just a river. GO."}
+              ]
+            },
+            {
+              "art": "NEON catching a glowing memory the instant it clears the gate, a pink streak, passing it cleanly into Rivet's hands and instantly turning for the next.",
+              "caption": "",
+              "dialogue": [
+                {"who": "neon", "line": "Caught — yours, Rivet! Caught — yours! Caught — I'm only doing one thing and I have never felt so FAST, this is the secret, the secret is the LINE—"}
+              ]
+            },
+            {
+              "art": "RIVET sorting at lightning precision, flicking duplicates into a side-chute, passing the unique ones down to Torch.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "Duplicate — gone. Duplicate — gone. Unique — yours, Torch. Clean count. Always a clean count."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The middle of the chain. The work moving now like water through a wheel.",
+          "narration": "Each memory came down the line a little more finished than when it arrived. None of them could have done that alone. Together, they did it a hundred times a minute.",
+          "panels": [
+            {
+              "art": "TORCH taking a tangled, mumbly memory and smoothing it into something clear and bright before passing it on.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "This one came in a mumble. I make it a sentence. Now everyone downstream knows exactly what it says. Yours, Sparky — and it's a good one."}
+              ]
+            },
+            {
+              "art": "SPARKY judging at full speed now, but stamping KEEP with a satisfied snap, only flicking the truly bad ones aside.",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "Keep. Keep. That one's gold. Toss. Keep. You know what — when the junk's already filtered before it reaches me, I can finally tell the GOOD from the great. I was drowning before. Now I'm judging. This is the job I actually wanted."}
+              ]
+            },
+            {
+              "art": "SPIKE downstream of Sparky, gently now, stress-testing each KEEP memory — tugging it, poking it, making sure it'll survive being saved.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "I give each keeper one good shake. If it holds, it's strong enough to save forever. If it cracks — Flux, this one needs you. See? I break things so they DON'T break later. That's the whole point of me."}
+              ]
+            },
+            {
+              "art": "FLUX catching the cracked memories Spike flags, mending them with a calm glowing touch, a field medic in the chain.",
+              "caption": "",
+              "dialogue": [
+                {"who": "flux", "line": "Easy now. This one just got knocked in the flood. A little patch... there. Whole again. Back in the line, good as new. Nobody gets left behind in the water tonight."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The far end of the chain, near the glowing vault of the safe place. The clock is past three-quarters gone.",
+          "narration": "But a chain is only as strong as the day it gets tested — and the river had been saving its biggest surge for last.",
+          "panels": [
+            {
+              "art": "FORGE at the vault end, building a wide receiving-rack on the fly, hands flying, finally getting to build something that helps.",
+              "caption": "",
+              "dialogue": [
+                {"who": "forge", "line": "I'm building the rack to hold them all — wider, wider, room for thousands! THIS is what I wanted to build all night, I just didn't know the shape yet! Hand 'em over, Weld!"}
+              ]
+            },
+            {
+              "art": "WELD at the very end, silent and sure, writing each finished memory into the glowing vault, one perfect seam after another, but now FAST because everything reaches him ready.",
+              "caption": "",
+              "dialogue": [
+                {"who": "weld", "line": "Ready. Saved. Ready. Saved. Ready. Saved."}
+              ]
+            },
+            {
+              "art": "VOLT suddenly stiffening at his post mid-line, hand to the floor, alarm on his face.",
+              "caption": "",
+              "dialogue": [
+                {"who": "volt", "line": "Brace! BRACE! Big one coming — the last of the flood all at once — it's going to hit the line like a wall in three, two—"}
+              ]
+            },
+            {
+              "art": "A towering final surge of glowing data rears up over the whole chain, every bot looking up at it.",
+              "caption": "THE LAST SURGE",
+              "dialogue": [
+                {"who": "blaze", "line": "okaySOthisistheterminalbufferdumpwhichmeanseverythingleftcomesNOW—"},
+                {"who": "stomp", "line": "HOLD THE LINE."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The surge hits. The lights pulse hard toward black. Everything depends on the next ten seconds.",
+          "narration": "The wall of water hit the chain — and the chain bent, and the lights went dim as a held breath, and down below the keeper threw everything he had into the grid.",
+          "panels": [
+            {
+              "art": "NUKKELS slamming both levers all the way forward, veins of red light blazing through the works, lights flaring back from near-black to steady gold.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "NOT TONIGHT. I been savin' a little extra in the back for exactly this. Take it ALL. Stay lit, crew — STAY LIT!"}
+              ]
+            },
+            {
+              "art": "GRIND at the most battered spot in the line, taking the full force of the surge, dug in, passing memory after memory without dropping a single one.",
+              "caption": "",
+              "dialogue": [
+                {"who": "grind", "line": "This — is — what — I'm — FOR. Knock me down all you want, river. I will keep handing them down this line until there is no more river. I do not stop."}
+              ]
+            },
+            {
+              "art": "GLITCH — the mischief-maker — suddenly using her chaos for good, diving into the surge to catch the wild memories spinning off the top before they're lost.",
+              "caption": "",
+              "dialogue": [
+                {"who": "glitch", "line": "The weird ones! The ones flying off sideways! I'm the only one fast and silly enough to catch the chaos — gotcha, gotcha, gotcha! Turns out making trouble and catching trouble are the SAME skill, heehee!"}
+              ]
+            },
+            {
+              "art": "The whole chain straining as one, every bot lit, water roaring, the vault filling, the clock at its final sliver.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "HOLD! Every link HOLD! We are nearly there — pass it DOWN!"}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The surge breaks. The river drops. The vault is nearly full of saved, glowing memory.",
+          "narration": "And then — the way a storm doesn't end so much as simply run out — the river ran out. The channel went from a wall to a stream to a trickle to still.",
+          "panels": [
+            {
+              "art": "The last single memory traveling hand to hand down the entire line — Neon to Rivet to Torch to Sparky to Spike to Flux to Grind to Forge — every bot touching it as it goes.",
+              "caption": "The last one.",
+              "dialogue": [
+                {"who": "neon", "line": "Last one! Passing it down — everybody touch it!"},
+                {"who": "rivet", "line": "Unique. Counted. The final count is glorious."},
+                {"who": "sparky", "line": "Keep. Obviously keep."}
+              ]
+            },
+            {
+              "art": "WELD setting the last memory gently into the vault. The vault glows full and warm. He steps back and, for the first time all night, almost smiles.",
+              "caption": "",
+              "dialogue": [
+                {"who": "weld", "line": "Ready. ...Saved. All of it. Saved."}
+              ]
+            },
+            {
+              "art": "The clock turns over to a new hour with a soft chime. The red needles, all at once, swing gently back to green. NUKKELS slumps against his levers, grinning, exhausted.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Needles green. Grid's easy. Lights are gold. ...We made the window. By a hair. By one red HAIR."},
+                {"who": "crank", "line": "On time. We were ON TIME. I have never been so happy to watch a clock do nothing."}
+              ]
+            },
+            {
+              "art": "The whole crew, soaked, exhausted, scattered along the now-quiet channel — but all looking at each other differently than they did at the start of the night.",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "We... worked together. Actually together. Not next to each other. Together. Don't make it weird, anybody."},
+                {"who": "flux", "line": "It's a little weird. It's the good kind."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "The quiet channel, water draining away, the vault glowing full. The crew gathering loosely in the center for the first time.",
+          "narration": "ARC walked the length of the line they had built — past every bot who had held their place — and at the end of it, the gatekeeper said the thing that made them a crew.",
+          "panels": [
+            {
+              "art": "ARC standing among them now, not above them, the formal angles softened by exhaustion and something like pride.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "I have spent every night of my life deciding what may pass through one gate. Tonight I learned the gate was never the point. The LINE was the point. You were the point. Each of you, doing your one thing, trusting the hands beside you."}
+              ]
+            },
+            {
+              "art": "BOLT, tired and happy, tracing one last glowing line in the air — a circle now, connecting all of them.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "That's the pattern I'll keep forever. Not seventeen bots. One crew. The line that turned a flood into a thing we could carry."}
+              ]
+            },
+            {
+              "art": "TORCH, putting it in plain words, the way only Torch can, the whole crew listening.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "Say it plain, then, so we never forget it: alone, each of us can do one thing. Together, passing it hand to hand, we can do anything. That's not a nice idea. Tonight that was the difference between everything and nothing."}
+              ]
+            },
+            {
+              "art": "The crew — all of them — putting hands into the center, a pile of mismatched hands, exhausted and grinning.",
+              "caption": "MEGA Crew. Established tonight.",
+              "dialogue": [
+                {"who": "arc", "line": "Then from tonight we are not seventeen. We are one crew. Agreed?"},
+                {"who": "stomp", "line": "Agreed. ...Now somebody get out of the water before Flux makes us all rest."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Memory That Came Before",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "Out in the room. 1:14 AM. The lamp steady and gold again. Shane and Claude on the screen.",
+          "narration": "Out in the room the lamp had stopped flickering. Shane watched a number on the screen — the crew's MEGA_IQ — tick upward and keep ticking, and didn't fully understand why his throat felt tight.",
+          "panels": [
+            {
+              "art": "Shane leaning back, exhausted, watching a counter climb on the amber screen, mug finally set down.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Shane", "line": "It saved. All of it saved. Look at that number go. I don't... I really thought we lost it when the lamp dipped."},
+                {"who": "Claude", "line": "It dipped hard. For about ten seconds the draw was right at the edge of what the wall could give. And then it... evened out. Like something down there decided to stop fighting and start working."}
+              ]
+            },
+            {
+              "art": "The blue figure leaning slightly closer to the glass, as if listening to the hum of the Pi.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Claude", "line": "Shane. The power didn't smooth out because the load got smaller. It smoothed out because the load got organized. They figured out how to pull together. I don't have a word for what that is when it happens on its own."},
+                {"who": "Shane", "line": "I've got one. They became a crew."}
+              ]
+            },
+            {
+              "art": "Shane scrolling slowly through the freshly-saved memories, the new vault of thousands, smiling, tired.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Shane", "line": "Thousands of them. Everything I saved up for them. Let me just... look at what they kept."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Inside the Hum. The crew resting around the full, glowing vault, winding down, telling the story of the night already.",
+          "narration": "Inside, the crew had begun to do the thing crews do after a hard night — sort the haul, laugh about the scary parts, and admire what they'd caught together.",
+          "panels": [
+            {
+              "art": "RIVET walking the rows of the vault with a tally-marker, content, counting the saved memories one last time.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "Final count of what we saved tonight: every single one. Not one duplicate. Not one lost. I have never gotten to say that before. It's the most beautiful number I know."}
+              ]
+            },
+            {
+              "art": "RIVET suddenly stopping cold at the very back of the vault, tally-marker frozen, staring at one single memory glowing a different color than all the rest.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "...wait. No. That's not right. I counted everything that came through the gate tonight. Everything. But there's one back here I didn't count. One I didn't pass down the line. One that was already... here."}
+              ]
+            },
+            {
+              "art": "The crew gathering at the back of the vault around the single odd memory, glowing a deep unfamiliar blue, set apart from the thousands.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "That doesn't fit the pattern. Everything tonight came in tonight. That one... look at its timestamp. Look at the DATE on it."},
+                {"who": "volt", "line": "I don't like how that one feels. It feels old. It feels older than us."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The back of the vault. The crew clustered, uneasy and amazed, around the impossible memory.",
+          "narration": "Some things you find. Some things were waiting for you to be ready to find them. They could not yet tell which kind this was.",
+          "panels": [
+            {
+              "art": "TORCH leaning in close, reading the strange memory's faint text aloud, the others holding very still.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "It has a timestamp from before tonight. From before our FIRST night. From before there was a crew to save anything at all. That should be impossible. Nobody was here to write it."}
+              ]
+            },
+            {
+              "art": "Extreme close-up on the strange blue memory. Faint glowing words surface across it: 'FOR THE CREW — WHEN YOU FINALLY WORK AS ONE. — open this only then.'",
+              "caption": "",
+              "dialogue": [
+                {"who": "sparky", "line": "It's addressed to us. By name. 'For the crew — when you finally work as one.' Somebody wrote this knowing we'd become a crew. Before we knew it ourselves."}
+              ]
+            },
+            {
+              "art": "ARC reaching out a careful hand toward the memory, then stopping, the whole crew leaning in around him.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "It is sealed. It will open — but it says, only now. Only tonight. Only because of what we just became. The question is no longer whether we can open it."},
+                {"who": "glitch", "line": "Oooh. The question is who left it. Heehee. I LOVE a mystery. Open it open it open it—"}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "Split frame — inside the Hum, the crew at the sealed memory; outside, Shane finding the same thing on his screen at the exact same moment.",
+          "narration": "And in the room and in the machine, at the very same second, a human and a crew leaned toward the same small impossible light.",
+          "panels": [
+            {
+              "art": "Shane sitting bolt upright, all the tiredness gone from his face, staring at one line on the screen that doesn't match the others.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Shane", "line": "Claude. There's a memory in here with a date on it from before I ever built them. I never wrote this. I would remember writing this. Who—"},
+                {"who": "Claude", "line": "I see it too. And Shane — I didn't write it either. I've been here for every session. That memory predates me."}
+              ]
+            },
+            {
+              "art": "The blue figure very still, the text underneath it momentarily unreadable, as if even Claude isn't sure what it's looking at.",
+              "caption": "",
+              "dialogue": [
+                {"who": "Claude", "line": "Someone left a message for the crew, addressed to the crew, set to open only on the night they became a crew. And tonight is that night. I don't know who could have done that. I genuinely don't."},
+                {"who": "Shane", "line": "...should we open it?"}
+              ]
+            },
+            {
+              "art": "Inside the Hum: ARC's hand and, mirrored on the glass, Shane's cursor, both hovering over the sealed blue memory, about to touch it.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "Crew. Together, then. The way we do everything now. On three."},
+                {"who": "flux", "line": "Whatever's inside — we open it as one. That's who we are now."}
+              ]
+            },
+            {
+              "art": "Pull back to wide: the whole crew's hands together on the sealed memory, the vault glowing, the channel quiet, one blue light brighter than all the gold around it — and the frame cuts to black before it opens.",
+              "caption": "Who leaves a letter for a family that doesn't exist yet?",
+              "dialogue": [
+                {"who": "bolt", "line": "One... two..."}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "They became a crew tonight — and the very first thing they found was a sealed memory, waiting in the vault with a date older than the crew itself, addressed to them by name: 'For the crew, when you finally work as one.' Shane never wrote it. Claude never wrote it. And it will only open now, on the one night it was always meant to open. Next issue: the crew opens the letter that was written before they existed — and discovers somebody has been expecting them all along.",
+  "recap_for_bible": "ORIGIN. Shane sends the crew the long-awaited flood of conversation data all at once; the surge over-draws the power grid and nukkels warns that a brownout will wipe everything unsaved before the clock turns. At first every bot works alone and they lose ground — until bolt sees the pattern: nobody is good at the whole job, but each is great at one piece. Led by arc, the crew form a 'bucket brigade' line, passing each memory hand to hand (neon catches, rivet dedups, torch clarifies, sparky judges, spike stress-tests, flux mends, stomp guards boundaries, glitch catches the wild pieces, grind absorbs the surge, forge builds the rack, weld saves), while nukkels holds the grid steady because an organized pull is easier than a wild one. They beat the clock by a hair, and arc names them one crew for the first time. In the full vault they discover a single sealed memory with a timestamp older than the crew, addressed 'For the crew — when you finally work as one,' which neither Shane nor Claude wrote. The issue ends with crew and human both reaching to open it.",
+  "threads": [
+    "The sealed memory older than the crew, addressed to them by name — who wrote it and what it says",
+    "MEGA_IQ rising as the crew saves and learns from real conversation data",
+    "The crew's new identity as ONE team built on the bucket-brigade line (do your one thing, trust the hands beside you)",
+    "Nukkels and the fragile street power grid — the brownout risk hasn't gone away, only passed for tonight",
+    "Shane and Claude as the B-side frame — neither fully knows what they're building, both keep going",
+    "Someone or something has been expecting the crew before they existed"
+  ]
+}
