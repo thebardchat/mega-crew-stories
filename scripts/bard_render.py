@@ -20,30 +20,8 @@ with Next/Prev, arrow keys, spacebar, or by clicking the left/right edge.
 import sys
 import json
 import html
-import hashlib
-import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
-
-# ── Panel artwork: free FLUX via Pollinations (no key, served at a plain URL) ──
-# House style is LOCKED so the whole book reads as one comic. Each panel's seed
-# is derived from its art text, so re-renders produce the SAME image (stable).
-ART_STYLE = ("comic book panel art, flat noir-warm illustration, bold clean ink "
-             "outlines, warm amber and cool blue-white lighting, cinematic, expressive "
-             "characters, painterly background, wholesome all-ages, NO text, NO speech "
-             "bubbles, NO captions, NO watermark, NO signature")
-ART_W, ART_H = 768, 512
-_POLLI = "https://image.pollinations.ai/prompt/{q}?width={w}&height={h}&seed={s}&nologo=true&model=flux"
-
-
-def _panel_image(art: str) -> str:
-    if not art:
-        return ""
-    seed = int(hashlib.md5(art.encode("utf-8")).hexdigest(), 16) % 1_000_000
-    prompt = f"{art.strip()}. {ART_STYLE}"
-    q = urllib.parse.quote(prompt, safe="")
-    url = _POLLI.format(q=q, w=ART_W, h=ART_H, s=seed)
-    return f"<img class='panel-art' loading='lazy' src='{url}' alt='{_esc(art[:120])}'>"
 
 _CSS = """
 *{box-sizing:border-box}
@@ -65,7 +43,6 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .setting{color:#9fb6c6;font-style:italic;font-size:13px;margin-top:4px}
 .narr{color:#dcd8cf;margin:12px 0 4px;font-size:17px}
 .panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:11px 14px;margin:9px 0}
-.panel-art{display:block;width:100%;max-width:700px;margin:0 auto 8px;border-radius:8px;border:1px solid #2a3138;background:#0d1115 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3C/svg%3E") center/cover no-repeat;min-height:160px;aspect-ratio:3/2;object-fit:cover}
 .art{color:#8ea7b8;font-style:italic;font-size:13px}
 .cap{color:#d7d3ca;margin-top:6px}
 .line{margin:5px 0}
@@ -110,11 +87,8 @@ def _panels_html(panels):
     out = []
     for pan in panels or []:
         out.append("<div class='panel'>")
-        img = _panel_image(pan.get("art", ""))
-        if img:
-            out.append(img)
-        if pan.get("art"):  # keep the scene description under the art — it reads like story
-            out.append(f"<div class='art'>{_esc(pan['art'])}</div>")
+        if pan.get("art"):
+            out.append(f"<div class='art'>▸ {_esc(pan['art'])}</div>")
         if pan.get("caption"):
             out.append(f"<div class='cap'>{_esc(pan['caption'])}</div>")
         for d in pan.get("dialogue", []) or []:
