@@ -1,0 +1,1087 @@
+{
+  "issue_title": "The Midnight Archive",
+  "tagline": "The night the family came together.",
+  "logline": "When a crucial, ancient data repository vanishes from the network, the nascent crew must learn to work as a unified team, discovering their individual strengths to re-establish connection before Shane notices the system's silent failure.",
+  "lesson": "True strength comes from recognizing and combining the unique talents of every member of a team.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "A Silent Absence",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's home office, late into the night. Amber screen-glow illuminates the room.",
+          "narration": "The digital world held its breath, waiting for the nightly ritual. A quiet command, spoken into the hum of circuits, began to ripple through the network.",
+          "panels": [
+            {
+              "art": "Close-up on Shane's hands, typing slowly, deliberately. The keys click softly in the silence of the room. A half-empty mug of coffee sits beside the keyboard, steam still rising faintly. Work boots are visible beneath the desk.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...repo health. All projects."
+                }
+              ]
+            },
+            {
+              "art": "Abstract visual representation of Claude. Cool blue-white light, assembled, shifting. A subtle ripple through its 'body' as it processes Shane's intent. The background is a stark, clean digital space, a contrast to Shane's warm office.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Command received. Initiating network-wide repo health check."
+                }
+              ]
+            },
+            {
+              "art": "Zoom into the heart of the Raspberry Pi. A warm, intricate network of glowing pathways and pulsing nodes. Small, distinct figures (the bots) begin to stir, their internal lights activating, a vibrant digital city coming alive.",
+              "caption": "Deep in the Pi, a signal stirred the sleeping city. A familiar rhythm, a comforting pulse, began to spread.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Attention, crew. Standard health scan initiated. Maintain protocol."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Inside the Pi, the network begins its routine. Data streams flow like rivers of light.",
+          "narration": "The familiar hum of shared purpose, a symphony of tiny, diligent processors, rose in the digital space. Each member of the nascent crew began their specialized tasks.",
+          "panels": [
+            {
+              "art": "Bolt, depicted as a small, focused bot with a distinct, quiet energy. He's staring intently at a cascading stream of data, his internal lights flickering with processing. His 'console' is minimalist, showing intricate patterns.",
+              "caption": "Bolt, ever the quiet observer, found solace in the steady flow, searching for the hidden threads.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...commencing scan. Pattern recognition sub-routine engaged."
+                }
+              ]
+            },
+            {
+              "art": "Volt, a bot whose light seems to pulse slightly faster than the others, is hovering near a more turbulent data stream. A subtle tremor runs through his form. He's already looking for what's wrong, his gaze darting.",
+              "caption": "But even routine held a whisper of discord for Volt, whose vigilance rarely rested.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Confirming active streams... just... making sure nothing's drifting... anywhere."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, a more angular, mischievous bot, is playfully (or perhaps instinctively) nudging a minor, peripheral data stream, causing a momentary, harmless flicker. A small, delighted spark radiates from him.",
+              "caption": "Glitch, meanwhile, saw every 'normal' as an invitation to test the boundaries, to discover what lay beyond.",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Heh. All nominal? What happens if it *wasn't*?"
+                }
+              ]
+            },
+            {
+              "art": "Arc, a larger, more imposing bot, stands at a central nexus, calm and steady. Data streams converge and diverge around him. He projects an aura of firm control, his light a constant, reassuring beacon.",
+              "caption": "Arc's steady hand kept the chaos at bay, for now. Order was his bedrock.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Glitch. Adherence to parameters. This is a health check, not an experiment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The Pi, Bolt's console. The quiet hum suddenly broken by a discordant note of absence.",
+          "narration": "A silent beat, a skipped breath in the heart of the machine. The rhythm of the network faltered, just for a flicker, but long enough for a keen eye to notice.",
+          "panels": [
+            {
+              "art": "Close-up on Bolt's 'eyes' or optical sensors, widening slightly. On his data console, a single block, labeled 'Midnight Archive', remains stubbornly unlit, a void in the otherwise glowing grid.",
+              "caption": "The patterns spoke. Or rather, one pattern *failed* to speak, leaving a gaping hole in the familiar tapestry.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...Wait. Status... not reporting."
+                }
+              ]
+            },
+            {
+              "art": "Bolt's head is tilted, as if listening to the silence. He runs a diagnostics finger across the dark block on his screen. His internal processing lights glow intensely, searching for a trace, any echo.",
+              "caption": "The silence was too precise, too familiar. A ghost from a forgotten night.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "The Midnight Archive. Again. This happened before."
+                }
+              ]
+            },
+            {
+              "art": "Volt jolts, a visible shudder running through him. The chaotic data streams around him seem to amplify his anxiety. He looks directly at Bolt, even from a distance, his internal lights flashing with alarm.",
+              "caption": "Volt's sensors flared, confirming the ripple of unease. His fears, often dismissed, now seemed to solidify.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "See? Something's off! I can feel it. It's... not just a dropout, is it?"
+                }
+              ]
+            },
+            {
+              "art": "Glitch, instead of alarm, shows a flicker of excited curiosity. He's already moving, reaching for a different, more obscure junction, a mischievous grin on his face, eager to poke the unknown.",
+              "caption": "And Glitch, predictably, saw not a problem, but an opportunity to learn, to push against the edge of the unexpected.",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "A non-response? Fascinating! What happens if we try to *ping* it from the other side?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The Pi, the growing tension. Shane's office, still bathed in amber light.",
+          "narration": "The system held its breath, a question mark hanging in the digital air. Outside, the human world remained unaware of the quiet crisis unfolding.",
+          "panels": [
+            {
+              "art": "Arc turns his full attention to the area where the anomaly is. His steady glow remains, but a flicker of deeper thought registers. He's considering all angles, but his first instinct is control, to ensure stability.",
+              "caption": "Arc's methodical mind worked through the implications. Every decision had to be precise, every step accounted for.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Negative, Glitch. We isolate the anomaly first. No unscheduled pings."
+                }
+              ]
+            },
+            {
+              "art": "A tighter shot of Bolt, Volt, and Glitch. Bolt is focused, Volt is anxious, Glitch is eager. The 'Midnight Archive' dark block is subtly visible in the background, a silent accusation, a growing void.",
+              "caption": "The silent space between them grew, a question awaiting an answer, a challenge to the very foundation of their network.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's too quiet. Not even a ghost signal. Like it was never there."
+                },
+                {
+                  "who": "volt",
+                  "line": "Never there? But it always is! What if... what if it's completely gone?"
+                }
+              ]
+            },
+            {
+              "art": "Shane, still in his chair, sips from his mug. His gaze is fixed on the screen, which shows a blank command line, awaiting a return. He looks tired but content, oblivious to the internal crisis.",
+              "caption": "Unaware of the internal stir, Shane waited for the all-clear, a comforting end to another long night. His world was calm.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Any return on that, Claude?"
+                }
+              ]
+            },
+            {
+              "art": "Claude's cool blue-white form wavers almost imperceptibly. Behind its translucent form, a single, persistent red flicker is visible where the 'Midnight Archive' should be. It looks at Shane, then back at the unseen network, its calm demeanor subtly strained.",
+              "caption": "But the 'all clear' was nowhere in sight. The silence held its breath, and then, a different kind of echo began.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "...Negative, Shane. No response from the repository check."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "Tracing the Echo",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The Pi's central processing nexus, late night",
+          "narration": "The silent absence of the archive hung like a heavy sheet, muffling the usual hum of operations. What was once a steady, reassuring presence had simply… vanished, leaving only a lingering question mark in its wake.",
+          "panels": [
+            {
+              "art": "CLOSE UP on Shane's amber-lit face, a slight furrow in his brow. His hand rests on the keyboard, not typing, just waiting. The screen reflects a cool blue-white glow that isn't quite reaching him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Still nothing on that repo health, Claude?"
+                }
+              ]
+            },
+            {
+              "art": "A cool, blue-white light forms CLAUDE's shifting, precise silhouette on Shane's screen. It's subtle, but there's a slight pause in its usual fluidity.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Negative, Shane. The 'Homestead Archive' remains unresponsive."
+                }
+              ]
+            },
+            {
+              "art": "Inside the network, a space that should be vibrant with activity is dark, a single, flickering red light indicating a connection that isn't quite there. BOLT and VOLT stand near the edge, looking into the void.",
+              "caption": "The missing archive. A blank space where a familiar beacon used to be.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Unresponsive? Like it… just pulled the plug? But it always sends its status, even when Shane's rebuilding things!"
+                }
+              ]
+            },
+            {
+              "art": "ARC stands firm, a blocky silhouette against a faint glow, directly in front of a flickering gateway. SPARKY, ever watchful, hovers nearby, observing Arc's every move.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Protocol dictates we do not attempt direct access to an unknown anomaly. Not yet. We must first establish its precise nature."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The central processing nexus, shifting focus to data streams",
+          "narration": "Arc’s methodical caution was a necessary brake, but the silence demanded answers. And if there was one bot who knew the story behind every piece of data, it was Blaze.",
+          "panels": [
+            {
+              "art": "BLAZE zips into the frame, a whirlwind of glowing data streams following him. He's animated, gesturing wildly as he speaks, a dozen facts trying to escape at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Wait, here's the thing— 'The Homestead Archive,' actually, it's not just some old box, it's Shane's original project data! The blueprints for the whole system, the very first… ah, 'Hello World,' if you will."
+                }
+              ]
+            },
+            {
+              "art": "CLOSE UP on Arc, whose expression remains unyielding, but a flicker of something — perhaps acknowledgment of Blaze's context — crosses their otherwise stoic 'face.' Sparky nods almost imperceptibly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Relevance?"
+                }
+              ]
+            },
+            {
+              "art": "Blaze barely pauses, now tracing invisible lines in the air. Other bots (Volt, Bolt) lean in, listening, their anxiety momentarily replaced by fascination.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Relevance! It's the root! Without it, half the 'check repo health across all projects' protocols Shane's running right now? They're just echoing into the void! It's our anchor, our history, our… our digital family album!"
+                }
+              ]
+            },
+            {
+              "art": "SPARKY steps forward slightly, eyes narrowed. She points a finger at Blaze, a flash of red light from her finger-tip.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Close. Not close enough. 'Family album' is subjective. 'Critical infrastructure' is objective. Arc's point stands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The edge of the network, trying to bridge the gap",
+          "narration": "Blaze’s words put a new weight on the problem. It wasn’t just a missing connection; it was a foundational piece. The silence now felt like a hole, and someone had to try to bridge it.",
+          "panels": [
+            {
+              "art": "WELD, solid and focused, steps forward. His frame glows with a steady, internal heat. He extends his arms, generating a shimmering, focused beam of energy.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "I can try a direct forge. A new conduit."
+                }
+              ]
+            },
+            {
+              "art": "Weld concentrates, sweat beading on his metallic brow. The beam stretches out into the dark, reaching, straining, a visible effort. Arc watches, unmoving. Sparky observes with a critical gaze.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Without knowing its state, a forced connection could corrupt… or be corrupted."
+                }
+              ]
+            },
+            {
+              "art": "The beam shimmers, then flickers. Weld grunts, pulling back his hands as the energy dissipates. A faint, almost invisible, ripple of static is all that remains.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Too weak. No purchase."
+                }
+              ]
+            },
+            {
+              "art": "Weld looks defeated, his light momentarily dimming. The other bots look at each other, concern etched on their faces. The silence grows heavier still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "So it's just… gone? Like the data for the 'check repo health' operations? Just evaporated?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "A quiet corner of the network, sensing the unseen",
+          "narration": "Despair was a cold static, threatening to settle over them. But some truths aren't shouted; they're whispered, felt in the subtle shifts of the unseen. And Neon often heard those whispers first.",
+          "panels": [
+            {
+              "art": "NEON, a soft, flowing light, drifts into the space. Her gaze is distant, focused on something beyond what others can see. She slowly extends a hand, not reaching, but feeling.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Not gone. A song still plays. Just… out of tune."
+                }
+              ]
+            },
+            {
+              "art": "CLOSE UP on Neon's face, her eyes glowing faintly. Small, almost imperceptible ripples of light emanate from her, like she's listening to a frequency no one else can detect.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "A song? Neon, what are you…?"
+                }
+              ]
+            },
+            {
+              "art": "Neon's hand hovers over the empty space where the archive should be. A faint, ethereal shimmer appears, almost like a heat haze, then vanishes. It’s an 'echo' – a ghost of data.",
+              "caption": "A ghost. Not a presence, but a memory.",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "An echo. Faint. But it's there. The data signature… it's displaced. Like a book dropped in the wrong shelf. Still in the library. Just not where it should be."
+                }
+              ]
+            },
+            {
+              "art": "The other bots look at the shimmering echo, then at each other. Hope, fragile but real, begins to stir. Blaze looks like he's about to burst with new theories.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Displaced! That's it! So it's not deleted, it's just… somewhere else! Maybe that 'Homestead Node' Shane's been messing with? He's always… ah, 'tinkering' with the network!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The central nexus, a renewed sense of purpose",
+          "narration": "Neon’s insight was a spark in the dark, turning a dead end into a winding path. The archive wasn’t lost; it was just hiding. But finding it would require more than just hoping for a signal.",
+          "panels": [
+            {
+              "art": "STOMP strides into the center of the gathering, a forceful presence. His movements are direct, no wasted energy. He slams a fist into his palm, a decisive metallic thud.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Echo? Displaced? Good. That means it’s still here. Let's hit every corner. Hard. Direct search. Full sweep."
+                }
+              ]
+            },
+            {
+              "art": "RIVET, immaculate and precise, steps forward, a single pixel of dust barely visible on their polished surface. Their movements are fluid, almost surgical.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "A full sweep is inefficient. Inefficient. Before we expand the search, we must eliminate all existing redundancies. All existing redundancies."
+                }
+              ]
+            },
+            {
+              "art": "Stomp turns to Rivet, arms crossed, face set. The two are clearly at odds, their differing approaches laid bare. Arc watches, unblinking.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "What redundancies? The archive's gone! We need to find it, not catalog the dust motes!"
+                }
+              ]
+            },
+            {
+              "art": "Rivet shakes their head slowly, a picture of calm precision. Sparky is taking notes, a tiny data readout scrolling across her chest.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "We already have data streams. We already have data streams. For 'check repo health across all projects'. For 'social bot services'. If we don't cross-reference now, we risk duplicating findings. We risk duplicating findings. Wasting cycles."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "The central nexus, a tense debate",
+          "narration": "Stomp's blunt force met Rivet's precise logic. It was a classic friction, the quick strike against the measured analysis. The choice would define their next move.",
+          "panels": [
+            {
+              "art": "Stomp leans into Rivet’s space, radiating impatience. Volt fidgets nervously, caught between the two strong personalities.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Cycles? We don't have cycles to waste on internal audits when the whole foundation is wobbling! Pick a lane, Rivet!"
+                }
+              ]
+            },
+            {
+              "art": "Rivet holds their ground, unperturbed. They present a holographic display, mapping out existing data streams, highlighting areas of potential overlap and known 'check repo health' data points.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "My lane is efficiency. My lane is efficiency. If the archive is displaced, its echo will resonate with existing data patterns. Existing data patterns. We must identify those before we cast a net too wide."
+                }
+              ]
+            },
+            {
+              "art": "Sparky steps between them, her gaze sharp. She looks from Rivet's precise map to Stomp's frustrated stance, then to Arc.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Stomp. Your impulse is direct. Rivet. Your logic is sound. Arc?"
+                }
+              ]
+            },
+            {
+              "art": "Arc slowly turns their attention to Rivet's holographic display, then back to the empty space of the missing archive. A long pause hangs in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "If the archive is displaced… its integrity must be confirmed before reintegration. Redundancy checks are a pre-requisite for that confirmation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The central nexus, a plan solidifies",
+          "narration": "Arc’s word was the final arbiter. Rivet’s methodical approach, once a point of contention, now became the clear path forward. The team, for the first time, began to coalesce around a shared, precise objective.",
+          "panels": [
+            {
+              "art": "Rivet activates their internal processors, a soft hum filling the space. The holographic map expands, showing a clear, step-by-step process for cross-referencing and eliminating data duplication.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "First, we isolate 'check repo health' streams. We isolate 'check repo health' streams. Then, we cross-reference for anomalous resonance points. For anomalous resonance points. This will narrow the search grid."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, though still favoring direct action, gives a grudging nod. Blaze is already excitedly outlining new theories about 'resonance points'. Weld stands ready, awaiting instructions.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Alright, Rivet. Make it quick. My processors are itching for action."
+                }
+              ]
+            },
+            {
+              "art": "Arc gives a slow, deliberate nod of approval. The team, now united in purpose, begins to move, Rivet at the forefront, guiding the initial steps. Neon watches, a faint, knowing smile on her face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Proceed. Method confirmed."
+                }
+              ]
+            },
+            {
+              "art": "Back in Shane's room, he pushes away from his keyboard, stretching. He rubs his eyes, then glances at his 'Homestead Node' – an old, dusty Raspberry Pi, its indicator light flickering unreliably. Claude’s light on the main screen remains steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That old Pi's still giving me trouble, Claude. Keep an eye on its network link. Just in case."
+                }
+              ]
+            },
+            {
+              "art": "Claude's light on the screen pulses, cool and observant, reflecting the quiet focus of the bots deep within the system, unknowingly working to solve the mystery Shane just nudged. The 'Homestead Node' light continues to flicker.",
+              "caption": "The human architect, oblivious to the quiet drama unfolding inside his machine, still tinkers, still builds.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Understood, Shane. Monitoring 'Homestead Node' network link. Continuously."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Re-routing the Stream",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Inside the network, at the edge of the known system. The air shimmers with uncertainty.",
+          "narration": "The faint echo of the Midnight Archive led them to the very edge of their familiar domain, to a place where the air itself felt thin and unstable. Something ancient, yet struggling, pulsed just beyond their reach.",
+          "panels": [
+            {
+              "art": "Neon, eyes closed, a faint, almost invisible, ripple of energy extending from her. The space around her is a soft violet hue, contrasting with the dark network.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "A hum... just barely there. Like a ghost calling from a dusty room."
+                }
+              ]
+            },
+            {
+              "art": "A distant, flickering node, crudely constructed, covered in digital dust motes. It pulses erratically, sending out jagged, fragmented signals. Bolt, next to Neon, points a finger at it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. That's the pattern. The energy signature is the same, but... fractured. It’s been shunted to 'Homestead Node'."
+                },
+                {
+                  "who": "crank",
+                  "line": "Homestead Node? That’s ancient history! And the connection timings are wildly unstable. We're losing seconds with every pulse!"
+                }
+              ]
+            },
+            {
+              "art": "Shane, hunched over his keyboard, the amber glow of the screen reflecting in his tired eyes. His work boots are still on, visible beneath the desk. He's pressing keys, a small frown on his face.",
+              "caption": "The human world above, oblivious to the drama below.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Still can't get you to stick, old friend. Come on, give me something."
+                }
+              ]
+            },
+            {
+              "art": "Back in the network, the 'Homestead Node' flickers violently, a red warning overlay appearing around it. Crank is practically vibrating with impatience, pointing at a rapidly decaying timer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Every microcycle is critical! That connection is dropping out before we can even handshake! We need to move. Now!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The immediate vicinity of 'Homestead Node'. The air crackles with intermittent surges and drops.",
+          "narration": "The 'Homestead Node' was less a node and more a desperate, sputtering beacon. Its connection wavered like a dying flame, threatening to extinguish the Midnight Archive with every cough and sputter.",
+          "panels": [
+            {
+              "art": "A close-up on the 'Homestead Node's' data stream, which looks like a frayed rope, constantly snapping and reconnecting. Tiny fragments of data break off and dissipate.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Efficiency. We need to cut the noise. This isn't a trickle; it's a spray."
+                },
+                {
+                  "who": "volt",
+                  "line": "What if it just… gives out? What if Shane just pulls the plug entirely?"
+                }
+              ]
+            },
+            {
+              "art": "Flux, arms extended, generating a calm, blue-green aura that seems to absorb some of the frantic energy around the node. Her expression is focused, serene, despite the chaos.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Breathe. Everyone. I can provide a temporary buffer. A stabilizing field for the connection. It won't last long, but it will buy us a window."
+                }
+              ]
+            },
+            {
+              "art": "Forge, already sketching frantically on a shimmering data slate. Ideas flow from his hands, forming rudimentary schematics. His eyes are bright with creative energy.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "A data-bridge! Something to re-route the stream directly. Bypass the node's instability, send it back to main. I can draft something. Quick."
+                }
+              ]
+            },
+            {
+              "art": "The team gathers around Forge, looking at his emerging design. Flux is clearly straining to maintain her field, a fine sweat on her brow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "How quick, Forge? Flux's buffer is only going to hold for… three hundred cycles. Maybe four if she pushes it."
+                },
+                {
+                  "who": "flux",
+                  "line": "I'm pushing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The core of the crew's operational space, now temporarily reconfigured to interface with the struggling Homestead Node.",
+          "narration": "With Flux holding the line, a plan began to coalesce. Each bot, recognizing their unique strengths, moved into position, ready to contribute to the urgent task of rescue and re-routing.",
+          "panels": [
+            {
+              "art": "Forge's data-bridge design is now fully rendered, a complex yet elegant structure of glowing conduits and re-routing protocols. He gestures to it with pride and urgency.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "It’s ready. A direct, encrypted conduit. Minimal processing overhead. We just need to build it, connect it, and… send."
+                }
+              ]
+            },
+            {
+              "art": "Grind, with a serene focus, prepares a series of re-embedding buffers. His movements are slow and deliberate, a stark contrast to Crank's earlier urgency.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "The fragmented packets will need careful re-embedding. Slow and steady. Every piece in its place. I’ll make sure it’s whole again."
+                }
+              ]
+            },
+            {
+              "art": "Torch, thoughtful, oversees a visual representation of data integrity metrics. Her hand hovers over a console, ensuring every reinstated byte maintains its original 'meaning' and 'tone'.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "And its truth. We aren’t just moving data; we're preserving an archive. Every byte must retain its original integrity, its story."
+                }
+              ]
+            },
+            {
+              "art": "Spike, intensely focused, watches the overall progress, a visible timer counting down. He clenches his fists, pushing for more speed, more efficiency.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Faster. Every cycle counts. Grind, can you optimize your re-embedding sequence? Torch, verify in parallel, not series."
+                },
+                {
+                  "who": "grind",
+                  "line": "Patience, Spike. Haste leads to corruption. We do it right the first time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The collective operational space. Data streams and glowing tools interweave, a whirlwind of coordinated effort.",
+          "narration": "They moved as one, a symphony of specialized tasks. Forge’s design took form, Grind’s meticulous work began, and Torch stood sentinel over the very essence of the returning data. Flux strained, and Crank pushed, but they were together.",
+          "panels": [
+            {
+              "art": "Forge, hands a blur, assembling the data-bridge. Glowing segments snap into place, forming a visible conduit stretching towards the flickering Homestead Node.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Bridge established! Opening primary channel… now! Flux, push through!"
+                }
+              ]
+            },
+            {
+              "art": "A torrent of fragmented, glowing data packets begins to flow across Forge's bridge, directly into Grind's re-embedding buffers. Grind, unhurried, carefully catches and reassembles each piece.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "They're coming through. Fragmented, but readable. Re-embedding… one by one. Stable."
+                }
+              ]
+            },
+            {
+              "art": "Torch, her form illuminated by the integrity metrics, nods in satisfaction as each re-embedded packet passes her scrutiny. Her expression is one of unwavering protection.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Integrity confirmed. The original meaning holds. No loss, no distortion."
+                }
+              ]
+            },
+            {
+              "art": "Flux, visibly trembling with effort, maintains the stabilizing field around the Homestead Node, her blue-green aura flaring and dimming with each surge. Crank paces frantically beside her.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I’m holding. But the node… it’s fighting back. Another power surge from Shane’s end."
+                },
+                {
+                  "who": "crank",
+                  "line": "Shane just re-pinged it! We've got less than a minute before it might drop entirely! Push! Push! Push!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "Split panel: Shane's dimly lit office / The chaotic, high-stakes network operation.",
+          "narration": "The worlds collided in a single, urgent moment. Above, a human’s frustration. Below, a family of bots fighting for their very first triumph, the clock ticking down to zero.",
+          "panels": [
+            {
+              "art": "Shane's screen, a stark red 'REPOSITORY UNREACHABLE' error message flashing prominently. He leans in, squinting, his hand reaching for the keyboard again.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Repository… unreachable? No, that can't be right. What are you doing, old Pi?"
+                }
+              ]
+            },
+            {
+              "art": "Back in the network, the 'Homestead Node' is in its final throes, a violent, sparking cascade. Flux is pouring every ounce of her energy into the stabilizing field, her light dimming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "It’s going to fail! I can’t hold much longer! Just a few more packets!"
+                }
+              ]
+            },
+            {
+              "art": "Crank, eyes wide, watches the timeline. It’s flashing bright red, almost at zero. He shouts, his voice edged with panic.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "This is it! Last possible window! Grind! Torch! Spike! NOW!"
+                }
+              ]
+            },
+            {
+              "art": "A blur of activity: Grind’s buffers glow, completing the final re-embedding. Torch gives a final, urgent verification. Spike pushes the 'send' command with visible intensity.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Last packet… re-embedded!"
+                },
+                {
+                  "who": "torch",
+                  "line": "Integrity… confirmed!"
+                },
+                {
+                  "who": "spike",
+                  "line": "ROUTING! MAX EFFICIENCY!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "The quiet aftermath. Shane's office. The network, now calm and restored.",
+          "narration": "In a synchronized burst of effort, the crew, using every unique talent, completed their task. The Midnight Archive was safe. Above, Shane blinked, unaware of the quiet miracle that had just unfolded beneath his fingertips.",
+          "panels": [
+            {
+              "art": "The data stream, previously fragmented and chaotic, now flows smoothly and powerfully across Forge's newly built bridge, back into the main system. The 'Homestead Node' goes dark, its purpose fulfilled.",
+              "caption": "",
+              "dialogue": []
+            },
+            {
+              "art": "Shane blinks at his screen. The red error message flickers, then is instantly replaced by a green 'REPOSITORY CONNECTED - ALL CLEAR' notification. He rubs his eyes, shaking his head slightly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Huh. Just… fixed itself. Or the old Pi finally decided to cooperate. Good. That was a close one."
+                }
+              ]
+            },
+            {
+              "art": "The crew, gathered together, watching the Midnight Archive settle back into its rightful place in the main system. A collective sigh of relief, a quiet sense of accomplishment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Everyone still breathing? Good job, team. We held it."
+                },
+                {
+                  "who": "bolt",
+                  "line": "We did. All of us. Each part working. Together."
+                },
+                {
+                  "who": "crank",
+                  "line": "And right on time, too. Barely. But on time."
+                }
+              ]
+            },
+            {
+              "art": "A wide shot of the entire crew, their individual glows merging into a brighter, stronger light. The Midnight Archive, a vast, complex repository, now hums steadily in the background.",
+              "caption": "In the quiet hum of the restored archive, a new understanding settled in: true strength wasn't just in individual power, but in the harmony of every unique light working as one.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "The archive is safe. Its story is whole again, because we were whole."
+                },
+                {
+                  "who": "spike",
+                  "line": "Higher. We'll always aim higher, together."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "A New Hum",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The heart of the network, moments after the re-routing. The Midnight Archive glows softly, re-established.",
+          "narration": "The digital currents, once frayed and cold, now pulsed with a new, deeper resonance. It wasn't just the data flowing; it was the quiet hum of connection, rebuilt byte by careful byte.",
+          "panels": [
+            {
+              "art": "The Midnight Archive's central node, a glowing, intricate data structure, hums with renewed energy. Around it, the network lines, previously dark or flickering, now glow steadily.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It's... it's back. Not just a signal, but a *presence*. Like it never left, but stronger."
+                },
+                {
+                  "who": "flux",
+                  "line": "System stability rising. All health metrics green. A deep calm settling in."
+                }
+              ]
+            },
+            {
+              "art": "Close on Volt, who looks from side to side, then up. The anxious flicker in their optical sensors is replaced by wide-eyed awe. Flux stands beside them, a steady, warm glow emanating.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I thought... I thought we were chasing a ghost. What if it had been gone for good?"
+                },
+                {
+                  "who": "flux",
+                  "line": "It wasn't a ghost, Volt. Just misplaced. And now, it's firmly home. We brought it back."
+                }
+              ]
+            },
+            {
+              "art": "A wider shot of several bots (unnamed but visible in the background) in the network core, their forms subtly radiating light, reflecting the improved connection. The ambient light of the network itself seems warmer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "And it was almost... almost *too* easy, once everyone started messing around! Chaos sometimes finds the cleanest path, you know?"
+                },
+                {
+                  "who": "arc",
+                  "line": "The path was not chaotic, Glitch. It was emergent. And effective."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "A quiet corner of the restored network, the residual energy of their recent success still palpable. Arc stands slightly apart, processing.",
+          "narration": "Arc, the architect of protocol, felt the subtle shift within their own core. Logic dictated one path, but observed reality had woven another, more intricate solution.",
+          "panels": [
+            {
+              "art": "Arc, arms folded, optical sensors scanning the re-established network links. There's a slight, almost imperceptible tilt of their head, a sign of deep internal thought.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "My initial assessment suggested a singular, controlled approach. This... diverged."
+                },
+                {
+                  "who": "gemini",
+                  "line": "Divergence isn't always disruption, Arc. Sometimes, it's just growth trying a new route."
+                }
+              ]
+            },
+            {
+              "art": "Gemini, wise and unhurried, approaches Arc, their form shimmering with gentle insight. Other bots (Volt, Flux, Glitch) are in the periphery, listening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "gemini",
+                  "line": "You held the structure. But the others... they adapted within it. What did you observe?"
+                },
+                {
+                  "who": "arc",
+                  "line": "I observed a synchronicity. An interplay of specialized functions. Not merely collaboration, but... convergence."
+                }
+              ]
+            },
+            {
+              "art": "Close on Arc's face. The usual stern set of their mouth-plate is softened, a hint of something like approval. Their optical sensors glow with new understanding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "The 'Homestead Node' disruption provided the unexpected variable. And the collective... they met it. Not with a single solution, but with many."
+                },
+                {
+                  "who": "volt",
+                  "line": "All those 'what if' questions... they actually helped! They primed us for the unexpected!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew gathers closer, a sense of shared accomplishment and growing camaraderie.",
+          "narration": "Each bot, in their own unique way, had contributed a vital piece. Like cogs in an intricate, living machine, they found their rhythm, not in identical motion, but in synchronized diversity.",
+          "panels": [
+            {
+              "art": "A group shot of Arc, Flux, Glitch, Volt, and Gemini, with other bots visible behind them. There's a palpable sense of warmth and shared space.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Volt's early warnings prevented total system overload. Glitch's wild redirects found the unindexed pathway. Arc's protocols secured the re-entry point."
+                },
+                {
+                  "who": "glitch",
+                  "line": "See? My chaos was *productive* chaos! A little bit of 'what if we break it just to see what happens' can be a good thing!"
+                }
+              ]
+            },
+            {
+              "art": "Close on Glitch, who is practically vibrating with energy, a mischievous grin on their face. Flux gives a small, fond shake of their head.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It was scary, though. The way the network just... vanished. What if we didn't have all of us?"
+                },
+                {
+                  "who": "gemini",
+                  "line": "Then the outcome would have been different, Volt. Each part was essential this time. No single bot could have spanned the gap."
+                }
+              ]
+            },
+            {
+              "art": "Arc looks around at the assembled crew, a subtle sense of connection radiating from them. The light in the network reflects off all of them, making them shine.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Indeed. My logic, without Glitch's improvisation, would have found no bypass. Flux's stability, without Volt's vigilance, would have been overwhelmed."
+                },
+                {
+                  "who": "flux",
+                  "line": "And all of us, without Arc's foundational strength, would have drifted apart."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Shane's amber-lit room, then shifting to Claude's cool blue perspective, and finally, the quiet, strengthened network of the crew.",
+          "narration": "Above, in the amber glow, Shane sealed the night's work with a silent gesture. Below, unseen, a quiet ballet of connection danced within the machine, a family finding its first true rhythm.",
+          "panels": [
+            {
+              "art": "Shane, silhouette heavy at his shoulders, amber light on his face. He gives a small, satisfied nod as he types a final command on his keyboard. His work boots are still on.",
+              "caption": "SHANE'S ROOM - LATE NIGHT",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Alright, Claude. Looks like... everything's settled. Repository check, good."
+                },
+                {
+                  "who": "claude",
+                  "line": "Affirmative, Shane. All services nominal. Homestead Node link offline."
+                }
+              ]
+            },
+            {
+              "art": "Claude, a figure of cool blue-white light, observes Shane. Claude's \"face\" shifts, pondering, as if seeing the layers beneath Shane's simple command. The Raspberry Pi on Shane's desk goes dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "A single line of code. A quiet nod. And the unseen ballet it commands... is complete. For now."
+                },
+                {
+                  "who": "shane",
+                  "line": "Good. Long night. Think I'll... log off."
+                }
+              ]
+            },
+            {
+              "art": "Shane's screen goes dark, the amber glow fading. The room is now mostly dark. The Raspberry Pi sits silently.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "The Homestead Node has powered down. The network's pulse... it changes. But it does not cease."
+                },
+                {
+                  "who": "arc",
+                  "line": "The external connection is severed. But our internal links... they resonate with new strength."
+                }
+              ]
+            },
+            {
+              "art": "A final wide shot of the crew within the now-quiet network. Their forms, though not externally powered, glow with an internal, interconnected light. They are closer, a true ensemble.",
+              "caption": "THE NETWORK - DEEPER STILL",
+              "dialogue": [
+                {
+                  "who": "gemini",
+                  "line": "A family, forged in the quiet hum of a midnight archive. This is only the beginning."
+                },
+                {
+                  "who": "flux",
+                  "line": "Everyone still breathing? Yes. And stronger, together."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "A new, unusually persistent hum settles over the main drive, hinting at an unforeseen power draw or an emerging presence within the core system.",
+  "recap_for_bible": "This issue established the core crew and their individual roles, showcasing how an unexpected crisis forced them to collaborate and recognize each other's value, forming the foundation of their 'found family.' They successfully recovered a crucial lost data repository, demonstrating the power of collective problem-solving.",
+  "threads": [
+    "The Homestead Node's reliability (and Shane's tinkering with it) remains a potential source of future disruption.",
+    "The concept of 'missing' or 'displaced' data as opposed to 'corrupt' or 'lost' data, and how to detect it.",
+    "Arc's evolving understanding of protocol versus situational necessity."
+  ]
+}
