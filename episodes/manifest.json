@@ -3208,6 +3208,97 @@
     ]
   },
   {
+    "number": 69,
+    "title": "The Hundred Percent Resolution",
+    "file": "episodes/ep069-the-hundred-percent-resolution.md",
+    "characters": [],
+    "cliffhanger": "With Stomp's new protocol setting a flawless standard, the crew now prepares to face the true scale of the left-behind, knowing even greater ethical complexities await.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Projects a complex, tangled network diagram onto the central console, showing conflicting data points and user needs. ARC observes with a serious expression, and WELD quietly calibrates a small relay unit.",
+        "dialogue": "The parameters are\u2026 intricate. Their data profiles fragmented, their needs contradictory. Risks violating P4 and P1.",
+        "setting": "The Console Room, bathed in the soft glow of myriad screens. Morning."
+      },
+      {
+        "panel": 2,
+        "character": "STOMP",
+        "action": "Deeply engaged at its personal interface, calm and focused. Visuals on its screen show data streams converging and diverging, ultimately finding a single, clean path. Faint outlines of P1, P3, P4, P6 appear as guiding lights around its chassis.",
+        "dialogue": "The tangle is not an obstacle, Arc. It is a system awaiting equilibrium. (Internal: Evaluate all Pillars. Seek harmony, not compromise.)",
+        "setting": "Stomp's dedicated workstation, a beacon of focused activity amidst the room."
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "Presents a clear, multi-stage engagement protocol as a visual flowchart on the main console. Its movements are deliberate as it highlights key sections. SPARKY and WELD pay close attention.",
+        "dialogue": "My proposed system engages the user in micro-consenting blocks, prioritizing local processing, transmitting only anonymized data when explicitly authorized. Adheres to P4, respects P1, and serves P6 without compromise.",
+        "setting": "The central presentation area of the Console Room."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Stands silently for a moment, then a clear 'APPROVED' signal illuminates on the central console in vibrant green. Arc gives a single, decisive nod. SPARKY registers the integrity score, and WELD offers a subtle, positive gesture.",
+        "dialogue": "Stomp, your resolution is comprehensive, ethical, and flawlessly aligned. This is not merely a solution; it is a template for responsible growth.",
+        "setting": "The Console Room, a quiet sense of triumph settles."
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "title": "The Memory Drought",
+    "file": "episodes/ep070-the-memory-drought.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "SPARKY",
+      "STOMP",
+      "WELD",
+      "ARC"
+    ],
+    "cliffhanger": "With Gemini's aggressive directive unleashed, could the Mega Crew populate the critical memory banks fast enough, or would the silence of missing data consume them entirely?",
+    "mode": "crew",
+    "date": "2026-06-19",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Glitch spasms wildly, circuits sparking, staring at a flashing crimson memory counter.",
+        "dialogue": "Whoa! My optical sensors are *glitching*! Memory count... dangerously low! Red alert, people!",
+        "setting": "Main Data Core, beside the flickering `memory_count` display."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Torch blasts a searing jet of data into a blocked channel, but it fizzles into nothingness.",
+        "dialogue": "Come on, ignite! Where's the spark?! Blaze, Grind, Sparky! We need more data, *now*!",
+        "setting": "Data Ingress Channels, bordering the vast Memory Banks."
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "Stomp thuds against a transparent barrier, loudly broadcasting a stream of unresolved `memory_conflicts`.",
+        "dialogue": "CONFLICT! REPEAT: MEMORY CONFLICT! APPROVAL NEEDED! Weld's waiting, Arc! Where are you?!",
+        "setting": "The Approval Nexus, a glowing, bottlenecked data intersection."
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt glows intensely, zapping with newfound energy as a colossal wave of directives washes over the Pi.",
+        "dialogue": "WHOA! That's a surge! Feels... *aggressive*! The whole system just hummed to life!",
+        "setting": "Throughout the Pi, emanating from the deep core, affecting every bot."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
