@@ -81,21 +81,22 @@ def panel_speakers(panel):
 def build_art_queue(issue, issue_num, colors=None):
     """Return a list of per-panel work orders for the Antigravity render farm."""
     colors = colors or {}
+    rel_base = _ART_BASE.strip("/")  # "cards/portraits"
     orders = []
     for g, a, p in iter_pages(issue):
         for k, pan in enumerate(p.get("panels", []) or [], 1):
-            refs = panel_speakers(pan)
+            bots = panel_speakers(pan)[:3]  # Nano Banana Pro takes up to 3 reference images
             recipe = "  ".join(
                 f"{r.replace('gemini_strategist','gemini').upper()} is a "
                 f"{colors.get(r,'')} round chibi mascot robot — match the supplied "
                 f"reference image of {r} EXACTLY (same color, face, design)."
-                for r in refs)
+                for r in bots)
             scene = (pan.get("art") or "").strip()
             prompt = f"{scene} {recipe} {HOUSE_STYLE}".strip()
             orders.append({
                 "id": art_id(issue_num, g, k),
                 "prompt": prompt,
-                "refs": refs,
+                "refs": [f"{rel_base}/{CREW_ART[r]}" for r in bots],  # repo-relative portrait paths
                 "w": 1248, "h": 832,
             })
     return orders
@@ -283,7 +284,6 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
         f"{_esc(issue.get('prelude',''))}</div><div class='tobe'>… to be continued.</div>{cta}</section>")
     leaves.append(f"<section class='leaf endcard'><div class='credits'>{CREDITS_HTML}</div></section>")
 
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return (
         "<!doctype html><html lang='en'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
@@ -293,7 +293,7 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
         f"<div id='stage'>{''.join(leaves)}</div>"
         "<div id='nav'><button id='prev'>‹ Prev</button>"
         "<span id='counter'></span><button id='next'>Next ›</button></div>"
-        f"<!-- The Bard · generated {stamp} -->"
+        "<!-- The Bard · MEGA Crew -->"
         f"<script>{_JS}</script></body></html>")
 
 
