@@ -42,10 +42,15 @@ CREW_ART = {
 }
 B_SIDE = {"shane", "claude"}
 
-# Locked house style appended to every render-farm prompt.
-HOUSE_STYLE = ("bold inked COMIC BOOK panel, dynamic angle, cel shading with subtle halftone, "
-               "warm amber and cool blue-white rim lighting, expressive, wholesome all-ages, "
-               "leave clean empty space near the top for speech bubbles, no text, no letters, no watermark")
+# Locked house style appended to every render-farm prompt — DETAILED COMIC-MECHA
+# (the look of the Bolt panel). Same string every panel = one cohesive book.
+HOUSE_STYLE = ("detailed COMIC BOOK panel art, gritty semi-realistic robot/mecha rendering, "
+               "heavy bold black ink outlines, dramatic cross-hatching and halftone shading, "
+               "cinematic moody industrial lighting with warm amber and cool blue accents, "
+               "dynamic camera angle, strong sense of motion and depth, wholesome all-ages, "
+               "consistent house art style across every panel, "
+               "leave clean empty space near the top for speech bubbles, "
+               "no text, no letters, no speech bubbles drawn, no watermark")
 
 
 def _esc(s):
@@ -86,10 +91,11 @@ def build_art_queue(issue, issue_num, colors=None):
     for g, a, p in iter_pages(issue):
         for k, pan in enumerate(p.get("panels", []) or [], 1):
             bots = panel_speakers(pan)[:3]  # Nano Banana Pro takes up to 3 reference images
+            # Trust the portrait for identity (colors/design); force the house style for the look.
             recipe = "  ".join(
-                f"{r.replace('gemini_strategist','gemini').upper()} is a "
-                f"{colors.get(r,'')} round chibi mascot robot — match the supplied "
-                f"reference image of {r} EXACTLY (same color, face, design)."
+                f"{r.replace('gemini_strategist','gemini').upper()} — match the supplied "
+                f"reference image of {r} for its EXACT colors, markings and design, "
+                f"but rendered in the detailed comic-book house style below."
                 for r in bots)
             scene = (pan.get("art") or "").strip()
             prompt = f"{scene} {recipe} {HOUSE_STYLE}".strip()
