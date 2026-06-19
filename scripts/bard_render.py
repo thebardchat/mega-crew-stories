@@ -2,26 +2,30 @@
 """
 bard_render.py — page-TURNING comic renderer for The Bard / MEGA Crew saga.
 
-LANE A art + speech bubbles: every line of dialogue is a comic SPEECH BALLOON
-spoken by that bot's REAL canonical face (from cards/portraits/, served live).
-The crew always looks like themselves and images never fail to load (static
-PNGs). Shane/Claude speak as styled chips. Scene description is kept above the
-bubbles so it reads like a story.
+Two art modes, chosen PER PANEL automatically:
+  • DRAWN  — if art/out/issue-NNN/<panel-id>.png exists (rendered by Antigravity /
+             Nano Banana Pro on pulsar), show that drawn scene with the dialogue
+             as comic speech bubbles overlaid in the scene.
+  • LANE A — otherwise, fall back to the speaking bots' real canonical portraits
+             (cards/portraits/) + speech bubbles. Always available, never breaks.
+So an issue publishes instantly (portraits) and self-upgrades to drawn art the
+moment the images land — it can never end up blank.
 
-The "to be continued" end card carries a Discord call-to-action when DISCORD_URL
-is set.
+Also exposes build_art_queue(issue, n, colors) -> the per-panel work orders the
+render farm consumes (art/queue/issue-NNN.jsonl). The panel-ID scheme lives here
+so the queue builder and the renderer agree by construction.
 
 Usage:
-  python3 scripts/bard_render.py saga/issue-002.json            # -> saga/issue-002.html
+  python3 scripts/bard_render.py saga/issue-002.json            # render (auto art lookup)
   python3 scripts/bard_render.py saga/issue-002.json out.html
 """
+import os
 import sys
 import json
 import html
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Set this to the server's Discord invite to light up the end-card CTA.
 DISCORD_URL = "https://discord.gg/BTZZrG4MtV"
 
 _ART_BASE = "/cards/portraits/"
@@ -38,12 +42,67 @@ CREW_ART = {
 }
 B_SIDE = {"shane", "claude"}
 
+# Locked house style appended to every render-farm prompt.
+HOUSE_STYLE = ("bold inked COMIC BOOK panel, dynamic angle, cel shading with subtle halftone, "
+               "warm amber and cool blue-white rim lighting, expressive, wholesome all-ages, "
+               "leave clean empty space near the top for speech bubbles, no text, no letters, no watermark")
+
 
 def _esc(s):
     return html.escape(s or "")
 
 
-def _avatar(who: str) -> str:
+# ── Panel addressing (shared by queue-builder and renderer) ─────────────────────
+def iter_pages(issue):
+    """Yield (global_page_number, act, page) across all acts, in order."""
+    g = 0
+    for a in issue.get("acts", []) or []:
+        for p in a.get("pages", []) or []:
+            g += 1
+            yield g, a, p
+
+
+def art_id(issue_num, gpage, k):
+    return f"i{issue_num:03d}-p{gpage:02d}-k{k}"
+
+
+def panel_speakers(panel):
+    """Ordered unique crew bots speaking in this panel (in CREW_ART)."""
+    out, seen = [], set()
+    for d in panel.get("dialogue", []) or []:
+        w = (d.get("who") or "").strip().lower()
+        if w in CREW_ART and w not in seen:
+            seen.add(w)
+            out.append(w)
+    return out
+
+
+# ── Render-farm work orders ─────────────────────────────────────────────────────
+def build_art_queue(issue, issue_num, colors=None):
+    """Return a list of per-panel work orders for the Antigravity render farm."""
+    colors = colors or {}
+    orders = []
+    for g, a, p in iter_pages(issue):
+        for k, pan in enumerate(p.get("panels", []) or [], 1):
+            refs = panel_speakers(pan)
+            recipe = "  ".join(
+                f"{r.replace('gemini_strategist','gemini').upper()} is a "
+                f"{colors.get(r,'')} round chibi mascot robot — match the supplied "
+                f"reference image of {r} EXACTLY (same color, face, design)."
+                for r in refs)
+            scene = (pan.get("art") or "").strip()
+            prompt = f"{scene} {recipe} {HOUSE_STYLE}".strip()
+            orders.append({
+                "id": art_id(issue_num, g, k),
+                "prompt": prompt,
+                "refs": refs,
+                "w": 1248, "h": 832,
+            })
+    return orders
+
+
+# ── Per-panel HTML ───────────────────────────────────────────────────────────────
+def _avatar(who):
     w = (who or "").strip().lower()
     name = w.replace("gemini_strategist", "gemini").upper()
     if w in CREW_ART:
@@ -53,23 +112,50 @@ def _avatar(who: str) -> str:
     return f"<span class='av chip other'>{_esc(name[:1] or '?')}</span>"
 
 
-def _panels_html(panels):
+def _bubbles_inline(panel):
     out = []
-    for pan in panels or []:
-        out.append("<div class='panel'>")
-        if pan.get("art"):  # scene description, reads like story
-            out.append(f"<div class='art'>{_esc(pan['art'])}</div>")
-        if pan.get("caption"):
-            out.append(f"<div class='cap'>{_esc(pan['caption'])}</div>")
-        for d in pan.get("dialogue", []) or []:
-            who = (d.get("who") or "").strip()
-            name = who.replace("gemini_strategist", "gemini").upper()
-            side = "right" if who.strip().lower() in B_SIDE else "left"
-            out.append(
-                f"<div class='bubble {side}'>{_avatar(who)}"
-                f"<div class='balloon'><span class='nm'>{_esc(name)}</span>"
-                f"{_esc(d.get('line',''))}</div></div>")
-        out.append("</div>")
+    for d in panel.get("dialogue", []) or []:
+        who = (d.get("who") or "").strip()
+        name = who.replace("gemini_strategist", "gemini").upper()
+        side = "right" if who.lower() in B_SIDE else "left"
+        out.append(f"<div class='bubble {side}'>{_avatar(who)}<div class='balloon'>"
+                   f"<span class='nm'>{_esc(name)}</span>{_esc(d.get('line',''))}</div></div>")
+    return "".join(out)
+
+
+def _panel_drawn(img_url, panel):
+    """Drawn scene with dialogue overlaid as in-scene comic bubbles."""
+    obs = []
+    for i, d in enumerate(panel.get("dialogue", []) or []):
+        name = (d.get("who") or "").replace("gemini_strategist", "gemini").upper()
+        side = "r" if i % 2 else "l"
+        obs.append(f"<div class='ob {side}'><span class='nm'>{_esc(name)}</span>"
+                   f"{_esc(d.get('line',''))}</div>")
+    cap = f"<div class='cap'>{_esc(panel['caption'])}</div>" if panel.get("caption") else ""
+    return (f"<div class='panel drawn'><div class='scene'>"
+            f"<img class='sceneimg' loading='lazy' src='{img_url}' alt=''>"
+            f"<div class='obwrap'>{''.join(obs)}</div></div>{cap}</div>")
+
+
+def _panel_laneA(panel):
+    parts = ["<div class='panel'>"]
+    if panel.get("art"):
+        parts.append(f"<div class='art'>{_esc(panel['art'])}</div>")
+    if panel.get("caption"):
+        parts.append(f"<div class='cap'>{_esc(panel['caption'])}</div>")
+    parts.append(_bubbles_inline(panel))
+    parts.append("</div>")
+    return "".join(parts)
+
+
+def _panels_html(panels, gpage, issue_num, art_dir, art_url):
+    out = []
+    for k, pan in enumerate(panels or [], 1):
+        pid = art_id(issue_num, gpage, k)
+        if art_dir and os.path.exists(os.path.join(art_dir, pid + ".png")):
+            out.append(_panel_drawn(f"{art_url}/{pid}.png", pan))
+        else:
+            out.append(_panel_laneA(pan))
     return "".join(out)
 
 
@@ -93,8 +179,9 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .setting{color:#9fb6c6;font-style:italic;font-size:13px;margin-top:4px}
 .narr{color:#dcd8cf;margin:12px 0 6px;font-size:17px}
 .panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:13px 15px;margin:11px 0}
+.panel.drawn{padding:0;overflow:hidden;background:#0d1115}
 .art{color:#9fb6c6;font-style:italic;font-size:14px;margin-bottom:8px}
-.cap{color:#d7d3ca;margin-bottom:8px}
+.cap{color:#d7d3ca;padding:8px 14px}
 .bubble{display:flex;gap:11px;align-items:flex-start;margin:9px 0;max-width:680px}
 .bubble.right{flex-direction:row-reverse;margin-left:auto}
 .av{width:58px;height:58px;border-radius:50%;object-fit:cover;border:2px solid #2f3742;background:#0d1115;flex:none}
@@ -106,6 +193,12 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .balloon .nm{display:block;font-size:11px;font-weight:bold;color:#9a6a12;text-transform:uppercase;letter-spacing:.05em;margin-bottom:2px}
 .bubble.left .balloon:before{content:'';position:absolute;left:-8px;top:18px;border:7px solid transparent;border-right-color:#f4f0e7}
 .bubble.right .balloon:before{content:'';position:absolute;right:-8px;top:18px;border:7px solid transparent;border-left-color:#f4f0e7}
+.scene{position:relative;width:100%}
+.sceneimg{width:100%;display:block}
+.obwrap{position:absolute;top:3%;left:4%;right:4%;display:flex;flex-direction:column;gap:7px;pointer-events:none}
+.ob{background:#fdfbf5;color:#15171a;border:2px solid #15171a;border-radius:14px;padding:6px 12px;font-family:'Trebuchet MS','Segoe UI',sans-serif;font-size:14px;line-height:1.3;max-width:64%;box-shadow:0 2px 5px #0007;align-self:flex-start}
+.ob.r{align-self:flex-end}
+.ob .nm{display:block;font-weight:bold;font-size:10px;color:#9a6a12;text-transform:uppercase;letter-spacing:.04em}
 .endcard{justify-content:center;text-align:center}
 .endcard .box{padding:22px;border-radius:12px;margin:12px auto;max-width:600px}
 .lesson{background:#0d1510;border:1px solid #1f3a27;color:#bfe6c8}
@@ -114,6 +207,8 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .discord{display:inline-block;margin-top:10px;background:#5865F2;color:#fff;text-decoration:none;font-family:Menlo,monospace;font-size:14px;padding:13px 20px;border-radius:11px}
 .discord:hover{background:#4752c4}
 .discord small{display:block;opacity:.85;font-size:11px;margin-top:3px}
+.credits{color:#8b9198;font-size:13px;line-height:1.7;max-width:560px;margin:0 auto;font-family:Menlo,monospace}
+.credits b{color:#cdb98a}
 #nav{position:fixed;left:0;right:0;bottom:0;height:54px;display:flex;align-items:center;justify-content:center;gap:18px;background:#0b0d10ee;border-top:1px solid #1d232a;font-family:Menlo,monospace;font-size:13px;z-index:10}
 #nav button{background:#161b21;color:#e8e6e1;border:1px solid #2a3138;border-radius:8px;padding:8px 16px;cursor:pointer;font-family:inherit;font-size:13px}
 #nav button:hover{background:#1e252d;color:#f4c87a}
@@ -140,8 +235,18 @@ addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' ')show(i+1);if
 show(0);
 """
 
+CREDITS_HTML = (
+    "<b>CREDITS</b><br><br>"
+    "Written by <b>Claude</b> (Anthropic).<br>"
+    "Character &amp; panel art by Google <b>Nano Banana Pro</b> (Gemini 3 Pro Image) via Antigravity, "
+    "from the MEGA Crew's own designs.<br>"
+    "AI-assisted imagery — Google <b>SynthID</b> watermark retained.<br>"
+    "The MEGA Crew lives on the <b>ShaneBrain</b> cluster — a Raspberry Pi 5 and a mesh of machines.<br><br>"
+    "Built with Claude · Runs on a Raspberry Pi 5"
+)
 
-def render_html(issue: dict, issue_num: int) -> str:
+
+def render_html(issue, issue_num, art_dir=None, art_url=""):
     leaves = [
         f"<section class='leaf cover'><div class='kicker'>MEGA Crew · The Saga · "
         f"Issue #{issue_num:03d}</div><h1>{_esc(issue.get('issue_title',''))}</h1>"
@@ -151,30 +256,32 @@ def render_html(issue: dict, issue_num: int) -> str:
     ]
     act_labels = {"Cold Open / Hook": "ACT ONE", "Core": "ACT TWO",
                   "Climax / Resolution": "ACT THREE", "Prelude": "ACT FOUR"}
-    for a in issue.get("acts", []) or []:
-        label = act_labels.get(a.get("act", ""), a.get("act", ""))
-        leaves.append(
-            f"<section class='leaf act-leaf'><div class='act-kind'>{label} · "
-            f"{_esc(a.get('act',''))}</div><h2>{_esc(a.get('title',''))}</h2></section>")
-        for p in a.get("pages", []) or []:
-            body = [f"<div class='page-no'>{label} · PAGE {p.get('page','')}</div>"]
-            if p.get("setting"):
-                body.append(f"<div class='setting'>{_esc(p['setting'])}</div>")
-            if p.get("narration"):
-                body.append(f"<div class='narr'>{_esc(p['narration'])}</div>")
-            body.append(_panels_html(p.get("panels", [])))
-            leaves.append(f"<section class='leaf'>{''.join(body)}</section>")
+    last_act = None
+    for g, a, p in iter_pages(issue):
+        if a is not last_act:
+            last_act = a
+            label = act_labels.get(a.get("act", ""), a.get("act", ""))
+            leaves.append(
+                f"<section class='leaf act-leaf'><div class='act-kind'>{label} · "
+                f"{_esc(a.get('act',''))}</div><h2>{_esc(a.get('title',''))}</h2></section>")
+        body = [f"<div class='page-no'>PAGE {p.get('page','')}</div>"]
+        if p.get("setting"):
+            body.append(f"<div class='setting'>{_esc(p['setting'])}</div>")
+        if p.get("narration"):
+            body.append(f"<div class='narr'>{_esc(p['narration'])}</div>")
+        body.append(_panels_html(p.get("panels", []), g, issue_num, art_dir, art_url))
+        leaves.append(f"<section class='leaf'>{''.join(body)}</section>")
     if issue.get("lesson"):
         leaves.append(
             f"<section class='leaf endcard'><div class='box lesson'>"
             f"<b>What this issue is really about</b><br><br>{_esc(issue['lesson'])}</div></section>")
     cta = (f"<a class='discord' href='{_esc(DISCORD_URL)}' target='_blank' rel='noopener'>"
-           f"Come help guide the MEGA bots → "
-           f"<small>jump in our Discord and talk with them — your words shape the crew</small></a>"
-           ) if DISCORD_URL else ""
+           f"Come help guide the MEGA bots → <small>jump in our Discord and talk with them — "
+           f"your words shape the crew</small></a>") if DISCORD_URL else ""
     leaves.append(
         f"<section class='leaf endcard'><div class='box prelude'><b>Next issue —</b><br><br>"
         f"{_esc(issue.get('prelude',''))}</div><div class='tobe'>… to be continued.</div>{cta}</section>")
+    leaves.append(f"<section class='leaf endcard'><div class='credits'>{CREDITS_HTML}</div></section>")
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return (
@@ -201,9 +308,13 @@ def main():
         if part.isdigit():
             num = int(part)
             break
+    repo = src.parent.parent  # saga/issue.json -> repo root
+    art_dir = repo / "art" / "out" / f"issue-{num:03d}"
+    art_url = f"/art/out/issue-{num:03d}"
     out = Path(sys.argv[2]) if len(sys.argv) > 2 else src.with_suffix(".html")
-    out.write_text(render_html(issue, num), encoding="utf-8")
-    print(f"rendered -> {out} ({num})")
+    out.write_text(render_html(issue, num, str(art_dir), art_url), encoding="utf-8")
+    drawn = sum(1 for f in art_dir.glob("*.png")) if art_dir.exists() else 0
+    print(f"rendered -> {out} ({num}) | drawn panels available: {drawn}")
 
 
 if __name__ == "__main__":
