@@ -298,13 +298,13 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .narr{color:#dcd8cf;margin:12px 0 6px;font-size:17px}
 .panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:13px 15px;margin:11px 0}
 .panel.drawn{padding:0;overflow:hidden;background:#0d1115}
-.leaf.panelpage{justify-content:center;padding:40px 22px 84px}
-.panelpage .page-no,.panelpage .setting,.panelpage .narr{text-align:center}
-.panelpage .narr{max-width:640px;margin-left:auto;margin-right:auto}
-.panelpage .panel{margin:14px auto 0;width:100%;max-width:760px}
-.panelpage .panel.drawn{max-width:760px;border-radius:11px}
-.panelpage .scene{margin:0 auto;max-width:760px}
-.panelpage .sceneimg{width:100%;height:auto;max-height:calc(100vh - 220px);object-fit:contain}
+.leaf.panelpage{justify-content:flex-start;padding:22px 20px 66px;overflow:hidden}
+.panelpage .page-no,.panelpage .setting,.panelpage .narr{text-align:center;flex:0 0 auto}
+.panelpage .narr{max-width:640px;margin:8px auto 0;font-size:15px}
+.panelpage .panel{margin:10px auto 0;width:100%;max-width:760px}
+.panelpage .panel.drawn{flex:1 1 auto;min-height:0;max-width:760px;border-radius:11px;display:flex;flex-direction:column}
+.panelpage .scene{flex:1 1 auto;min-height:0;width:100%;position:relative}
+.panelpage .sceneimg{width:100%;height:100%;object-fit:contain;object-position:center bottom}
 .art{color:#9fb6c6;font-style:italic;font-size:14px;margin-bottom:8px}
 .cap{color:#d7d3ca;padding:8px 14px}
 .bubble{display:flex;gap:11px;align-items:flex-start;margin:9px 0;max-width:680px}
