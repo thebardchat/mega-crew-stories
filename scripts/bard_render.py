@@ -154,6 +154,61 @@ def _cover_img_url(issue_num, art_dir):
     return f"/art/out/covers/i{issue_num:03d}-cover.png" if p.exists() else None
 
 
+# ── Social / brand lane (art/queue/social.jsonl -> art/out/social/<id>.png) ──────
+SOCIAL_STYLE = ("detailed comic-mecha brand KEY ART, gritty semi-realistic robot/mecha "
+                "rendering, heavy bold black ink outlines, dramatic cross-hatching and "
+                "halftone shading, cinematic warm-amber and cool-blue lighting, bold graphic "
+                "poster/banner composition, strong depth, wholesome all-ages, consistent with "
+                "the comic house style, leave clean negative space for a logo wordmark, "
+                "no text, no letters, no watermark")
+EMOTE_STYLE = ("bold punchy CHAT-EMOTE style: a single character bust centered on a clean flat "
+               "vignette background, thick clean outlines, saturated and instantly readable at "
+               "small size, semi-realistic robot/mecha rendering consistent with the comic "
+               "house style, no text, no letters, no watermark")
+
+# Static brand-asset set (not per-issue). Re-runnable: idempotent by id.
+SOCIAL_ASSETS = [
+    {"id": "social-og", "kind": "banner", "bots": ["arc", "sparky", "glitch"], "w": 1280, "h": 640,
+     "scene": "Wide brand key-art banner for 'MEGA Crew' — a heroic ensemble of friendly "
+              "robots assembled as a team in a cinematic group hero shot, the warm glow of a "
+              "home server workshop behind them."},
+    {"id": "social-twitch-banner", "kind": "banner", "bots": ["arc", "weld", "volt"], "w": 1200, "h": 480,
+     "scene": "Ultra-wide Twitch channel banner for the MEGA Crew — robots side by side facing "
+              "the viewer, dynamic and bold, room left on one side for a channel logo."},
+    {"id": "social-discord-banner", "kind": "banner", "bots": ["glitch", "sparky", "nukkels"], "w": 960, "h": 540,
+     "scene": "Discord community welcome banner for the MEGA Crew — an inviting, fun group shot "
+              "of the robots gathered around with warm 'come join us' energy."},
+    {"id": "social-emote-arc", "kind": "emote", "bots": ["arc"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of ARC the gatekeeper robot, friendly confident expression, "
+              "centered, simple readable silhouette."},
+    {"id": "social-emote-glitch", "kind": "emote", "bots": ["glitch"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of GLITCH the mischievous robot, sly grin and wink, centered, "
+              "punchy readable silhouette."},
+    {"id": "social-emote-sparky", "kind": "emote", "bots": ["sparky"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of SPARKY the quality-judge robot, bright approving thumbs-up "
+              "energy, centered, punchy readable silhouette."},
+]
+
+
+def build_social_orders(colors=None):
+    """Return the brand/social work orders for the social lane."""
+    rel_base = _ART_BASE.strip("/")
+    orders = []
+    for a in SOCIAL_ASSETS:
+        bots = [b for b in a["bots"] if b in CREW_ART][:3]
+        recipe = "  ".join(
+            f"{b.replace('gemini_strategist','gemini').upper()} — match the supplied reference "
+            f"image of {b} for its EXACT colors, markings and design." for b in bots)
+        style = EMOTE_STYLE if a["kind"] == "emote" else SOCIAL_STYLE
+        orders.append({
+            "id": a["id"],
+            "prompt": f"{a['scene']} {recipe} {style}".strip(),
+            "refs": [f"{rel_base}/{CREW_ART[b]}" for b in bots],
+            "w": a["w"], "h": a["h"],
+        })
+    return orders
+
+
 # ── Per-panel HTML ───────────────────────────────────────────────────────────────
 def _avatar(who):
     w = (who or "").strip().lower()
