@@ -321,8 +321,8 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .scene{position:relative;width:100%}
 .sceneimg{width:100%;display:block}
 .obwrap{position:absolute;left:0;right:0;bottom:0;top:auto;display:flex;flex-direction:column;
-justify-content:flex-end;gap:6px;padding:20% 5% 4%;pointer-events:none;
-background:linear-gradient(to top,rgba(8,9,12,.86) 50%,rgba(8,9,12,.45) 78%,rgba(8,9,12,0) 100%)}
+justify-content:flex-end;gap:6px;padding:14% 5% 4%;pointer-events:none;
+background:linear-gradient(to top,rgba(8,9,12,.84) 0%,rgba(8,9,12,.8) 24%,rgba(8,9,12,.4) 42%,rgba(8,9,12,0) 60%)}
 .ob{background:#fdfbf5;color:#15171a;border:2px solid #15171a;border-radius:14px;padding:6px 12px;font-family:'Trebuchet MS','Segoe UI',sans-serif;font-size:14px;line-height:1.3;max-width:78%;box-shadow:0 2px 6px #000a;align-self:flex-start}
 .ob.r{align-self:flex-end}
 .ob .nm{display:block;font-weight:bold;font-size:10px;color:#9a6a12;text-transform:uppercase;letter-spacing:.04em}
