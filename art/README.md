@@ -37,3 +37,20 @@ issue's page-turner with the drawn panels + speech bubbles automatically.
 - **On-model is the whole point** — always pass the `refs` as reference images.
 - Images carry Google **SynthID** (invisible) — keep it; the comic credits the AI art properly.
 - Safe to re-run anytime; existing panels are skipped, so it only ever fills gaps.
+
+## Generalized lanes (2026-06-19)
+
+The farm now consumes **every** `art/queue/*.jsonl` (not just `issue-*`). Each
+queue file's stem is its output folder, so new asset streams need NO farm change:
+
+| Queue file              | Output folder          | What it is                         |
+|-------------------------|------------------------|------------------------------------|
+| `issue-NNN.jsonl`       | `art/out/issue-NNN/`   | comic panels (per issue)           |
+| `covers.jsonl`          | `art/out/covers/`      | hero covers, `iNNN-cover.png`      |
+| `portraits-v2.jsonl`    | `art/out/portraits-v2/`| upgraded character portraits (planned) |
+| `social.jsonl`          | `art/out/social/`      | banners / og:image / emotes (planned)  |
+
+Same per-line format (`id`, `prompt`, `refs`, `w`, `h`), same idempotent
+skip-existing rule, same `git add art/out && push`. Covers use a portrait
+canvas (832×1248); the renderer shows the drawn cover behind the title the moment
+it lands, falling back to the text cover until then.
