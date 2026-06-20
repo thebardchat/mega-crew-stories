@@ -49,7 +49,8 @@ HOUSE_STYLE = ("detailed COMIC BOOK panel art, gritty semi-realistic robot/mecha
                "cinematic moody industrial lighting with warm amber and cool blue accents, "
                "dynamic camera angle, strong sense of motion and depth, wholesome all-ages, "
                "consistent house art style across every panel, "
-               "leave clean empty space near the top for speech bubbles, "
+               "keep the main characters and faces in the upper two-thirds of the frame, "
+               "leave clean uncluttered space across the BOTTOM third for speech bubbles, "
                "no text, no letters, no speech bubbles drawn, no watermark")
 
 # Cover style — same DNA as HOUSE_STYLE but an epic full composition (no bubble
@@ -319,8 +320,10 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .bubble.right .balloon:before{content:'';position:absolute;right:-8px;top:18px;border:7px solid transparent;border-left-color:#f4f0e7}
 .scene{position:relative;width:100%}
 .sceneimg{width:100%;display:block}
-.obwrap{position:absolute;top:3%;left:4%;right:4%;display:flex;flex-direction:column;gap:7px;pointer-events:none}
-.ob{background:#fdfbf5;color:#15171a;border:2px solid #15171a;border-radius:14px;padding:6px 12px;font-family:'Trebuchet MS','Segoe UI',sans-serif;font-size:14px;line-height:1.3;max-width:64%;box-shadow:0 2px 5px #0007;align-self:flex-start}
+.obwrap{position:absolute;left:0;right:0;bottom:0;top:auto;display:flex;flex-direction:column;
+justify-content:flex-end;gap:6px;padding:20% 5% 4%;pointer-events:none;
+background:linear-gradient(to top,rgba(8,9,12,.86) 50%,rgba(8,9,12,.45) 78%,rgba(8,9,12,0) 100%)}
+.ob{background:#fdfbf5;color:#15171a;border:2px solid #15171a;border-radius:14px;padding:6px 12px;font-family:'Trebuchet MS','Segoe UI',sans-serif;font-size:14px;line-height:1.3;max-width:78%;box-shadow:0 2px 6px #000a;align-self:flex-start}
 .ob.r{align-self:flex-end}
 .ob .nm{display:block;font-weight:bold;font-size:10px;color:#9a6a12;text-transform:uppercase;letter-spacing:.04em}
 .endcard{justify-content:center;text-align:center}
