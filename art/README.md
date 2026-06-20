@@ -48,7 +48,7 @@ queue file's stem is its output folder, so new asset streams need NO farm change
 | `issue-NNN.jsonl`       | `art/out/issue-NNN/`   | comic panels (per issue)           |
 | `covers.jsonl`          | `art/out/covers/`      | hero covers, `iNNN-cover.png`      |
 | `portraits-v2.jsonl`    | `art/out/portraits-v2/`| upgraded character portraits (planned) |
-| `social.jsonl`          | `art/out/social/`      | banners / og:image / emotes (planned)  |
+| `social.jsonl`          | `art/out/social/`      | banners / og:image / emotes (**LIVE**) |
 
 Same per-line format (`id`, `prompt`, `refs`, `w`, `h`), same idempotent
 skip-existing rule, same `git add art/out && push`. Covers use a portrait
