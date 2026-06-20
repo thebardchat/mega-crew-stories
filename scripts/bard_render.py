@@ -256,15 +256,17 @@ def _panel_laneA(panel):
     return "".join(parts)
 
 
+def _panel_at(pan, gpage, k, issue_num, art_dir, art_url):
+    """Render ONE panel (drawn if its art has landed, else lane-A portraits)."""
+    pid = art_id(issue_num, gpage, k)
+    if art_dir and os.path.exists(os.path.join(art_dir, pid + ".png")):
+        return _panel_drawn(f"{art_url}/{pid}.png", pan)
+    return _panel_laneA(pan)
+
+
 def _panels_html(panels, gpage, issue_num, art_dir, art_url):
-    out = []
-    for k, pan in enumerate(panels or [], 1):
-        pid = art_id(issue_num, gpage, k)
-        if art_dir and os.path.exists(os.path.join(art_dir, pid + ".png")):
-            out.append(_panel_drawn(f"{art_url}/{pid}.png", pan))
-        else:
-            out.append(_panel_laneA(pan))
-    return "".join(out)
+    return "".join(_panel_at(pan, gpage, k, issue_num, art_dir, art_url)
+                   for k, pan in enumerate(panels or [], 1))
 
 
 _CSS = """
@@ -295,6 +297,13 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .narr{color:#dcd8cf;margin:12px 0 6px;font-size:17px}
 .panel{background:#11151a;border:1px solid #222831;border-radius:9px;padding:13px 15px;margin:11px 0}
 .panel.drawn{padding:0;overflow:hidden;background:#0d1115}
+.leaf.panelpage{justify-content:center;padding:40px 22px 84px}
+.panelpage .page-no,.panelpage .setting,.panelpage .narr{text-align:center}
+.panelpage .narr{max-width:640px;margin-left:auto;margin-right:auto}
+.panelpage .panel{margin:14px auto 0;width:100%;max-width:760px}
+.panelpage .panel.drawn{max-width:760px;border-radius:11px}
+.panelpage .scene{margin:0 auto;max-width:760px}
+.panelpage .sceneimg{width:100%;height:auto;max-height:calc(100vh - 220px);object-fit:contain}
 .art{color:#9fb6c6;font-style:italic;font-size:14px;margin-bottom:8px}
 .cap{color:#d7d3ca;padding:8px 14px}
 .bubble{display:flex;gap:11px;align-items:flex-start;margin:9px 0;max-width:680px}
@@ -389,13 +398,20 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
             leaves.append(
                 f"<section class='leaf act-leaf'><div class='act-kind'>{label} · "
                 f"{_esc(a.get('act',''))}</div><h2>{_esc(a.get('title',''))}</h2></section>")
-        body = [f"<div class='page-no'>PAGE {p.get('page','')}</div>"]
+        header = [f"<div class='page-no'>PAGE {p.get('page','')}</div>"]
         if p.get("setting"):
-            body.append(f"<div class='setting'>{_esc(p['setting'])}</div>")
+            header.append(f"<div class='setting'>{_esc(p['setting'])}</div>")
         if p.get("narration"):
-            body.append(f"<div class='narr'>{_esc(p['narration'])}</div>")
-        body.append(_panels_html(p.get("panels", []), g, issue_num, art_dir, art_url))
-        leaves.append(f"<section class='leaf'>{''.join(body)}</section>")
+            header.append(f"<div class='narr'>{_esc(p['narration'])}</div>")
+        head_html = "".join(header)
+        panels = p.get("panels", []) or []
+        if not panels:
+            leaves.append(f"<section class='leaf panelpage'>{head_html}</section>")
+        # One panel per turn-page — a full panel on screen at a time, no scrolling.
+        for k, pan in enumerate(panels, 1):
+            ph = _panel_at(pan, g, k, issue_num, art_dir, art_url)
+            lead = head_html if k == 1 else ""
+            leaves.append(f"<section class='leaf panelpage'>{lead}{ph}</section>")
     if issue.get("lesson"):
         leaves.append(
             f"<section class='leaf endcard'><div class='box lesson'>"
