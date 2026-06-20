@@ -52,6 +52,16 @@ HOUSE_STYLE = ("detailed COMIC BOOK panel art, gritty semi-realistic robot/mecha
                "leave clean empty space near the top for speech bubbles, "
                "no text, no letters, no speech bubbles drawn, no watermark")
 
+# Cover style — same DNA as HOUSE_STYLE but an epic full composition (no bubble
+# gutter); the issue title is overlaid as HTML, so still NO drawn text.
+COVER_STYLE = ("detailed COMIC BOOK COVER art, gritty semi-realistic robot/mecha rendering, "
+               "heavy bold black ink outlines, dramatic cross-hatching and halftone shading, "
+               "cinematic moody industrial lighting with warm amber and cool blue accents, "
+               "epic heroic dynamic composition, strong sense of depth and scale, wholesome "
+               "all-ages, consistent with the interior house art style, leave clean empty "
+               "space at the very top for a title logo, "
+               "no text, no letters, no title drawn, no watermark")
+
 
 def _esc(s):
     return html.escape(s or "")
@@ -106,6 +116,42 @@ def build_art_queue(issue, issue_num, colors=None):
                 "w": 1248, "h": 832,
             })
     return orders
+
+
+def build_cover_order(issue, issue_num, colors=None):
+    """One hero-cover work order for the covers lane (art/queue/covers.jsonl ->
+    art/out/covers/iNNN-cover.png). refs = the issue's 3 most-present crew bots."""
+    counts = {}
+    for g, a, p in iter_pages(issue):
+        for pan in p.get("panels", []) or []:
+            for b in panel_speakers(pan):
+                counts[b] = counts.get(b, 0) + 1
+    bots = sorted(counts, key=lambda b: -counts[b])[:3] or ["arc", "sparky", "glitch"]
+    rel_base = _ART_BASE.strip("/")
+    names = ", ".join(b.replace("gemini_strategist", "gemini").upper() for b in bots)
+    title = (issue.get("issue_title") or issue.get("title") or "").strip()
+    logline = (issue.get("logline") or issue.get("tagline") or "").strip()
+    scene = (f"Comic book COVER illustration for MEGA Crew Issue #{issue_num:03d} "
+             f"\"{title}\". A dramatic heroic full-cover composition of the MEGA crew of "
+             f"robots assembled together as a team, featuring {names} in the foreground. "
+             f"{logline} ")
+    recipe = "  ".join(
+        f"{b.replace('gemini_strategist','gemini').upper()} — match the supplied reference "
+        f"image of {b} for its EXACT colors, markings and design." for b in bots)
+    return {
+        "id": f"i{issue_num:03d}-cover",
+        "prompt": f"{scene}{recipe} {COVER_STYLE}".strip(),
+        "refs": [f"{rel_base}/{CREW_ART[b]}" for b in bots],
+        "w": 832, "h": 1248,
+    }
+
+
+def _cover_img_url(issue_num, art_dir):
+    """Public URL of the drawn cover if it has landed, else None (text cover)."""
+    if not art_dir:
+        return None
+    p = Path(art_dir).parent / "covers" / f"i{issue_num:03d}-cover.png"
+    return f"/art/out/covers/i{issue_num:03d}-cover.png" if p.exists() else None
 
 
 # ── Per-panel HTML ───────────────────────────────────────────────────────────────
@@ -179,6 +225,13 @@ html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Geor
 .cover .tagline{color:#b9b4aa;font-style:italic;font-size:20px}
 .cover .logline{color:#cfcabf;max-width:560px;margin:22px auto 0}
 .cover .hint{color:#5f656c;font-family:Menlo,monospace;font-size:12px;margin-top:42px}
+.cover.hero{position:relative;padding:0;justify-content:flex-end;text-align:center;overflow:hidden}
+.cover.hero::before{content:'';position:absolute;inset:0;background:var(--cv) center/cover no-repeat;z-index:0}
+.cover.hero .heroveil{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(7,9,12,.12) 28%,rgba(7,9,12,.93) 100%);z-index:1}
+.cover.hero .herotext{position:relative;z-index:2;padding:0 26px 58px}
+.cover.hero h1{font-size:46px;color:#f4c87a;line-height:1.06;margin:.2em 0;text-shadow:0 2px 16px #000}
+.cover.hero .tagline{color:#ece7dd;font-style:italic;font-size:20px;text-shadow:0 2px 12px #000}
+.cover.hero .hint{color:#cfcabf;margin-top:30px}
 .act-leaf{justify-content:center;text-align:center}
 .act-leaf .act-kind{color:#7fb0d6;letter-spacing:.2em;text-transform:uppercase;font-family:Menlo,monospace;font-size:13px}
 .act-leaf h2{color:#f4c87a;font-size:38px;margin:.25em 0}
@@ -254,13 +307,23 @@ CREDITS_HTML = (
 
 
 def render_html(issue, issue_num, art_dir=None, art_url=""):
-    leaves = [
-        f"<section class='leaf cover'><div class='kicker'>MEGA Crew · The Saga · "
-        f"Issue #{issue_num:03d}</div><h1>{_esc(issue.get('issue_title',''))}</h1>"
-        f"<div class='tagline'>{_esc(issue.get('tagline',''))}</div>"
-        f"<div class='logline'>{_esc(issue.get('logline',''))}</div>"
-        f"<div class='hint'>→ / space / tap right to turn the page</div></section>"
-    ]
+    cover_img = _cover_img_url(issue_num, art_dir)
+    if cover_img:
+        cover_leaf = (
+            f"<section class='leaf cover hero' style=\"--cv:url('{cover_img}')\">"
+            f"<div class='heroveil'></div><div class='herotext'>"
+            f"<div class='kicker'>MEGA Crew · The Saga · Issue #{issue_num:03d}</div>"
+            f"<h1>{_esc(issue.get('issue_title',''))}</h1>"
+            f"<div class='tagline'>{_esc(issue.get('tagline',''))}</div>"
+            f"<div class='hint'>→ / space / tap right to turn the page</div></div></section>")
+    else:
+        cover_leaf = (
+            f"<section class='leaf cover'><div class='kicker'>MEGA Crew · The Saga · "
+            f"Issue #{issue_num:03d}</div><h1>{_esc(issue.get('issue_title',''))}</h1>"
+            f"<div class='tagline'>{_esc(issue.get('tagline',''))}</div>"
+            f"<div class='logline'>{_esc(issue.get('logline',''))}</div>"
+            f"<div class='hint'>→ / space / tap right to turn the page</div></section>")
+    leaves = [cover_leaf]
     act_labels = {"Cold Open / Hook": "ACT ONE", "Core": "ACT TWO",
                   "Climax / Resolution": "ACT THREE", "Prelude": "ACT FOUR"}
     last_act = None
