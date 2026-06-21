@@ -566,15 +566,131 @@
       padding-top: 0.3rem;
     }
 
-    /* ── Cover/intro page ── */
-    .comic-cover-page {
-      background: var(--ink);
-      border: var(--thick);
-      box-shadow: var(--shadow-lg);
-      padding: 0;
-      margin-bottom: 2.5rem;
+    .comic-page.cover-page {
+      background: var(--ink) !important;
+      background-image: radial-gradient(circle at 2px 2px, rgba(255,255,255,0.1) 1px, transparent 0) !important;
+      background-size: 12px 12px !important;
+      padding: 0 !important;
       overflow: hidden;
+    }
+
+    /* ── Structured Dialogue Panel ── */
+    .panel.structured-dialogue {
       position: relative;
+      border: var(--border);
+      background: var(--paper);
+      box-shadow: var(--shadow);
+      padding: 0;
+      overflow: hidden;
+      display: block;
+      margin-bottom: 1.5rem;
+    }
+    
+    .panel.structured-dialogue .panel-image-container {
+      position: relative;
+      width: 100%;
+      height: 0;
+      padding-bottom: 66.67%; /* 3:2 aspect ratio */
+      background: var(--ink);
+      overflow: hidden;
+    }
+
+    .panel.structured-dialogue .panel-image-container img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: contrast(1.1) saturate(1.15);
+      animation: none; /* No bob/shake animations on scene images */
+    }
+
+    .panel.structured-dialogue .speech-overlay {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      right: 12px;
+      display: flex;
+      flex-direction: column;
+      pointer-events: none;
+      z-index: 10;
+    }
+
+    .panel.structured-dialogue:not(.flip) .speech-overlay {
+      align-items: flex-start;
+    }
+
+    .panel.structured-dialogue.flip .speech-overlay {
+      align-items: flex-end;
+    }
+
+    .panel.structured-dialogue .speaker-name {
+      margin-bottom: 6px;
+      font-size: 0.85rem;
+      background: var(--yellow);
+      color: var(--ink);
+      border: 2px solid var(--ink);
+      box-shadow: 2px 2px 0 var(--ink);
+      transform: rotate(-1deg);
+      pointer-events: auto;
+    }
+
+    .panel.structured-dialogue.flip .speaker-name {
+      transform: rotate(1deg);
+    }
+
+    .panel.structured-dialogue .bubble {
+      background: rgba(250, 243, 224, 0.95); /* Semi-transparent paper color */
+      border: var(--border);
+      padding: 0.6rem 0.8rem;
+      font-size: 0.9rem;
+      line-height: 1.35;
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      max-width: 80%;
+      pointer-events: auto;
+      position: relative;
+    }
+
+    .panel.structured-dialogue .bubble::before {
+      content: '';
+      position: absolute;
+      top: -10px;
+      width: 0;
+      height: 0;
+      border: 5px solid transparent;
+      border-bottom: 6px solid var(--ink);
+    }
+
+    .panel.structured-dialogue:not(.flip) .bubble::before {
+      left: 15px;
+      right: auto;
+    }
+
+    .panel.structured-dialogue.flip .bubble::before {
+      right: 15px;
+      left: auto;
+    }
+
+    .panel.structured-dialogue .bubble::after {
+      content: '';
+      position: absolute;
+      top: -6px;
+      width: 0;
+      height: 0;
+      border: 4px solid transparent;
+      border-bottom: 5px solid rgba(250, 243, 224, 0.95);
+    }
+
+    .panel.structured-dialogue:not(.flip) .bubble::after {
+      left: 16px;
+      right: auto;
+    }
+
+    .panel.structured-dialogue.flip .bubble::after {
+      right: 16px;
+      left: auto;
     }
 
     .cover-hero {
@@ -948,7 +1064,7 @@ function renderCover(ep) {
     .map(c => `<div class="cast-chip">${c}</div>`)
     .join('');
   return `
-    <div class="comic-cover-page">
+    <div class="comic-page cover-page" data-page="000">
       <div class="cover-hero">
         <div class="cover-ep">EPISODE ${pad(ep.number)} · ${ep.date || ''}</div>
         <div class="cover-ep-title">${ep.title}</div>
@@ -1048,27 +1164,44 @@ function renderStructuredScenes(ep) {
   if (!ep.scenes || !ep.scenes.length) return null;
   let html = renderCover(ep);
 
-  ep.scenes.forEach((scene, idx) => {
-    const speaker = charKey(scene.character);
-    const portrait = speaker ? portraitFor(speaker) : null;
-    const zc = speaker ? zoneClass(speaker) : '';
-    const flip = idx % 2 === 1;
-    const actionHtml = scene.action
-      ? `<div class="action-overlay">${escapeHtml(scene.action)}</div>` : '';
-    // Prefer generated scene image; fall back to character portrait card
-    const sceneImg = scene.image || null;
-    const portraitHtml = sceneImg
-      ? `<img src="${sceneImg}" alt="${escapeHtml(scene.character)} scene">`
-      : portrait
-        ? `<img src="${portrait}" alt="${escapeHtml(scene.character)}">${actionHtml}`
-        : `<div class="portrait-missing">${escapeHtml((scene.character || '???').toUpperCase().replace(/_/g,' '))}</div>`;
-    const settingHtml = scene.setting
-      ? `<div class="scene-setting">📍 ${escapeHtml(scene.setting)}</div>` : '';
-    const name = (scene.character || '???').toUpperCase().replace(/_/g, ' ');
-
-    html += `
-      <div class="comic-page" data-page="${pad(idx + 1)}">
-        <div class="page-panels">
+  const panelsPerPage = 2;
+  for (let i = 0; i < ep.scenes.length; i += panelsPerPage) {
+    const pageNum = Math.floor(i / panelsPerPage) + 1;
+    const pageScenes = ep.scenes.slice(i, i + panelsPerPage);
+    
+    let pageBody = '';
+    pageScenes.forEach((scene, sceneIdx) => {
+      const idx = i + sceneIdx;
+      const speaker = charKey(scene.character);
+      const zc = speaker ? zoneClass(speaker) : '';
+      const flip = idx % 2 === 1;
+      const sceneImg = scene.image || null;
+      const name = (scene.character || '???').toUpperCase().replace(/_/g, ' ');
+      
+      const settingHtml = scene.setting
+        ? `<div class="scene-setting">📍 ${escapeHtml(scene.setting)}</div>` : '';
+        
+      if (sceneImg) {
+        pageBody += `
+          ${settingHtml}
+          <div class="panel structured-dialogue ${zc} ${flip ? 'flip' : ''}">
+            <div class="panel-image-container">
+              <img src="${sceneImg}" alt="${escapeHtml(scene.character)} scene">
+              <div class="speech-overlay">
+                <div class="speaker-name">${escapeHtml(name)}</div>
+                <div class="bubble">${escapeHtml(scene.dialogue || '')}</div>
+              </div>
+            </div>
+          </div>
+        `;
+      } else {
+        // Fallback for character portrait if no scene image is found
+        const portrait = speaker ? portraitFor(speaker) : null;
+        const portraitHtml = portrait
+          ? `<img src="${portrait}" alt="${escapeHtml(scene.character)}">`
+          : `<div class="portrait-missing">${name}</div>`;
+        
+        pageBody += `
           ${settingHtml}
           <div class="panel dialogue ${zc} ${flip ? 'flip' : ''}">
             <div class="portrait-frame">${portraitHtml}</div>
@@ -1077,9 +1210,16 @@ function renderStructuredScenes(ep) {
               <div class="bubble">${escapeHtml(scene.dialogue || '')}</div>
             </div>
           </div>
-        </div>
-      </div>`;
-  });
+        `;
+      }
+    });
+
+    html += `
+      <div class="comic-page" data-page="${pad(pageNum)}">
+        <div class="page-panels">${pageBody}</div>
+      </div>
+    `;
+  }
 
   html += renderCliff(ep);
   return html;
