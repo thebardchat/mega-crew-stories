@@ -270,6 +270,35 @@ def _panels_html(panels, gpage, issue_num, art_dir, art_url):
                    for k, pan in enumerate(panels or [], 1))
 
 
+# ── Comic-page cells (multi-panel grid, top speech balloons) ─────────────────────
+def _balloons_cell(pan):
+    """Dialogue as comic speech balloons at the top of a panel cell."""
+    out = []
+    for idx, d in enumerate(pan.get("dialogue", []) or []):
+        who = (d.get("who") or "").strip()
+        name = who.replace("gemini_strategist", "gemini").upper()
+        side = "r" if idx % 2 else "l"
+        out.append(f"<div class='cb {side}'><span class='nm'>{_esc(name)}</span>"
+                   f"{_esc(d.get('line', ''))}</div>")
+    return f"<div class='balloons'>{''.join(out)}</div>" if out else ""
+
+
+def _cell(pan, gpage, k, issue_num, art_dir, art_url):
+    """One panel as a comic-grid cell: drawn art (or speaker portrait fallback)
+    with speech balloons on top and an optional caption box."""
+    pid = art_id(issue_num, gpage, k)
+    if art_dir and os.path.exists(os.path.join(art_dir, pid + ".png")):
+        img = f"<img class='cellimg' loading='lazy' src='{art_url}/{pid}.png' alt=''>"
+    else:
+        sp = panel_speakers(pan)
+        if sp:
+            img = f"<img class='cellimg' loading='lazy' src='{_ART_BASE}{CREW_ART[sp[0]]}' alt=''>"
+        else:
+            img = "<div class='cellimg noimg'></div>"
+    cap = f"<div class='capbox'>{_esc(pan['caption'])}</div>" if pan.get("caption") else ""
+    return f"<div class='cell'>{img}{_balloons_cell(pan)}{cap}</div>"
+
+
 _CSS = """
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Georgia,'Times New Roman',serif;line-height:1.6;overflow:hidden}
@@ -343,13 +372,40 @@ background:linear-gradient(to top,rgba(8,9,12,.84) 0%,rgba(8,9,12,.8) 24%,rgba(8
 #counter{color:#8b9198;min-width:96px;text-align:center}
 .zone{position:fixed;top:0;bottom:54px;width:22%;z-index:5;cursor:pointer}
 .zone.l{left:0}.zone.r{right:0}
+/* ── page-turn flip ── */
+#stage{perspective:2200px}
+.leaf{transform-origin:left center;backface-visibility:hidden}
+@keyframes turnN{from{opacity:.12;transform:rotateY(-40deg) translateX(9%);filter:brightness(.5)}to{opacity:1;transform:none;filter:none}}
+@keyframes turnP{from{opacity:.12;transform:rotateY(40deg) translateX(-9%);filter:brightness(.5)}to{opacity:1;transform:none;filter:none}}
+/* ── full-bleed cover (blurred fill + whole cover sharp) ── */
+.cover.hero::before{background:var(--cv) center/cover no-repeat;filter:blur(26px) brightness(.45);transform:scale(1.15)}
+.cover.hero .heroart{position:absolute;inset:0;background:var(--cv) center/contain no-repeat;z-index:1}
+.cover.hero .heroveil{background:linear-gradient(to bottom,rgba(7,9,12,0) 55%,rgba(7,9,12,.92) 100%)}
+.cover.hero h1{font-size:clamp(30px,5vw,48px)}
+.cover.hero .tagline{font-size:clamp(15px,2.4vw,21px)}
+/* ── comic pages: multi-panel grid ── */
+.leaf.comicpage{justify-content:center;align-items:center;padding:12px 12px 62px;overflow:hidden}
+.narrbar{flex:0 0 auto;max-width:720px;margin:0 auto 8px;background:#1c160a;border:1px solid #4a3c18;color:#f0d9a8;font-style:italic;font-size:14px;line-height:1.35;padding:7px 13px;border-radius:6px;text-align:center}
+.sheet{position:relative;display:grid;gap:7px;background:#05060a;padding:7px;border:1px solid #232a33;border-radius:8px;box-shadow:0 12px 46px #000b;margin:auto;width:auto;max-width:min(720px,95vw);max-height:calc(100vh - 84px);aspect-ratio:var(--ar,1)}
+.cell{position:relative;overflow:hidden;background:#0d1115;border-radius:3px}
+.cellimg{width:100%;height:100%;object-fit:cover;display:block}
+.cellimg.noimg{background:repeating-linear-gradient(45deg,#11151a,#11151a 10px,#0d1115 10px,#0d1115 20px)}
+.balloons{position:absolute;top:3.5%;left:4.5%;right:4.5%;display:flex;flex-direction:column;gap:5px;z-index:3;pointer-events:none}
+.cb{position:relative;align-self:flex-start;max-width:84%;background:#fff;color:#10131a;border:2px solid #0a0c10;border-radius:13px;padding:3px 9px 4px;font-family:'Comic Neue','Trebuchet MS','Segoe UI',sans-serif;font-size:clamp(9px,1.5vmin,14px);line-height:1.16;box-shadow:1.5px 2.5px 0 rgba(0,0,0,.5)}
+.cb.r{align-self:flex-end}
+.cb .nm{display:block;font-weight:700;font-size:.72em;letter-spacing:.03em;color:#b4690a;text-transform:uppercase;margin-bottom:1px}
+.cb:after{content:'';position:absolute;bottom:-8px;left:18px;width:0;height:0;border:7px solid transparent;border-top-color:#fff}
+.cb.r:after{left:auto;right:18px}
+.pagebadge{position:absolute;right:7px;bottom:5px;z-index:4;color:#cfcabf;background:#000a;font-family:Menlo,monospace;font-size:11px;padding:1px 7px;border-radius:7px}
+.capbox{position:absolute;left:0;bottom:0;z-index:3;max-width:72%;background:#1c160a;border-top:2px solid #4a3c18;border-right:2px solid #4a3c18;color:#f0d9a8;font-size:clamp(8px,1.25vmin,12px);line-height:1.2;padding:3px 8px;border-radius:0 7px 0 3px}
 """
 
 _JS = """
 const leaves=[...document.querySelectorAll('.leaf')];let i=0;
-function show(n){i=Math.max(0,Math.min(leaves.length-1,n));
+function show(n){const tgt=Math.max(0,Math.min(leaves.length-1,n));const d=tgt>=i?1:-1;i=tgt;
  leaves.forEach((l,k)=>l.classList.toggle('on',k===i));
- const t=leaves[i];t.style.animation='none';t.offsetHeight;t.style.animation='';
+ const t=leaves[i];t.style.animation='none';void t.offsetHeight;
+ t.style.animation=(d>0?'turnN':'turnP')+' .44s ease';
  document.getElementById('counter').textContent=(i+1)+' / '+leaves.length;
  document.getElementById('prev').disabled=i===0;
  document.getElementById('next').disabled=i===leaves.length-1;
@@ -378,7 +434,7 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
     if cover_img:
         cover_leaf = (
             f"<section class='leaf cover hero' style=\"--cv:url('{cover_img}')\">"
-            f"<div class='heroveil'></div><div class='herotext'>"
+            f"<div class='heroart'></div><div class='heroveil'></div><div class='herotext'>"
             f"<div class='kicker'>MEGA Crew · The Saga · Issue #{issue_num:03d}</div>"
             f"<h1>{_esc(issue.get('issue_title',''))}</h1>"
             f"<div class='tagline'>{_esc(issue.get('tagline',''))}</div>"
@@ -401,20 +457,19 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
             leaves.append(
                 f"<section class='leaf act-leaf'><div class='act-kind'>{label} · "
                 f"{_esc(a.get('act',''))}</div><h2>{_esc(a.get('title',''))}</h2></section>")
-        header = [f"<div class='page-no'>PAGE {p.get('page','')}</div>"]
-        if p.get("setting"):
-            header.append(f"<div class='setting'>{_esc(p['setting'])}</div>")
-        if p.get("narration"):
-            header.append(f"<div class='narr'>{_esc(p['narration'])}</div>")
-        head_html = "".join(header)
         panels = p.get("panels", []) or []
-        if not panels:
-            leaves.append(f"<section class='leaf panelpage'>{head_html}</section>")
-        # One panel per turn-page — a full panel on screen at a time, no scrolling.
-        for k, pan in enumerate(panels, 1):
-            ph = _panel_at(pan, g, k, issue_num, art_dir, art_url)
-            lead = head_html if k == 1 else ""
-            leaves.append(f"<section class='leaf panelpage'>{lead}{ph}</section>")
+        n = len(panels)
+        cols = 1 if n <= 1 else (3 if n > 4 else 2)
+        rows = (-(-n // cols)) or 1
+        ar = round(cols / rows, 3)
+        cells = "".join(_cell(pan, g, k, issue_num, art_dir, art_url)
+                        for k, pan in enumerate(panels, 1))
+        narr = (f"<div class='narrbar'>{_esc(p['narration'])}</div>"
+                if p.get("narration") else "")
+        sheet = (f"<div class='sheet' style='--ar:{ar};"
+                 f"grid-template-columns:repeat({cols},1fr)'>{cells}"
+                 f"<div class='pagebadge'>PAGE {p.get('page','')}</div></div>")
+        leaves.append(f"<section class='leaf comicpage'>{narr}{sheet}</section>")
     if issue.get("lesson"):
         leaves.append(
             f"<section class='leaf endcard'><div class='box lesson'>"
