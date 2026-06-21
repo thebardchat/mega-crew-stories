@@ -271,8 +271,16 @@ def _panels_html(panels, gpage, issue_num, art_dir, art_url):
 
 
 # ── Comic-page cells (multi-panel grid, top speech balloons) ─────────────────────
-def _balloons_cell(pan):
-    """Dialogue as comic speech balloons at the top of a panel cell."""
+BOTTOM_PANELS = {
+    "i001-p07-k4",
+    "i001-p11-k1",
+    "i001-p15-k4",
+    "i001-p18-k3",
+}
+
+
+def _balloons_cell(pan, is_bottom=False):
+    """Dialogue as comic speech balloons at the top (or bottom) of a panel cell."""
     out = []
     for idx, d in enumerate(pan.get("dialogue", []) or []):
         who = (d.get("who") or "").strip()
@@ -280,12 +288,13 @@ def _balloons_cell(pan):
         side = "r" if idx % 2 else "l"
         out.append(f"<div class='cb {side}'><span class='nm'>{_esc(name)}</span>"
                    f"{_esc(d.get('line', ''))}</div>")
-    return f"<div class='balloons'>{''.join(out)}</div>" if out else ""
+    cls = "balloons bottom" if is_bottom else "balloons"
+    return f"<div class='{cls}'>{''.join(out)}</div>" if out else ""
 
 
-def _cell(pan, gpage, k, issue_num, art_dir, art_url):
+def _cell(pan, gpage, k, issue_num, art_dir, art_url, prompts_map=None):
     """One panel as a comic-grid cell: drawn art (or speaker portrait fallback)
-    with speech balloons on top and an optional caption box."""
+    with speech balloons on top (or bottom) and an optional caption box."""
     pid = art_id(issue_num, gpage, k)
     if art_dir and os.path.exists(os.path.join(art_dir, pid + ".png")):
         img = f"<img class='cellimg' loading='lazy' src='{art_url}/{pid}.png' alt=''>"
@@ -295,17 +304,20 @@ def _cell(pan, gpage, k, issue_num, art_dir, art_url):
             img = f"<img class='cellimg' loading='lazy' src='{_ART_BASE}{CREW_ART[sp[0]]}' alt=''>"
         else:
             img = "<div class='cellimg noimg'></div>"
+    
+    prompt = prompts_map.get(pid, "") if prompts_map else ""
+    is_bottom = pid in BOTTOM_PANELS or any(kw in prompt.lower() for kw in ["bottom", "lower third", "bottom third"])
+    
     cap = f"<div class='capbox'>{_esc(pan['caption'])}</div>" if pan.get("caption") else ""
-    return f"<div class='cell'>{img}{_balloons_cell(pan)}{cap}</div>"
+    return f"<div class='cell'>{img}{_balloons_cell(pan, is_bottom)}{cap}</div>"
 
 
 _CSS = """
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:#070809;color:#e8e6e1;font-family:Georgia,'Times New Roman',serif;line-height:1.6;overflow:hidden}
 #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
-.leaf{position:absolute;inset:0;display:none;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:900px;margin:0 auto;left:0;right:0;animation:turn .32s ease}
-.leaf.on{display:flex}
-@keyframes turn{from{opacity:0;transform:translateX(26px) rotateY(6deg)}to{opacity:1;transform:none}}
+.leaf{position:absolute;inset:0;display:flex;flex-direction:column;overflow-y:auto;padding:52px 22px 96px;max-width:900px;margin:0 auto;left:0;right:0;opacity:0;visibility:hidden;pointer-events:none;transform-origin:left center;backface-visibility:hidden;transform-style:preserve-3d;transition:transform .75s cubic-bezier(0.2,0.8,0.2,1),opacity .75s ease,visibility .75s}
+.leaf.on{opacity:1;visibility:visible;pointer-events:auto}
 .kicker{color:#7fb0d6;letter-spacing:.22em;text-transform:uppercase;font-size:12px;font-family:Menlo,monospace}
 .cover{justify-content:center;text-align:center}
 .cover h1{font-size:46px;color:#f4c87a;line-height:1.06;margin:.2em 0}
@@ -373,10 +385,12 @@ background:linear-gradient(to top,rgba(8,9,12,.84) 0%,rgba(8,9,12,.8) 24%,rgba(8
 .zone{position:fixed;top:0;bottom:54px;width:22%;z-index:5;cursor:pointer}
 .zone.l{left:0}.zone.r{right:0}
 /* ── page-turn flip ── */
-#stage{perspective:2200px}
-.leaf{transform-origin:left center;backface-visibility:hidden}
-@keyframes turnN{from{opacity:.12;transform:rotateY(-40deg) translateX(9%);filter:brightness(.5)}to{opacity:1;transform:none;filter:none}}
-@keyframes turnP{from{opacity:.12;transform:rotateY(40deg) translateX(-9%);filter:brightness(.5)}to{opacity:1;transform:none;filter:none}}
+#stage{perspective:2000px;transform-style:preserve-3d}
+.leaf.past{transform:rotateY(-120deg);opacity:0;visibility:hidden}
+.leaf.on{transform:rotateY(0deg);opacity:1;visibility:visible;pointer-events:auto}
+.leaf.future{transform:rotateY(120deg);opacity:0;visibility:hidden}
+.leaf::after{content:'';position:absolute;inset:0;background:linear-gradient(to right,rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 12%);opacity:0;transition:opacity .75s ease;pointer-events:none;z-index:10}
+.leaf.past::after{opacity:1}
 /* ── full-bleed cover (blurred fill + whole cover sharp) ── */
 .cover.hero::before{background:var(--cv) center/cover no-repeat;filter:blur(26px) brightness(.45);transform:scale(1.15)}
 .cover.hero .heroart{position:absolute;inset:0;background:var(--cv) center/contain no-repeat;z-index:1}
@@ -391,31 +405,47 @@ background:linear-gradient(to top,rgba(8,9,12,.84) 0%,rgba(8,9,12,.8) 24%,rgba(8
 .cellimg{width:100%;height:100%;object-fit:cover;display:block}
 .cellimg.noimg{background:repeating-linear-gradient(45deg,#11151a,#11151a 10px,#0d1115 10px,#0d1115 20px)}
 .balloons{position:absolute;top:3.5%;left:4.5%;right:4.5%;display:flex;flex-direction:column;gap:5px;z-index:3;pointer-events:none}
+.balloons.bottom{top:auto;bottom:3.5%}
 .cb{position:relative;align-self:flex-start;max-width:84%;background:#fff;color:#10131a;border:2px solid #0a0c10;border-radius:13px;padding:3px 9px 4px;font-family:'Comic Neue','Trebuchet MS','Segoe UI',sans-serif;font-size:clamp(9px,1.5vmin,14px);line-height:1.16;box-shadow:1.5px 2.5px 0 rgba(0,0,0,.5)}
 .cb.r{align-self:flex-end}
 .cb .nm{display:block;font-weight:700;font-size:.72em;letter-spacing:.03em;color:#b4690a;text-transform:uppercase;margin-bottom:1px}
 .cb:after{content:'';position:absolute;bottom:-8px;left:18px;width:0;height:0;border:7px solid transparent;border-top-color:#fff}
 .cb.r:after{left:auto;right:18px}
+.balloons.bottom .cb:after{bottom:auto;top:-8px;border-top-color:transparent;border-bottom-color:#fff}
 .pagebadge{position:absolute;right:7px;bottom:5px;z-index:4;color:#cfcabf;background:#000a;font-family:Menlo,monospace;font-size:11px;padding:1px 7px;border-radius:7px}
 .capbox{position:absolute;left:0;bottom:0;z-index:3;max-width:72%;background:#1c160a;border-top:2px solid #4a3c18;border-right:2px solid #4a3c18;color:#f0d9a8;font-size:clamp(8px,1.25vmin,12px);line-height:1.2;padding:3px 8px;border-radius:0 7px 0 3px}
 """
 
 _JS = """
 const leaves=[...document.querySelectorAll('.leaf')];let i=0;
-function show(n){const tgt=Math.max(0,Math.min(leaves.length-1,n));const d=tgt>=i?1:-1;i=tgt;
- leaves.forEach((l,k)=>l.classList.toggle('on',k===i));
- const t=leaves[i];t.style.animation='none';void t.offsetHeight;
- t.style.animation=(d>0?'turnN':'turnP')+' .44s ease';
+function show(n,immediate=false){const tgt=Math.max(0,Math.min(leaves.length-1,n));
+ if(tgt===i&&!immediate)return;
+ const direction=tgt>=i?1:-1;const prevActive=i;i=tgt;
+ leaves.forEach((l,k)=>{
+  l.classList.toggle('past',k<i);
+  l.classList.toggle('on',k===i);
+  l.classList.toggle('future',k>i);
+  if(immediate){l.style.transition='none'}else{l.style.transition=''}
+  if(direction>0){
+   if(k===prevActive)l.style.zIndex=5;
+   else if(k===i)l.style.zIndex=4;
+   else l.style.zIndex=1;
+  }else{
+   if(k===i)l.style.zIndex=5;
+   else if(k===prevActive)l.style.zIndex=4;
+   else l.style.zIndex=1;
+  }
+ });
  document.getElementById('counter').textContent=(i+1)+' / '+leaves.length;
  document.getElementById('prev').disabled=i===0;
  document.getElementById('next').disabled=i===leaves.length-1;
- t.scrollTop=0;}
+ leaves[i].scrollTop=0;}
 document.getElementById('next').onclick=()=>show(i+1);
 document.getElementById('prev').onclick=()=>show(i-1);
 document.querySelector('.zone.r').onclick=()=>show(i+1);
 document.querySelector('.zone.l').onclick=()=>show(i-1);
 addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' ')show(i+1);if(e.key==='ArrowLeft')show(i-1);});
-show(0);
+show(0,true);
 """
 
 CREDITS_HTML = (
@@ -429,7 +459,7 @@ CREDITS_HTML = (
 )
 
 
-def render_html(issue, issue_num, art_dir=None, art_url=""):
+def render_html(issue, issue_num, art_dir=None, art_url="", prompts_map=None):
     cover_img = _cover_img_url(issue_num, art_dir)
     if cover_img:
         cover_leaf = (
@@ -462,7 +492,7 @@ def render_html(issue, issue_num, art_dir=None, art_url=""):
         cols = 1 if n <= 1 else (3 if n > 4 else 2)
         rows = (-(-n // cols)) or 1
         ar = round(cols / rows, 3)
-        cells = "".join(_cell(pan, g, k, issue_num, art_dir, art_url)
+        cells = "".join(_cell(pan, g, k, issue_num, art_dir, art_url, prompts_map)
                         for k, pan in enumerate(panels, 1))
         narr = (f"<div class='narrbar'>{_esc(p['narration'])}</div>"
                 if p.get("narration") else "")
@@ -509,8 +539,23 @@ def main():
     repo = src.parent.parent  # saga/issue.json -> repo root
     art_dir = repo / "art" / "out" / f"issue-{num:03d}"
     art_url = f"/art/out/issue-{num:03d}"
+    
+    # Load prompts mapping from queue file
+    prompts_map = {}
+    queue_file = repo / "art" / "queue" / f"issue-{num:03d}.jsonl"
+    if queue_file.exists():
+        try:
+            with open(queue_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    if line.strip():
+                        item = json.loads(line)
+                        if "id" in item and "prompt" in item:
+                            prompts_map[item["id"]] = item["prompt"]
+        except Exception as e:
+            print(f"Warning: could not parse queue file {queue_file}: {e}")
+
     out = Path(sys.argv[2]) if len(sys.argv) > 2 else src.with_suffix(".html")
-    out.write_text(render_html(issue, num, str(art_dir), art_url), encoding="utf-8")
+    out.write_text(render_html(issue, num, str(art_dir), art_url, prompts_map), encoding="utf-8")
     drawn = sum(1 for f in art_dir.glob("*.png")) if art_dir.exists() else 0
     print(f"rendered -> {out} ({num}) | drawn panels available: {drawn}")
 
