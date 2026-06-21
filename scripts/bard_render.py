@@ -175,12 +175,13 @@ SOCIAL_ASSETS = [
      "scene": "Wide brand key-art banner for 'MEGA Crew' — a heroic ensemble of friendly "
               "robots assembled as a team in a cinematic group hero shot, the warm glow of a "
               "home server workshop behind them."},
-    {"id": "social-twitch-banner", "kind": "banner", "bots": ["arc", "weld", "volt"], "w": 1200, "h": 480,
-     "scene": "Ultra-wide Twitch channel banner for the MEGA Crew — robots side by side facing "
-              "the viewer, dynamic and bold, room left on one side for a channel logo."},
-    {"id": "social-discord-banner", "kind": "banner", "bots": ["glitch", "sparky", "nukkels"], "w": 960, "h": 540,
+    {"id": "social-twitch-banner", "kind": "banner", "wide": True, "bots": ["arc", "weld", "volt"], "w": 1344, "h": 768,
+     "scene": "Ultra-wide Twitch channel banner for the MEGA Crew — robots lined up side by side "
+              "across the frame facing the viewer, dynamic and bold, room left on one side for a "
+              "channel logo."},
+    {"id": "social-discord-banner", "kind": "banner", "wide": True, "bots": ["glitch", "sparky", "nukkels"], "w": 1344, "h": 768,
      "scene": "Discord community welcome banner for the MEGA Crew — an inviting, fun group shot "
-              "of the robots gathered around with warm 'come join us' energy."},
+              "of the robots gathered together across a wide scene with warm 'come join us' energy."},
     {"id": "social-emote-arc", "kind": "emote", "bots": ["arc"], "w": 512, "h": 512,
      "scene": "Chat-emote bust of ARC the gatekeeper robot, friendly confident expression, "
               "centered, simple readable silhouette."},
@@ -203,9 +204,12 @@ def build_social_orders(colors=None):
             f"{b.replace('gemini_strategist','gemini').upper()} — match the supplied reference "
             f"image of {b} for its EXACT colors, markings and design." for b in bots)
         style = EMOTE_STYLE if a["kind"] == "emote" else SOCIAL_STYLE
+        aspect = ("WIDESCREEN 16:9 horizontal banner — aspect ratio 16:9, a panoramic "
+                  "landscape composition MUCH wider than it is tall, full-bleed left to "
+                  "right, NOT square. " if a.get("wide") else "")
         orders.append({
             "id": a["id"],
-            "prompt": f"{a['scene']} {recipe} {style}".strip(),
+            "prompt": f"{aspect}{a['scene']} {recipe} {style}".strip(),
             "refs": [f"{rel_base}/{CREW_ART[b]}" for b in bots],
             "w": a["w"], "h": a["h"],
         })
