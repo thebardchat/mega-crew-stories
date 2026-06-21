@@ -406,7 +406,7 @@ background:linear-gradient(to top,rgba(8,9,12,.84) 0%,rgba(8,9,12,.8) 24%,rgba(8
 .cellimg.noimg{background:repeating-linear-gradient(45deg,#11151a,#11151a 10px,#0d1115 10px,#0d1115 20px)}
 .balloons{position:absolute;top:3.5%;left:4.5%;right:4.5%;display:flex;flex-direction:column;gap:5px;z-index:3;pointer-events:none}
 .balloons.bottom{top:auto;bottom:3.5%}
-.cb{position:relative;align-self:flex-start;max-width:84%;background:#fff;color:#10131a;border:2px solid #0a0c10;border-radius:13px;padding:3px 9px 4px;font-family:'Comic Neue','Trebuchet MS','Segoe UI',sans-serif;font-size:clamp(9px,1.5vmin,14px);line-height:1.16;box-shadow:1.5px 2.5px 0 rgba(0,0,0,.5)}
+.cb{position:relative;align-self:flex-start;max-width:72%;background:#fff;color:#10131a;border:2px solid #0a0c10;border-radius:13px;padding:3px 9px 4px;font-family:'Comic Neue','Trebuchet MS','Segoe UI',sans-serif;font-size:clamp(9px,1.5vmin,14px);line-height:1.16;box-shadow:1.5px 2.5px 0 rgba(0,0,0,.5)}
 .cb.r{align-self:flex-end}
 .cb .nm{display:block;font-weight:700;font-size:.72em;letter-spacing:.03em;color:#b4690a;text-transform:uppercase;margin-bottom:1px}
 .cb:after{content:'';position:absolute;bottom:-8px;left:18px;width:0;height:0;border:7px solid transparent;border-top-color:#fff}
@@ -491,13 +491,13 @@ def render_html(issue, issue_num, art_dir=None, art_url="", prompts_map=None):
         n = len(panels)
         cols = 1 if n <= 1 else (3 if n > 4 else 2)
         rows = (-(-n // cols)) or 1
-        ar = round(cols / rows, 3)
+        ar = round(cols * 1.5 / rows, 3)
         cells = "".join(_cell(pan, g, k, issue_num, art_dir, art_url, prompts_map)
                         for k, pan in enumerate(panels, 1))
         narr = (f"<div class='narrbar'>{_esc(p['narration'])}</div>"
                 if p.get("narration") else "")
         sheet = (f"<div class='sheet' style='--ar:{ar};"
-                 f"grid-template-columns:repeat({cols},1fr)'>{cells}"
+                 f"grid-template-columns:repeat({cols},1fr);grid-template-rows:repeat({rows},1fr)'>{cells}"
                  f"<div class='pagebadge'>PAGE {p.get('page','')}</div></div>")
         leaves.append(f"<section class='leaf comicpage'>{narr}{sheet}</section>")
     if issue.get("lesson"):
