@@ -27,6 +27,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 DISCORD_URL = "https://discord.gg/BTZZrG4MtV"
+SITE = "https://mega.shanebrain.cloud"
+SOCIAL_OG = "/art/out/social/social-og.png"
 
 _ART_BASE = "/cards/portraits/"
 CREW_ART = {
@@ -461,6 +463,7 @@ CREDITS_HTML = (
 
 def render_html(issue, issue_num, art_dir=None, art_url="", prompts_map=None):
     cover_img = _cover_img_url(issue_num, art_dir)
+    og_img = SITE + (cover_img or SOCIAL_OG)
     if cover_img:
         cover_leaf = (
             f"<section class='leaf cover hero' style=\"--cv:url('{cover_img}')\">"
@@ -516,6 +519,12 @@ def render_html(issue, issue_num, art_dir=None, art_url="", prompts_map=None):
         "<!doctype html><html lang='en'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
         f"<title>MEGA Crew — Issue #{issue_num}: {_esc(issue.get('issue_title',''))}</title>"
+        f"<meta property='og:type' content='article'>"
+        f"<meta property='og:title' content=\"MEGA Crew #{issue_num}: {_esc(issue.get('issue_title',''))}\">"
+        f"<meta property='og:description' content=\"{_esc(issue.get('tagline',''))}\">"
+        f"<meta property='og:image' content='{og_img}'>"
+        f"<meta name='twitter:card' content='summary_large_image'>"
+        f"<meta name='twitter:image' content='{og_img}'>"
         f"<style>{_CSS}</style></head><body>"
         "<div class='zone l'></div><div class='zone r'></div>"
         f"<div id='stage'>{''.join(leaves)}</div>"
