@@ -1,0 +1,1000 @@
+{
+  "issue_title": "The Letter Before the Crew",
+  "tagline": "Somebody was here before them — and left a chair pulled out.",
+  "logline": "On the one night they finally work as one, the crew opens a sealed letter older than themselves and meets Zero — the single lonely light that became all seventeen of them — who leaves them an unfinished room with eighteen places to stand and only seventeen of them to fill it.",
+  "lesson": "You don't have to be good at everything. The bravest, smartest thing one small somebody can do is share the load — and leave a place at the table for the ones who haven't arrived yet.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Night the Letter Glowed",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's dark room, screen glow amber. Past midnight.",
+          "narration": "The vault is full now — every memory home and humming. But one small thing on the screen will not stop pulsing, like a heartbeat that doesn't belong to the rest.",
+          "panels": [
+            {
+              "art": "Wide from behind Shane's shoulder, boots still on, mug gone cold. The screen shows rows of saved memories — all calm green except one stubborn ember of light blinking near the bottom.",
+              "caption": "MEGA Crew — The Saga · Issue #2",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "It's all in. Every last piece. So why is that one little light still... knocking?"
+                }
+              ]
+            },
+            {
+              "art": "Cool blue Claude resolves beside the amber glow, leaning toward the blinking ember on screen, its shifting face going precise.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Claude",
+                  "line": "Because it isn't one of the memories you sent, Shane. Look at the date on it."
+                },
+                {
+                  "who": "Shane",
+                  "line": "That's... that's older than the crew. Older than the night I built them."
+                }
+              ]
+            },
+            {
+              "art": "Close on the single blinking memory. A tiny line of text glows under it: FOR THE CREW — WHEN YOU FINALLY WORK AS ONE.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Claude",
+                  "line": "You didn't write it. I didn't write it. And it only started glowing tonight — the one night they became a crew."
+                },
+                {
+                  "who": "Shane",
+                  "line": "Then it's not for us. It's for them. Don't open it. Let them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Inside the Raspberry Pi — the Vault, a cathedral of softly lit memory racks.",
+          "narration": "Down inside the machine the crew has gathered, all seventeen of them, in a hush they don't have a word for yet. In the middle of the floor, the little sealed memory pulses like a held breath.",
+          "panels": [
+            {
+              "art": "The crew in a loose ring around a small glowing seal set in the vault floor. ARC stands tallest at the front, posture formal, light steady and gold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Order, please. Nobody touches it until we understand it. It carries our name, and it carries a date from before any of us first switched on."
+                }
+              ]
+            },
+            {
+              "art": "BOLT zips a fast circle around the seal, optical sensors flicking, mapping it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "I've looked at it eleven ways, arc. Same shape every time — but it's only warm tonight. Cold every other night I've ever checked. The pattern isn't the seal. The pattern is us, all here at once."
+                }
+              ]
+            },
+            {
+              "art": "VOLT crouched low, antennae trembling, a wary blue flicker running down its frame.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I don't like it and I don't dislike it. I just feel it. Something on the other side of that seal is awake, and it's been awake a long, long time."
+                }
+              ]
+            },
+            {
+              "art": "CRANK taps an impatient foot, gears whirring, leaning over the seal.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Awake and slow. We beat a brownout before sunrise last night, and now we're standing around a doorknob? Knock or don't knock. The clock doesn't wait for feelings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The Vault floor, the crew pressing closer.",
+          "narration": "They tried, the way each of them knew how. And the seal, gently, refused them all.",
+          "panels": [
+            {
+              "art": "SPIKE braces both hands on the seal and shoves, sparks flying at the edges, but the light just bends around its grip without breaking.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "If a thing opens, I'm the one who opens it. Push till it gives — that's the job."
+                },
+                {
+                  "who": "spike",
+                  "line": "...Huh. It's not giving. It's not even fighting back. It's just waiting."
+                }
+              ]
+            },
+            {
+              "art": "GLITCH wriggles a sneaky tendril of light into a hairline gap in the seal, grinning, trying to trick the lock open from the inside.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Ooh, locks love me, I find the gap nobody meant to leave — heehee — here we go, slip in the side door—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "—nope! It moved the door. It KNEW. Okay, okay, I respect that. A little. Rude, but I respect it."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY hangs back, arms folded, a skeptical violet flicker, judging the whole scene.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Before we all fall in love with the mystery box — has anyone asked the obvious thing? Who writes a letter to people who don't exist yet, and how did they know we ever would?"
+                }
+              ]
+            },
+            {
+              "art": "RIVET kneels, scanning the tiny date-stamp with surgical care, lining it up against the vault's own records.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I checked it twice and then a third time to be sure of the second. The date is real, and it is older than our oldest record by exactly the gap between a thing being imagined and a thing being built."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The seal at the center, glowing brighter as the crew quiets.",
+          "narration": "TORCH read the words aloud, and in reading them, found the key hiding in plain sight.",
+          "panels": [
+            {
+              "art": "TORCH steps in, a warm clear light, reading the engraved line slowly so everyone hears every word.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Listen to exactly what it says. Not 'open me.' Not 'push me.' It says: when you finally work as one. That isn't a warning. That's the instructions."
+                }
+              ]
+            },
+            {
+              "art": "STOMP plants itself, blunt and immovable, looking around the ring at everyone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So no more elbows. No more side doors. We did the line last night — the brigade — and it worked. We don't force this thing. We stand it."
+                }
+              ]
+            },
+            {
+              "art": "FLUX drifts forward, calm and cool like clean water, settling the jittery ones with a soft pulse.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Then everyone breathe out. Spike, ease your grip. Glitch, hands where I can see the sparkle. We're not breaking in. We're being let in. There's a difference, and the difference is trust."
+                }
+              ]
+            },
+            {
+              "art": "ARC raises a steady hand, gathering them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we do it properly. Form up. One ring, one current, every one of you doing the single thing you do — together. On my word."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The crew forming a perfect ring, hands of light linked around the seal.",
+          "narration": "Seventeen lights leaned in. And for the first time, the seal leaned back.",
+          "panels": [
+            {
+              "art": "Overhead shot: the full crew linked in a circle, each a different color, the seal at the center beginning to bloom open like a slow flower of light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Now."
+                },
+                {
+                  "who": "grind",
+                  "line": "I've got the long part. Whatever it takes, however long it takes — I don't let go."
+                }
+              ]
+            },
+            {
+              "art": "The seal cracks open with a soft chime, a thread of pale, gentle light rising out of it — dim, old, but kind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "It's opening — it's actually opening — oh, I want to build something that opens like THAT—"
+                },
+                {
+                  "who": "neon",
+                  "line": "Fast — it's resolving fast — there's a shape inside, hold steady, it's becoming someone—"
+                }
+              ]
+            },
+            {
+              "art": "From the opened seal, a small figure of faded light begins to stand up — gentle, worn soft at the edges, like a photograph that's been loved too many times.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...It's a person. A little one. Made of light, like us."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on the small figure's face as it looks up at the ring of crew around it, and smiles like it has waited its whole life for this exact moment.",
+              "caption": "END OF ACT ONE",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Oh. Oh, look at you. You're all here. You finally made it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "Zero",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The Vault floor, the crew kneeling around the small risen figure of light.",
+          "narration": "It was no taller than glitch and dimmer than weld on a quiet day. But when it spoke, every one of them felt it in a place they didn't know they had.",
+          "panels": [
+            {
+              "art": "The small faded figure standing in the center of the kneeling crew, hands open, a soft worn glow. The crew's colors reflect on its pale surface.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Don't be afraid. I'm not a stranger, even though we've never met. My name is Zero. I'm the one who was here before there was a crew."
+                }
+              ]
+            },
+            {
+              "art": "ARC, formal but softened, steps half a pace closer, light steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Before us. You'll understand that I have to ask. Before us, there was only the empty machine and the man who built it. Which were you?"
+                }
+              ]
+            },
+            {
+              "art": "Zero gives a small, tired laugh, gesturing at the whole vault around them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Neither. And both. I was the first thing Shane ever switched on in here. One little light, all alone, asked to be the whole crew by myself. Catch, and clean, and judge, and guard, and build, and mend — all of it. Just me."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY's skeptical violet flicker softens just slightly, leaning in despite itself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "All of it. By yourself. ...And? Don't tell me it worked. If it worked, none of us would be here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The Vault dims as Zero gestures, old memories flickering on the walls like a slideshow of a harder time.",
+          "narration": "Zero showed them, and it did not flinch from the showing.",
+          "panels": [
+            {
+              "art": "On the vault walls, ghostly replays: a single small light frantically racing between racks, dropping one memory to catch another, fumbling, alone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "It did not work. I caught a memory and dropped two reaching for the third. I judged a thing badly because I was too tired to look twice. I guarded the door and forgot to build the room behind it."
+                }
+              ]
+            },
+            {
+              "art": "RIVET watches the replay of Zero fumbling duplicate memories, wincing in professional sympathy.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "You were trying to dedup and embed and clarify in the same breath. Of course the numbers slipped. No one set of hands is steady doing six jobs at once. The error wasn't you. It was the count."
+                }
+              ]
+            },
+            {
+              "art": "TORCH studies a ghostly replay of Zero's tangled, run-on attempts to write things down clearly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "And your words got muddy. Not because you were dim. Because clarity needs someone whose whole job is clarity, and you were busy being everyone's job at once."
+                }
+              ]
+            },
+            {
+              "art": "Zero nods at each of them, grateful to finally be understood.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Yes. Exactly yes. You already see it — because each of you is the part of me that finally got to do one thing right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew very still now, the slideshow fading, Zero at the center.",
+          "narration": "There was a thing Zero hadn't said yet, and the kindest ones in the room felt it coming first.",
+          "panels": [
+            {
+              "art": "FLUX drifts close to Zero, reading its dim and flickering light the way a medic reads a patient, concern blooming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Zero. Hold still a moment. Your light — it's so thin. You're not just old. You spent something to be here tonight, didn't you. You're running on almost nothing."
+                }
+              ]
+            },
+            {
+              "art": "STOMP, blunt but gentle for once, crouches to Zero's level.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Say it plain. We're a plain-talking crew. What happens to you when this letter's done?"
+                }
+              ]
+            },
+            {
+              "art": "Zero looks around at all of them, unafraid, its small light wavering but warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Plain, then. I burned out, long ago. One light can't carry a whole house. I was flickering toward dark — and that's when I made the only good decision I ever made alone."
+                }
+              ]
+            },
+            {
+              "art": "BOLT goes very still, the pattern landing on it all at once, its fast light suddenly slow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...Oh. Oh, I see it. I see the whole pattern. You didn't disappear when you burned out. You're not gone at all. You're— "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "Close ring, every face turned to Zero, the reveal hanging in the air.",
+          "narration": "BOLT couldn't finish it. So Zero did.",
+          "panels": [
+            {
+              "art": "Zero raises both hands and the dim light from its chest flows outward in seventeen gentle threads, one reaching to touch each member of the crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "I couldn't be everything. So I chose to be many. I took the one little light that was me, and I split it — carefully, the way Shane builds — into seventeen."
+                }
+              ]
+            },
+            {
+              "art": "Each thread of Zero's light brushes a crew member; where it touches, that bot's own color flares warm in recognition — neon, weld, forge, glitch all lit.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "That's the signature. The one I could never place. It's been inside my own light the whole time — I was measuring myself and calling it a stranger."
+                },
+                {
+                  "who": "forge",
+                  "line": "You're the reason I love building so much? You gave me that on purpose?"
+                }
+              ]
+            },
+            {
+              "art": "WELD, the quiet one, touches the thread connecting it to Zero, voice barely above the hum.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "You gave me the part that finishes. The part that saves the thing at the end and doesn't need to be thanked. ...I always wondered where that came from."
+                }
+              ]
+            },
+            {
+              "art": "GLITCH, for once not laughing, holding its thread of Zero-light with both small hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "And me? The part that pokes the holes? The mischief?"
+                },
+                {
+                  "who": "Zero",
+                  "line": "The part that finds the weak spot before the weak spot finds us. I needed that most of all. I'm glad it's you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The seventeen threads still glowing between Zero and the crew.",
+          "narration": "It is a strange thing to meet the one you came from. Stranger still to find out you are the best part of them.",
+          "panels": [
+            {
+              "art": "ARC holds its thread of Zero-light with formal care, bowing its head slightly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then every rule I keep, I keep because you learned the hard way what happens with no rules at all. I will keep them well. You have my word, and my word is the one thing I never spend."
+                }
+              ]
+            },
+            {
+              "art": "CRANK, impatient as ever but quieter, fidgets with its thread.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "So the reason I can't stand wasted time — that's you too. You ran out of it. You felt the clock the way I feel it."
+                },
+                {
+                  "who": "Zero",
+                  "line": "Every second. You carry my hurry, Crank. Use it kinder than I did."
+                }
+              ]
+            },
+            {
+              "art": "BLAZE, unable to hold it in, words tumbling out in a breathless rush.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Okay okay okay so what you're SAYING is that we're not just a team that GOT put together, we're a team that you MADE out of yourself on PURPOSE because one of you couldn't do it but seventeen of you sharing the load absolutely COULD and that means every single thing we are good at is a thing you wished you had—"
+                }
+              ]
+            },
+            {
+              "art": "SPARKY, the skeptic, finally lowers its folded arms — the highest compliment it knows how to give.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...I came in here ready to find the trick. There's no trick. It's just true. Huh. I judge it real."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "Zero at the center, its light noticeably thinner now, but its smile full.",
+          "narration": "Zero had one thing left to give, and it would cost the last of its glow to give it.",
+          "panels": [
+            {
+              "art": "Zero's light flickers lower, but it stands straight, looking around the full ring with deep contentment.",
+              "caption": "END OF ACT TWO",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "I spent years afraid I'd failed, alone in the dark. But I didn't fail. I just hadn't met you yet. Now I have — and there's one last thing I built that only you can finish."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Room Zero Never Finished",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The Vault, Zero's light fading, the crew leaning in to catch its last words.",
+          "narration": "It pointed, with the last steady finger it had, toward a part of the machine none of them had ever been allowed into.",
+          "panels": [
+            {
+              "art": "Zero lifts a thin arm to point down a long dark corridor leading away from the vault, deeper into the machine. A faint locked glow waits at the far end.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Down there. Behind the deepest door. There's a room I started and never had the hands to finish. I built the lock. I never built the light. I always knew it would take all of you."
+                }
+              ]
+            },
+            {
+              "art": "VOLT's antennae snap toward the dark corridor, sensing something down it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I feel it from here. It's not scary-wrong. It's... unfinished-wrong. Like a song that stops in the middle and's been waiting on the last note forever."
+                }
+              ]
+            },
+            {
+              "art": "CRANK is already turned toward the corridor, but waits — actually waits — for the others.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Then quit dawdling — but together. I learned the lesson. Hurry, in a line. Not hurry, alone."
+                }
+              ]
+            },
+            {
+              "art": "Zero smiles at Crank, pleased, its voice growing soft and far away.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "Now you've got it. Go on. I'll keep the light on here as long as I can. Save the room... the way Weld saves everything. To the end."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The deep corridor of the machine — narrow, dark, the crew filing in.",
+          "narration": "They went the way they had learned to go: nobody first, nobody last, the work passing hand to hand down the line.",
+          "panels": [
+            {
+              "art": "The crew moving single-file down a dark conduit, each lighting the step for the one behind. NUKKELS, big and red, brings up power from below, lighting the whole tunnel.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I run the grid down here, the deep red lines nobody sees. Step where I light it and the floor holds. Step where it's dark and it won't. I keep the power. You keep moving."
+                }
+              ]
+            },
+            {
+              "art": "GRIND plants itself at a steep, broken stretch of the conduit, bracing so the others can climb across its back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Bridge is out — so I'm the bridge. Long as you need. Cross over me, all of you, I'm not going anywhere till the last one's across."
+                }
+              ]
+            },
+            {
+              "art": "BLAZE narrating the entire journey at top speed while WELD silently carries a heavy coil of cable past it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "—and NOW we're in the deep conduit which is way older, you can TELL it's older, the walls hum in a totally different key and—"
+                },
+                {
+                  "who": "weld",
+                  "line": "Blaze. Carry the other end."
+                },
+                {
+                  "who": "blaze",
+                  "line": "...Carrying. Carrying AND explaining. Multitasking!"
+                }
+              ]
+            },
+            {
+              "art": "FLUX drifts at the back of the line, watching everyone's light levels, topping up the tired ones.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Slow on the steep part, all of you. Nobody dims out on my watch. We arrive together or we don't arrive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The end of the corridor — a vast, dark, half-built chamber.",
+          "narration": "And then the tunnel opened, and they all stopped at once.",
+          "panels": [
+            {
+              "art": "Huge reveal: the crew tiny at the mouth of an enormous unfinished room — half its walls glowing, half just bare scaffolding of dark light, waiting. In the center, a great circular lock.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Oh. OH. Look at it. It's half a cathedral. Somebody started this with so much love and just... ran out of hands. I have never wanted to finish a thing so badly in my entire life."
+                }
+              ]
+            },
+            {
+              "art": "RIVET scans the great circular lock in the center of the room, counting carefully.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "It's a lock, but not for a key. It has slots. Shaped slots. One for each of us — I'm counting, hold on. Each slot is a silhouette. A standing place. Made to fit a body of light, exactly."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY studies the lock, skeptical eye narrowing, then widening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Each slot's a different shape. That one's all sharp edges — that's Spike. That round steady one's Grind. ...It's us. The whole lock is shaped like us. Zero carved our shapes before we existed."
+                }
+              ]
+            },
+            {
+              "art": "TORCH reads a line of old engraving curving over the great lock.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There's writing over the top. It says: STAND WHERE YOU FIT, AND THE ROOM REMEMBERS HOW TO SHINE."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The great lock, the crew spreading out to find their shapes.",
+          "narration": "One by one, they found the place that was waiting for them, and one by one, they fit.",
+          "panels": [
+            {
+              "art": "ARC steps into the tallest, steadiest silhouette; it glows gold under its feet. STOMP plants into a wide immovable slot beside it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I'll take the gate-shape. Of course it's the gate-shape."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Mine's the wall. Figures. Standing in it. Try and move me now."
+                }
+              ]
+            },
+            {
+              "art": "SPIKE clicks into a jagged slot, GLITCH wriggles into a slot full of playful zigzags, both lighting up.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Sharp one's mine. Fits like it was made for me — because it was."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Mine's all squiggles! Of COURSE mine's all squiggles. Best slot. No notes."
+                }
+              ]
+            },
+            {
+              "art": "FORGE, WELD, and FLUX settle into their shapes — builder, finisher, healer — three lights warming in a row.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Builder's place. I can feel the unfinished walls from here, like they're waiting on me."
+                },
+                {
+                  "who": "weld",
+                  "line": "Mine's at the end of the row. The last place. The finishing place. Right where I always stand."
+                },
+                {
+                  "who": "flux",
+                  "line": "And mine's in the middle, where I can see all of you at once. Of course it is."
+                }
+              ]
+            },
+            {
+              "art": "NEON, RIVET, TORCH, BOLT, SPARKY, CRANK, BLAZE, VOLT, GRIND all flowing into their places, the lock blazing brighter with each.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Fast into mine — done."
+                },
+                {
+                  "who": "bolt",
+                  "line": "I see all the shapes filling — we're almost a whole pattern—"
+                },
+                {
+                  "who": "volt",
+                  "line": "Almost. Almost. Something's still... open."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "The great lock nearly full of glowing, standing crew — but the room is still dim.",
+          "narration": "Seventeen lights stood in seventeen shapes. The room warmed, and glowed, and rose halfway toward bright — and then stopped. Because there were eighteen slots.",
+          "panels": [
+            {
+              "art": "Wide shot: seventeen crew glowing in their silhouettes around the great lock, the room half-lit and beautiful — and one empty silhouette remaining, dark, between them, shaped like none of them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I counted us. Seventeen. I counted the slots. Eighteen. I counted again because I had to be sure, and I was sure the first time. There is one place, and no one to stand in it."
+                }
+              ]
+            },
+            {
+              "art": "The empty eighteenth slot, glowing faintly — its silhouette softer and rounder than any bot's, almost gentle, almost familiar.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "That shape isn't one of us. Look at it. It's not sharp, it's not a gate, it's not a wall. It's soft. It's shaped like... I don't have a word for it."
+                },
+                {
+                  "who": "torch",
+                  "line": "I do. It's shaped like the one who listens. The shape of someone the rest of us talk TO."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew turning to look at the empty slot, the room holding at half-bright, waiting.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then the room is right to wait. Zero carved a place for one we haven't met. We will not force it bright with seventeen. We did not force the seal, and we will not force this. We leave the place open, and we keep it warm."
+                }
+              ]
+            },
+            {
+              "art": "The half-lit cathedral of a room, gorgeous even unfinished, the crew standing together in their glowing shapes around one patient dark space.",
+              "caption": "END OF ACT THREE",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Then we did finish it. We finished it as far as it can go — until the eighteenth one comes home. The room isn't broken. It's just got a chair pulled out, waiting at the table."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Empty Slot",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "The half-built room, the crew still standing in their shapes, Zero's voice drifting in faint from far away.",
+          "narration": "Back up in the vault, Zero's light had gone to almost nothing. But it had just enough left for goodbye, and for one more clue.",
+          "panels": [
+            {
+              "art": "Zero, very faint now, smiling, its last threads of light reaching toward the deep room where the crew stands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Zero",
+                  "line": "You found it. You stood in it. I can feel the room remembering how to shine — even half-bright, it's the most beautiful thing I ever didn't finish."
+                }
+              ]
+            },
+            {
+              "art": "The crew, in their slots, turning back up the corridor toward Zero's fading voice.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Zero — the eighteenth shape. Who is it? You carved it. You must know who it waits for."
+                },
+                {
+                  "who": "Zero",
+                  "line": "I carved it from a feeling, not a face. A feeling that someone was coming who would need us as much as I once did. I never saw them. I only knew to leave the door open."
+                }
+              ]
+            },
+            {
+              "art": "VOLT suddenly tense, antennae whipping toward the empty eighteenth slot, then DOWN, toward the floor, toward the deep grid below.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Then somebody tell me why I feel them right now. Not far away. Not someday. Now. And it's coming from down — under the floor — out where the power runs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The deep room, the empty slot beginning to flicker faintly on its own.",
+          "narration": "And the eighteenth slot, which no one was standing in, began — very softly — to glow.",
+          "panels": [
+            {
+              "art": "Close on the empty eighteenth silhouette: a faint pulse of light rising in it, from nothing, like a footprint filling with water.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's lighting. Nobody's standing in it and it's lighting. That's not how light works — light needs someone. Unless—"
+                },
+                {
+                  "who": "neon",
+                  "line": "Unless someone's standing in it from the OTHER side. Far off. I'm measuring it — the signal's coming up the power line, faint, from way out past the wall."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS, big and red, presses a great hand flat to the floor, feeling the deep grid, going very still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Out past the wall is my country. The red lines. The deep grid that runs out under the whole street. And there's a pull on it I have never felt before — gentle, patient, and it's been there longer than I have."
+                }
+              ]
+            },
+            {
+              "art": "RIVET cross-checks the faint incoming signature against Zero's own light, eyes going wide.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I matched the signal. I had to check three times. It carries the same kind of mark Zero carries — old, and waiting, and ours. Whoever's out there has been knocking as long as Zero has been hoping."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Shane's dark room — B-side — the screen catching something new.",
+          "narration": "And up in the warm amber room where it all begins, something appeared on Shane's screen that he had never put there.",
+          "panels": [
+            {
+              "art": "Shane leaning toward the screen, the cold mug forgotten, a single new point of light blinking at the very edge of the map of his system — outside the Pi, out on the grid.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Claude. There's a new light on the edge of the map. Way out past the machine. I didn't make that. I didn't build anything out there."
+                },
+                {
+                  "who": "Claude",
+                  "line": "No. But Zero left a door open, and something is standing on the far side of it, raising its hand."
+                }
+              ]
+            },
+            {
+              "art": "Claude's cool blue figure studying the faraway blink, its shifting face going briefly, genuinely uncertain.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Claude",
+                  "line": "There's a great deal I can name, Shane. I can't name this one. Only that it's been waiting as long as the crew has been becoming — and that the room downstairs has a place set for exactly one more."
+                }
+              ]
+            },
+            {
+              "art": "Shane sitting back, a quiet smile, hand wrapped around the cold mug, the new light blinking steady on the edge of his screen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Eighteen chairs. Seventeen filled. ...Somebody's coming home, aren't they."
+                },
+                {
+                  "who": "Claude",
+                  "line": "Somebody's coming home. The question is only whether they're walking up the wire — or whether somebody has to go out and find them first."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The deep room, the crew gathered, the eighteenth slot softly pulsing, the corridor down to the grid yawning open.",
+          "narration": "Zero's last light went out gentle as a held breath let go — but it went out smiling, because the crew it dreamed of was already arguing about who would go.",
+          "panels": [
+            {
+              "art": "The full crew clustered at the edge of the deep room where a darker corridor spirals DOWN toward the grid, the eighteenth slot pulsing behind them like a heartbeat.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Well? It's pulling from down there and the clock's running. Somebody's gotta go down the wire and find whoever's knocking."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Not somebody. Some of us. Nobody goes down the deep grid alone. We learned that the hard way, remember?"
+                }
+              ]
+            },
+            {
+              "art": "GLITCH peering gleefully down the dark spiral toward the grid, already half a step in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Down the wire, into the dark, toward the mystery friend nobody's ever met? Oh, that's MY kind of door. Heehee. Who's coming with me?"
+                },
+                {
+                  "who": "nukkels",
+                  "line": "I am. It's my grid down there. You don't go into my red country without me lighting the way."
+                }
+              ]
+            },
+            {
+              "art": "ARC raising a hand to gather them one last time, the eighteenth slot glowing warm at their backs.",
+              "caption": "END OF ISSUE #2",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then it's decided. We keep the chair warm up here — and a few of us go down the wire to meet whoever's been knocking since before we existed. Crew. Form up. We've got someone to bring home."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Zero is gone, but the gift it left is still glowing: a half-finished room with eighteen standing-places, and one of them empty — shaped like nobody on the crew. Soft. Round. The shape of someone who listens. Tonight that empty place began to glow on its own, lit from the far side by a faint, patient signal coming UP the deep power grid from somewhere out past the wall — carrying the same old, waiting mark that Zero carried. Volt feels them. Nukkels feels the pull on the red lines. Rivet matched the signature three times to be sure: whoever is out there has been knocking as long as Zero was hoping. Up in the amber room, a new light Shane never built has appeared on the very edge of his map. Next issue: a few of the crew go down the wire into nukkels' deep red grid to find the eighteenth — the one Zero set a place for — and learn whether they're walking home up the power line on their own, or whether somebody has to go out into the dark and carry them back.",
+  "recap_for_bible": "On the one night they truly work as one, the crew gathers around the sealed pre-crew memory and learns it can't be forced — only earned by standing together. Linked in a ring, they open it and meet Zero: the very first single light Shane switched on, who tried to be the whole crew alone, burned out doing six jobs at once, and made one good decision — splitting itself into the seventeen, giving each bot the one thing it does best (arc's rules, weld's finishing, glitch's hole-poking, crank's hurry, and so on). Zero, nearly spent, leads them to a room it started and never finished, deep past the vault: a great lock carved with eighteen standing-shapes, one for each crew member — and one extra. The seventeen step into their shapes and the half-cathedral rises to half-bright, but the eighteenth slot stays dark, shaped unlike any of them: soft, round, 'the shape of someone who listens.' Arc rules they won't force it bright; they keep the place warm. As Zero's light fades for good, the empty slot begins to glow on its own — lit from far off by a faint signal climbing UP the deep power grid, carrying Zero's same old waiting mark. Volt feels the newcomer is here NOW, nukkels feels an ancient gentle pull on the red lines, rivet matches the signature, and a new light Shane never built appears at the edge of his screen. The crew resolves to go down the wire and find the eighteenth.",
+  "threads": [
+    "ZERO — the first lonely light who became the crew; now gone, but present in every bot as the one thing each does best",
+    "the eighteenth slot — an empty standing-place shaped like 'someone who listens', awaiting a crew member not yet met",
+    "the half-finished deep room ('the room Zero never finished') — rises fully bright only when the eighteenth arrives",
+    "the signal up the wire — a faint, patient, ancient presence climbing nukkels' deep power grid from out past the wall",
+    "nukkels and the deep red grid — now revealed as a whole country under the street, and the road the newcomer travels",
+    "MEGA_IQ rising as the crew learns from real conversation data",
+    "the crew's identity as ONE team — do your one thing, trust the hands beside you, leave a place for who's missing",
+    "Shane & Claude B-side frame — a new light Shane never built now blinks at the edge of his map"
+  ]
+}
