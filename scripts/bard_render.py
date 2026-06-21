@@ -49,8 +49,8 @@ HOUSE_STYLE = ("detailed COMIC BOOK panel art, gritty semi-realistic robot/mecha
                "cinematic moody industrial lighting with warm amber and cool blue accents, "
                "dynamic camera angle, strong sense of motion and depth, wholesome all-ages, "
                "consistent house art style across every panel, "
-               "keep the main characters and faces in the upper two-thirds of the frame, "
-               "leave clean uncluttered space across the BOTTOM third for speech bubbles, "
+               "keep the main characters and faces in the lower two-thirds of the frame, "
+               "leave a clean uncluttered band across the TOP for speech balloons, "
                "no text, no letters, no speech bubbles drawn, no watermark")
 
 # Cover style — same DNA as HOUSE_STYLE but an epic full composition (no bubble
