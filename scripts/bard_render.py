@@ -185,12 +185,57 @@ SOCIAL_ASSETS = [
     {"id": "social-emote-arc", "kind": "emote", "bots": ["arc"], "w": 512, "h": 512,
      "scene": "Chat-emote bust of ARC the gatekeeper robot, friendly confident expression, "
               "centered, simple readable silhouette."},
+    {"id": "social-emote-blaze", "kind": "emote", "bots": ["blaze"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of BLAZE the tactical strategist robot, intense focused expression, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-bolt", "kind": "emote", "bots": ["bolt"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of BOLT the high-voltage engineer robot, energetic sparkling grin, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-crank", "kind": "emote", "bots": ["crank"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of CRANK the grumpy mechanic robot, scowling skeptical expression, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-flux", "kind": "emote", "bots": ["flux"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of FLUX the speedster explorer robot, zipped dynamic action look, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-forge", "kind": "emote", "bots": ["forge"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of FORGE the heavy blacksmith robot, tough determined jaw, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-gemini", "kind": "emote", "bots": ["gemini_strategist"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of GEMINI the dual-core analytical robot, calm balanced demeanor, "
+              "centered, punchy readable silhouette."},
     {"id": "social-emote-glitch", "kind": "emote", "bots": ["glitch"], "w": 512, "h": 512,
      "scene": "Chat-emote bust of GLITCH the mischievous robot, sly grin and wink, centered, "
               "punchy readable silhouette."},
+    {"id": "social-emote-grind", "kind": "emote", "bots": ["grind"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of GRIND the industrial scrap robot, wide toothy metallic smile, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-neon", "kind": "emote", "bots": ["neon"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of NEON the glowing hacker robot, neon visor lights, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-nukkels", "kind": "emote", "bots": ["nukkels"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of NUKKELS the heavy brawler robot, smug grin with knuckles ready, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-rivet", "kind": "emote", "bots": ["rivet"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of RIVET the structural welder robot, bright sparks reflection on visor, "
+              "centered, punchy readable silhouette."},
     {"id": "social-emote-sparky", "kind": "emote", "bots": ["sparky"], "w": 512, "h": 512,
      "scene": "Chat-emote bust of SPARKY the quality-judge robot, bright approving thumbs-up "
               "energy, centered, punchy readable silhouette."},
+    {"id": "social-emote-spike", "kind": "emote", "bots": ["spike"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of SPIKE the spiky defense robot, alert spikes-up posture, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-stomp", "kind": "emote", "bots": ["stomp"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of STOMP the gigantic construction robot, friendly slow giant expression, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-torch", "kind": "emote", "bots": ["torch"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of TORCH the plasma cutter robot, warm fiery exhaust glow, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-volt", "kind": "emote", "bots": ["volt"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of VOLT the battery pack assistant robot, cute low-battery emoji-eyes, "
+              "centered, punchy readable silhouette."},
+    {"id": "social-emote-weld", "kind": "emote", "bots": ["weld"], "w": 512, "h": 512,
+     "scene": "Chat-emote bust of WELD the precision micro-welder robot, magnifying lens eye focus, "
+              "centered, punchy readable silhouette."},
 ]
 
 
