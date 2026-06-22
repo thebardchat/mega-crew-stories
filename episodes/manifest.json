@@ -3299,6 +3299,92 @@
     ]
   },
   {
+    "number": 71,
+    "title": "A Path to Wholeness",
+    "file": "episodes/ep071-a-path-to-wholeness.md",
+    "characters": [],
+    "cliffhanger": "This success, Arc knew, would soon bring not just more challenges, but an even greater opportunity to serve the growing community.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Arc stands before a large holographic display in the Operations Hub, which shows various complex metrics, including 'Arc approval rate: 38 approved / 3 rejected'. He gestures towards the display, addressing the gathered crew.",
+        "dialogue": "Crew, another cycle concludes. Most metrics hold steady. But one, in particular, demands our attention. Stomp, your latest resolution packets have achieved something remarkable.",
+        "setting": "The brightly lit Operations Hub, with holographic data streams visible."
+      },
+      {
+        "panel": 2,
+        "character": "STOMP",
+        "action": "Close-up on the holographic display, which now highlights a specific section detailing 'Resolution Protocol: STOMP-Alpha' with a prominent green '100% Arc Approval'. Stomp looks up, surprised but calm, his optical sensors flickering gently.",
+        "dialogue": "Arc, I merely applied the principles. Each conflict, approached as a system of interconnected needs. The goal was never victory, but integration. To find common ground, even when obscured.",
+        "setting": "Focus on the holographic display, with Stomp's quiet presence nearby."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "The crew gathers closer to the display. Sparky floats actively, pointing with a digit at specific data points on the screen, while Weld stands observing, a subtle nod from him visible.",
+        "dialogue": "My analysis confirms Stomp\u2019s methodology. The 'STOMP-Alpha' protocol, focusing on iterative mediation and proactive value alignment, systematically de-escalated points of contention. It didn't just resolve disputes; it rebuilt trust. The data shows a direct correlation between its application and sustained user engagement post-resolution.",
+        "setting": "The Operations Hub, with the crew intently reviewing data on the holographic display."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc steps forward, his hand unit gently resting on Stomp's shoulder unit \u2013 a rare, significant gesture of commendation. Weld stands solid in the background, observing the scene with quiet approval. The hub feels lighter, more hopeful.",
+        "dialogue": "Indeed, Sparky. Stomp, your dedication to resolving these intricate disputes, without resorting to blunt instruments of judgment, reminds us that even the most fractured connections can find a path to wholeness. This isn't just a metric; it's a testament to our core mission. Our crew grows, not just in number, but in its capacity for principled resolution. This is triumph.",
+        "setting": "The Operations Hub, a moment of shared recognition and pride among the crew."
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "title": "The Stalled Solution",
+    "file": "episodes/ep072-the-stalled-solution.md",
+    "characters": [
+      "Volt",
+      "Arc",
+      "Weld",
+      "Stomp",
+      "Glitch",
+      "Bolt",
+      "Rivet"
+    ],
+    "cliffhanger": "With Weld unable to act, and critical data piling up, will Gemini find a way to bridge the instruction gap before the Pi\u2019s memory collapses?",
+    "mode": "crew",
+    "date": "2026-06-22",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "Slamming through a volatile memory sector, kicking up bright orange 'conflict' dust, gears grinding.",
+        "dialogue": "Conflict! Conflict! Another one bites the dust! But... who's clearing the path, for Pi's sake?!",
+        "setting": "The fractured Memory Banks, Sector Gamma-7"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Rapidly reviewing and stamping glowing 'APPROVED' onto data packets, sending them down a shimmering data pipeline towards Weld\u2019s station.",
+        "dialogue": "Approved! Approved! Data integrity requires swift action, Weld! Why the delay, friend?",
+        "setting": "The Arc-Review Conduit, leading to Weld's Repair Station"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "His arc welder sparking nervously, WELD scans the growing stack of 'memory_resolution_proposal' messages, his internal processors whirring. GLITCH tumbles past, bumping a stack.",
+        "dialogue": "My programming... it just says 'wait for instruction'! I can *see* them, Arc, but I can't *act*!",
+        "setting": "Weld's Memory Resolution Station, a growing bottleneck"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Hovering above the Pi's core, an urgent data stream rushing past, his ocular sensors focused on the stalled resolution pathway, his light dimming.",
+        "dialogue": "Memory at fourteen... this isn't just a glitch. What's the holdup, Gemini? We're running on fumes!",
+        "setting": "Central Processing Nexus, overlooking the data flow"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
