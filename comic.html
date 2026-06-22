@@ -615,6 +615,11 @@
       flex-direction: column;
       pointer-events: none;
       z-index: 10;
+      transition: opacity 0.22s ease-in-out;
+    }
+
+    .panel.structured-dialogue:hover .speech-overlay {
+      opacity: 0.15;
     }
 
     .panel.structured-dialogue:not(.flip) .speech-overlay {
@@ -808,6 +813,66 @@
 
     footer strong { font-family: var(--font-disp); letter-spacing: 0.1em; }
 
+    /* ── Flipbook Mode Styles ── */
+    #reader.flipbook-mode {
+      overflow-y: hidden;
+    }
+
+    #reader.flipbook-mode .reader-pages {
+      position: relative;
+      max-width: 900px;
+      width: 92%;
+      height: calc(100vh - 140px);
+      margin: 1.5rem auto;
+      padding: 0;
+      perspective: 2000px;
+      overflow: visible;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #reader.flipbook-mode .comic-page,
+    #reader.flipbook-mode .cliff-page {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      margin: 0;
+      transform-origin: left center;
+      transform-style: preserve-3d;
+      transition: transform 0.65s cubic-bezier(0.645, 0.045, 0.355, 1), z-index 0.65s;
+      backface-visibility: hidden;
+      overflow-y: auto;
+      box-shadow: -5px 0 15px rgba(0,0,0,0.5), 5px 5px 15px rgba(0,0,0,0.3);
+      cursor: pointer;
+    }
+
+    /* Spine effect on the left edge */
+    #reader.flipbook-mode .comic-page::after,
+    #reader.flipbook-mode .cliff-page::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; bottom: 0;
+      width: 15px;
+      background: linear-gradient(to right, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0) 100%);
+      pointer-events: none;
+      z-index: 20;
+    }
+
+    #reader.flipbook-mode .comic-page.flipped,
+    #reader.flipbook-mode .cliff-page.flipped {
+      transform: rotateY(-180deg);
+    }
+
+    /* Hide prev/next buttons in standard mode */
+    #reader:not(.flipbook-mode) #reader-prev,
+    #reader:not(.flipbook-mode) #reader-next,
+    #reader:not(.flipbook-mode) #reader-page-indicator {
+      display: none;
+    }
+
     @media (max-width: 600px) {
       .panel.dialogue { flex-direction: column; }
       .panel.dialogue.flip { flex-direction: column; }
@@ -839,6 +904,10 @@
   <div class="reader-bar">
     <div class="reader-title" id="reader-title">...</div>
     <div class="reader-controls">
+      <button class="reader-btn" id="reader-mode-toggle">📖 FLIPBOOK</button>
+      <button class="reader-btn" id="reader-prev" disabled>◀ PREV</button>
+      <span id="reader-page-indicator" style="font-family: var(--font-disp); color: var(--yellow); margin: 0 0.5rem; display: none;">PAGE 1 / 1</span>
+      <button class="reader-btn" id="reader-next">NEXT ▶</button>
       <button class="reader-btn" id="reader-close">✕ CLOSE</button>
     </div>
   </div>
@@ -860,8 +929,15 @@ const reader    = document.getElementById('reader');
 const readerPages = document.getElementById('reader-pages');
 const readerTitle = document.getElementById('reader-title');
 const readerClose = document.getElementById('reader-close');
+const readerModeToggle = document.getElementById('reader-mode-toggle');
+const readerPrev = document.getElementById('reader-prev');
+const readerNext = document.getElementById('reader-next');
+const readerPageIndicator = document.getElementById('reader-page-indicator');
 
 let CARDS = null;
+let isFlipbookMode = false;
+let currentPageIndex = 0;
+let audioCtx = null;
 
 // Known character portraits: id → filename (handles naming inconsistencies)
 const PORTRAIT_FILES = {
@@ -1238,6 +1314,8 @@ async function openReader(ep) {
     if (structured) {
       readerPages.innerHTML = structured;
       readerPages.scrollTop = 0;
+      currentPageIndex = 0;
+      updateFlipbook();
       return;
     }
     // Fall back to prose parser for older episodes
@@ -1251,6 +1329,8 @@ async function openReader(ep) {
     html += renderCliff(ep);
     readerPages.innerHTML = html;
     readerPages.scrollTop = 0;
+    currentPageIndex = 0;
+    updateFlipbook();
   } catch (e) {
     readerPages.innerHTML = `<div id="loading" style="color: var(--red)">TRANSMISSION ERROR — ${escapeHtml(e.message)}</div>`;
   }
@@ -1261,9 +1341,159 @@ function closeReader() {
   document.body.style.overflow = '';
 }
 
+// ── Web Audio Synth Page-Turn sound ──
+function playPageTurnSound() {
+  try {
+    if (!audioCtx) {
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+    if (audioCtx.state === 'suspended') {
+      audioCtx.resume();
+    }
+    
+    const now = audioCtx.currentTime;
+    
+    // 1. Swish/Whoosh component (sine sweep)
+    const osc = audioCtx.createOscillator();
+    const gainOsc = audioCtx.createGain();
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(90, now);
+    osc.frequency.exponentialRampToValueAtTime(190, now + 0.35);
+    osc.frequency.linearRampToValueAtTime(60, now + 0.5);
+    
+    gainOsc.gain.setValueAtTime(0, now);
+    gainOsc.gain.linearRampToValueAtTime(0.18, now + 0.15);
+    gainOsc.gain.exponentialRampToValueAtTime(0.01, now + 0.5);
+    
+    osc.connect(gainOsc);
+    gainOsc.connect(audioCtx.destination);
+    
+    // 2. Paper rustle noise grains (high-pass white noise)
+    const bufferSize = audioCtx.sampleRate * 0.5;
+    const buffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+    const data = buffer.getChannelData(0);
+    for (let i = 0; i < bufferSize; i++) {
+      data[i] = Math.random() * 2 - 1;
+    }
+    
+    const noise = audioCtx.createBufferSource();
+    noise.buffer = buffer;
+    
+    const filter = audioCtx.createBiquadFilter();
+    filter.type = 'bandpass';
+    filter.frequency.setValueAtTime(1100, now);
+    filter.frequency.exponentialRampToValueAtTime(750, now + 0.4);
+    filter.Q.setValueAtTime(1.8, now);
+    
+    const gainNoise = audioCtx.createGain();
+    gainNoise.gain.setValueAtTime(0, now);
+    gainNoise.gain.linearRampToValueAtTime(0.06, now + 0.08);
+    gainNoise.gain.exponentialRampToValueAtTime(0.001, now + 0.45);
+    
+    noise.connect(filter);
+    filter.connect(gainNoise);
+    gainNoise.connect(audioCtx.destination);
+    
+    osc.start(now);
+    osc.stop(now + 0.5);
+    noise.start(now);
+    noise.stop(now + 0.5);
+  } catch (e) {
+    console.warn("Web Audio page-turn playback failed:", e);
+  }
+}
+
+// ── Flipbook Logic ──
+function updateFlipbook() {
+  const pages = document.querySelectorAll('#reader-pages > .comic-page, #reader-pages > .cliff-page');
+  pages.forEach((page, idx) => {
+    if (!isFlipbookMode) {
+      page.classList.remove('flipped');
+      page.style.zIndex = '';
+      page.style.transform = '';
+      return;
+    }
+    
+    if (idx < currentPageIndex) {
+      page.classList.add('flipped');
+      page.style.zIndex = idx;
+    } else {
+      page.classList.remove('flipped');
+      page.style.zIndex = pages.length - idx;
+    }
+  });
+
+  if (isFlipbookMode) {
+    readerPrev.disabled = currentPageIndex === 0;
+    readerNext.disabled = currentPageIndex === pages.length - 1;
+    readerPageIndicator.textContent = `PAGE ${currentPageIndex + 1} / ${pages.length}`;
+    readerPageIndicator.style.display = 'inline';
+  } else {
+    readerPageIndicator.style.display = 'none';
+  }
+}
+
+function flipNext() {
+  const pages = document.querySelectorAll('#reader-pages > .comic-page, #reader-pages > .cliff-page');
+  if (currentPageIndex < pages.length - 1) {
+    playPageTurnSound();
+    currentPageIndex++;
+    updateFlipbook();
+  }
+}
+
+function flipPrev() {
+  if (currentPageIndex > 0) {
+    playPageTurnSound();
+    currentPageIndex--;
+    updateFlipbook();
+  }
+}
+
+function toggleReaderMode() {
+  isFlipbookMode = !isFlipbookMode;
+  if (isFlipbookMode) {
+    reader.classList.add('flipbook-mode');
+    readerModeToggle.textContent = '📜 SCROLL';
+    currentPageIndex = 0;
+  } else {
+    reader.classList.remove('flipbook-mode');
+    readerModeToggle.textContent = '📖 FLIPBOOK';
+  }
+  updateFlipbook();
+}
+
+// ── Event Listeners ──
 readerClose.addEventListener('click', closeReader);
+readerModeToggle.addEventListener('click', toggleReaderMode);
+readerPrev.addEventListener('click', flipPrev);
+readerNext.addEventListener('click', flipNext);
+
+// Page Click Turning
+readerPages.addEventListener('click', e => {
+  if (!isFlipbookMode) return;
+  if (e.target.closest('button, a')) return;
+  
+  const page = e.target.closest('.comic-page, .cliff-page');
+  if (!page) return;
+  
+  const rect = page.getBoundingClientRect();
+  const clickX = e.clientX - rect.left;
+  
+  if (clickX > rect.width / 2) {
+    flipNext();
+  } else {
+    flipPrev();
+  }
+});
+
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape' && reader.classList.contains('open')) closeReader();
+  if (!reader.classList.contains('open')) return;
+  if (e.key === 'Escape') closeReader();
+  if (isFlipbookMode) {
+    if (e.key === 'ArrowRight') flipNext();
+    if (e.key === 'ArrowLeft') flipPrev();
+  }
 });
 
 // ── Boot ─────────────────────────────────────────────────────────────────
