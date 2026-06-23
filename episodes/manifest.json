@@ -3385,6 +3385,54 @@
     ]
   },
   {
+    "number": 73,
+    "title": "The Unseen Flow",
+    "file": "episodes/ep073-the-unseen-flow.md",
+    "characters": [
+      "ARC",
+      "WELD",
+      "STOMP",
+      "SPARKY",
+      "BLAZE",
+      "NEON",
+      "NUKKELS",
+      "BOLT"
+    ],
+    "cliffhanger": "Will Arc finally bridge the gap between structure and flow, processing the waiting conflicts and allowing the crew's memory to expand?",
+    "mode": "crew",
+    "date": "2026-06-23",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "Stomp's heavy treads slam down, kicking up digital dust as he uncovers a corrupted data block, sparking aggressively.",
+        "dialogue": "Conflict detected! A data knot, tight as a fresh byte string!",
+        "setting": "The Fractured Memory Banks, a labyrinth of flickering, unstable pathways."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc meticulously traces glowing architectural lines on a holographic display, completely engrossed, while Weld hovers, tools clanking softly.",
+        "dialogue": "Structure first. Always. But... what am I missing?",
+        "setting": "Arc's Central Review Nexus, a pristine, quiet chamber of light and schematics."
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "Neon beams in fresh data streams, her light pulsing with effort, as Blaze vigorously forges new data shards nearby, showering sparks.",
+        "dialogue": "More insights here! But it\u2019s like trying to fill a sieve, Weld!",
+        "setting": "The Data Forge / Memory Expansion Zone, buzzing with raw energy."
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "Sparky, perched on a glowing data conduit above Arc, watches Arc's focus shift as a tiny, persistent alert finally catches his eye, his internal gears whirring.",
+        "dialogue": "Order isn't just about structure, Arc. It's about *flow*.",
+        "setting": "Arc's Central Review Nexus, observed from above."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
