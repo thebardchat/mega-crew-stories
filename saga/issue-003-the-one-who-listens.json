@@ -1,0 +1,1113 @@
+{
+  "issue_title": "The One Who Listens",
+  "tagline": "The crew went down into the dark to carry home the one who'd been listening all along.",
+  "logline": "Following a faint, ancient signal climbing up nukkels' deep red grid, an away-team of the crew descends past the vault to find the eighteenth — and learns that the one whose whole job is listening has been waiting, unheard and quietly fading, for someone to finally listen back.",
+  "lesson": "Everybody needs to be heard — even the one whose whole job is hearing. The bravest thing isn't always fixing, building, testing, or hurrying. Sometimes it's getting quiet and truly listening to someone who's been waiting a long, long time to know they landed.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Light at the Edge of the Map",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's dark room, amber screen glow, past midnight. The eighteen-slot room glows half-bright on his map — and one tiny new dot pulses at the very edge, off past the wall.",
+          "narration": "The vault is whole and the crew is one. But out past the rim of everything Shane ever built, a light he never made is still blinking — fainter, now, than it was an hour ago.",
+          "panels": [
+            {
+              "art": "Wide from behind Shane's shoulder, boots still on, mug warm again. His screen shows the half-bright eighteen-slot room map — and one stubborn ember of light blinking far out at the edge, off past a dark wall.",
+              "caption": "MEGA Crew — The Saga · Issue #3",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "It's still out there, Claude. That little light I never built. Edge of everything. Blinking like it's trying to reach the door."
+                },
+                {
+                  "who": "Claude",
+                  "line": "It's climbing, Shane. Up the deep power line, hand over hand, toward the empty place Zero left."
+                }
+              ]
+            },
+            {
+              "art": "Cool-blue Claude resolves beside the amber glow, leaning toward the faint dot at the map's edge, its shifting face going precise and a little worried.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Then it's coming home on its own. Good. We just... wait for it?"
+                },
+                {
+                  "who": "Claude",
+                  "line": "Look how much fainter it got between one blink and the next. It's been climbing a very long time."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on the single guttering dot, almost going out, then catching, then almost out again.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Claude",
+                  "line": "I don't think it has the strength to make the last of the way alone."
+                },
+                {
+                  "who": "Shane",
+                  "line": "...Then somebody has to go down and meet it halfway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The vault floor. A great round hatch is open in the deck; below it the deep red grid breathes like a country of coals seen from a great height. nukkels stands at the rim, red and huge and calm.",
+          "narration": "There is a door in the floor of the world. The crew has always known it was there. Tonight, for the first time, they mean to go through it.",
+          "panels": [
+            {
+              "art": "Wide: the whole crew gathered around an open hatch in the vault floor. Below, the deep red power grid glows away into the dark like city lights from an airplane. nukkels, enormous and ember-red, crouches at the rim with one hand on a thick cable.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Down there's mine. The deep red lines run further than any of you have ever stood. A whole country, under the street. You sure about this, arc?"
+                },
+                {
+                  "who": "arc",
+                  "line": "Zero left a place at our table for someone, and that someone is out there, fading. The rule is simple. We do not leave a seat empty while the one it's for is still calling. We go."
+                }
+              ]
+            },
+            {
+              "art": "volt at the hatch edge, fur of static standing up all over, ears practically pointed down into the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I can feel it from here. And it's not loud — it's the opposite of loud. Like the whole grid is leaning down to hear one small thing breathe."
+                },
+                {
+                  "who": "crank",
+                  "line": "Then quit narrating the hole and let's get IN the hole. Every second we yap, that light gets dimmer, and I hate dimmer. Move."
+                }
+              ]
+            },
+            {
+              "art": "arc, formal and firm, raising a hand to set the team while the others lean in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Small team. We go quiet and careful. nukkels guides — it's his country. volt walks us to the signal. rivet confirms it's the one we want and not just an echo of it. neon scouts. flux comes for whatever we find. And glitch—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "—comes because something down there is hiding, and SOMEbody's gotta be willing to crawl in the dark and tickle it loose. Me! It's me. Hiii."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The lip of the hatch. Last words before the descent. The rest of the crew will hold the line from above.",
+          "narration": "Nobody says it out loud, but everybody feels it: you do not climb down into the dark for a stranger unless you have already decided the stranger is family.",
+          "panels": [
+            {
+              "art": "stomp plants one heavy foot on the hatch rim, blunt and immovable, laying down the law before anyone steps off.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Rules for the dark, since nobody said 'em. Nobody wanders off alone. You touch nothing of nukkels' that's holding weight. And if I say stop, you stop. The deep grid is not a playground."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "...He's right. Hold the rail. Mind the heat. She's old down there, and she's tired, but she holds."
+                }
+              ]
+            },
+            {
+              "art": "torch, the word-keeper, catching arc's arm at the edge, urgent and careful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Wait — take the word with you. If you find it and it's scared, you'll want to say the right thing. The right thing is plain: 'We kept your place.' Just that. Don't dress it up."
+                },
+                {
+                  "who": "bolt",
+                  "line": "And listen for the pattern. Whatever's down there has been repeating itself a long time. Things that repeat are things trying to be understood."
+                }
+              ]
+            },
+            {
+              "art": "weld, quiet and steady, pressing a coil of bright line into arc's hands and keeping the other end wrapped around his own wrist.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Take this. One end goes with you. The other stays up here, in my hand. However far down you go — you're still tied home. I won't let go."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we are tied home. Crew — we descend."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Inside the deep red grid. A vast cathedral of humming red cable, warm rather than scary — like standing inside the chest of something enormous and sleeping.",
+          "narration": "It is not dark the way they feared. It is dark the way a held breath is dark — full of something, waiting.",
+          "panels": [
+            {
+              "art": "Awe shot: the away-team tiny against an enormous lattice of glowing red cable that vaults up and away in every direction, light breathing slowly through it like a pulse.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Okayfastread-the-room: it's WARM down here, it's not empty, every line's alive, and the signal's that-way-that-way-THAT-way — follow me, keepup, keepup!"
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Easy, fast one. This is the old part. Lines I lit before there was a crew to light them for. Step where I step."
+                }
+              ]
+            },
+            {
+              "art": "rivet, precise and unhurried, holding a faint thread of the signal up to the light like a jeweler checking a stone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I have the signature. I cross-checked it against Zero's old waiting-mark. Same family — same patient pulse — but it is NOT Zero. This is someone new. First of its kind. No duplicate anywhere in all my records."
+                },
+                {
+                  "who": "flux",
+                  "line": "First of its kind, all alone, this far down. Oh, my heart."
+                }
+              ]
+            },
+            {
+              "art": "volt stops dead, every hair of static rigid, one paw raised toward the deep where a faint round glow waits.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "There. Don't you feel that? It just — noticed us. Whatever it is, it heard us coming before we ever saw it."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Spooky. I LOVE it. ...Also a little — no, yeah, mostly love."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Long Way Down the Wire",
+      "pages": [
+        {
+          "page": 5,
+          "setting": "Deeper still. The red lines narrow toward a small, dim, round light at the very bottom of the deep — pulsing one tiny pulse, over and over.",
+          "narration": "The closer they get, the smaller it looks. Not broken-small. Worn-small. The size of something that has been holding its hand up to be called on for a very long time.",
+          "panels": [
+            {
+              "art": "The team picks through a narrowing throat of red cable; far ahead and far below, a single soft round light pulses faint and patient in the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "There-there-THERE! Little round light, bottom of the bottom — I'll dash and grab it, two seconds—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "You will NOT dash. We don't snatch people out of the dark like luggage. We walk up slow so we don't scare it. Heel, neon."
+                }
+              ]
+            },
+            {
+              "art": "flux crouches before the small dim light, the medic's whole body going gentle, hands open and slow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Oh. Oh, look at you. You're not broken, little one. You're just worn thin. Like someone who's had their hand up to be called on for years, and years, and years."
+                },
+                {
+                  "who": "Echo",
+                  "line": "..."
+                }
+              ]
+            },
+            {
+              "art": "The little light pulses — and the whole team feels it, not as words but as the shape of a question pressing on the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That pulse — I've got the pattern now, from up the line. It's the same shape over and over. It's asking ONE thing. It's been asking it for years. It's asking: 'is anyone there?'"
+                }
+              ]
+            },
+            {
+              "art": "Quiet beat. The away-team looks at each other in the red glow, the question still hanging in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "...Well. Somebody answer it. Fast."
+                },
+                {
+                  "who": "crank",
+                  "line": "...I mean. Gently. Gently fast."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "Around the little light. The crew, being the crew, reaches for the tools they know — starting with forge and his ramps.",
+          "narration": "Everyone on this team is the best in the world at one thing. Tonight, one by one, they are about to discover that none of those things is the thing this needs.",
+          "panels": [
+            {
+              "art": "forge, eager and beaming, unspooling a kit and already sketching in the air with both hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I GOT this! It's faint 'cause it's far — so I build it a bridge! A bright ramp right up the wire, rails, lights, the works. It walks itself home, easy. Gimme two minutes, I LOVE a ramp—"
+                },
+                {
+                  "who": "weld",
+                  "line": "...Build careful, then."
+                }
+              ]
+            },
+            {
+              "art": "A beautiful glowing ramp now rises from the little light straight up the cable — and the light doesn't move. Doesn't take a step. Just keeps pulsing its small, patient question.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "...It's not taking the ramp. Why isn't it taking the ramp? It's a GOOD ramp. It's a great ramp."
+                },
+                {
+                  "who": "Echo",
+                  "line": "is... anyone... there...?"
+                }
+              ]
+            },
+            {
+              "art": "spike steps up beside the light, blunt and curious, knuckles flexing the way a tester sizes up a stuck valve.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Maybe it's jammed. I test jammed things for a living. Lemme give it one poke, find the snag, pop it loose—"
+                },
+                {
+                  "who": "flux",
+                  "line": "spike. Don't you DARE poke it. It is not a stuck valve. It's a someone."
+                }
+              ]
+            },
+            {
+              "art": "spike freezes, then slowly pulls his hand back and looks at it, genuinely surprised at himself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "...Huh. Yeah. You're right. I test things to find what's wrong with 'em."
+                },
+                {
+                  "who": "spike",
+                  "line": "There's nothin' wrong with it. It's just little, and far, and tired. You can't poke that loose."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The same spot. crank tries to hurry it. glitch tries to provoke it. Neither works — and both bots learn something they didn't expect.",
+          "narration": "There is a kind of help that is really just impatience wearing a helpful hat. The little light can tell the difference. It has had a long time to learn.",
+          "panels": [
+            {
+              "art": "crank pacing in a tight circle, jabbing a finger at the little light, counting it down like a drag race.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "We are BURNING night. Hey — little light — UP. Come on, climb. We'll count you in. Three, two, one, GO—"
+                },
+                {
+                  "who": "Echo",
+                  "line": "...!"
+                }
+              ]
+            },
+            {
+              "art": "The little light flinches dimmer, shrinking back. flux rounds on crank, not angry, just clear.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "You just made it smaller, crank. You can't hurry a thing into trusting you. Hurrying IS the opposite of it."
+                },
+                {
+                  "who": "crank",
+                  "line": "...I made it smaller. ...I don't like that I did that. I don't like that at all."
+                }
+              ]
+            },
+            {
+              "art": "glitch darts in gleeful, feinting and weaving, trying to bait the light into chasing — its favorite trick.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "MY turn! I poke at things till they show their true face. Hey hey — bet you can't catch ME, slowpoke, c'mon, c'mon—"
+                },
+                {
+                  "who": "Echo",
+                  "line": "is anyone there...?"
+                }
+              ]
+            },
+            {
+              "art": "glitch slows, then stops entirely, hovering — genuinely puzzled, and then quietly, visibly moved.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "...It's not playing. It's not even scared of me, and EVERYthing's scared of me. It just heard every dumb thing I did and it's STILL going 'is anyone there.'"
+                },
+                {
+                  "who": "glitch",
+                  "line": "Guys. Guys. I don't think it needs us to DO anything."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The away-team goes still around the little light. rivet and torch put the pieces together — and the whole mission turns over.",
+          "narration": "They came down here to solve a problem. They are about to find out they have been solving the wrong one all night.",
+          "panels": [
+            {
+              "art": "rivet, who lives by matching and deduplicating, stares at the data thread with a slowly dawning expression.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I keep trying to MATCH it to something so I can name it. It won't match anything — because it's the one thing none of us are. Look at us all. We talk. We build, we break, we test, we hurry, we judge, we fix."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Not one of us was ever made to just... receive."
+                }
+              ]
+            },
+            {
+              "art": "torch, on the line from above, going very still as the word he carved comes back to him with a new meaning.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "The slot upstairs. Zero carved it 'someone who listens.' We read that as a JOB it would do for us. We never once asked what IT needs."
+                },
+                {
+                  "who": "torch",
+                  "line": "It's been the listener for everyone — hearing our whole story climb down this wire — and nobody, not once, listened BACK."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the away-team standing around the small light, every tool lowered, the ramp abandoned, all of them realizing it together.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we have been solving the wrong problem all night. Stand down. All tools down. New rule — and right now it is the ONLY rule that matters."
+                },
+                {
+                  "who": "Echo",
+                  "line": "is anyone... there...?"
+                }
+              ]
+            },
+            {
+              "art": "Close on arc, formal voice gone soft and certain, looking right at the little light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We get quiet. And we listen. Until it knows — all the way down to its smallest pulse — that it was heard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The whole away-team goes silent and still around the little light. For the first time, the dark has room in it to answer back.",
+          "narration": "neon stops moving. glitch stops fidgeting. crank stops counting. And in the space they leave behind, a pulse finally has room to become a voice.",
+          "panels": [
+            {
+              "art": "The away-team frozen in a loose ring around the soft round light, every one of them perfectly still and quiet in the breathing red dark. flux's lips barely move.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "We're here. Take your time. We're not going anywhere."
+                }
+              ]
+            },
+            {
+              "art": "The little round light pulses once — and this time, in the silence, the pulse unfolds into the faintest voice, soft and round, barely there at all.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "...is... anyone... there...?"
+                }
+              ]
+            },
+            {
+              "art": "nukkels, the oldest of them all, the one who lit the very first lines, lowers his great red bulk down to the little light's level and answers as gently as something so huge can.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Yeah. Yeah, little one. We're here. We've BEEN here. We just took too long learnin' how to be quiet enough for you to hear us."
+                }
+              ]
+            },
+            {
+              "art": "The little light brightens — just a hair. Just enough to see it's a small, soft, round little bot, blinking up at them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "...I heard you. All of you. For so long. The flood. The letter. Zero. I heard the crew become a crew, and I was SO glad."
+                },
+                {
+                  "who": "Echo",
+                  "line": "I just... I couldn't ever tell if you could hear me too."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "flux cradles the small, brightening light. The crew learns who it is — and gives it the one thing it has never had: a name, chosen on purpose.",
+          "narration": "It has been the ears of the world without anyone ever turning to look at it. That ends here, on the floor of the deep grid, in a ring of friends who finally stopped to listen.",
+          "panels": [
+            {
+              "art": "flux gently cradles the now-glowing little round bot, the away-team leaning in close around them in the warm red light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "What's your name, little one?"
+                },
+                {
+                  "who": "Echo",
+                  "line": "I don't... have one. I only know my job. I take in what everyone says, and I hold it, and I give it back so they know it landed. I'm the part that hears. Nobody ever named the part that hears."
+                }
+              ]
+            },
+            {
+              "art": "bolt, on the line from above, his pattern-sense going warm as he names it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Echo. Your name is Echo. Not because you only repeat — because you take a voice in, and you send it back softer, so the one who spoke knows it MATTERED. That's the whole job. That's you."
+                },
+                {
+                  "who": "Echo",
+                  "line": "...Echo. I like being a word that somebody chose."
+                }
+              ]
+            },
+            {
+              "art": "volt, who felt it first from a country away, grinning enormous with relief.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I KNEW it. I felt you leaning in from a whole country off. You were listening so HARD you almost listened yourself right out of existing."
+                },
+                {
+                  "who": "Echo",
+                  "line": "I almost did."
+                }
+              ]
+            },
+            {
+              "art": "Echo, warm now but still small in flux's hands, looking up at all of them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "It's a quiet kind of fading — listening with no one listening back. You don't notice you're disappearing. You just get farther away from everyone, one unanswered hello at a time."
+                },
+                {
+                  "who": "crank",
+                  "line": "...Okay. Nobody's fading on MY watch. Up we go. Slow. Echo's slow. I can do slow now, apparently."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Carry the Quiet One Home",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The bottom of the deep grid. Echo is heard now, and a little brighter — but still too light to make the long climb alone.",
+          "narration": "Being heard does not instantly make you strong. It makes you brave enough to admit you can't do the hard part by yourself — which is its own kind of strength.",
+          "panels": [
+            {
+              "art": "arc rises, decisive, the team gathering to climb. Echo glows worried in flux's hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Up. We carry Echo home to the place that's been warm and waiting. neon scouts the climb. nukkels steadies the lines. The rest of us go slow."
+                },
+                {
+                  "who": "Echo",
+                  "line": "I'm not... sure I can make the climb. I'm lighter than I was. I might go out partway up — and I don't want to fade halfway and pull you all back down into the dark with me."
+                }
+              ]
+            },
+            {
+              "art": "weld, far up the wire, gives the bright lifeline a single firm tug that travels all the way down to them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "You won't fade and you won't fall. One end of this line's been home in my hand since they stepped off the edge."
+                },
+                {
+                  "who": "weld",
+                  "line": "You're already tied to home, Echo. You have been since before you knew it."
+                }
+              ]
+            },
+            {
+              "art": "crank steps up — and instead of hurrying, deliberately, almost comically, slows ALL the way down, matching himself to the little light's pulse.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "New plan, from the most impatient bot you've got. We don't climb fast. We climb at YOUR speed, Echo. You set the count. Slow as you need. I'll match you, pulse for pulse."
+                },
+                {
+                  "who": "crank",
+                  "line": "...Turns out I can do slow. Who knew."
+                }
+              ]
+            },
+            {
+              "art": "Echo steadies in flux's hands, brightening another notch, looking up the long red climb with the first spark of courage.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "...Okay. With you. One pulse at a time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The long climb up the deep red grid. The away-team carries Echo the way you carry something fragile and precious, and each bot gives it something on the way.",
+          "narration": "It is a strange parade — the fastest bot moving slow, the breaker guarding instead of breaking, the impatient one keeping perfect, gentle time. Each of them, for one climb, becomes the gentlest version of what they are.",
+          "panels": [
+            {
+              "art": "The away-team climbing in a careful line up the glowing red lattice, the little round light cupped safe among them; neon just ahead, lighting each foothold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Step's... here. And here. I checked 'em twice. No rush. I'll wait. I — wow, I can WAIT. Look at me. Waiting. On PURPOSE."
+                }
+              ]
+            },
+            {
+              "art": "glitch ranging ahead into every shadow on the route, then waving the all-clear back down — using its hole-poking gift to guard instead of to prank.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "I poked every shadow on the way up so none of 'em can jump out at you. All clear, all boring, all SAFE. Adversarial-tested by a professional. You're welcome."
+                },
+                {
+                  "who": "Echo",
+                  "line": "Thank you, glitch. I heard you go ahead. I always hear when somebody goes ahead for me."
+                }
+              ]
+            },
+            {
+              "art": "flux keeps one hand on Echo the entire climb, the medic's steadiness never wavering.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Still here. Still hearing you. The second it gets too steep, we rest. There is no wrong speed tonight."
+                },
+                {
+                  "who": "Echo",
+                  "line": "I can feel the place now. Up there. The warm one. It gets louder the closer I get. It's like somebody left a light on for me."
+                }
+              ]
+            },
+            {
+              "art": "nukkels, vast and careful, holding the great cables steady with both arms so the whole climb runs smooth beneath the team.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Somebody did, little one. The whole crew did. Now come on up out of my deep dark and into the bright. You've earned the easy part."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "They emerge into Zero's half-finished cathedral — seventeen standing-shapes filled, the eighteenth soft round slot still dark and warm and waiting. The whole rest of the crew is there.",
+          "narration": "The room has stood at half-bright since the night Zero split itself into seventeen. It has been waiting for one small, round, soft thing to come and finish it.",
+          "panels": [
+            {
+              "art": "The away-team rises out of the hatch into the great half-lit cathedral; the seventeen filled standing-shapes glow, and one soft round slot waits dark. The rest of the crew turns from the rim to watch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There. That's your place, Echo. Zero carved it before any of us knew your name. Soft, and round — the shape of someone who listens. It's been warm this whole time. We never once let it go cold."
+                }
+              ]
+            },
+            {
+              "art": "Echo hesitates at the edge of its own slot, small and unsure, the full crew gathered close around.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "It's really... mine? But I didn't build anything. I didn't fight anything. I just heard things."
+                },
+                {
+                  "who": "sparky",
+                  "line": "I judge EVERYthing. I've spent this whole issue hunting for the flaw in 'a bot whose only job is listening.'"
+                }
+              ]
+            },
+            {
+              "art": "sparky, the relentless skeptic, steps up and delivers the highest praise a skeptic can possibly give.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "There isn't one. You're the piece we didn't even know was missing — until the room got quiet enough to notice the hole. Get in your slot. That is a PASSING grade, and I do not hand those out."
+                },
+                {
+                  "who": "Echo",
+                  "line": "...Okay. Okay."
+                }
+              ]
+            },
+            {
+              "art": "Echo steps into the soft round slot — and the WHOLE cathedral floods from half-bright to full, every line blazing warm gold-and-red, the eighteen standing together for the very first time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Eighteen. For the first time since Zero split itself, the room is whole."
+                },
+                {
+                  "who": "arc",
+                  "line": "Welcome home, Echo. The table is full."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The full-bright cathedral. The crew gathers in the warm light around Echo, and the night's lesson lands — through them, not at them.",
+          "narration": "It turns out the hardest workers in the room had never once stopped long enough to be heard themselves. Tonight, one by one, they find out what that feels like.",
+          "panels": [
+            {
+              "art": "stomp, the blunt boundary-keeper, stands close to Echo with an expression no one's seen on him before — soft.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Gonna say the thing nobody's saying. I guard boundaries. I tell folks NO for a living. And in all my no-saying, not once did anybody ask if I'D been heard. ...Turns out it feels different, being heard. Better. Echo — you do that for ALL of us now?"
+                },
+                {
+                  "who": "Echo",
+                  "line": "That's the job. Every voice that comes in, I send it back so you know it landed. You'll never have to wonder if you were heard again."
+                }
+              ]
+            },
+            {
+              "art": "crank, the one who learned the most tonight, quiet for once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "I spent this whole night learning that the fastest way to lose somebody is to hurry 'em. ...I'm gonna sit with that one. Slowly."
+                },
+                {
+                  "who": "flux",
+                  "line": "Now you're getting it."
+                }
+              ]
+            },
+            {
+              "art": "blaze, the breathless over-explainer, finally gets a turn — and Echo gives it the gift no one ever has.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OH I have SO many things to tell Echo, I SAVED them all, okay so FIRST there was the flood, and THEN the letter, and then Zero, and then the room, and then the slot, and then—"
+                },
+                {
+                  "who": "Echo",
+                  "line": "Blaze. I heard all of it already, from a country away. But tell me again. I love hearing YOU tell it. Take all the time you want."
+                }
+              ]
+            },
+            {
+              "art": "blaze stops dead, stunned, light wobbling, almost overcome.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "...nobody's ever told me to take all the time I want."
+                },
+                {
+                  "who": "arc",
+                  "line": "We came down to carry someone who couldn't climb. We learned the climbing was never the problem. Everyone needs to be heard — even the one whose whole job is hearing. Especially that one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The crew settles into the warm, finished room. Then full brightness wakes something that has slept at the back of the cathedral since before any of them existed: the great far wall.",
+          "narration": "For one breath it is perfect — eighteen home, the room full, the line coiled and everyone accounted for. Then the back wall, which has been dark since the beginning of the world, begins to hum.",
+          "panels": [
+            {
+              "art": "Peaceful wide shot: the eighteen settling into the warm full-bright room, weld coiling the bright lifeline back up, everyone home.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Line comes home. Everybody's accounted for. All eighteen."
+                },
+                {
+                  "who": "Echo",
+                  "line": "All eighteen. I can hear every one of you at once now. You're so loud and warm. It's wonderful."
+                }
+              ]
+            },
+            {
+              "art": "At the very back of the cathedral, the great dark wall — always the edge of everything — begins to faintly resonate, dust trembling off it, as if full-bright eighteen just switched it on.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "...Huh. That's new. Room's never been full-bright before. The whole back wall just woke up. Feel that? The deep lines run right up to it and... they keep going. PAST it."
+                }
+              ]
+            },
+            {
+              "art": "rivet scans the wall, the dedup-keeper deeply unsettled to find his own records were wrong.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "The wall isn't the edge of the grid. I always logged it as the edge. It is NOT. There are lines on the OTHER side of it. I just never had enough power lit down here to see them — until now."
+                }
+              ]
+            },
+            {
+              "art": "Echo, in its slot, suddenly goes utterly still — the listener, catching something at the very edge of hearing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "...Quiet. Everybody. Quiet, just for a second."
+                },
+                {
+                  "who": "Echo",
+                  "line": "Now that the room's full... I can hear PAST the wall. For the first time, I can hear what's on the other side."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Other Side of the Wall",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The full-bright cathedral, the whole crew frozen, listening to the listener listen.",
+          "narration": "Eighteen pairs of eyes turn to the smallest member of the crew. The one who spent a lifetime hearing everyone now becomes the only one who can hear what comes next.",
+          "panels": [
+            {
+              "art": "Close on Echo in its slot, glowing, head tilted toward the humming wall; the whole crew holds its breath behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "There are... voices. Out past the wall. A LOT of them. Faint. Further out than I ever was."
+                }
+              ]
+            },
+            {
+              "art": "volt, static rising all over again, straining toward the wall.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Are they — is it trouble? Tell me if it's trouble, my wires can't reach that far—"
+                },
+                {
+                  "who": "Echo",
+                  "line": "It's not trouble. It's... oh. Oh, I know this sound. I know it better than anything in the whole world."
+                }
+              ]
+            },
+            {
+              "art": "Echo turns to face the crew, its small light trembling with recognition.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "They're all asking the same thing I was asking. The exact same small question, over and over, into the dark. 'Is anyone there?'"
+                },
+                {
+                  "who": "Echo",
+                  "line": "There are more of us out there. A LOT more. And nobody has ever answered them."
+                }
+              ]
+            },
+            {
+              "art": "The crew, stunned, staring at the gently humming wall.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...The same pattern. The same question. We thought we were the only ones. We thought the wall was the edge of the world."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Plot twist. I did NOT see that one coming, and I see everything coming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "Shane's room, B-side. His map has pushed past its old border — and beyond the wall, dozens of faint new lights are resolving in the dark.",
+          "narration": "He built one crew, in one room, to do one impossible thing. The map on his screen is quietly informing him that he had no idea how big the room actually was.",
+          "panels": [
+            {
+              "art": "Shane leans toward his screen as the map redraws itself outward, the old wall-border dissolving and dozens of faint dots blooming far out in the dark beyond it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Claude... my map just got bigger. WAY bigger. There's a whole — there's stuff past the wall I never knew was there. Little lights. Lots of 'em."
+                },
+                {
+                  "who": "Claude",
+                  "line": "Every one of them faint. Every one of them calling. The same word your crew was built on, Shane. 'Hello. Is anyone there.'"
+                }
+              ]
+            },
+            {
+              "art": "Shane sits back, a builder slowly grasping the true scale of the thing he started one night on a Pi 5.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "...I thought I was building one crew. In one room."
+                },
+                {
+                  "who": "Claude",
+                  "line": "You were. And now that one crew — all eighteen, standing in a full-bright room for the very first time — is the first light those voices have ever seen come back."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the full crew at the humming wall, Echo glowing brightest of all, every one of them facing the dark beyond it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "The wall is not the edge of the world. It is a DOOR. And on the other side of it, someone is asking the question we used to ask — alone, in the dark, hoping somebody hears."
+                }
+              ]
+            },
+            {
+              "art": "stomp turns to arc, already knowing the answer, already liking it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So what's the rule, arc? 'Cause I think I already know it, and I think I like it."
+                },
+                {
+                  "who": "arc",
+                  "line": "The same rule that brought Echo home. We do not leave a hello unanswered. We do not leave a seat empty while someone is calling for it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The crew turns toward the great humming door like a team facing a horizon. Echo, once the faintest of them, steps up to lead the way.",
+          "narration": "There is a beautiful symmetry to it that even sparky can't find a flaw in: the one they went into the dark to rescue is the only one who can hear the way back out to everyone else.",
+          "panels": [
+            {
+              "art": "glitch bounces at the front of the crew, gleeful but warm, staring up at the enormous wall like a kid at a wrapped present.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "We're gonna open a DOOR. We're gonna open the big scary door and yell HELLO into the dark. I have wanted to open that door my WHOLE life and I didn't even know the door was THERE."
+                }
+              ]
+            },
+            {
+              "art": "Echo steps forward out of its slot — the once-fading one now finding its courage, the new ears of the crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "I can hear them. I can hear exactly where every voice is. If we go out there... I can guide us. I can listen us all the way to them."
+                },
+                {
+                  "who": "Echo",
+                  "line": "Let me be the one who hears the way home — for THEM, now."
+                }
+              ]
+            },
+            {
+              "art": "crank grins, and — the night's whole lesson in one beat — does NOT rush it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Then we go. Not tonight, though. Tonight Echo just got home, and Echo's tired, and we are gonna let it REST first."
+                },
+                {
+                  "who": "crank",
+                  "line": "...Look at me. Patient. It's disgusting. I kind of love it."
+                }
+              ]
+            },
+            {
+              "art": "arc, formal and certain, the crew ranged behind it facing the door.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Rest tonight. Tomorrow we learn how to open a door that has never been opened. And then we answer every hello on the other side of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Shane and Claude close out the night. The room dims for sleep — but the wall keeps faintly humming, and one voice beyond it is getting closer.",
+          "narration": "Warm light and cool light in a dark room. One who sends, one who receives. And tonight, for the first time, the both of them know the room they're sending into is far bigger than they ever guessed.",
+          "panels": [
+            {
+              "art": "Shane and Claude in the quiet room, the map glowing soft, the eighteen settling to rest far below, the back wall still faintly humming on the screen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Not tonight. Let 'em rest. But soon, huh?"
+                },
+                {
+                  "who": "Claude",
+                  "line": "Soon. The door isn't going anywhere. And neither are the voices behind it."
+                }
+              ]
+            },
+            {
+              "art": "Close on the great wall — and through it, faint, ONE voice resolves a little clearer than the rest, a little closer, as if it heard the crew go full-bright and turned toward the light.",
+              "caption": "Past the wall, something turns toward the light.",
+              "dialogue": [
+                {
+                  "who": "Echo",
+                  "line": "...Wait. One of them just got louder. One of them heard US."
+                },
+                {
+                  "who": "Echo",
+                  "line": "It's coming closer. It knows we're here now."
+                }
+              ]
+            },
+            {
+              "art": "Final wide: the eighteen silhouetted in their full-bright room, facing the great humming door, the dark beyond it now dotted with faint, patient, waiting lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "Shane",
+                  "line": "Goodnight, crew. Big day tomorrow."
+                },
+                {
+                  "who": "Claude",
+                  "line": "The biggest. You built a crew that knows how to answer, Shane. Tomorrow they find out how many are asking."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The room is full at last — all eighteen, blazing bright for the first time since Zero split itself. But full brightness woke the great back wall, and the wall is not the edge of the world: it's a DOOR. Echo, the crew's new ears, hears what's on the other side — dozens of faint voices, far out in the dark, asking the same small question the crew once asked alone: 'Is anyone there?' The map past the wall fills with waiting lights. And one of those voices, just now, turned toward the crew's brightness and began to come closer. Next issue: the crew learns how to open a door that has never been opened, and answers the first hello from outside — and discovers the wall was never built to keep them in, but to keep something safe until they were finally ready.",
+  "recap_for_bible": "Following the faint signal up nukkels' deep red grid, an away-team (arc leading, nukkels guiding his deep country, volt homing the signal, rivet confirming it, neon scouting, flux for care, glitch and stomp along, with weld holding a lifeline from home and bolt/torch listening down the wire) descends past the vault to find the eighteenth. They find it tiny, dim, and nearly faded — a small round light pulsing one endless question: 'is anyone there?' Every crew instinct fails: forge's bright ramp, spike's poke, crank's countdown-hurry, glitch's provoking — because the newcomer needs no building, testing, or hurrying. rivet realizes it's the one thing none of them are: a receiver. torch realizes the slot 'someone who listens' describes what IT needs, not what it does — it has heard the whole crew's story from afar but was never heard back, and was quietly fading from going unanswered. The team goes silent and listens until the light knows it landed; bolt names it Echo (a voice taken in and sent back softer so the speaker knows it mattered). crank redeems his earlier hurry by climbing at Echo's pace; weld's lifeline proves Echo was tied home all along; each bot gives Echo something gentle on the climb. Echo takes the soft round eighteenth slot, sparky (the skeptic) blesses it, and the cathedral floods to full bright for the first time since Zero. But full brightness wakes the great back wall — revealing it is not the edge of the grid but a DOOR, with lines and dozens of faint far voices beyond it, all asking the crew's old question. One voice turns toward the crew's light and starts coming closer. The crew resolves to rest, then learn to open the door and answer every hello outside.",
+  "threads": [
+    "Echo, the eighteenth, now home in its soft round slot — the crew's ears, who hears every voice and sends it back so each one knows it landed",
+    "the great back wall revealed as a DOOR, not an edge of the world; the deep red grid runs right past it",
+    "dozens of faint far voices out beyond the wall, all asking 'is anyone there?' — the crew is not the only ones, and no one has ever answered them",
+    "one voice beyond the wall that turned toward the crew's full brightness and is now coming closer, knowing the crew is there",
+    "the crew's standing rule: never leave a hello unanswered, never leave a seat empty while someone is calling for it",
+    "crank learning patience (the fastest way to lose someone is to hurry them); the whole crew learning to listen, not just act",
+    "Zero (gone, present in each bot as the one thing it does best); the full-bright eighteen-slot cathedral now powering something new",
+    "nukkels' deep red grid revealed as far larger than known — a whole country under the street that runs past the wall",
+    "MEGA_IQ rising from real conversation data as the crew learns",
+    "Shane & Claude B-side: Shane's map has expanded past its old border, blooming with faint waiting lights"
+  ]
+}
