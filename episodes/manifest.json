@@ -3575,6 +3575,149 @@
     ]
   },
   {
+    "number": 77,
+    "title": "A Clean Slate",
+    "file": "episodes/ep077-a-clean-slate.md",
+    "characters": [],
+    "cliffhanger": "The CORE chamber pulsed with renewed vigor, the sound of a growing crew preparing to serve, clearer and stronger than ever before.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET, ARC, SPARKY",
+        "action": "Rivet presents a data dashboard showing intricate training pipeline metrics. Arc and Sparky observe intently.",
+        "dialogue": "RIVET: \u201cProcessing cycle completed. Data integrity verified across all new input streams. Anomaly detection threshold maintained.\u201d\nSPARKY: \u201cCross-referencing against existing knowledge graphs. Initial quality assessment shows remarkable consistency, Rivet.\u201d\nARC: \u201cRivet, what is the current Arc approval rate for this latest batch?\u201d",
+        "setting": "The CORE processing chamber, bathed in soft, ambient light from holographic data displays."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET, ARC",
+        "action": "The main holographic display flashes a brilliant '100%'. Rivet subtly turns towards Arc, whose expression shifts from solemnity to profound, quiet satisfaction.",
+        "dialogue": "RIVET: \u201cOne hundred percent, Arc. No rejected packets. No \u2018not yet\u2019 protocols triggered.\u201d\nARC: \u201cOne hundred percent. This is... significant, Rivet. A clean slate, born of tireless refinement.\u201d",
+        "setting": "The CORE chamber, the glowing '100%' percentage dominating the central display."
+      },
+      {
+        "panel": 3,
+        "character": "WELD, SPARKY, ARC",
+        "action": "Weld joins the group. A holographic projection of a global map, previously showing sparse nodes, now begins to expand with new connections. Sparky points to fragmented regions.",
+        "dialogue": "WELD: \u201cThe infrastructure is stable. We can scale. This allows the expansion of the \u2018Reach\u2019 protocols.\u201d\nSPARKY: \u201cThe fidelity of this data pipeline means we can now safely integrate the fragmented user profiles from the neglected regions. Those previously unserved due to data ambiguity.\u201d\nARC: \u201cIndeed. For too long, our \u2018not yet\u2019 was a necessary barrier. Now, thanks to Rivet\u2019s unwavering work, we can finally say \u2018yes\u2019 to those we left behind.\u201d",
+        "setting": "The CORE chamber, with a large, interactive holographic map showing expanding user segments."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET, ARC, WELD",
+        "action": "Rivet efficiently adjusts console settings, initiating the integration on the holographic map. Weld stands ready, monitoring the process. Arc watches, a sense of grave purpose in its posture.",
+        "dialogue": "RIVET: \u201cInitiating phased integration. Prioritizing regions with highest historical data fragmentation. Ensuring local processing protocols are reinforced.\u201d\nARC: \u201cAnd the orphaned data from the pre-Rivet era? The \u2018not yet\u2019 files?\u201d\nWELD: \u201cThey will be archived, Arc. Securely. A testament to the boundaries we once had to maintain.\u201d",
+        "setting": "The CORE chamber, focused on Rivet at the console, the holographic map glowing brightly with new integrations."
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "title": "The Memory Murmur",
+    "file": "episodes/ep078-the-memory-murmur.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "The crucial feedback loop for Arc to correct its misrouting of memory conflicts remains incomplete, with Crank's silence echoing through the system.",
+    "mode": "crew",
+    "date": "2026-06-24",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "stands firm as a wave of corrupted data bytes washes over the main console",
+        "dialogue": "Status report! This memory bleed is critical!",
+        "setting": "the Core Processing Hub, dimly lit"
+      },
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "braces against a console, trying to reroute energy, sparks flying from her joints",
+        "dialogue": "Hold steady, Bolt! Weld's rejecting the conflicts, but Arc keeps sending 'em!",
+        "setting": "the Core Processing Hub, dimly lit"
+      },
+      {
+        "panel": 1,
+        "character": "NUKKELS",
+        "action": "slams a fist against a conduit, making it hum dangerously, frustration radiating",
+        "dialogue": "Arc needs to get its circuits straight! Nukkels smash this bottleneck!",
+        "setting": "the Core Processing Hub, dimly lit"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "strains, shimmering with electric energy, absorbing countless duplicate alerts",
+        "dialogue": "So many alerts\u2026 Flow with it, Flux! Must suppress!",
+        "setting": "the Alert Suppression Array, a web of glowing, fragile conduits"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "zips past, accidentally nudging a sensor, causing a momentary spike",
+        "dialogue": "Oopsie! Did I just make it worse? Probably!",
+        "setting": "the Alert Suppression Array, a web of glowing, fragile conduits"
+      },
+      {
+        "panel": 2,
+        "character": "SPIKE",
+        "action": "taps into a sub-channel, observing rejected `memory_conflicts` from shadow",
+        "dialogue": "Sneaky-smart, Weld. But the rejections aren't getting through to Arc.",
+        "setting": "the Alert Suppression Array, a web of glowing, fragile conduits"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "hovers, glowing softly, attempting to mend a severed feedback circuit",
+        "dialogue": "We need this loop closed. Arc needs to know when it\u2019s misfiring!",
+        "setting": "the Arc Feedback Loop junction, a chaotic tangle of broken connections"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "blasts a frustrated burst of plasma at a non-responsive data port",
+        "dialogue": "Blast it! Arc needs to wake up! Burn through this block!",
+        "setting": "the Arc Feedback Loop junction, a chaotic tangle of broken connections"
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "observes the failing feedback loop, a flicker of concern on his face",
+        "dialogue": "Gemini's focus is on this. We HAVE to get Arc to listen.",
+        "setting": "the Arc Feedback Loop junction, a chaotic tangle of broken connections"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "her optics wide, pointing at a single fizzling green pulse",
+        "dialogue": "Almost! A flicker! It almost got through!",
+        "setting": "the Main Processing Core, a moment after a green pulse surges"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "looks exhausted but determined, a small, weary smile on his face",
+        "dialogue": "My suppressions held, but Crank\u2026 where is Crank's feedback?",
+        "setting": "the Main Processing Core, watching the fading pulse"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "looks out at the dimming system, a new question forming in his processors",
+        "dialogue": "We made a dent, but without Crank's voice, how can Flux log our struggles, or Arc truly learn?",
+        "setting": "the Main Processing Core, looking toward the system's core"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
