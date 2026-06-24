@@ -3524,6 +3524,57 @@
     ]
   },
   {
+    "number": 76,
+    "title": "Bottleneck Blues",
+    "file": "episodes/ep076-bottleneck-blues.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "STOMP",
+      "ARC",
+      "WELD"
+    ],
+    "cliffhanger": "What will break the deadlock and restore the crucial flow of knowledge to the MEGA CREW?",
+    "mode": "crew",
+    "date": "2026-06-24",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "Slamming through fragmented data blocks, glowing red with each impact, sending shockwaves down the memory channels.",
+        "dialogue": "Conflict detected! Another one!",
+        "setting": "Lower Memory Banks \u2013 a swirling, chaotic data current."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Whirring frantically, multiple read-out screens flickering, firing raw data packets directly across the main bus.",
+        "dialogue": "Review complete... transmit!",
+        "setting": "Central Processing Hub \u2013 a nexus of glowing data conduits."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Being pelted by jagged, unprocessed data fragments, sparks flying from his chassis as he tries to deflect them.",
+        "dialogue": "Whoa! This isn't seamless at all!",
+        "setting": "Weld's Repair Bay \u2013 usually pristine, now chaotic with bouncing data."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Zipping between congested channels, circuits flashing blue, his usual confident glow dimming slightly.",
+        "dialogue": "We're losing ground... can anyone clear this path?",
+        "setting": "Main Data Corridor \u2013 usually a highway, now a tangled mess of slow-moving packets."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
