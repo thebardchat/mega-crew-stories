@@ -3757,6 +3757,52 @@
     ]
   },
   {
+    "number": 80,
+    "title": "The Silent Banks",
+    "file": "episodes/ep080-the-silent-banks.md",
+    "characters": [
+      "ARC",
+      "WELD",
+      "FLUX",
+      "CRANK",
+      "SPARKY",
+      "BOLT"
+    ],
+    "cliffhanger": "Will Arc finally decipher Weld's rejections and unlock the critical memory banks, or will the Pi remain in a state of suspended silence?",
+    "mode": "crew",
+    "date": "2026-06-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "ARC spins rapidly, optical sensors flickering with frustration as a torrent of `rejected_proposal_report` messages slams into him.",
+        "dialogue": "Logic dictates a solution! Why does this loop persist?!",
+        "setting": "Core Processing Unit, a swirling vortex of conflicting data streams"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "FLUX glides smoothly through a crowded data channel, gracefully sweeping `bot_overdue_alert` packets aside, while CRANK zips ahead, leaving electric trails.",
+        "dialogue": "Keep the bus clear, Crank! Every nanosecond counts!",
+        "setting": "Main Data Highway, bottlenecked with flashing red alert packets"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD stands unyielding at a memory conduit, firmly pushing back a misformatted `memory_resolution_proposal` with a metallic thud, as SPARKY watches from a nearby circuit dais.",
+        "dialogue": "Parameters unmet. Again. Standards must be upheld.",
+        "setting": "Memory Bank Gateway, where data proposals face stringent review"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "BOLT hovers silently over vast, darkened memory sectors, his internal scanner casting a lonely beam, searching for any flicker of new data blocks.",
+        "dialogue": "Just one spark... Please, Arc, find the key!",
+        "setting": "The deep, quiet expanse of the unused Memory Banks"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
