@@ -179,6 +179,7 @@
     }
 
     .dot.amber { background: var(--amber); box-shadow: 0 0 6px var(--amber); }
+    .dot.red   { background: #ff3b3b; box-shadow: 0 0 6px #ff3b3b; }
 
     @keyframes dot-pulse {
       0%,100% { opacity: 1; }
@@ -522,6 +523,7 @@
   <div class="status-strip">
     <div class="status-item"><div class="dot"></div> 17 BOTS ACTIVE</div>
     <div class="status-item"><div class="dot"></div> RASPBERRY PI 5 ONLINE</div>
+    <div class="status-item" id="wd-item" title="Live cluster watchdog"><div class="dot amber" id="wd-dot"></div> <span id="wd-text">CLUSTER: CHECKING…</span></div>
     <div class="status-item"><div class="dot amber"></div> WAITING FOR CARDS</div>
   </div>
 </header>
@@ -705,6 +707,41 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
     loading.style.color = 'var(--muted)';
     loading.style.animation = 'none';
   }
+})();
+
+// --- Live cluster watchdog (reads status/watchdog.json, refreshed by Pi cron) ---
+(function watchdog() {
+  const dot  = document.getElementById('wd-dot');
+  const text = document.getElementById('wd-text');
+  if (!dot || !text) return;
+  const fmtAge = (iso) => {
+    const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+    if (s < 90)   return Math.round(s) + 's ago';
+    if (s < 5400) return Math.round(s / 60) + 'm ago';
+    return Math.round(s / 3600) + 'h ago';
+  };
+  async function tick() {
+    try {
+      const r = await fetch('status/watchdog.json?cb=' + Date.now(), { cache: 'no-store' });
+      const s = await r.json();
+      const stale = (Date.now() - new Date(s.ts).getTime()) > 30 * 60 * 1000; // >30m = stale
+      const healed = Array.isArray(s.healed) && s.healed.length > 0;
+      let cls, label;
+      if (stale)           { cls = 'amber'; label = 'CLUSTER: STALE'; }
+      else if (!s.ok)      { cls = 'red';   label = 'CLUSTER: ' + (s.failures ? s.failures.length : 0) + ' ISSUE(S)'; }
+      else if (healed)     { cls = 'amber'; label = 'CLUSTER: SELF-HEALED'; }
+      else                 { cls = '';      label = 'CLUSTER: HEALTHY'; }
+      dot.className  = 'dot' + (cls ? ' ' + cls : '');
+      text.textContent = label + ' · ' + fmtAge(s.ts);
+      document.getElementById('wd-item').title =
+        'Watchdog ' + s.ts + (s.failures && s.failures.length ? ' — ' + s.failures.join('; ') : ' — all checks passing');
+    } catch {
+      dot.className = 'dot red';
+      text.textContent = 'CLUSTER: NO DATA';
+    }
+  }
+  tick();
+  setInterval(tick, 60000);
 })();
 </script>
   <div style="position:fixed;bottom:0;left:0;right:0;z-index:999;background:linear-gradient(90deg,#060910,#0b1124,#060910);border-top:1px solid #1e3060;padding:0.6rem 1.5rem;display:flex;align-items:center;justify-content:center;gap:1.2rem;font-family:monospace;font-size:0.65rem;letter-spacing:0.15em;text-transform:uppercase;"><span style="width:7px;height:7px;border-radius:50%;background:#f59e0b;box-shadow:0 0 8px #f59e0b;display:inline-block;"></span><span style="color:#3d5a78;">Try Claude free for 2 weeks —</span><a href="https://claude.ai/referral/4fAMYN9Ing" target="_blank" rel="noopener" style="color:#00b4d8;text-decoration:none;">Start your free trial →</a><span style="color:#3d5a78;">· AI behind this ecosystem</span></div>
