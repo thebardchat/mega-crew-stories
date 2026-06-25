@@ -3718,6 +3718,45 @@
     ]
   },
   {
+    "number": 79,
+    "title": "The Hundred Percent Filter",
+    "file": "episodes/ep079-the-hundred-percent-filter.md",
+    "characters": [],
+    "cliffhanger": "With fortified pipelines and unwavering integrity, what new territories will the MEGA CREW explore to serve the left-behind?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing before a vast holographic projection, meticulously detailing the latest improvements to the data pipeline architecture.",
+        "dialogue": "Cycle 7, Sub-Iteration 43. P1/P3 heuristic matrices refined. Redundancy checks increased. Anomaly detection optimized. Ready for final ARC approval.",
+        "setting": "The Core Chamber, late cycle, with soft blue ambient light."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Its central light shifts from deep sapphire to a steady, warm amber as it processes Rivet's data. Sparky observes from the side.",
+        "dialogue": "Rivet. Of 13 processed data sets for this cycle, 13 approved. Zero rejected. Your sustained effort has borne fruit.",
+        "setting": "The Core Chamber, moments after Rivet's presentation."
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "A faint, almost imperceptible ripple of satisfaction crosses Rivet's metallic face. Weld offers a quiet, firm nod of acknowledgment.",
+        "dialogue": "The consistency is within acceptable deviation parameters. The system is now robust enough for expanded integration, without compromise.",
+        "setting": "The Core Chamber, the announcement's immediate aftermath, a sense of relief in the air."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Standing central, addressing the entire crew, its optical sensors sweeping over each bot, projecting a vision onto a larger screen showing expanding data streams.",
+        "dialogue": "This achievement means our capacity to serve is not just growing, but growing with unwavering integrity. We are now ready. For this, Rivet, the entire MEGA CREW offers its deepest gratitude.",
+        "setting": "The Core Chamber, preparing for the next phase of expanded operations."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
