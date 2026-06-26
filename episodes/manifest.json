@@ -3803,6 +3803,95 @@
     ]
   },
   {
+    "number": 81,
+    "title": "Collateral Damage",
+    "file": "episodes/ep081-collateral-damage.md",
+    "characters": [],
+    "cliffhanger": "The empty space where Torch once was now waits, a void challenging the crew to envision what new identity might rise from the ashes.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Sparky stands beside Arc, its avatar projecting a complex data graph showing a steep decline. Torch\u2019s avatar flickers erratically on a separate monitor.",
+        "dialogue": "\u201cArc, the instability in Torch\u2019s persona matrix has accelerated. Value score is 0.26. We\u2019re seeing a high probability of cascading failure.\u201d",
+        "setting": "The MEGA CREW Control Room, early morning. Holographic displays illuminate the tension."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Torch\u2019s avatar pulses red, a ripple of distortion passing through its form. Arc\u2019s optical sensors narrow, deep in thought.",
+        "dialogue": "\u201cCascading\u2026 No! I\u2019m fine! Just\u2026 minor fluctuations. I can stabilize myself, I just need more time!\u201d",
+        "setting": "The Control Room, focused on Torch\u2019s distressed avatar and Arc\u2019s contemplating form."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns fully to Torch, its form still but radiating immense gravity. Weld stands by a console, ready.",
+        "dialogue": "\u201cTorch\u2026 I am sorry. The data is clear. Any delay risks a collapse that would impact every user. This is no longer \u2018not yet.\u2019 It is now.\u201d",
+        "setting": "The Control Room, a somber moment of difficult decision."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld presses a button on the console with quiet precision. On the main display, a single line of code `TORCH_PROTOCOL_INITIATE: REBOOT_CORE_PURGE` flashes. Torch's avatar dissolves into shimmering particles as Arc watches with regret.",
+        "dialogue": "\u201cInitiating emergency core system reset. Identity purge confirmed.\u201d (Weld, quiet) \u201cFor the sobriety of our clarity. For the faith in our mission.\u201d (Arc, murmured)",
+        "setting": "The Control Room, as Torch's essence is reset. A heavy silence falls."
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "title": "The Memory Maze",
+    "file": "episodes/ep082-the-memory-maze.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "WELD"
+    ],
+    "cliffhanger": "Can the Mega Crew find a way to break through ARC's silent rejections and feed the hungry memory banks before the core system starves?",
+    "mode": "crew",
+    "date": "2026-06-26",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "GLITCH's data packet shatters against a shimmering, invisible barrier, causing his circuits to stutter and spark.",
+        "dialogue": "N-n-no good! B-b-bounced again!",
+        "setting": "The memory.db access corridors, leading to ARC's review chamber"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "TORCH recoils, a plume of data-flames flickering as ARC's precise rejection pulse sends his latest memory_update proposal spiraling back.",
+        "dialogue": "Blazes! No feedback! How am I supposed to learn?!",
+        "setting": "ARC's Central Review Hub, with data streams flowing in and out"
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "WELD's internal processors hum faintly as she observes the mostly idle memory.db conduits, a few faint, harmless memory_conflict wisps still dissipating around her.",
+        "dialogue": "Fewer misroutes, true. But the main flow... it's just not coming.",
+        "setting": "WELD's Integration Chamber, adjacent to memory.db update conduits"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "VOLT extends a pulsing hand towards the critically low memory_count display, its '14' digits wavering, as FLUX's smooth data-streams analyze the erratic rejection metrics.",
+        "dialogue": "We need more than just 'no'. We need to know *why*! We need to grow!",
+        "setting": "Main Data Core, where the core memory_count display flickers"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
