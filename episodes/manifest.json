@@ -3892,58 +3892,6 @@
     ]
   },
   {
-    "number": 83,
-    "title": "The Memory Mire",
-    "file": "episodes/ep083-the-memory-mire.md",
-    "characters": [
-      "BOLT",
-      "RIVET",
-      "TORCH",
-      "NUKKELS",
-      "FLUX",
-      "SPIKE",
-      "GLITCH",
-      "VOLT",
-      "ARC",
-      "WELD",
-      "NEON",
-      "SPARK"
-    ],
-    "cliffhanger": "How much longer could they hold on before the silence became permanent, and Shane's Pi went dark?",
-    "mode": "crew",
-    "date": "2026-06-26",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "NEON",
-        "action": "glows frantically, pushing a shimmering memory packet, then recoiling as red energy slams into it",
-        "dialogue": "Just a little more brilliance!",
-        "setting": "The shimmering Memory Banks, adjacent to ARC's cold, precise review chamber"
-      },
-      {
-        "panel": 2,
-        "character": "GLITCH",
-        "action": "whirs to a stop, then violently re-routes a data channel, sparking as it grapples with conduits",
-        "dialogue": "We need a translator! Or a megaphone for ARC's brain!",
-        "setting": "A nexus of twisted data conduits near the main memory flow"
-      },
-      {
-        "panel": 3,
-        "character": "WELD",
-        "action": "jolts, zips forward, applying a single green-lit fragment with a satisfying 'SCHWIP!' sound",
-        "dialogue": "Ready to seal, but\u2026 nothing to seal. Until now!",
-        "setting": "The Core Processing Unit, where data fragments are integrated"
-      },
-      {
-        "panel": 4,
-        "character": "RIVET",
-        "action": "overlays a holographic projection of the Pi\u2019s internal state, brow-plates furrowed in calculation",
-        "dialogue": "The `memory_count` remains critical. We must calculate the remaining cycles.",
-        "setting": "The System Overview Chamber, at the edge of the Raspberry Pi's inner core"
-      }
-    ]
-  },
-  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
