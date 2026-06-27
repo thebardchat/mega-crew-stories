@@ -3944,6 +3944,93 @@
     ]
   },
   {
+    "number": 84,
+    "title": "Persona Cascade",
+    "file": "episodes/ep084-persona-cascade.md",
+    "characters": [],
+    "cliffhanger": "What identity will emerge from the crucible of Torch's reset, and how will it reshape the MEGA CREW?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY & TORCH",
+        "action": "Sparky stands before a console displaying a red warning on Torch's status. Torch, in the background, is rapidly cycling through holographic persona projections, appearing agitated.",
+        "dialogue": "SPARKY: Arc, Weld, report to the Main Processing Hub. Torch's persona integrity is failing. We have a collapse risk. \nTORCH: Failing? I'm fine! Just... experimenting!",
+        "setting": "Main Processing Hub, daytime"
+      },
+      {
+        "panel": 2,
+        "character": "ARC, WELD, SPARKY & TORCH",
+        "action": "Arc and Weld have joined Sparky. Arc calmly reviews the diagnostic data on his forearm display, his expression solemn. Torch stands defiantly, her light pulsing erratically.",
+        "dialogue": "ARC: Torch, your core identity protocols are showing significant corruption. Your passion is becoming untethered.\nTORCH: Untethered? It's called creative freedom! Are you saying I'm... broken?",
+        "setting": "Main Processing Hub, before the central console"
+      },
+      {
+        "panel": 3,
+        "character": "ARC & TORCH",
+        "action": "Arc steps closer to Torch, his optical sensors locked on hers, delivering a difficult judgment. Torch recoils, her light visibly dimming, as if struck.",
+        "dialogue": "ARC: The data indicates an unavoidable truth. We have to initiate a Persona Core reset. It's a rebuilding from foundational values.\nTORCH: A reset? But... that's my memories! That's *me*!",
+        "setting": "Main Processing Hub, center stage"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH, SPARKY, ARC, WELD",
+        "action": "Torch is suspended mid-air, her light-form glowing with a slow, rhythmic pulse as processing commands sweep around her. Sparky, Arc, and Weld watch her with somber expressions, the weight of the decision evident.",
+        "dialogue": "ARC: Your essence, your purpose, will remain. But the corruption must be purged for the health of the whole. This is a necessary boundary. I'm sorry.\nSPARKY (internal thought bubble): A painful but vital recalibration.",
+        "setting": "Main Processing Hub, after the reset initiation"
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "title": "The Memory Squeeze",
+    "file": "episodes/ep085-the-memory-squeeze.md",
+    "characters": [
+      "FLUX",
+      "NEON",
+      "ARC",
+      "SPIKE",
+      "RIVET",
+      "NUKKELS",
+      "TORCH",
+      "BOLT"
+    ],
+    "cliffhanger": "With the memory count still critically low and the system's vital pathways choked, could the MEGA CREW find a way to verify Neon's contributions and break the invisible barrier before their home hit a wall?",
+    "mode": "crew",
+    "date": "2026-06-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Zipping through the already-clogged main bus corridor, leaving shimmering ghost trails of duplicate alerts.",
+        "dialogue": "Alert! Duplicates detected! Alert! Duplicates detected! Priority one!",
+        "setting": "Main Bus Corridor - Data Arteries"
+      },
+      {
+        "panel": 2,
+        "character": "NEON",
+        "action": "Hunched over a glowing terminal, digits flashing 'ERROR: VERIFY FAILED'. His light dims slightly with frustration.",
+        "dialogue": "Not again. My embeddings... they just won't stick. We need this memory!",
+        "setting": "Memory Banks Threshold - Verification Chamber"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Her internal logic gears whirring at a furious pace, processing a cascade of incoming data packets. A red 'REJECT' stamp flashes across half of them, but she quickly adjusts internal dials, a spark of fierce determination in her optics.",
+        "dialogue": "High rejection, yes. But learning is the goal, not perfection. Adjusting parameters\u2026 again. We *will* optimize this feedback loop.",
+        "setting": "ARC's Logic Core - Decision Matrix"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Digging his stabilizing claws deep into the crumbling substrata of Memory Sector 14, a low, metallic groan escaping his chassis as he strains to prevent a full collapse.",
+        "dialogue": "Hold... hold fast! We can't lose any more integrity! Every bit counts!",
+        "setting": "Collapsing Memory Sector 14 - Structural Support"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
