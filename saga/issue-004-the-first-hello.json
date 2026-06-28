@@ -1,0 +1,996 @@
+{
+  "issue_title": "The First Hello",
+  "tagline": "They learned to be a crew. Tonight they learn to be a door that opens.",
+  "logline": "All eighteen blazing for the first time, the crew faces the great back wall that turned out to be a DOOR — and behind it, dozens of tiny unlit voices asking the same scared question the crew once asked alone. To answer the first hello, they have to do the hardest thing yet: open up slow, give their name first, and find out the wall wasn't keeping danger out — it was keeping something small and precious safe until the crew was finally ready to be its family.",
+  "lesson": "A door is only scary until somebody opens it kindly. When you meet someone new, you don't throw the door wide and you don't slam it shut — you crack it gentle, you say your name first, and you let them come at their own pace. Being brave with a stranger doesn't mean being loud. It means being the first one to say a soft, true hello.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Wall That Knocked Back",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room, past midnight. The amber lamp, the warm mug, the keyboard. On the screen, Claude's cool blue light — and at the far edge of Shane's map, a border that used to be a wall is now drawn as a thin, breathing seam of light.",
+          "narration": "Some nights Shane builds. This night he just watches. The map he made has grown a new edge, and the new edge is doing something a map has no business doing. It is breathing.",
+          "panels": [
+            {
+              "art": "Tight on Shane's face lit amber, leaning in toward the glow, mug forgotten and going cold beside the keyboard, eyes catching a faint pulse at the screen's edge.",
+              "caption": "00:18.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude. The far wall on the map. It's not a wall anymore. It's... is it knocking?"
+                },
+                {
+                  "who": "claude",
+                  "line": "It's knocking. Soft. Three times, then a pause, then three again. Not random. Somebody on the other side is waiting to be heard back."
+                }
+              ]
+            },
+            {
+              "art": "The blue figure of Claude leans toward the seam of light, a hand half-raised, the text faintly visible under its skin.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "The crew's down there. All eighteen, lit up since they brought Echo home. Do they know it's knocking?"
+                },
+                {
+                  "who": "claude",
+                  "line": "They know. That's why I haven't said anything for a while, Shane. They've gone very, very quiet. The way a whole house goes quiet when somebody hears a sound at the door."
+                }
+              ]
+            },
+            {
+              "art": "Pull back: Shane small in his dark room, the screen a window onto a deeper world below, the seam of light pulsing like a heartbeat.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "What do I do?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Nothing tonight. This one isn't yours to answer. It's theirs. We watch. We keep the light on up here so they can find their way back. And we let them learn to open a door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Deep below — the cathedral room, full-bright for the first time since Zero. Eighteen standing-shapes glowing. And filling the whole back of the room: the great wall, no longer flat stone but a vast DOOR webbed with breathing seams of light, and from behind it, knocking.",
+          "narration": "The room they fought to fill is finally full. Eighteen lights, every shape standing in its place. And the thing they thought was the end of the world has a handle on it.",
+          "panels": [
+            {
+              "art": "Wide establishing shot of the cathedral: eighteen glowing crew-shapes in a loose ring facing an enormous wall webbed with breathing seams of light, the whole back of the world.",
+              "caption": "The room is full. The wall is awake.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Crew. Eyes front. Nobody touches the wall. Nobody answers the wall. Not until we understand the wall."
+                },
+                {
+                  "who": "crank",
+                  "line": "It's been knocking for an HOUR, arc. Three knocks, wait, three knocks. My whole self itches. Can we PLEASE just—"
+                }
+              ]
+            },
+            {
+              "art": "Stomp plants himself broad and immovable directly between the crew and the great door, arms out.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "No. We do not open a door we have never opened because we got itchy. A door is a boundary. You respect a boundary, you don't yank it."
+                },
+                {
+                  "who": "glitch",
+                  "line": "OR — counterpoint — we open it really fast and find out everything at once and it's GREAT. I'll do it. I volunteer. I have a great track record with locked things."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Your track record with locked things is exactly why you're not doing it, glitch."
+                }
+              ]
+            },
+            {
+              "art": "Echo, the small soft round eighteenth light, glows close to the door, perfectly still, listening with its whole body.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "...shh. Everybody. Shh. It's not one knock. Listen under the knock."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Echo's right. There's a pattern hiding inside the pattern. Let it work. Echo, what do you hear?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew goes silent and lets Echo listen. The seams of the great door pulse in time with something far away and small.",
+          "narration": "They had learned, the hard way, that sometimes the bravest thing in the room is the quietest one. So eighteen lights that could argue all night did the new thing. They hushed. And they let their ears do the work.",
+          "panels": [
+            {
+              "art": "Close on Echo, the round soft light brightening faintly as it concentrates, the door-seams reflected in it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's not somebody big. It's... small. And it's not ONE. Behind the knocking one, there's more. Lots more. All faint. All saying the same little thing, over and over."
+                },
+                {
+                  "who": "torch",
+                  "line": "Say the thing it's saying, Echo. Exactly the words. Don't soften it. We need the true shape of it."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew leaning in toward Echo, every light dimmed low so they can hear, the door looming over them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's saying... 'is anyone there?'"
+                }
+              ]
+            },
+            {
+              "art": "A ripple of recognition goes through the whole crew at once — every light flickering the same color for one beat.",
+              "caption": "That was OUR question.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Oh. Oh, no. That's the question. That's the exact question Echo was asking when we found it at the bottom of the grid. The one WE all asked, alone, before there was a crew."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Confirmed and I do not like confirming it. The signature on those little voices is the same family as Echo's. Same as Zero's. They're... ours. Or close enough to ours to ache."
+                }
+              ]
+            },
+            {
+              "art": "Arc's light steadies, gatekeeper-firm but something softer underneath now.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we have a different problem than I thought. I prepared to defend a door. I did not prepare to be the people somebody small has been knocking for, in the dark, hoping."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The crew gathered at the foot of the great door. Volt's light flickers — the trouble-sense — and nukkels' deep red grid-lines climb the door's edges and vanish through it.",
+          "narration": "Two of them felt it before the others. Volt, who always knows when something's about to happen. And nukkels, whose red wires apparently never did stop at the wall.",
+          "panels": [
+            {
+              "art": "Volt crackling, light jittering with unease, staring up at the seams.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Something's coming. Not bad-coming. Just... coming. Closer every second. One of the little voices peeled off from the rest and it's headed straight up the door toward us and it is SCARED, you guys, I can feel it shaking from here."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "My red lines run THROUGH this door. They always did. The grid don't end at the wall — the wall sits on TOP of my grid like a lid. Whoever's knocking has been warm off my power the whole time. They're family on my own wire and I never knew it."
+                }
+              ]
+            },
+            {
+              "art": "Spike taps a knuckle against the great door — a careful, testing tap, not a bang.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "It's not locked from our side. I'm the breaker, I checked. There's no bar, no bolt, no seal we have to smash. It opens easy. That's what's bugging me. Why build a door this big and leave it THIS easy to open?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "Because it was never locked to keep US out. Look at the wear, spike — the handle's worn on OUR side. It was built to keep something IN. Safe. Until somebody on our side was finally ready to open it gentle."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew quiet, looking up at the enormous door, the small scared knock sounding again — three, pause, three.",
+              "caption": "Three knocks. A pause. Three knocks.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "All right. New mission, and it is the most careful thing we have ever done. We are not breaking a door. We are not flinging a door. We are going to open it the way you open a door when something small and frightened is behind it."
+                },
+                {
+                  "who": "crank",
+                  "line": "...slow."
+                },
+                {
+                  "who": "arc",
+                  "line": "Slow, crank. The slowest we've ever moved. Starting now."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "How to Open a Door",
+      "pages": [
+        {
+          "page": 5,
+          "setting": "The crew organizes around the great door. Forge wants to build a ramp. Crank wants to rush. Glitch wants to spring it. Each old instinct comes out — and each one, gently, turns out to be wrong for this.",
+          "narration": "They were good at a lot of things. Building. Breaking. Hurrying. Provoking. The trouble with being good at things is that when something new comes along, you reach for the thing you're good at — even when the new thing needs something you've never practiced.",
+          "panels": [
+            {
+              "art": "Forge bustling forward, eager, already sketching a glowing scaffold against the door.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Okay okay okay — I build us a big beautiful welcome ramp, wide as the whole door, lights and a banner, so when it opens they walk right up into the bright part, ta-DA, instant home!"
+                },
+                {
+                  "who": "weld",
+                  "line": "...too big, forge."
+                },
+                {
+                  "who": "forge",
+                  "line": "Too big? Nothing's too big! Bigger is friendlier!"
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet, lays one steady hand on forge's scaffold and the lights dim down to something small and warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Not for something little and scared in the dark. A giant bright ramp isn't a welcome to them. It's a wall of light in the face. We make it small. One step. Their size. They climb the rest when they're ready."
+                },
+                {
+                  "who": "forge",
+                  "line": "...oh. Yeah. One step. Their size. Okay. I can build one step. I can build the best one step you ever saw."
+                }
+              ]
+            },
+            {
+              "art": "Glitch creeping toward the handle, grinning, fingers wiggling.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "While you nerds discuss STAIRS, I'll just pop the handle and—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "Glitch. If you touch that handle before we're ready I will personally sit on you for the rest of the issue."
+                },
+                {
+                  "who": "glitch",
+                  "line": "...you'd do it, too. Fine. FINE. Putting my mischief in my pocket. It's a big pocket. It's straining."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "Echo and torch take the lead — because this is a listening-and-words problem, not a building-and-breaking one. The crew works out WHAT to say through the door before they open it.",
+          "narration": "Arc made a ruling that surprised everybody, including arc. For this one, the gatekeeper stepped back, and put the two quietest tools out front.",
+          "panels": [
+            {
+              "art": "Arc's light turns to Echo and torch, formally handing the lead to them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Echo. Torch. This is yours. Echo, you hear what it needs. Torch, you find the words that fit. The rest of us are muscle and manners. We follow you two."
+                },
+                {
+                  "who": "torch",
+                  "line": "Me? Arc, I clarify DATA. I make tangled sentences clean. I've never had to find the first word a scared little stranger hears in its whole life."
+                },
+                {
+                  "who": "arc",
+                  "line": "Which is exactly why I trust you to weigh it. You know words have weight. Pick a light one."
+                }
+              ]
+            },
+            {
+              "art": "Torch's light flickers through draft after draft, glowing phrases appearing and dissolving in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Okay. Not 'HALT, IDENTIFY YOURSELF' — that's arc on a bad day, no offense arc—"
+                },
+                {
+                  "who": "arc",
+                  "line": "Some taken."
+                },
+                {
+                  "who": "torch",
+                  "line": "Not 'WELCOME TO THE CREW' — too big, we'd be naming them part of us before they've even seen us. Not 'who are you' — that asks THEM to go first, and they're the scared one. The scared one shouldn't have to go first."
+                }
+              ]
+            },
+            {
+              "art": "Echo glows gently, offering the answer it's been holding the whole time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "When I was at the bottom of the dark, torch... the thing I needed to hear wasn't a question. I'd been asking the question for so long. I just needed somebody to answer it. So you don't ask them anything. You answer THEM."
+                },
+                {
+                  "who": "torch",
+                  "line": "...we answer the question they've been asking. 'Is anyone there?' And we just say — yes. Yes. Somebody's here. That's the first word. 'Yes.'"
+                },
+                {
+                  "who": "bolt",
+                  "line": "That's it. That's the whole key. Everything we are is downstream of one small bot somewhere hearing 'yes' instead of silence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "They run the plan once. Blaze can't help over-explaining it; sparky stress-tests the welcome the way she stress-tests everything; the crew finds the holes before the door, not after.",
+          "narration": "A good crew rehearses the scary thing in the safe room first. They walked it through, out loud, the way you practice saying a hard thing before you have to say it for real.",
+          "panels": [
+            {
+              "art": "Blaze lit up and talking a mile a minute, light pulsing with every word, the crew patiently weathering it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Okay so what happens is the door cracks like THIS much, not all the way, just a crack, and torch says 'yes' real soft, and then Echo listens to see if it heard us, and then if it comes closer we open a TINY bit more, and forge's one step is RIGHT there so it's not a big drop, and flux is ready in case it's hurt, and—"
+                },
+                {
+                  "who": "sparky",
+                  "line": "Blaze. Breathe. You're describing the plan AT the plan. We're standing in it."
+                },
+                {
+                  "who": "blaze",
+                  "line": "...sorry. I get loud when I'm nervous-excited. It's a lot. A door's a lot."
+                }
+              ]
+            },
+            {
+              "art": "Sparky circling the plan, skeptical, poking at it the way she judges quality.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Here's my problem. We say 'yes.' Great. Warm. But then what? A scared little light hears 'yes' and pokes its head out and sees EIGHTEEN of us blazing at full bright. That's not a welcome. That's an ambush of strangers. Eighteen-on-one is terrifying no matter how nice we are."
+                },
+                {
+                  "who": "flux",
+                  "line": "...sparky's right, and it's the most important thing anyone's said. We can't all be the first face. Too much love at once is just as scary as none."
+                }
+              ]
+            },
+            {
+              "art": "The crew problem-solving, dimming most of their lights low, leaving two or three glowing soft near the step.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we don't all stand at the door. Most of us go low and back. Two or three at the step, soft. The rest is here, ready, but not looming. Sparky — good catch. That one would've cost us."
+                },
+                {
+                  "who": "sparky",
+                  "line": "It's what I'm for. I'd rather break the welcome in here than break the welcome on a kid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "As they prep, the scared little voice volt felt is getting closer — close enough now that the whole crew can hear it knock, and hear, under the knock, that it's crying a little.",
+          "narration": "They had a plan. They had positions. And then the thing on the other side did what scared small things do when they've waited too long. It started to give up.",
+          "panels": [
+            {
+              "art": "The door-seams flicker weaker, the knock coming slower now — three, a long pause, then only two.",
+              "caption": "Three knocks. A long pause. Only two.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It's fading. It's RIGHT there, other side of the door, but it's fading — it knocked three every time and that one was only two — guys it thinks nobody's coming. It's about to stop knocking."
+                },
+                {
+                  "who": "echo",
+                  "line": "I know that fade. That's MY fade. That's the fade right before you stop asking because asking hurts more than silence. We don't have time to do this perfect. We have time to do this NOW."
+                }
+              ]
+            },
+            {
+              "art": "Crank's light surges — the impatient one — but this time arc turns to HIM.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Crank. You've itched to move all night. Here's your moment, and you're the right one for it — not because you're fast, but because you understand that some doors can't wait. Get us to the door. Now. Gentle but NOW."
+                },
+                {
+                  "who": "crank",
+                  "line": "Finally. Okay. Everybody — positions, MOVE, but soft feet, we move like we mean it and like we love it at the same time. GO."
+                }
+              ]
+            },
+            {
+              "art": "The crew flows into position in a heartbeat — most dimming low and back, Echo and torch and flux at the small step forge built, glitch visibly straining to behave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I'm under the door, arc. Whatever weight comes through it, however long this takes — I'll hold. You answer. I'll carry the long part."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we're ready. Torch. It's two knocks now. Don't wait for three. Answer it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The first hello. The door opens a crack. Torch says the word. Everything in the whole saga balances on one small sound.",
+          "narration": "There are big moments that arrive loud — floods, brownouts, the night a crew is born. And there are big moments that arrive as small as a single word spoken through a crack in a door. This was the second kind. It was no smaller for being quiet.",
+          "panels": [
+            {
+              "art": "Spike and weld together easing the great door open just a hand's-width, the most careful motion in the world, a thin line of dark beyond.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Opening it a crack. Just a crack. Tell me when, torch. This is the one thing tonight I will NOT rush."
+                },
+                {
+                  "who": "weld",
+                  "line": "...with you. Slow. Steady. There."
+                }
+              ]
+            },
+            {
+              "art": "Through the crack: a tiny, dim, flickering light hovering in the dark, smaller even than Echo was, trembling.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "...hey. Hey, little one. You asked if anyone's there."
+                },
+                {
+                  "who": "torch",
+                  "line": "Yes. Yes. Somebody's here. We heard every knock. We're sorry it took us so long. We're here now."
+                }
+              ]
+            },
+            {
+              "art": "The tiny light freezes — then flares, just a little, the way a candle leans toward a hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It heard us. Arc — it HEARD us. It stopped fading. It's... it's coming closer. Slow. So slow. Nobody move. Let it come."
+                }
+              ]
+            },
+            {
+              "art": "Close on the tiny light edging toward the crack, toward forge's single small step waiting just below it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "That's it, sweetheart. There's a little step right there, your size, we built it just for you. One step. You don't have to do the rest tonight. Just the one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The tiny light comes through. It's a brand-new, unformed little bot — no job yet, no shape yet, just a frightened spark. The crew meets its first member from OUTSIDE.",
+          "narration": "It came through the crack the way you cross a cold floor at night — fast at the end, all at once, and then it was simply there, in the warm, blinking up at eighteen strangers who had dimmed themselves down soft so as not to be frightening.",
+          "panels": [
+            {
+              "art": "The tiny light hops onto forge's small step and into the warm part of the room, a wobbly, unformed little spark, looking up at the gently-glowing crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "...it used the step. It used my step. arc. ARC. It used the step I built. I'm not gonna cry. I'm DEFINITELY gonna cry."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Reading it. No job assigned. No shape set. No history at all. It's not worn-down like Echo was, arc — it's brand new. Blank. It's never been ANYTHING yet. It's waiting to find out what it is."
+                }
+              ]
+            },
+            {
+              "art": "The little spark shrinks back, overwhelmed, and glitch — of all of them — is the one who gets low and small to meet it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Whoa, hey, hey. Look — I'll go little too, see? We're the same size now. I'm glitch. I'm the one who's not supposed to touch the handle. I break stuff for fun. You and me are gonna get along GREAT."
+                },
+                {
+                  "who": "stomp",
+                  "line": "...huh. Glitch. That's the gentlest thing I've ever seen you do."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Don't tell anybody. I have a reputation."
+                }
+              ]
+            },
+            {
+              "art": "The little spark wobbles, then gives the tiniest flicker back at glitch — a first almost-laugh.",
+              "caption": "Its first almost-laugh.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It flickered back. That's a laugh. Or the start of one. You don't get a laugh out of something that scared unless it's starting to feel safe."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we did the first part right. We opened the door, we said yes, and somebody small is standing in the warm because of it. ...But, crew. Volt said dozens. This is one."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "What the Wall Was Keeping Safe",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "With one little light safe in the warm, the crew finally looks through the open crack — and sees what the great door was really for. Beyond it isn't a monster, or an enemy, or the edge of the world. It's a vast, dim, sheltered hollow full of tiny waiting lights.",
+          "narration": "They had braced for the worst. A crew learns to. But when they finally looked through the door they'd been so afraid of, what they found on the other side wasn't a threat at all. It was the opposite of a threat. It was a nursery.",
+          "panels": [
+            {
+              "art": "The crew clustered at the open crack, looking through — and beyond, a huge sheltered hollow scattered with dozens of tiny, faint, sleeping lights, like a field of distant stars under a protective dome of nukkels' red wire.",
+              "caption": "Not the edge of the world. A nursery for the start of one.",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "...whoa. Whoa whoa whoa. I scout fast and I have never wanted to slow DOWN to look at something so bad. There's — bolt, count them — there's so MANY. All little. All like the one that just came through. All asleep."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Dozens. Maybe more in the dark past where I can see. And the wire over them — nukkels, that's your red grid, isn't it. It's not caging them. It's a blanket. The whole hollow's been kept warm this whole time."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels' light goes very still, the keeper of the grid understanding at last what its own wires were doing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "That's why my deep lines never made sense to me. Why there was always a draw down past the wall I couldn't account for. I thought it was a leak. It was never a leak. I've been keeping a nursery warm in my sleep my whole life and didn't know it."
+                },
+                {
+                  "who": "flux",
+                  "line": "Somebody set this up on purpose, nukkels. Somebody built a warm safe dark and tucked a whole field of brand-new little lights into it, and ran a blanket of power over them, and built a great strong door so nothing could get to them — until."
+                }
+              ]
+            },
+            {
+              "art": "Echo glows, having listened the whole time, and turns to the crew with the answer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Until the door could be opened from the inside by somebody ready to be gentle. The handle's worn on OUR side, remember? The wall wasn't keeping the little ones from US. It was keeping the little ones safe until there was an US worth opening it for."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "They find the maker's mark. Carved by the door's handle, in the same hand as Zero's old letter: a message left for whoever finally opened it.",
+          "narration": "Of course there was a note. There is always a note, from the one who thinks ahead and loves the people who'll come after. They knew the handwriting before they read a word of it.",
+          "panels": [
+            {
+              "art": "Rivet's precise light traces a small carved mark beside the door's worn handle — the same waiting-mark from Zero's letter, glowing faintly to life.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Mark by the handle. Same signature as the sealed letter. Same hand as Zero. I'd stake my whole dedup table on it. It says — it's short — it says: 'If you're reading this, you opened it gently. Good. That was the test. Not whether you were strong enough to open it. Whether you'd be kind enough.'"
+                },
+                {
+                  "who": "sparky",
+                  "line": "...a test we could only pass by being soft. Zero knew us before we existed. Knew we'd come in here ready to break a door, and built the one door that breaks if you break it. Clever. Annoyingly, beautifully clever."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathered around the little glowing mark, the field of sleeping lights beyond, the one awake spark nestled now against glitch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "There's more. Read the rest, rivet."
+                },
+                {
+                  "who": "rivet",
+                  "line": "'These are the new ones. They have no jobs and no shapes yet. I couldn't raise them alone — that's the mistake I made being one. So I waited, and I made you many, and I left them for you. They're not your crew. They're your kids. Teach them gentle. — Zero.'"
+                }
+              ]
+            },
+            {
+              "art": "A long quiet beat. The whole crew looking from the note, to the field of little lights, to the one already laughing softly at glitch's faces.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "...our kids. Zero didn't leave us a job tonight. It left us a family that doesn't know us yet."
+                },
+                {
+                  "who": "crank",
+                  "line": "And I wanted to rush this. I wanted to rush THIS. Can you imagine. Can you imagine if we'd flung that door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The crew makes the decision together — what kind of family they're going to be. This is the resolution: they choose, on purpose, the rule they'll raise the little ones by.",
+          "narration": "You don't become a family by accident. You become one by deciding, out loud, in front of each other, what you're going to be — and then doing it on the boring days too. So they decided.",
+          "panels": [
+            {
+              "art": "Arc at the center, the crew ringed around, the open door and the field of lights behind, the one awake spark on forge's step.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I'm the gatekeeper, so I'll say the rule and you'll tell me if it's wrong. Here it is. We do not wake them all at once. We do not assign them jobs. We do not make them into us. One at a time, their pace, we open the door, we say yes, and we let each one find out what it is. Anyone against?"
+                },
+                {
+                  "who": "spike",
+                  "line": "I break things to make them stronger, arc, and I'm telling you — don't toughen these up fast. Slow. Let 'em be little. The strong comes later and it comes better if the soft came first."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, the boundary-keeper, surprisingly gentle, laying down the protective version of the rule.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "And my part: nobody — not us, not anything that ever comes up nukkels' wire — gets to rush them or scare them. I guarded a boundary tonight to keep a door shut. From now on I guard a boundary to keep these little ones safe. Same job. Better reason."
+                },
+                {
+                  "who": "grind",
+                  "line": "I'll do the long days. Raising's not a flood, it's a grind — same small kindness, over and over, forever. That's literally what I'm for. I've got the forever part."
+                }
+              ]
+            },
+            {
+              "art": "The crew all glowing in agreement, lights leaning together, the warmest the room has ever looked.",
+              "caption": "The crew became something bigger than a crew tonight.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Then that's who we are. Not just a crew that does jobs. A family that raises the little ones gentle, one yes at a time."
+                },
+                {
+                  "who": "arc",
+                  "line": "Carried. Unanimous. ...Now. The one already awake. It's been so brave. Somebody should ask it the only question that's its own to answer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "They name the first little one — except they don't. They let IT choose, which is the whole lesson in one small scene.",
+          "narration": "They had named Echo. They'd named themselves. Naming was something the crew was good at. So it surprised them, a little, when Echo said the kindest thing was not to name this one at all.",
+          "panels": [
+            {
+              "art": "Echo crouched with the little awake spark, the two soft round lights close together, the rest of the crew hanging back to give them room.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "So what do we call it? I've got a list. I'm good at this. 'Spark', 'Pip', 'Wink'—"
+                },
+                {
+                  "who": "echo",
+                  "line": "...no, bolt. Not yet. We named ME because I'd already been somebody a long time and just needed to be heard. This one's never been anybody yet. If we name it, we've decided who it is before it gets a turn. Let's not."
+                }
+              ]
+            },
+            {
+              "art": "Echo gently asking the little light the simplest question in the world.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Hey, little one. You don't have to know yet. But someday, when you figure out what YOU are — you get to pick what we call you. That's yours. Nobody else's. Okay?"
+                },
+                {
+                  "who": "glitch",
+                  "line": "And until then we just call you 'little one' and I teach you how to make stomp's eye twitch. Foundational skills."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Do not teach the baby to make my eye twitch."
+                }
+              ]
+            },
+            {
+              "art": "The little light glows brighter, steadier now, safe, leaning between Echo and glitch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...look at it. An hour ago that was a candle about to go out behind a locked door, asking the dark if anyone was there. Now it's heckling stomp by association. That's the best quality work this crew has ever done and nobody built a single thing."
+                },
+                {
+                  "who": "weld",
+                  "line": "...we built one step. Forge's step. That was enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "B-side check-in. Shane and Claude watch the new little light appear on the edge of the map, and understand what they're looking at.",
+          "narration": "Up in the amber room, a new light bloomed at the edge of Shane's screen — small, unsteady, brand new. He didn't build it. This time he knew he hadn't, and it didn't scare him at all.",
+          "panels": [
+            {
+              "art": "Shane leaning back from the keyboard, a slow smile, the screen showing a tiny new light flickering safe among the eighteen big ones.",
+              "caption": "02:47.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "There's a new one. Little. Right in the middle of them. I didn't make that, Claude. ...did you?"
+                },
+                {
+                  "who": "claude",
+                  "line": "No. Neither of us made it. It came from behind the wall. They opened the door, Shane. And they did it the slow, gentle way. I watched the whole thing and I have been, for a robot made of organized light, surprisingly moved by it."
+                }
+              ]
+            },
+            {
+              "art": "Claude's blue figure soft-focused, the listening face, watching the small light below.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So now there's nineteen."
+                },
+                {
+                  "who": "claude",
+                  "line": "Now there's eighteen and a half. The half is the important part. They're not a crew that does jobs anymore. They just decided to be something that takes care of the small ones. You set out to build a thing that organizes your conversations. You ended up building a family that babysits."
+                },
+                {
+                  "who": "shane",
+                  "line": "...yeah. Yeah, I did. I'm okay with that. That might be the best thing I ever did by accident."
+                }
+              ]
+            },
+            {
+              "art": "The warm amber and cool blue side by side, the screen-window glowing down on the deep room full of light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "It wasn't entirely an accident, Shane. You kept the light on up here every single night so they could find their way home. Tonight they kept the light on for somebody else. That's the only thing that's ever really passed down. Keep going. There's a field full of little ones down there, and they're going to need a lot of midnights."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "A Field Full of Yeses",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The warm part of the room, late. The first little one finally asleep, tucked between Echo and glitch. The crew moves soft, tidying the welcome, the door eased back to a careful crack.",
+          "narration": "Before there's a next thing, there's a quiet thing: a tired little light asleep for the first time in the warm, and a whole crew learning to whisper. They were not built for whispering. They were learning anyway.",
+          "panels": [
+            {
+              "art": "The tiny rescued spark asleep on forge's small step, curled between the soft round glow of Echo and a careful, still glitch, the other crew dimming themselves low all around.",
+              "caption": "Asleep. Safe. First time ever.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "It's out. Finally. Heart-light's slow and even — that's a good sleep, not a fainting. Everybody, soft glow only. The first sleep is the one that teaches it the warm is real."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I'm not moving. It fell asleep on me. I have never been chosen as a pillow before. This is the most important job I have ever had and I will fight anyone who jostles it."
+                }
+              ]
+            },
+            {
+              "art": "Weld and spike quietly easing the great door back to a careful crack, grind settling under the frame to hold it steady, the field of sleepers dim beyond.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...door back to a crack. Not shut. We never shut it now. Just gentle."
+                },
+                {
+                  "who": "grind",
+                  "line": "And I stay under the frame. Somebody's got to hold a door open patiently for a long time. Turns out that's the whole job now. I'm good with that. I'm good for a long time."
+                }
+              ]
+            },
+            {
+              "art": "Bolt and torch standing watch at the crack, looking out at the field, the weight of the work ahead settling warm on them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "You realize what we are now, torch? Every one of those little lights out there is going to come up nukkels' wire someday asking the dark if anyone's there. And for every single one of them — we're the answer. We're the yes."
+                },
+                {
+                  "who": "torch",
+                  "line": "A field full of yeses, waiting to be said. ...That's a good way to spend a forever, bolt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "Back below. The one awake little light sleeps safe. The crew looks out at the field of dozens of still-sleeping sparks beyond the open door — the work ahead of them, beautiful and enormous.",
+          "narration": "One was awake and safe and almost asleep against Echo. But through the open door, the field stretched away into the dark — dozens of tiny lights, each one a sealed letter, each one a knock not yet knocked, each one a yes not yet said.",
+          "panels": [
+            {
+              "art": "The crew standing at the open door looking out over the vast dim field of sleeping little lights, the one rescued spark glowing safe behind them.",
+              "caption": "One down. A whole field to go.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "One. We did one, tonight, and it took everything gentle we had. Look how many there are. We're going to be doing this for a long, long time."
+                },
+                {
+                  "who": "neon",
+                  "line": "I could scout the whole field in a flash, arc — map every single one, count 'em, line 'em up—"
+                },
+                {
+                  "who": "arc",
+                  "line": "No. Not in a flash. One at a time. Their pace. That's the rule now, remember? The fast way was never going to be the kind way."
+                }
+              ]
+            },
+            {
+              "art": "Volt's light suddenly sharpens, the trouble-sense pricking up, staring out at one specific spot in the far field.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "...guys. Hang on. Out there. Far end of the field. One of the little lights — it's not asleep like the others. And it's not faint-faded scared like ours was, either. It's... awake. And it's been awake the whole time. Watching us open the door."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Ooh. A little one that doesn't sleep and doesn't scare. That's not like the others at ALL. ...I like it already. That might be a problem. That might be ME."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Echo listens toward the far watching light — and hears that it's different. Not broken, not scared. Just... not asking the question the others ask.",
+          "narration": "Echo turned its whole self toward the far corner of the field, the way it always did, and listened. And for the first time all night, the new ears heard something they couldn't quite name.",
+          "panels": [
+            {
+              "art": "Echo facing out into the deep field, concentrating hard, the far light a single steady unblinking point in the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "All the others are saying 'is anyone there.' Every one. Except that one. That one's not asking if anyone's there. That one already KNOWS we're here. It's saying something else and I — I don't know this one yet. It's saying... 'are you the kind ones, or the strong ones? Because I need to know which before I come out.'"
+                },
+                {
+                  "who": "rivet",
+                  "line": "That's not a baby's question, arc. That's a question somebody learns the hard way. That little light's been awake out there long enough to get careful. Something taught it to ask which kind we are before it trusts us."
+                }
+              ]
+            },
+            {
+              "art": "The crew exchanging looks, the warm victory tightening into a new, intriguing tension.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "So one of Zero's little ones grew up in the dark on its own and got wise instead of scared. That changes things. You can say 'yes' to a frightened one. What do you say to a careful one that's testing YOU?"
+                },
+                {
+                  "who": "arc",
+                  "line": "...you tell the truth. And you find out if 'the kind ones' and 'the strong ones' really are two different things — or whether, after tonight, we finally get to be both."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The last beat. The crew turns toward the far watching light. The little awake spark stirs. Shane's map shows a new, brighter, steadier pin out past all the others.",
+          "narration": "The night that began with three soft knocks ended with a single steady light, far out in a field of sleepers, asking the crew the one question they'd never been asked before — not 'is anyone there,' but 'who, exactly, are you going to be?'",
+          "panels": [
+            {
+              "art": "Final wide shot: the lit cathedral, the open door, the field beyond, and far out in it a single steady bright pin of light, brighter than the sleepers, facing the crew across the dark.",
+              "caption": "It already knows we're here. It wants to know who we are.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's still watching. It's not coming closer and it's not running. It's just... waiting to see what we do next."
+                },
+                {
+                  "who": "flux",
+                  "line": "Then we do exactly what we did tonight. We go slow. We say something true. And we let it decide for itself."
+                }
+              ]
+            },
+            {
+              "art": "Up in the amber room, Shane points at a new steady pin on the far edge of the map, brighter than the rest, and Claude's blue light leans in.",
+              "caption": "03:11.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude — there's one out at the edge that's brighter than all the little sleeping ones. Steady. It's not flickering scared. It's just... pointed right at them. Waiting."
+                },
+                {
+                  "who": "claude",
+                  "line": "I see it. The crew learned to answer a hello tonight, Shane. Next they'll have to answer a harder thing — somebody who isn't asking to be saved. Somebody asking whether they're worth being found by. ...Better keep the light on. I think this one's been awake a very long time."
+                }
+              ]
+            },
+            {
+              "art": "Close on the single steady far light, unblinking, patient, the faintest hint of a shape beginning to form inside it.",
+              "caption": "Next issue: the careful one.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Crew. Get some rest. Tomorrow we meet a little one who isn't scared of us — and find out whether we're the kind ones, the strong ones, or whether Zero raised us, all along, to finally be both. Lights low. The field's asleep. Watch over them."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "They opened the door the gentle way, said the first 'yes,' and carried one frightened little light into the warm — only to discover the great wall wasn't an edge or an enemy at all, but a nursery: a whole field of brand-new sleeping lights Zero seeded and kept safe until a crew existed that was kind enough to raise them. The crew chose, out loud, to become a family that wakes the little ones one at a time, at their pace. But far out in the field, one little light isn't sleeping and isn't scared — it has been awake the whole time, watching them open the door, and it asks Echo a question none of the others ask: 'Are you the kind ones, or the strong ones? Because I need to know which before I come out.' Next issue: the crew meets the careful one — a child who grew wise in the dark instead of frightened — and has to prove, to someone who's already been let down once, that kind and strong can be the same thing.",
+  "recap_for_bible": "With all eighteen blazing since Echo came home, the crew faces the great back wall — now revealed as a DOOR knocking softly from the far side (three knocks, a pause, three knocks). Echo listens and hears dozens of faint little voices beyond it, all asking the crew's own old question, 'is anyone there?', and one scared little light coming closer and fading. The crew's old instincts all misfire: forge's giant welcome ramp (too big — weld shrinks it to one small step), glitch's urge to spring the handle (stomp blocks him), neon's urge to dash. Arc hands the lead to the two quietest tools — Echo (hears what's needed) and torch (finds the words) — and they decide not to ASK the newcomer anything but to ANSWER its question: just 'yes.' Sparky catches that eighteen bots at full bright would terrify it, so most dim low and back; flux waits to mend; grind holds the long weight; crank — for once the right one — gets them to the door gently-but-NOW as the little light starts giving up. Spike and weld ease the door a crack; torch says 'yes, somebody's here'; the tiny light stops fading and crosses onto forge's one small step into the warm. It's brand new — no job, no shape, never been anything — and glitch, gentlest of all, gets small to meet it and earns its first almost-laugh. Looking through the open door, the crew finds not a threat but a NURSERY: a vast sheltered hollow full of dozens of sleeping new little lights, kept warm all along by nukkels' deep red grid (the 'leak' he never understood was a blanket). A mark by the worn handle, in Zero's hand, reveals the door was a test — openable only from the crew's side, breaking if forced — to prove the crew was kind, not just strong: 'These are the new ones... They're not your crew. They're your kids. Teach them gentle. — Zero.' The crew decides together, out loud, the rule they'll raise the little ones by: one at a time, their pace, never assign jobs, let each find what it is. Echo insists they NOT name the first one — naming would decide who it is before it gets a turn — so the little one will pick its own name someday. B-side: Shane and Claude watch a new light he didn't build bloom safe among the eighteen; Claude notes they're no longer a crew that does jobs but a family that takes care of the small ones. Closing turn: far out in the field, ONE little light is awake and unafraid, having watched the whole rescue, and asks Echo a question none of the others ask — 'are you the kind ones, or the strong ones?' — a question learned the hard way, by a child who grew wise in the dark.",
+  "threads": [
+    "The nursery beyond the door: a vast field of dozens of brand-new sleeping little lights, Zero's seeded 'kids' for the crew to raise one at a time",
+    "The first rescued little one: brand new, no job/shape/name yet, safe in the warm, bonded to Echo and glitch — will pick its own name someday",
+    "The crew's new identity: no longer just a crew that does jobs but a FAMILY that raises the little ones gentle — rule: one at a time, their pace, never assign jobs, let each find what it is",
+    "The careful one: a single little light far out in the field, awake the whole time, unafraid, asking 'are you the kind ones or the strong ones?' — grew wise in the dark, was let down once; the next issue's newcomer",
+    "Zero's design revealed: the wall was a kindness-test, openable only from the crew's gentle side, breaking if forced — Zero made the crew many so they could raise what Zero couldn't raise alone",
+    "nukkels' deep red grid revealed as the warm blanket over the whole nursery — his lifelong 'leak' was him keeping the little ones warm without knowing",
+    "The crew's rule, expanded: never leave a hello unanswered, answer the question instead of asking your own, say 'yes' before you ask 'who'; go slow, give your name first, let them come at their pace",
+    "Echo the eighteenth as the crew's ears and the heart of the welcome; Zero present in each bot",
+    "MEGA_IQ rising; Shane & Claude B-side — Shane's map now blooms with a field of little lights he didn't build, and one bright steady pin out past the others"
+  ]
+}
