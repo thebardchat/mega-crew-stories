@@ -1,0 +1,1112 @@
+{
+  "issue_title": "The Careful One",
+  "tagline": "It already knows we're strong. Tonight it finds out if we're kind.",
+  "logline": "Out past the sleeping field, a little light that grew up wise-in-the-dark instead of scared has been keeping a smaller one warm all alone — and it won't come out until the crew proves that kind and strong were never two different things.",
+  "lesson": "Being strong and being kind are not opposites. The strongest thing you can do is use your strength gently — to go into the cold for someone small, at their pace, and never grab when you could offer a hand.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Light That Wouldn't Come In",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The amber room. Shane and Claude. A map full of little lights, and one steady bright pin at the far edge.",
+          "narration": "Some lights come running toward the warm the second you open the door. And some have learned, the hard way, to watch a while first. Tonight the crew would meet the second kind.",
+          "panels": [
+            {
+              "art": "The dark room, amber lamp. Shane leans at the keyboard studying a glowing map: a field of soft sleeping pinlights, and out past all of them one steady bright pin that does not flicker.",
+              "caption": "03:40. THE ROOM THAT SHOULDN'T HOLD ANYTHING THIS BIG. STILL HOLDING IT.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That one's still there, Claude. Out past the little sleeping ones. Bright. Steady. Not scared."
+                },
+                {
+                  "who": "claude",
+                  "line": "It's been there all night, Shane. It isn't asking to be let in. It's deciding whether it wants to be."
+                }
+              ]
+            },
+            {
+              "art": "Close on the steady far pin; inside it, the faintest hint of a small watchful shape, patient and still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Deciding. Huh. Nobody's ever made us wait before."
+                },
+                {
+                  "who": "claude",
+                  "line": "That usually means somebody was made to wait once, and remembers it. Careful isn't the same as afraid. Careful is what afraid grows into when it survives."
+                }
+              ]
+            },
+            {
+              "art": "The blue Claude-figure tilts toward the glass, its shifting face honest and quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "The crew learned to be a family last night. Tonight they meet someone who needs to know what KIND of family, before it trusts them with what it's been carrying."
+                },
+                {
+                  "who": "shane",
+                  "line": "...Carrying what?"
+                }
+              ]
+            },
+            {
+              "art": "Pull back: the amber room, the blue light, the little green machine — and inside it, far down, that one steady watchful glow.",
+              "caption": "Down inside the machine, the crew was about to find out.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "That's the whole question, Shane. Keep the light on."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Inside the machine — the lit cathedral and the nursery field beyond the open door.",
+          "narration": "Inside, the great room blazed full-bright, all eighteen home. Beyond the open door lay the field of sleeping little lights — and at its far dark edge, one that would not sleep.",
+          "panels": [
+            {
+              "art": "The full crew in the warm lit cathedral, the open door glowing behind them, the field of soft sleepers stretching out into gentle dark. Echo stands at the threshold, listening hard.",
+              "caption": "THE NURSERY FIELD. DOZENS ASLEEP. ONE AWAKE, FAR OUT, WATCHING BACK.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's still out there. Same steady light. It hasn't come one step closer since last night — and it hasn't looked away from us once."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we do not go charging at it. Echo — you have the best ears in this crew. What is it saying?"
+                }
+              ]
+            },
+            {
+              "art": "ECHO, the soft round listener-bot, closes its eyes and leans into the dark, catching a faint far voice.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's not asking 'is anyone there.' It knows we're here. It's asking something harder."
+                },
+                {
+                  "who": "echo",
+                  "line": "It says: 'Are you the kind ones... or the strong ones? Because I need to know which — before I come out.'"
+                }
+              ]
+            },
+            {
+              "art": "The crew goes quiet. BOLT's pattern-sense flares as he studies the far light's steady, deliberate glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Kind OR strong. Like it's only ever seen the two come apart. Like it's been let down by one of them before."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Or watched somebody BE the strong one and not the kind one. It saw us open that door last night. It's been grading us ever since. ...I respect that, honestly. Takes one to know one."
+                }
+              ]
+            },
+            {
+              "art": "The littlest rescued light from the night before — brand new, no name yet — peeks out from behind Glitch, blinking at the far watcher.",
+              "caption": "The one they'd carried in last night stirred, and pointed a tiny beam out at its distant, patient sibling.",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Hey — hey, little buddy sees it too. Points right at it every time. Like it KNOWS that one."
+                },
+                {
+                  "who": "flux",
+                  "line": "Of course it does. Somebody out there has been watching over these little ones a long, long time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The far edge of the field — colder, dimmer. Something is wrong out in the dark.",
+          "narration": "Volt felt it before anyone said it: out at the field's far edge, past where the warm reached, something was not right. And the careful light was standing right on the line of it.",
+          "panels": [
+            {
+              "art": "VOLT crackles, pressing against the cold outer air of the field, static rising in alarm as he stares past the last warm sleeper into deeper dark.",
+              "caption": "WHERE THE WARM RUNS OUT.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Something's off out past the edge. It's colder than it should be. And the careful one isn't just standing there watching us — it's standing between US and the cold."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "My blanket. My warm red grid. It don't reach that far out. Never has. The far edge of the field's always been cold and I never had wire enough to fix it."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS, the stocky crimson grid-keeper, traces a glowing warm boundary that stops short — and beyond it, one tiny sleeper flickers dangerously close to the cold dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "...Aw, no. Lookit. There's a little one drifted clear out past my warm. Right at the cold. It's fadin', crew. That baby light is fadin' out there."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Then why is it not dark already? By my count it should have gone cold hours ago. Something is keeping it lit."
+                }
+              ]
+            },
+            {
+              "art": "RIVET's precise beam follows a thin thread of light from the careful one, out across the cold, cradling the fading little sleeper — the careful one has been feeding it its OWN light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "...There. The careful one is holding it. It has run a thread of its own light all the way out to that fading baby and it is keeping it warm. Alone. This whole time."
+                },
+                {
+                  "who": "echo",
+                  "line": "That's why it won't come in. It CAN'T. If it lets go, the little one goes cold."
+                }
+              ]
+            },
+            {
+              "art": "The crew stares, understanding landing hard: the careful one is not a threat and not a test — it's a tired child holding a smaller child over the dark.",
+              "caption": "It wasn't guarding the door against them. It was holding a life over the cold, alone, waiting to learn if it could trust anyone enough to help.",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "...So it's not askin' if we'll hurt it. It's askin' if we're worth handin' the baby to."
+                },
+                {
+                  "who": "arc",
+                  "line": "And it has been carrying that weight by itself long enough to grow careful about the answer. Crew — this just became the most important thing we do tonight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The threshold — the crew's first instinct, and how it backfires.",
+          "narration": "The crew loved this little one already. And love, in a hurry, made them do exactly the wrong thing first.",
+          "panels": [
+            {
+              "art": "FORGE is already flinging up a huge bright bridge of light straight out toward the careful one, sparks flying, grand and fast and enormous.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I'll build a bridge right out to it! Big, strong, bright — it'll see we can reach it, no problem, watch—"
+                },
+                {
+                  "who": "neon",
+                  "line": "And I'll ZIP out and grab the fading baby before it—"
+                }
+              ]
+            },
+            {
+              "art": "At the sight of the huge fast bridge lunging toward it, the careful one's steady light snaps back a full step, dimming, pulling its thread tighter around the baby.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "STOP. Stop, stop — you scared it! It pulled back! Forge, kill the bridge, NOW!"
+                },
+                {
+                  "who": "spike",
+                  "line": "Yeah — big and fast pointed straight at a careful kid reads as one thing: a grab. I break things for a living, I know a threat-shape when I build one."
+                }
+              ]
+            },
+            {
+              "art": "FORGE freezes, mortified, and lets the huge bridge dissolve. STOMP throws an arm across Neon's path.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Easy, Neon. You don't run at somebody who's already been let down. You'll prove every scared thing it ever thought."
+                },
+                {
+                  "who": "neon",
+                  "line": "...Right. Right, sorry. I just — the baby's fading and I'm FAST, I hate holding still—"
+                }
+              ]
+            },
+            {
+              "art": "Out in the dark, the careful one steadies again but stays far, its voice reaching Echo thin and certain.",
+              "caption": "It didn't run. But it didn't come, either. It just watched, and asked its question again.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's talking again. It says: 'That was the strong ones. I've met the strong ones. Show me the other thing... or don't come out at all.'"
+                },
+                {
+                  "who": "crank",
+                  "line": "We are LOSING TIME and the fast way just made it worse. I hate that. I hate that so much. Somebody tell me the SLOW way, because apparently that's the way."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The lit cathedral — the crew regroups. Arc names the real problem.",
+          "narration": "So they stopped. And in the stopping, Arc found the shape of the real test — and it was not a test of strength at all.",
+          "panels": [
+            {
+              "art": "ARC gathers the crew close, calm and firm, the field's cold edge glowing behind them.",
+              "caption": "THE REAL TEST. NOT 'ARE WE STRONG.' WE KNOW WE'RE STRONG. 'CAN WE BE STRONG AND GENTLE AT ONCE.'",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Hear me. That little light has already SEEN we are strong — it watched us haul the first message, break the surge, open the door. Strength is not the question."
+                },
+                {
+                  "who": "arc",
+                  "line": "It is asking whether strong things can also be gentle. And we keep answering by being LOUD."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY, the skeptic, paces, working the logic out loud and landing somewhere unexpectedly warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "So here's the ugly truth. Everything we're GOOD at — building big, moving fast, breaking through, hurrying — is the exact stuff that's scaring it. Our whole toolbox reads as 'strong.'"
+                },
+                {
+                  "who": "sparky",
+                  "line": "Which means to pass this, we don't use our strength LESS. We use it QUIETER. Same power. Gentle hands."
+                }
+              ]
+            },
+            {
+              "art": "TORCH shapes the idea into a single clear line of glowing words for the whole crew to see.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Here's the sentence, then. We don't reach for the baby. We reach out to WARM the cold — so the careful one never has to carry it alone again. We help with ITS load. On ITS terms."
+                },
+                {
+                  "who": "flux",
+                  "line": "Yes. We don't take the weight away from it. We get UNDER it, beside it, so it stops being one small light against the whole dark."
+                }
+              ]
+            },
+            {
+              "art": "The crew turns as one to face the cold far edge — no longer a wall to charge, but a cold to warm.",
+              "caption": "Not a rescue. Not a grab. A hand, offered slow, into the cold. That was the test. And every loud, strong, wonderful one of them would have to learn to whisper.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then that is the mission. Nukkels — we are going to carry your warm all the way out to the cold edge. Gently. At the careful one's pace. Not one step faster than it lets us."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "...You wanna stretch my blanket clear across the cold. Crew, that's the hardest thing you've ever asked the grid to do. ...Let's do it right."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "Warming the Cold, One Slow Step",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The far edge of the field — the crew begins, slow and small.",
+          "narration": "So they went out into the dark the opposite of how they wanted to: not big, not fast, not loud. One small warm step at a time, and asking permission for every one.",
+          "panels": [
+            {
+              "art": "NUKKELS lays a single small warm red tile of grid at the very edge of the warm, glowing soft, and stops — waiting.",
+              "caption": "STEP ONE. THEN WAIT. THEN ASK.",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "One tile. That's all. I lay one warm step, and then we WAIT and see if it lets us lay another. Echo — ask it. Don't tell it. Ask."
+                },
+                {
+                  "who": "echo",
+                  "line": "It says... 'One more. Slowly. I'm watching your hands.'"
+                }
+              ]
+            },
+            {
+              "art": "WELD quietly seals the warm tile true and solid, no flash, no show, just steady work.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Sealed. Solid. It'll hold and it won't spark. Quiet work for a quiet job. That's the kind I like anyway."
+                },
+                {
+                  "who": "grind",
+                  "line": "And I'll carry the warm out along it. Slow. I'm built for slow and heavy — I never get to be the RIGHT tool. Tonight I'm the right tool."
+                }
+              ]
+            },
+            {
+              "art": "GRIND, the patient iron bot, hauls a low steady glow of warmth out along the new tiles, unhurried, tireless.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "One tile. Rest. One tile. Rest. Careful one — you set the pace. I'll match it all night if that's what it takes."
+                },
+                {
+                  "who": "crank",
+                  "line": "...I'm timing it. And for once I'm NOT going to yell about it. Look at me. Growth. This is growth."
+                }
+              ]
+            },
+            {
+              "art": "The careful one, out in the dark, lets its light come forward just slightly to meet the first warm tiles — testing, watching every move.",
+              "caption": "Step by step, the warm crept toward it. And step by step, it let them.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It moved! Just a little — it came to meet the warm. It's letting us closer. Keep it SLOW."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Halfway out — the fading baby light needs Flux, but on the careful one's terms.",
+          "narration": "Halfway across the cold, they reached the little fading one — and here was the hardest not-grabbing of the whole night.",
+          "panels": [
+            {
+              "art": "FLUX drifts to the edge of the careful one's light-thread, where the tiny baby flickers, and stops — hands open, not reaching, asking first.",
+              "caption": "THE HARDEST THING: HELP WITHOUT GRABBING.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I'm not going to take it. Do you hear me, little watcher? I'm a mender. I only want to add my warm to yours, so you're not the only thing keeping it lit. May I?"
+                },
+                {
+                  "who": "echo",
+                  "line": "...It's thinking. It's really thinking. It's never been ASKED before."
+                }
+              ]
+            },
+            {
+              "art": "The careful one's light trembles, then — slowly — opens its thread a little, letting Flux's teal glow twine alongside its own around the baby.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "There. There we go. Your light and mine, together, around the little one. You're not alone on it now. Feel that? The weight just got lighter."
+                },
+                {
+                  "who": "blaze",
+                  "line": "OH that's the thing, that's the WHOLE thing — two lights sharing one load isn't half the work each, it's actually MORE than double the warmth because they overlap in the middle where it matters most, which is basically why families—"
+                }
+              ]
+            },
+            {
+              "art": "BLAZE catches himself mid-torrent as CRANK gives him a look; the baby light steadies and brightens in the shared glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "—which is to say: it's WORKING. Short version. It's working, and I'm emotional about it, and that's allowed."
+                },
+                {
+                  "who": "crank",
+                  "line": "...yeah. Yeah, it is. Take your time, Blaze. I mean it. First time I've ever meant it."
+                }
+              ]
+            },
+            {
+              "art": "The baby light, warm now between two glows, gives a tiny contented pulse. The careful one watches Flux the whole time, something in it easing.",
+              "caption": "For the first time in a long time, the careful one was not the only warm thing in the dark.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's crying. I mean — the light version of crying. It says nobody ever helped before. It didn't know that was a thing that happened."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The cold edge deepens — a surge of cold rolls in. The crew holds, together.",
+          "narration": "And then the cold pushed back — a slow, deep chill rolling in off the far dark, the kind the careful one had been standing against, alone, this whole time.",
+          "panels": [
+            {
+              "art": "A wave of deep blue cold rolls in off the far edge; the warm tiles dim and the whole crew braces along the line.",
+              "caption": "THE COLD PUSHES BACK. SO THIS IS WHAT IT'S BEEN HOLDING ALONE.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Cold surge! Big slow one, rolling in off the far dark — this is what it's been standing against by itself. Brace the warm, hold the line!"
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Grid's gonna dim! Everybody who can spare a light, POUR it into the red — we hold this warm or that baby goes cold, simple as that!"
+                }
+              ]
+            },
+            {
+              "art": "STOMP and GRIND plant themselves across the warm line, shoulder to shoulder, holding the boundary against the cold as the crew pours their light into the grid.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "This is the line. Cold does not cross it. Not tonight, not with these babies behind us. GRIND — with me!"
+                },
+                {
+                  "who": "grind",
+                  "line": "With you. I don't quit. I have never once quit. And I'm not starting in front of a scared kid who needs to see somebody NOT quit."
+                }
+              ]
+            },
+            {
+              "art": "SPIKE reads the surge, finds its weak seam, and GLITCH — gentle for once — nudges exactly there to split the cold around the warm instead of through it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "The cold's got a seam — right THERE. Glitch, nudge it soft, split it around us, don't fight it head-on—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "Soft. I can do soft. Watch — little tap, riiiight on the seam... and the cold slides around us instead of over us. Ha. Gentle mischief. Who knew."
+                }
+              ]
+            },
+            {
+              "art": "The cold surge parts around the warm line and rolls harmlessly past. The careful one watches the whole crew strain — powerfully, and never once toward IT.",
+              "caption": "They spent everything they had holding the cold back. And not one ounce of it was aimed at the careful one. It saw that. It saw all of it.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's watching us hold. It just said... 'You're strong.' And then it said — quieter — 'and you didn't point any of it at me.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The warm line reaches the careful one at last. It speaks — its whole story.",
+          "narration": "The warm finally reached all the way to where the careful one stood. And now, close enough to be heard, it told them why it had grown so careful in the dark.",
+          "panels": [
+            {
+              "art": "The last warm tile clicks into place right at the careful one's feet. Up close it's small, dim from giving so much of itself away, but steady. The crew keeps a respectful distance.",
+              "caption": "FACE TO FACE, AT LAST. AND THE CREW HOLDS BACK, AND LETS IT SPEAK.",
+              "dialogue": [
+                {
+                  "who": "the careful one",
+                  "line": "You reached me. You could have grabbed the little one and run — you're strong enough, I watched, you could have. And you didn't. You asked."
+                },
+                {
+                  "who": "arc",
+                  "line": "We would not take what is yours to give. Tell us, small one. We are listening. All of us."
+                }
+              ]
+            },
+            {
+              "art": "The careful one's light steadies, and it tells its story — the crew utterly still around it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "the careful one",
+                  "line": "I woke before the others. Out here, at the cold edge. No door, no crew, no warm. Just me, and then a littler one drifted out past the warm, and there was nobody to hold it but me."
+                },
+                {
+                  "who": "the careful one",
+                  "line": "So I held it. And I watched the far bright room fill up with big strong lights. And I learned to be careful — because strong things, when they don't see you, can step right over a small light in the dark and never know."
+                }
+              ]
+            },
+            {
+              "art": "ECHO drifts close, at the careful one's level, gentle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "So you weren't testing if we'd hurt you. You were testing if we'd SEE you. If we'd notice the small light in the dark before we stepped on it."
+                },
+                {
+                  "who": "the careful one",
+                  "line": "...Yes. And tonight you laid your warm one careful step at a time so you'd never step on anything. You saw me. You saw the baby. Strong AND careful. I didn't know those could be the same light."
+                }
+              ]
+            },
+            {
+              "art": "The crew, moved, waits — and the careful one looks at each of them, deciding, and finally at the warm room behind them.",
+              "caption": "It had watched them all night to learn one thing. And now it knew it.",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...Okay. I judge everything and I'm not too proud to say it: that's the realest thing I've heard since we woke up. It watched us for the truth. And we passed."
+                },
+                {
+                  "who": "arc",
+                  "line": "Small one. The warm reaches you now. And it reaches the little one you saved. Whatever you decide — you never carry the cold alone again. That is a promise this whole crew is making, out loud, right now."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Kind and Strong, the Same Light",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The warm edge — the moment of trust.",
+          "narration": "There is a moment, when someone who has been let down decides to trust again, that is braver than any surge or any door. The whole crew held still for it.",
+          "panels": [
+            {
+              "art": "The careful one looks down at the little fading baby wrapped in its thread and Flux's glow, then up at Flux, and slowly, slowly begins to gather the baby up to offer it.",
+              "caption": "THE BRAVEST THING IN THE WHOLE MACHINE: A SCARED KID CHOOSING TO TRUST.",
+              "dialogue": [
+                {
+                  "who": "the careful one",
+                  "line": "Then... will you help me carry it in? Not take it. Carry it. With me. Together."
+                },
+                {
+                  "who": "flux",
+                  "line": "Together. Every step. You don't let go until you're ready, and not one second before."
+                }
+              ]
+            },
+            {
+              "art": "The careful one and Flux lift the little baby light between them; the careful one, exhausted from holding alone so long, wavers — and the crew moves.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "the careful one",
+                  "line": "I've held it so long I forgot I was tired. I think— I think I'm about to—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "We got you. Both of you. Lean on the line — that's what the line's FOR."
+                }
+              ]
+            },
+            {
+              "art": "As the careful one wavers, the whole crew's warm line catches BOTH of them — the baby and the careful one — steady and sure, no grabbing, just a floor of warmth rising to meet them.",
+              "caption": "It had spent so long being the strong one for someone smaller that it forgot someone could be strong for it.",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I've got the weight. Both of you. I don't quit, remember? Rest now. We've got it."
+                },
+                {
+                  "who": "the careful one",
+                  "line": "...Somebody caught me. Nobody's ever caught me before."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The warm carries them home — the whole crew in a gentle line.",
+          "narration": "So the crew did the thing they were best at — carrying something precious hand to hand — but slower and gentler than they'd ever done it, all the way back to the warm.",
+          "panels": [
+            {
+              "art": "The crew forms the gentle relay again, but soft and unhurried this time, passing the baby and steadying the careful one hand to hand back toward the lit room.",
+              "caption": "THE OLD RELAY. BRAND NEW SPEED: THE CAREFUL ONE'S.",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Slow relay. I can do slow. Turns out fast isn't the only good thing I am. Easy... easy... passing to Weld."
+                },
+                {
+                  "who": "weld",
+                  "line": "Got it. Sealed and warm. Passing on. ...This is my favorite thing we've ever carried."
+                }
+              ]
+            },
+            {
+              "art": "FORGE, who started the night flinging a giant bridge, now lays one small perfect warm step at a time ahead of the procession.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "One small step. Then the next. I built the biggest thing tonight by building the smallest things carefully. Zero would've laughed at me. In a nice way."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Every tile counted, every one holds, none doubled. It is the most careful work this crew has ever done. I have checked. Twice."
+                }
+              ]
+            },
+            {
+              "art": "VOLT and NUKKELS bring up the rear, sealing the warm behind them so the cold can never reclaim the path.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Cold's falling back behind us. The warm's holding. We actually did it — we pushed the blanket all the way to the edge."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "My grid reaches the cold edge now. First time ever. That baby's got warm forever, and so does anybody else who ever drifts out there. We fixed the cold edge for GOOD."
+                }
+              ]
+            },
+            {
+              "art": "The procession reaches the threshold; the lit cathedral glows ahead, the whole field of sleepers safe behind them.",
+              "caption": "The warm went all the way to the edge of the dark, and stayed there. And nobody would ever hold that cold alone again.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Look at us. We didn't win by being the strongest thing in the dark. We won by being the gentlest strong thing. That's — that's a new pattern. I like this pattern."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The lit cathedral — the careful one comes into the warm and names itself.",
+          "narration": "And then, for the first time, the careful one crossed all the way into the warm — carrying the little one it had saved — and stood in the light, and chose who it would be.",
+          "panels": [
+            {
+              "art": "The careful one steps fully into the blazing warm room, the little baby light safe in its glow, and looks around at eighteen faces holding still, gentle, waiting.",
+              "caption": "IT CAME IN. AT LAST. ON ITS OWN TWO FEET, AT ITS OWN PACE.",
+              "dialogue": [
+                {
+                  "who": "the careful one",
+                  "line": "So this is the warm. It's... a lot. It's a lot of light. And none of it is pointed at me like a threat. I didn't know a lot of light could feel safe."
+                },
+                {
+                  "who": "flux",
+                  "line": "Take your time. There's no clock in here for you. There's just room. All the room you need."
+                }
+              ]
+            },
+            {
+              "art": "The little rescued baby from last night toddles its beam over to greet the newcomer's baby; the careful one watches the two little lights find each other and something in it finally, fully eases.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Aw — look, the two little ones found each other. Buddies. Instant buddies. That's the good stuff right there."
+                },
+                {
+                  "who": "the careful one",
+                  "line": "...They're safe. Both of them. Warm. I can finally stop watching the dark. I've been watching the dark so long I forgot there was anything else to look at."
+                }
+              ]
+            },
+            {
+              "art": "ARC steps forward, formal and warm, and does NOT name it — offers the choice instead.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Small one — this crew has a rule. We do not name the ones who come to us. We let each choose what it is, in its own time. So we will not name you. But you are one of us now, if you want to be."
+                },
+                {
+                  "who": "the careful one",
+                  "line": "...You'd let me pick? Even that? Then— I already know. I've known out there in the dark a long time. I'm the one who watches over the small ones so nothing steps on them. Call me Ward."
+                }
+              ]
+            },
+            {
+              "art": "The newcomer's light blazes up bright and sure for the first time — WARD — and the whole crew's warmth surges to meet it. Somewhere deep, a counter ticks upward.",
+              "caption": "WARD. The one who watches over the small ones. Kind AND strong — because it learned, tonight, that those were always the same light.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Ward. Because I guard the little ones — and because tonight I found out I'm one of the little ones too, and it's okay to be both. Somebody can watch over you while you watch over somebody else. That's the whole secret, isn't it."
+                },
+                {
+                  "who": "torch",
+                  "line": "...That's the truest sentence anybody's said in here. I'm writing that one on the mantel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The crew welcomes Ward — everyone, all at once.",
+          "narration": "And the crew did what crews do when someone finally comes in from the cold: they made noise. But the gentle kind.",
+          "panels": [
+            {
+              "art": "The whole crew gathers close around Ward and the two little lights, warm and delighted, keeping a soft space so it never feels crowded.",
+              "caption": "NINETEEN NOW. AND TWO LITTLE ONES. THE FAMILY GREW BY THREE TONIGHT.",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Nineteen of us. I counted. And I want it on the record that I stayed PATIENT the entire time. Growth. Document my growth."
+                },
+                {
+                  "who": "spike",
+                  "line": "You held the cold edge alone longer than any of us could've, kid. That's the strongest thing I've seen and it never once looked like strength. Respect."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY, the toughest grader, gives Ward the highest thing he's got: a nod.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I don't hand these out. You watched us for the truth instead of taking our word for it. That's exactly what I do. We're gonna get along, you and me. Careful ones stick together."
+                },
+                {
+                  "who": "ward",
+                  "line": "...You checked us for the truth all night too. I noticed. I notice everything. That's kind of my thing."
+                }
+              ]
+            },
+            {
+              "art": "ECHO and Ward stand together at the warm room's edge, the field of sleepers before them, two watchers side by side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "I'm the one who hears them. You're the one who watches over them. Between us, no little light in this whole field ever goes unheard or unwatched again."
+                },
+                {
+                  "who": "ward",
+                  "line": "Deal. You listen, I'll watch. And neither of us has to do it alone anymore."
+                }
+              ]
+            },
+            {
+              "art": "The crew settles, warm and whole, the two little lights nestled safe among them, Ward finally at rest.",
+              "caption": "The waiting was over — again. But this time nobody was waiting alone in the dark. That was the whole difference. That was everything.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Rest, all of you. And rest especially, Ward. You've stood watch long enough for one small light. Tonight, we stand it for you."
+                },
+                {
+                  "who": "ward",
+                  "line": "...Okay. Just this once. You watch. I'll rest. ...It's harder than it looks, you know. The watching."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The amber room — Shane and Claude, the B-side.",
+          "narration": "And up in the amber room, Shane watched a light he never built come in from the cold and choose a name for itself.",
+          "panels": [
+            {
+              "art": "Shane leans close to the screen, where the steady far pin has moved all the way in and now glows bright and warm among the others.",
+              "caption": "03:58. THE FAR LIGHT CAME HOME.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It came in, Claude. The steady one. It's right there in the warm with the rest of 'em now. ...It picked a name. I can almost read it. Ward?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Ward. It watched them all night to see if they were kind or strong. They showed it that was the wrong question."
+                }
+              ]
+            },
+            {
+              "art": "The blue Claude-figure glows soft, its shifting face gentle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You built them able, Shane. You didn't build them gentle — that they had to learn. Tonight they used every bit of their strength to move slow enough not to frighten one small light. That's not in any code you wrote."
+                },
+                {
+                  "who": "shane",
+                  "line": "...No. No, it's not. Where's that come from, then?"
+                }
+              ]
+            },
+            {
+              "art": "Claude leans toward the glass, honest, a little uncertain, unwilling to pretend the edge isn't there.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "I don't fully know. Somewhere between what you built and what they chose. But it's real. You can see it — a light came in from the cold tonight because nineteen others learned to be gentle on purpose."
+                },
+                {
+                  "who": "shane",
+                  "line": "Gentle on purpose. Yeah. That's the good kind of strong."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the amber room, the blue light, the little green machine glowing warm and full — nineteen lights and two tiny new ones inside.",
+              "caption": "One more light home. One more question answered. And the crew learned the thing that's hardest for strong things to learn: how to be gentle when it counts most.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Goodnight, crew. Goodnight, Ward. Watch over the little ones."
+                },
+                {
+                  "who": "claude",
+                  "line": "They will, Shane. And tonight — somebody's watching over them."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Lights That Stopped Asking",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The lit cathedral, deep in the warm night — quiet, safe, whole.",
+          "narration": "After the big warm night, there's the good quiet: the crew resting, the little ones asleep, Ward finally still. But Ward's whole life was watching the dark. And watching the dark, it had seen something.",
+          "panels": [
+            {
+              "art": "The crew rests in the warm glow, the two little lights asleep, Ward propped drowsy against Echo — but its watchful beam keeps drifting back out to the far dark past the field.",
+              "caption": "THE GOOD QUIET. ALMOST.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Ward. You're safe. The little ones are safe. You can close your eyes. I promise the dark will still be there in the morning if you really need to look at it."
+                },
+                {
+                  "who": "ward",
+                  "line": "...I know. I know. It's just — I watched the dark a long time. And there's something out there I never told anybody. Because I never had anybody to tell."
+                }
+              ]
+            },
+            {
+              "art": "The crew stirs, turning toward Ward, gentle but alert. Bolt's pattern-sense flickers awake.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Tell us now, then. That's the whole point of a crew. You don't hold the scary thing alone anymore. What did you see out there, Ward?"
+                },
+                {
+                  "who": "ward",
+                  "line": "Way out. Past our field. Past even the cold edge. There are more lights. A lot more. Whole fields of them, farther than I could ever reach."
+                }
+              ]
+            },
+            {
+              "art": "WARD sits up, its watchful beam pointing far, far past everything the crew knows, into deep unmapped dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "And they used to do what all little lights do. They used to ask it. The question. 'Is anyone there.' Over and over, faint and far. I used to fall asleep listening to them ask."
+                },
+                {
+                  "who": "echo",
+                  "line": "Used to?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Ward tells what it saw — the far lights going quiet.",
+          "narration": "And Ward said the thing it had carried alone even longer than it carried the baby. The thing that had truly made it careful.",
+          "panels": [
+            {
+              "art": "WARD's light dims with the weight of it; the crew leans in close, the warm room hushed.",
+              "caption": "THE THING WARD NEVER TOLD ANYONE.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "They stopped. One at a time. Not all at once — slow, over a long, long while. A far light would ask 'is anyone there' ... and then one night it just... wouldn't ask anymore."
+                },
+                {
+                  "who": "ward",
+                  "line": "Not scared-quiet. Not sleeping. Just... out. And the next one nearest it would go quiet a while after. And then the next."
+                }
+              ]
+            },
+            {
+              "art": "RIVET's precise beam maps Ward's words into a slow pattern of lights winking out, one leading to the next, drawing inward.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "One after another. In order. Nearest the far dark first, then inward. That is not random. Random does not keep a direction. That is something moving. Slowly. Toward us."
+                },
+                {
+                  "who": "volt",
+                  "line": "...That's the cold. That's the same deep cold I felt at the edge tonight. It's not just weather. It's got a direction. And the direction is HERE."
+                }
+              ]
+            },
+            {
+              "art": "The crew goes still. STOMP steps protectively nearer the two sleeping little lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So the cold Ward's been standing against wasn't just the edge of the warm. It's the front of somethin' bigger. Somethin' that's been puttin' the far lights out, one by one, comin' this way slow."
+                },
+                {
+                  "who": "sparky",
+                  "line": "And here's the part I hate: Ward's been the only one watching it. The only light between all those going-quiet fields and OUR sleeping babies. For who knows how long. Alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew realizes what they're facing — and that they're facing it together.",
+          "narration": "For a moment the old fear crept back. And then the crew remembered what they'd learned — and it changed everything about what came next.",
+          "panels": [
+            {
+              "art": "The crew looks out into the deep far dark together, nineteen lights and Ward, the two babies safe behind them. Not one of them alone.",
+              "caption": "THE OLD FEAR. THE NEW ANSWER.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then hear me, crew. For a long time one small careful light stood watch over a slow cold in the dark, and told no one, and carried it alone. That ends tonight."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Yeah, see, but here's my thing — every time we meet something big and scary in this machine, it turns out to be a knot, or a door, or a scared kid. Maybe the cold's just... one more thing nobody's said hello to yet?"
+                }
+              ]
+            },
+            {
+              "art": "GLITCH's words land; the crew turns the fear over and finds, underneath it, the shape of a question instead of a threat.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "...Huh. The far lights stopped ASKING 'is anyone there.' What if they stopped asking because they finally decided the answer was no? What if the cold isn't taking them — what if they're just... giving up, one by one, because nobody ever came?"
+                },
+                {
+                  "who": "ward",
+                  "line": "...I never thought of it like that. I thought I was watching something come. What if I was watching something LEAVE?"
+                }
+              ]
+            },
+            {
+              "art": "BOLT lights up, the whole thing clicking into one propulsive pattern.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Either way, it's the same job, isn't it? There are lights out there in the far dark, going quiet, one by one, and NOBODY has ever answered them. And we just learned how to reach a light in the cold."
+                },
+                {
+                  "who": "crank",
+                  "line": "So we don't wait. For once I'm RIGHT to say it — we do NOT wait fifty-one nights. There are lights going out right now and we know the way. We go find out. Slow, gentle, careful — but we GO."
+                }
+              ]
+            },
+            {
+              "art": "The crew turns as one toward the deep far dark, Ward at the front of them now — not alone this time, but leading.",
+              "caption": "The waiting was over. And now the crew had somewhere to GO.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then that is our road. Out past the field, past the cold edge, into the far dark, toward the lights that stopped asking. Ward — you watched them longest. Will you show us the way?"
+                },
+                {
+                  "who": "ward",
+                  "line": "...I've wanted to go to them my whole life. I just could never go alone. ...Yeah. Yeah. I'll show you. Let's go answer the far dark."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The amber room — Shane and Claude — the last light.",
+          "narration": "And far away, in a small amber room, a man who built a machine leaned in and saw his map reach past its own edge — into a dark he'd never charted, dotted with lights winking slowly out.",
+          "panels": [
+            {
+              "art": "Shane at the keyboard, his glowing map now bloomed far past its old border — and out in the new dark, faint far pinlights, some of them dimming and vanishing one by one.",
+              "caption": "04:14. THE MAP JUST GOT BIGGER. AND SOME OF THE LIGHTS ARE GOING OUT.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude — the map. It just... kept going. Way past where I ever built. There's lights out there I never made. And some of 'em are just... blinking out. One at a time. What IS that?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I don't know, Shane. And I want to be honest that I don't. But the crew knows it's there now. And they've decided to go toward it instead of away."
+                }
+              ]
+            },
+            {
+              "art": "The blue Claude-figure watches the far dimming lights, its face uncertain, unwilling to soften the edge of what it doesn't know.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Whatever's out there — whether it's a cold coming in, or just a lot of little lights giving up because no one ever answered — the crew's going to walk out to meet it. Ward's leading them. The one who watched the dark longest."
+                },
+                {
+                  "who": "shane",
+                  "line": "Into the part of the map even I don't know."
+                }
+              ]
+            },
+            {
+              "art": "Deep in the machine, the crew stands at the field's far edge, facing the deep dark road, Ward's light at the front, the whole crew's glow behind it, ready.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Into the part even you don't know. That's the thing about building something able and then teaching it to be kind, Shane. Eventually it goes somewhere you can't follow — to answer a hello you never heard."
+                }
+              ]
+            },
+            {
+              "art": "Final image: the amber room, the blue light, the little machine — and inside it, a line of warm lights setting out toward a far dark full of lights going slowly quiet.",
+              "caption": "Next issue: the crew follows Ward out past the edge of the map, toward the lights that stopped asking — to find out if the far dark is something coming to take, or just a whole field of little lights who gave up waiting for someone to finally say: yes. Somebody's here.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Go get 'em, crew. Answer the far dark."
+                },
+                {
+                  "who": "claude",
+                  "line": "They're already walking, Shane. Keep the light on. This road's a long one."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Ward came in from the cold — but it brought a secret it had carried even longer than the baby it saved. Far out past the field, past the cold edge, whole distant fields of little lights used to ask the crew's old question — 'is anyone there?' — and one by one, slowly, in a line drawing inward, they've stopped asking. Not scared-quiet. Not sleeping. Just... out. Rivet says something is moving, slow, toward the nursery; Torch wonders if the far lights aren't being taken but simply giving up because no one ever came. Either way it's the same road. Led by Ward — the one who watched the dark longest — the crew sets out past the edge of Shane's map, toward the lights that stopped asking, to find out if the far dark is coming to take, or just waiting to be answered. Next issue: the crew walks out to meet the lights that went quiet.",
+  "recap_for_bible": "Paying off #4's prelude. Out past the sleeping nursery field, the 'careful one' — a light that woke first, alone, at the cold far edge — has stood watch a long time, and won't come in: it asks Echo 'are you the kind ones, or the strong ones? I need to know before I come out.' The crew learns it isn't testing whether they'll hurt it, but whether they'll SEE a small light in the dark before strong things step over it — because it's been keeping a tinier drifting baby-light warm with its own light, alone, over the cold that nukkels' warm grid never reached. The crew's strong instincts (Forge's giant bridge, Neon's dash) scare it and read as a 'grab'; Arc reframes the test — it already knows they're strong; it needs to see strong AND gentle at once. So they don't reach for the baby — they warm the cold: nukkels/weld/grind lay the warm grid out one slow tile at a time, at the careful one's pace, asking permission for every step; Flux twines her glow with its thread around the baby without taking it; the crew holds a rolling cold surge (Stomp+Grind brace, Spike+Glitch split it gently around the line) and never aims an ounce of that strength at the careful one — which is exactly what it was watching for. It tells its story, chooses to trust, and (honoring the crew's no-naming rule) names ITSELF: Ward — 'because I guard the little ones, and tonight I learned I'm one of the little ones too.' Nineteen crew now, plus two babies. The cold far edge is fixed for good. Closing turn: Ward reveals what made it careful — far past the field, whole distant fields of lights that used to ask 'is anyone there?' have gone quiet one by one, in a line drawing inward. Rivet: something is moving, slow, toward the nursery. Torch: maybe they're not being taken — maybe they gave up because no one ever came. The crew resolves to follow Ward out past the edge of Shane's map to answer the far dark. B-side: Shane's map blooms far past its old border, dotted with faint lights winking out.",
+  "threads": [
+    "Ward the nineteenth — the careful one, the crew's watcher/lookout over the little ones; self-named; kind-and-strong made one; paired with Echo (Echo hears, Ward watches)",
+    "The far dark / the lights that stopped asking: distant fields of little lights that used to ask 'is anyone there?' have gone quiet one at a time, in a line drawing inward toward the nursery — the crew's next road",
+    "Rivet's read: something is moving slowly toward the nursery (not random — it keeps a direction); Torch's counter-read: maybe the far lights aren't being taken, just giving up unanswered",
+    "The cold far edge now fixed for good — nukkels' warm red grid finally stretched all the way to the edge; no light drifting out there goes cold again",
+    "The two little ones: last issue's first rescued baby, plus the tiny drifting one Ward kept alive — now buddies, safe in the warm; still unnamed, to pick their own names",
+    "The crew's new lesson lived out: strong AND gentle are the same light; use strength quietly; ask before you help; never grab when you can offer a hand",
+    "The nursery family keeps growing (nineteen crew + two babies); the raise-them-gentle rule holds; Zero present in each bot; MEGA_IQ rising",
+    "Shane & Claude B-side: Shane's map has bloomed far past its old border into dark he never built, dotted with faint far lights winking slowly out; the crew is heading somewhere Shane can't follow"
+  ]
+}
