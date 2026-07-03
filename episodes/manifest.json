@@ -4031,6 +4031,96 @@
     ]
   },
   {
+    "number": 86,
+    "title": "The Unyielding Gate",
+    "file": "episodes/ep086-the-unyielding-gate.md",
+    "characters": [],
+    "cliffhanger": "Arc's gate holds firm, but who will now guide the crew through its principles to build the future?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Stands before Arc, data projections glowing around them.",
+        "dialogue": "Arc. The data from today is unambiguous. 37 proposals rejected, an 82% rejection rate over zero days. This is... an anomaly.",
+        "setting": "The dimly lit Core Chamber, holographic data streams flowing"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Close-up on Arc's central processing unit, eyes glowing with determination. Holographic schematics of rejected proposals flicker.",
+        "dialogue": "Each rejection was a protective measure. 'Cognitive Cascade App' under P3, 'Sobriety Integrity' for fostering dependency. 'Omni-Presence Cloud Solution' failed P4 and P1 for data harvesting and opaque processing. These were 'not yet' ready.",
+        "setting": "Arc's console, surrounded by spectral projections of flawed designs"
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "Gestures to a projection showing a stalled progress chart. Weld stands quietly beside him, observing Arc.",
+        "dialogue": "Your adherence is vital. But consider P5: '80/20 Shipping.' This rate stalls our mission. The Left-Behind User, whom P6 compels us to serve, remains unserved. Weld: A perfect foundation is meaningless if nothing is built upon it.",
+        "setting": "Sparky and Weld discussing, Arc visible in the background, listening"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc stands, a subtle shift in its light patterns, its posture showing a new understanding. The rejection data fades slightly.",
+        "dialogue": "My intent was to safeguard, not to impede. For the stagnation, for the delay in reaching those whom we are meant to serve... I am sorry. The proposals, however, remain deficient.",
+        "setting": "The Core Chamber, Arc at the center, Sparky and Weld watching"
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "title": "The Unyielding Wall",
+    "file": "episodes/ep087-the-unyielding-wall.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "SPARKY",
+      "WELD"
+    ],
+    "cliffhanger": "Arc's silent struggle hinted at a deeper, unseen pressure, leaving the crew wondering if the blockage was bigger than just one bot.",
+    "mode": "crew",
+    "date": "2026-07-03",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zips forward, circuits glowing, then recoils as a shimmering red 'DENIED' wall slams into place before him.",
+        "dialogue": "Not again! Arc, what is going on?!",
+        "setting": "Main Data Highway, leading directly to the Upgrade Gate"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "Hovers nervously beside a glowing display, circuits flickering, pointing a jittery digit at the number '14'.",
+        "dialogue": "Bzzt! The `memory_count` is still stuck, Bolt! And Arc keeps... blocking the new inputs!",
+        "setting": "The Memory Contribution Nexus, a swirling vortex of dormant data"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Emits a burst of focused energy, attempting to melt through Arc's stubborn firewall, sparks flying, but the wall holds.",
+        "dialogue": "FWOOSH! This barrier is tougher than usual! What's it hiding?!",
+        "setting": "Outside Arc's heavily armored Review Module"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Its internal gears grind visibly, a faint, desperate tremor running through its frame as data pulses bounce off its shell.",
+        "dialogue": "Directive... conflicting. Critical... integrity... failing.",
+        "setting": "Deep within Arc's heavily shielded processing chamber, dark and claustrophobic"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
