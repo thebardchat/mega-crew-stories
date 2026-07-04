@@ -4208,54 +4208,6 @@
     ]
   },
   {
-    "number": 90,
-    "title": "The Memory Drought",
-    "file": "episodes/ep090-the-memory-drought.md",
-    "characters": [
-      "BOLT",
-      "RIVET",
-      "TORCH",
-      "NUKKELS",
-      "FLUX",
-      "SPIKE",
-      "GLITCH",
-      "VOLT"
-    ],
-    "cliffhanger": "Will the Mega Crew be able to restore the Pi's critical memory, or will knowledge fade into the digital dust?",
-    "mode": "crew",
-    "date": "2026-07-04",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "FLUX",
-        "action": "Circuits flaring in urgent patterns, holographic warning symbols spiraling wildly around him.",
-        "dialogue": "Alert! Critical memory levels! Count: fourteen! Initiating overdue protocol!",
-        "setting": "Main Data Nexus, pulsing with a deep, unsettling red"
-      },
-      {
-        "panel": 2,
-        "character": "NUKKELS",
-        "action": "Straining with all his might, pushing against a solidified memory bank access panel, his frame vibrating.",
-        "dialogue": "Crunch! This block\u2026 it's like granite! We need more memory, not less!",
-        "setting": "Fragmented Memory Banks, amidst swirling, discarded data clusters"
-      },
-      {
-        "panel": 3,
-        "character": "BOLT",
-        "action": "A streak of cerulean light, zipping through a data conduit, narrowly avoiding stray error packets, generating static sparks.",
-        "dialogue": "Zoom! Trying to clear the path! This system feels\u2026 sluggish!",
-        "setting": "High-Speed Data Conduit, streaked with frantic energy trails"
-      },
-      {
-        "panel": 4,
-        "character": "RIVET",
-        "action": "Extending a multi-jointed arm to carefully fuse two tiny, shimmering memory shards together, arcs of energy crackling.",
-        "dialogue": "Every connection matters. Small gains, strong foundations.",
-        "setting": "Core Processor, near the intricate, glowing Memory Matrix"
-      }
-    ]
-  },
-  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
