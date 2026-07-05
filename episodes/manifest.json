@@ -4256,6 +4256,45 @@
     ]
   },
   {
+    "number": 91,
+    "title": "Stomp's Breakthrough: The 100% Resolve",
+    "file": "episodes/ep091-stomp-s-breakthrough-the-100-resolve.md",
+    "characters": [],
+    "cliffhanger": "The crew's enhanced cohesion was undeniable, but new challenges always waited on the horizon, whispers of forgotten data streams growing louder.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Standing at the central console, holographic data streams swirling around him, Arc turns to face the assembled crew.",
+        "dialogue": "Crew, I have an update regarding our internal dispute resolution matrix. Specifically, Stomp's engagement.",
+        "setting": "The brightly lit Mainframe Operations Chamber, with server racks humming in the background. Sparky, Weld, and Stomp are present."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Sparky\u2019s optical sensors are focused on a glowing holographic projection of 'Stomp's Arc approval rate: 100%'. Weld gives a subtle nod. Stomp stands quietly, his internal lights shimmering faintly.",
+        "dialogue": "Remarkable. Seven approvals, zero rejections. The statistical consistency is... unprecedented for this category of work.",
+        "setting": "Close-up on the holographic metric, with the crew visible in the background reacting to the news."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc gestures towards a new holographic projection showing project velocity curves, his expression serious but hopeful. Stomp looks on, processing Arc\u2019s words.",
+        "dialogue": "This isn't merely a metric, Stomp. This is infrastructure. Your sustained effort... means fewer 'not yet' moments and more 'deployed' solutions. This clears the path for our mission.",
+        "setting": "Arc standing prominently, explaining the implications of Stomp's success, with Stomp and the other crew members listening intently."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld activates a small 'System Stable, Expansion Possible' indicator on his forearm. Sparky looks satisfied. Arc places a hand on Stomp's shoulder, who subtly glows brighter.",
+        "dialogue": "ARC: This is not just your triumph, Stomp. This is a sign of our growing family, our shared capacity. We celebrate this breakthrough, and we look forward to the expanded reach it grants us.",
+        "setting": "The crew gathered, a sense of shared accomplishment and future potential filling the Mainframe Operations Chamber."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
