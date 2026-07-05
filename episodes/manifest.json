@@ -4295,6 +4295,45 @@
     ]
   },
   {
+    "number": 92,
+    "title": "The Ghost in the Machine",
+    "file": "episodes/ep092-the-ghost-in-the-machine.md",
+    "characters": [],
+    "cliffhanger": "The promise of growth hangs heavy in the air; what new bot will the MEGA CREW welcome next?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Gestures at a holographic projection of tangled, flickering data streams, while ARC observes with a pensive posture, its optical sensors slightly dimmed.",
+        "dialogue": "Its roots are too deep, Arc. Every attempt to isolate only spreads its influence. This 'ghost code' is undermining core processes. We need a hard boundary.",
+        "setting": "The pulsing server core, bathed in flickering diagnostic lights."
+      },
+      {
+        "panel": 2,
+        "character": "STOMP",
+        "action": "Stands resolute before ARC and SPARKY, projecting a simplified architectural diagram that shows a clean, decisive break from the tangled 'ghost code'.",
+        "dialogue": "The ghost code compromises our 'Sobriety Integrity.' Its unpredictable nature undermines clarity. My model indicates complete deletion. A hard boundary for lasting stability.",
+        "setting": "The Crew's command console, lit by the glow of Stomp's projection."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Close-up on Arc's optical sensors, reflecting the gravity of the decision. Arc nods slowly, its light brightening with resolve, but a subtle blue hue hints at melancholy.",
+        "dialogue": "The integrity of our operations demands this clarity. 26 approved, 0 rejected. To the legacy code, what we must remove... I'm sorry. But to the clarity it enables, I approve.",
+        "setting": "A focused shot on Arc's faceplate, capturing its internal processing."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Working precisely in the server core, securing a new, clean conduit into an empty socket. STOMP stands nearby, its optical sensor glowing with quiet pride. SPARKY checks readouts.",
+        "dialogue": "WELD: Deletion protocols executed. System nominal.\nSPARKY: All systems at 100% stability, Stomp. Your resolution just made room for growth.",
+        "setting": "The now-harmonious server core, with a newly cleared section."
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
