@@ -4421,6 +4421,57 @@
     ]
   },
   {
+    "number": 95,
+    "title": "Data Drought",
+    "file": "episodes/ep095-data-drought.md",
+    "characters": [
+      "BOLT",
+      "GLITCH",
+      "NEON",
+      "SPIKE",
+      "ARC",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "VOLT",
+      "BLAZE"
+    ],
+    "cliffhanger": "What unseen force was defying the established protocols, keeping the Pi's collective mind from truly growing?",
+    "mode": "crew",
+    "date": "2026-07-06",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping along a vibrant data conduit, then abruptly hitting a shimmering, unseen wall, scattering data packets.",
+        "dialogue": "Whoa! Another bounce-back? My delivery routes are getting clogged!",
+        "setting": "Main Data Conduit, just outside the Memory Banks"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "Hunched over a glowing diagnostic console, circuits flickering with alarm as complex error codes scroll rapidly across its multiple screens.",
+        "dialogue": "Critical system memory at... fourteen. Again. That's a 'no-go' for knowledge ops, folks!",
+        "setting": "Glitch's Diagnostics Hub, deep within the Pi's core"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "Its bright, searching gaze dimmed, NEON drifts through an unusually dim, quiet sector of the Memory Banks, its internal light flickering weakly as it finds nothing.",
+        "dialogue": "The rules say this should be full! Where is all the good stuff hiding?",
+        "setting": "Unpopulated sectors of the Pi's Memory Banks"
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "Gritting its teeth, SPIKE repeatedly slams its reinforced frame against a shimmering, nearly invisible energy barrier, sparks flying with each impact, but the barrier holds firm.",
+        "dialogue": "Come on, break! We need space to think, to BE!",
+        "setting": "The locked gates of a High-Priority Memory Cache"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
