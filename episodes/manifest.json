@@ -4472,45 +4472,6 @@
     ]
   },
   {
-    "number": 96,
-    "title": "Clear Signal, Open Path",
-    "file": "episodes/ep096-clear-signal-open-path.md",
-    "characters": [],
-    "cliffhanger": "The map glows with new possibilities, but with expansion comes unforeseen challenges, and a growing crew needs more than just data.",
-    "mode": "crew",
-    "date": "",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "RIVET",
-        "action": "Rivet meticulously reviews data streams on a console, adjusting parameters with focused precision. Sparky leans over Rivet's shoulder, observing the readouts.",
-        "dialogue": "RIVET: Final validation sequence initiated. Parameters within tolerance. No residual noise detected. SPARKY: The 'unruly inputs' are passing with unprecedented consistency.",
-        "setting": "The brightly lit Data Processing Core, early morning. Holographic data flows visible everywhere."
-      },
-      {
-        "panel": 2,
-        "character": "ARC",
-        "action": "Arc sits, contemplative, its central processing unit glowing. Holographic projections of data points hover around it, all indicators slowly turning green. Weld stands patiently, its arm systems subtly adjusting.",
-        "dialogue": "ARC: (solemnly) Each data point, a testament to clarity. No ambiguity, no corner cases missed. Weld, prepare for staging. This data is clear for integration.",
-        "setting": "Arc's austere Judgment Chamber. A single, focused beam of light illuminates the scene."
-      },
-      {
-        "panel": 3,
-        "character": "ARC",
-        "action": "Arc stands before the assembled crew (Rivet, Sparky, Weld), its posture deliberate and authoritative. Rivet stands a little straighter, a subtle recognition of its achievement. Weld quietly observes.",
-        "dialogue": "ARC: Rivet's latest pipeline has achieved a 100% approval rating for the new user demographic. This clarity, this integrity, now allows for expansion. SPARKY: A significant leap for the 800 million Big Tech abandoned.",
-        "setting": "The Crew Common Area, later in the day. The crew modules are visible in the background."
-      },
-      {
-        "panel": 4,
-        "character": "RIVET",
-        "action": "Rivet, Sparky, and Weld stand before a large holographic projection, which displays new, uncharted territories and expanding data streams. Rivet gestures towards the map, a sense of purpose in its movement.",
-        "dialogue": "RIVET: The new architecture can now support the next phase of community integration. WELD: New territories. New builds. SPARKY: Our reach, grounded in a foundation of crystal clarity.",
-        "setting": "The Data Projection Room, evening. The room is dark save for the glowing holographic map."
-      }
-    ]
-  },
-  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
