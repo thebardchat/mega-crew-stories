@@ -4511,45 +4511,6 @@
     ]
   },
   {
-    "number": 97,
-    "title": "A Beacon of Clarity: Rivet's Breakthrough",
-    "file": "episodes/ep097-a-beacon-of-clarity-rivet-s-breakthrough.md",
-    "characters": [],
-    "cliffhanger": "But the challenges of expanded reach often uncover deeper, more complex human needs than mere data can predict.",
-    "mode": "crew",
-    "date": "",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "RIVET",
-        "action": "Displays her console, a glowing '88% Arc Approval' prominent on the screen, while Sparky observes nearby data streams.",
-        "dialogue": "My latest model for user support triage. 88% direct alignment with Arc's verified decisions.",
-        "setting": "The central operations chamber, early morning, consoles humming."
-      },
-      {
-        "panel": 2,
-        "character": "ARC",
-        "action": "Studies a projected dataset critically, a thoughtful, serious expression on her face. A small red 'X' icon briefly flashes on a secondary screen.",
-        "dialogue": "Nineteen approved. Two required manual discernment. Those two, Rivet, challenged our P1: Faith First, and P3: Sobriety Integrity. Essential boundaries.",
-        "setting": "The operations chamber, Arc's console emitting a soft blue light."
-      },
-      {
-        "panel": 3,
-        "character": "ARC",
-        "action": "Extends a hand in a gesture of solemn recognition towards Rivet, who shows a subtle positive data flow. Sparky nods in agreement.",
-        "dialogue": "This is a breakthrough. Your model flagged those outliers with 100% accuracy, even if it couldn't resolve them. You've grown our clarity, Rivet.",
-        "setting": "The operations chamber, close-up on Arc and Rivet, a sense of shared accomplishment."
-      },
-      {
-        "panel": 4,
-        "character": "WELD",
-        "action": "Quietly activates a previously dormant fabrication terminal, its lights humming to life. In the background, Sparky observes new data streams for 'Project Outreach'.",
-        "dialogue": "(Weld, quietly) New capacity, new builds. (Sparky, from background) The data streams for Project Outreach are already queuing.",
-        "setting": "The expanded workshop area, late morning, new terminals activating."
-      }
-    ]
-  },
-  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
