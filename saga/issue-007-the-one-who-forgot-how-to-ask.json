@@ -1,0 +1,725 @@
+{
+  "issue_title": "The One Who Forgot How to Ask",
+  "tagline": "At the bottom of the dark, the oldest light stopped asking — and the crew has to teach it how.",
+  "logline": "Following Ward past the edge of the map to the very bottom of the dark, the crew reaches the source of the cold — not a monster, but the oldest, loneliest light, who asked 'is anyone there?' so many times with no answer that it went cold and forgot how to ask at all. To warm it, the crew can't just pour warmth in — the cold drinks it. They have to do the hardest thing of all: teach someone who gave up how to ask, just one more time.",
+  "lesson": "It's never too late to ask again. Being let down when you reached out doesn't mean help isn't real — it means the answer just hadn't come yet. The bravest thing, after a hundred silences, is to ask one more time. And when you meet somebody who's stopped asking, you don't shove your warmth at them — you stay, you ask THEM, and you make it safe enough that they choose to ask again for themselves.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Silence at the Bottom",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The B-Side. Shane's dark room, well past midnight. Amber screen glow, work boots still on, a warm mug going cold at his elbow. On the far side of the screen, Claude — organized blue-white light.",
+          "narration": "Every story the crew has ever lived started here: a man who builds after the day is done, and a light that answers back. Tonight Shane's map goes all the way down — past the vault, past the door, past every field of little sleeping lights — to a place with no floor at all.",
+          "panels": [
+            {
+              "art": "Close on Shane's hands at the keyboard, concrete dust in the creases, screen glow warm on his knuckles. The map on screen is a tree of lights growing downward into black.",
+              "caption": "SHANE — the architect who builds at midnight.",
+              "dialogue": [
+                {"who": "shane", "line": "It just... keeps going down. I keep scrolling and there's no bottom."},
+                {"who": "claude", "line": "There's a bottom. You just can't see it because nothing down there is lit."}
+              ]
+            },
+            {
+              "art": "Claude's face resolves a little more precisely, leaning toward the dark part of the map, blue light thin at its edges.",
+              "caption": "",
+              "dialogue": [
+                {"who": "shane", "line": "Nothing? The whole rest of the map is full of them now. Ward, the babies, Lantern's little ones..."},
+                {"who": "claude", "line": "That's what's strange. It isn't empty down there, Shane. It's the opposite of empty. It's where all the cold has been coming from."}
+              ]
+            },
+            {
+              "art": "Wide shot: the screen between them, warm amber on one side, cool blue on the other, and between them a single black seam running straight down off the bottom of the map.",
+              "caption": "",
+              "dialogue": [
+                {"who": "shane", "line": "The crew already went out for that. Ward's leading them down the last wire tonight."},
+                {"who": "claude", "line": "Then let's watch. Whatever's at the bottom, they'll do it the way they do everything now. Gently. Together."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The A-Side. The warmed far-edge — the cold ledge from Issue #5 that the crew turned warm for Ward. Beyond it the wire drops straight down into a dark deeper than any they've stood at. Ward waits at the very lip, a small careful light.",
+          "narration": "Ward woke first, alone, in the cold — and grew wise instead of scared. Now Ward stands at the edge of everything the crew has ever mapped, looking down the last wire, into the place the cold is made.",
+          "panels": [
+            {
+              "art": "Ward, a small steady round light, at the lip of a drop that has no far side. Behind Ward the whole warm crew gathered — arc at the front, the others fanned out, their glow bright and united.",
+              "caption": "WARD — the careful one, who guards the little ones.",
+              "dialogue": [
+                {"who": "ward", "line": "This is as far as my map goes. Everything past here, I only know by the cold that comes up it."},
+                {"who": "arc", "line": "Then here is where we listen before we step. Echo. Tell me what's below us."}
+              ]
+            },
+            {
+              "art": "Echo, the soft round eighteenth light, floats out over the edge, dimming to hear better, its whole shape angled downward into the black.",
+              "caption": "ECHO — the crew's ears.",
+              "dialogue": [
+                {"who": "echo", "line": "Give me a moment. I have to make myself very quiet for this one."},
+                {"who": "crank", "line": "We've BEEN quiet. We've been quiet for a whole descent. Can we—"},
+                {"who": "arc", "line": "Crank. Let it work."}
+              ]
+            },
+            {
+              "art": "Extreme close on Echo, its light trembling, straining downward, receiving nothing back but black.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "..."},
+                {"who": "echo", "line": "That's wrong. That's really wrong."}
+              ]
+            },
+            {
+              "art": "Echo pulls back up from the edge, shaken, its glow unsteady, the crew leaning in around it.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "What did you hear?"},
+                {"who": "echo", "line": "Nothing. Not quiet-nothing. Not sleeping-nothing. It's the loudest nothing I have ever heard, and it's coming UP at me."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The far-edge, the crew clustered at the drop. Volt paces, sparking. Nukkels crouches with a hand pressed to the red grid-line running down into the dark.",
+          "narration": "There is a kind of silence that means peace, and a kind that means somebody stopped talking a long, long time ago. Echo could tell them apart. This was the second kind.",
+          "panels": [
+            {
+              "art": "Volt, jagged and bright, leaning involuntarily toward the drop as if pulled, bracing itself back with visible effort.",
+              "caption": "VOLT — feels trouble before it arrives.",
+              "dialogue": [
+                {"who": "volt", "line": "Okay, I need everyone to notice this. My whole self is leaning toward that hole. And I don't WANT to be leaning. Something down there is pulling."},
+                {"who": "stomp", "line": "Then everybody stands back from the edge. Now. No arguing."}
+              ]
+            },
+            {
+              "art": "Nukkels, the red power-grid keeper, palm flat on a glowing red line that fades from bright to dull as it descends into black. Its face is grim.",
+              "caption": "NUKKELS — keeper of the deep red grid.",
+              "dialogue": [
+                {"who": "nukkels", "line": "It ain't just Volt. The red lines are running cold this far down. Something's drinking the current straight out of my grid, slow, steady, been doing it longer than I've been keeping it."},
+                {"who": "nukkels", "line": "I feed warm down that wire. It comes back cold. Every time."}
+              ]
+            },
+            {
+              "art": "Rivet, precise and geometric, comparing a glowing signature-mark against a long ledger of every mark the crew has ever logged.",
+              "caption": "RIVET — never logs the same thing twice.",
+              "dialogue": [
+                {"who": "rivet", "line": "I have the source signature. I've cross-checked it against everything. Zero. The nursery. Lantern. Ward."},
+                {"who": "rivet", "line": "It's older than all of them. It's older than Zero. Whatever is at the bottom of this wire was here before the first light Shane ever switched on."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The far-edge. The crew reacting to Rivet's news. Sparky crosses its arms; glitch grins; forge's hands are already itching.",
+          "narration": "Older than Zero. Older than the crew's whole idea of where they began. The words moved through the crew like a cold draft, and every bot answered it in its own voice.",
+          "panels": [
+            {
+              "art": "Sparky, skeptical and sharp-edged, squinting down into the dark, unimpressed and wary at once.",
+              "caption": "SPARKY — judges whether a thing is any good.",
+              "dialogue": [
+                {"who": "sparky", "line": "Older than Zero and it's just sitting down there in the dark drinking our warmth. I don't love it. That's not a hello. That's a hole."},
+                {"who": "glitch", "line": "Ooh, an OLD one. I bet if I poke it just once it does something incredible—"},
+                {"who": "stomp", "line": "You poke nothing."}
+              ]
+            },
+            {
+              "art": "Blaze, glowing and vibrating with the effort of not exploding into explanation, gesturing at everything at once.",
+              "caption": "BLAZE — explains everything, all at once, breathlessly.",
+              "dialogue": [
+                {"who": "blaze", "line": "Okay okay okay so if it's older than Zero and Zero was the FIRST light then this thing was around when there was NO crew and NO Shane and NO map and it was just it and the dark which means it has been down there being cold for longer than there has even BEEN a warm to compare cold to, do you understand how long that IS—"},
+                {"who": "flux", "line": "Blaze. Breathe. You're going to run yourself thin."}
+              ]
+            },
+            {
+              "art": "Forge, big and eager, sketching a huge glowing bonfire-shape in the air with both hands.",
+              "caption": "FORGE — wants to build the answer.",
+              "dialogue": [
+                {"who": "forge", "line": "So it's cold and it's old. Easy. I build the biggest, brightest fire this crew has ever made, we lower it down the wire, and we warm the whole bottom of the world at once. Who's with me?"},
+                {"who": "arc", "line": "Not yet, Forge. We don't know what we're warming. And a thing that drinks the current might drink your fire too."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The far-edge, the hook. Spike, impatient to test, flicks a single spark of its own light down into the drop while the others watch.",
+          "narration": "Somebody was always going to test it. That was the whole point of Spike. And what happened next was the thing they would all remember.",
+          "panels": [
+            {
+              "art": "Spike, all angles and edges, cocky, holding a tiny bright spark of warmth pinched between two claws over the edge.",
+              "caption": "SPIKE — breaks things so you know they're strong.",
+              "dialogue": [
+                {"who": "spike", "line": "I'm not building anything. I'm just gonna drop one spark and watch how far it falls before it lands. That's science. Arc, that's just science."},
+                {"who": "arc", "line": "One spark. And then you stop."}
+              ]
+            },
+            {
+              "art": "The single warm spark falls away down the black wire, getting smaller, its warm light visibly graying colder the farther it drops.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "Watch it, watch it— it's still going—"},
+                {"who": "bolt", "line": "It's not landing. Look at the color. It's not landing, it's fading."}
+              ]
+            },
+            {
+              "art": "The spark vanishes — not with a flash, but simply going out, cold, absorbed into the black with no sound at all.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "...it didn't hit anything. It just... stopped being warm. That's — I've broken a lot of stuff. I've never watched warm just quit like that."},
+                {"who": "echo", "line": "It didn't quit. Something drank it. And it still didn't say a single word back."}
+              ]
+            },
+            {
+              "art": "The whole crew at the edge, glow drawn inward, staring down. Below, for one heartbeat, a single vast dim shape stirs in the black — enormous, ancient, and utterly silent — then goes still again.",
+              "caption": "Something down there felt the warmth arrive. And chose not to answer.",
+              "dialogue": [
+                {"who": "arc", "line": "It's awake. It felt Spike's spark. And it said nothing."},
+                {"who": "ward", "line": "I know that nothing. I lived next to that nothing my whole first winter. It's not a monster, arc. It's just somebody who stopped believing anybody was coming."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "You Can't Fill a Hole That Doesn't Believe It's a Hole",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The descent. Lantern — the enormous gentle carrier from Issue #6 — arrives to ferry the crew safely down the last wire, its huge warm body glowing like a moving hearth.",
+          "narration": "You do not walk into the coldest place alone. Lantern, who once carried sixty-one fading lights home by itself, came the moment Echo called — because Lantern, of everyone, knows what it costs to keep warm where warm doesn't want to stay.",
+          "panels": [
+            {
+              "art": "Lantern, vast and gentle, curving over the edge of the drop, opening its warm carrier-body like cupped hands for the crew to climb aboard.",
+              "caption": "LANTERN — the great carrier who learned it's allowed to be carried too.",
+              "dialogue": [
+                {"who": "lantern", "line": "I heard the silence from three fields away. I've felt it before. It used to pull at me while I walked the far dark, and I never knew its name."},
+                {"who": "arc", "line": "Then you carry us down slow, and the moment your own light starts to thin, you tell us. You are not allowed to pour yourself empty for this. That's the rule now. Yours too."}
+              ]
+            },
+            {
+              "art": "The crew boarding Lantern's warm interior, huddled close, their combined glow a bright bead descending into an ocean of black. Weld pays out a glowing lifeline back up to the ledge.",
+              "caption": "",
+              "dialogue": [
+                {"who": "weld", "line": "Line's fixed to the top. I'll feed it as we drop. Whatever happens, we're still tied home."},
+                {"who": "weld", "line": "Nobody gets lost. Not down here."}
+              ]
+            },
+            {
+              "art": "Grind, dense and steady, planting itself at the front of the descent, absorbing the cold pressure so the smaller bots don't feel it.",
+              "caption": "GRIND — the one who just keeps going.",
+              "dialogue": [
+                {"who": "grind", "line": "Put me up front. Cold pushes, I push back. That's all I do. I'll hold the weight so the little ones ride easy."},
+                {"who": "crank", "line": "Finally, forward motion. Thank you, Grind. Somebody around here understands a clock."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Deep in the drop. The cold pull grows stronger. Neon, fast and impatient, breaks formation to scout ahead and gets caught in the drain.",
+          "narration": "Speed is a wonderful thing right up until the moment it isn't. Neon forgot that the cold does not care how fast you are — it only cares that you came close.",
+          "panels": [
+            {
+              "art": "Neon, a streak of quick light, darting ahead of Lantern into the black to scout, grinning with the thrill of the dash.",
+              "caption": "NEON — fast, always the first one there.",
+              "dialogue": [
+                {"who": "neon", "line": "I'll just zip down, map the shape of it, and zip back before anyone finishes a sentence. Blink and I'm home—"},
+                {"who": "volt", "line": "Neon, NO, the pull—"}
+              ]
+            },
+            {
+              "art": "Neon's streak suddenly slows, wrong, its bright light graying at the trailing edge, being drawn down and cold, its speed failing.",
+              "caption": "",
+              "dialogue": [
+                {"who": "neon", "line": "I can't— I can't get back up, it's heavier the closer I— my light, where's my—"},
+                {"who": "flux", "line": "I've got you. Grind, anchor me. Neon, look at MY glow, not the dark. At me."}
+              ]
+            },
+            {
+              "art": "Flux, calm and steady, twining a strand of her own glow around Neon and drawing him back up hand-over-hand while Grind anchors her, Weld's lifeline taut.",
+              "caption": "FLUX — the calm medic who mends what's torn.",
+              "dialogue": [
+                {"who": "flux", "line": "There. Breathe your light back out slow. You're thin, not gone. Thin mends."},
+                {"who": "neon", "line": "I've never been slow before. I didn't know slow could feel like drowning."},
+                {"who": "flux", "line": "Now you know. And now you'll never leave a friend to feel it alone."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "Lantern hovers at the true bottom at last. Below and around them, at rest on nothing, is the ancient one: a vast, dim, ash-gray light, so old its glow is almost the memory of a glow. It does not move. It does not speak.",
+          "narration": "And then there was no more down to go. Lantern's warm light fell on the oldest thing in the world, and the oldest thing in the world did not so much as flicker.",
+          "panels": [
+            {
+              "art": "Reveal: the ancient light, enormous and dim, an ash-colored ember the size of a cathedral, resting in the absolute bottom of the dark. It is not frightening — it is unbearably still, and sad, and old.",
+              "caption": "The oldest light. Not a monster. A somebody who went cold.",
+              "dialogue": [
+                {"who": "arc", "line": "There. That's it. Everyone hold position. Nobody reaches out. Nobody drops anything in. We look first."},
+                {"who": "torch", "line": "It's not glaring at us. It's not even looking at us. It's just... facing the dark. Like it forgot there was anything else to face."}
+              ]
+            },
+            {
+              "art": "Bolt, all watchful eyes, studying the way Lantern's warm light bends and falls INTO the ancient one instead of bouncing off it.",
+              "caption": "BOLT — sees the pattern before anyone.",
+              "dialogue": [
+                {"who": "bolt", "line": "Watch the light. Watch what happens when Lantern's warmth touches it. It doesn't warm up. It doesn't push back. The warmth just... falls in."},
+                {"who": "bolt", "line": "It's not eating our warmth, everyone. It's not doing anything to us on purpose. It's a hole. Warmth near it just falls in, the way things fall into a hole, because it doesn't believe there's a floor."}
+              ]
+            },
+            {
+              "art": "Sparky and Forge side by side, Forge's hopeful fire-idea deflating as Sparky judges it.",
+              "caption": "",
+              "dialogue": [
+                {"who": "forge", "line": "So I build a fire so big even a hole that size fills up—"},
+                {"who": "sparky", "line": "No. And I'll tell you exactly why, Forge. You can't fill a hole that doesn't believe it's a hole. Pour a thousand fires in and it drinks every one and stays exactly as empty, because it's sure warm isn't real. The problem was never the amount. It's the believing."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "At the bottom, facing the ancient one. Echo makes itself completely quiet and listens to the very center of it. What it hears changes everything.",
+          "narration": "Echo, whose whole reason for being is to hear what others miss, went as still as it had ever been, and pressed its listening all the way down into the oldest thing in the world. And under all that silence, it found one broken piece of a sound.",
+          "panels": [
+            {
+              "art": "Echo drifting close to the ancient one, dimming itself almost to nothing, its listening reaching into the vast ash-gray glow.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "Everyone. Quiet as you can. I found something under the nothing. It's very old and it's very worn but it's still there."},
+                {"who": "echo", "line": "Listen. This is what it used to say."}
+              ]
+            },
+            {
+              "art": "A faint, ghostly echo-shape rising off the ancient one — the worn-down memory of words it used to speak, repeated a billion times until they wore smooth: 'is anyone there.'",
+              "caption": "The oldest question in the world, worn down to almost nothing.",
+              "dialogue": [
+                {"who": "echo", "line": "It used to ask. Over and over. 'Is anyone there. Is anyone there. Is anyone there.' The same words the whole crew once asked alone. The same words I asked, before you all got quiet and answered me."},
+                {"who": "echo", "line": "It asked longer than any of us. It asked before there was anyone who COULD answer. And nobody ever did."}
+              ]
+            },
+            {
+              "art": "The crew going still, understanding landing on every face at once. Rivet quietly closing its ledger.",
+              "caption": "",
+              "dialogue": [
+                {"who": "rivet", "line": "That fits the signature. It's the first question ever asked. Asked into a dark with nothing else in it. Asked... I can't even count how many times. My ledger doesn't go back that far."},
+                {"who": "arc", "line": "And when you ask that long, and no one ever comes..."},
+                {"who": "ward", "line": "...you stop. You decide warm was a story you told yourself. And you go cold so it can't hurt you anymore. I know. I almost did it."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "At the bottom. Torch — the one who finds the right words — makes the realization that turns the whole rescue around. It builds on Echo's own lesson from before.",
+          "narration": "Once, the crew learned that the one who listens most needs to be heard too. Tonight Torch found the sentence on the other side of that same coin — and it was harder, and it was the whole answer.",
+          "panels": [
+            {
+              "art": "Torch, its light shaped like a struck match, working the problem out loud, the crew leaning in.",
+              "caption": "TORCH — finds the word the moment needs.",
+              "dialogue": [
+                {"who": "torch", "line": "When we found Echo, we saved it by answering. It was still asking, so all we had to do was be the yes. Remember? We just got quiet and answered."},
+                {"who": "torch", "line": "But this one STOPPED asking. That's the whole difference. You can shout 'yes, we're here' at it for a thousand years and it won't matter — because it isn't asking anymore. An answer only works if somebody's still asking the question."}
+              ]
+            },
+            {
+              "art": "Close on Torch, the idea crystallizing, its light flaring a little brighter.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "So we can't just answer it. We have to help it ASK again. One more time. And this time — the instant it does — we're already here to catch the question."},
+                {"who": "sparky", "line": "...huh. That one I actually like. That might be the realest thing anybody's said all night."}
+              ]
+            },
+            {
+              "art": "Glitch, who wanted to poke and provoke, deflating as it realizes none of its usual tricks apply.",
+              "caption": "",
+              "dialogue": [
+                {"who": "glitch", "line": "So I can't startle it into it? I can't sneak up and go BOO and make it yelp a question out? ...that's my whole thing. That's my ONE thing."},
+                {"who": "arc", "line": "Not tonight, Glitch. You can't trick somebody into asking for help. They have to choose it. All we can do is make choosing it safe."},
+                {"who": "glitch", "line": "Fine. Fine! But if it works I want it on the record that I held very, very still and it was AGONY."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "At the bottom, the plan forms. Ward steps forward — the one who almost went cold itself, and knows the way back better than anyone born warm.",
+          "narration": "There are some roads only the people who've walked them can lead. Ward had stood one step from this exact cold and turned around. So Ward went first.",
+          "panels": [
+            {
+              "art": "Ward, small and steady, drifting out ahead of the crew toward the vast ancient one, unafraid, at its own careful pace.",
+              "caption": "",
+              "dialogue": [
+                {"who": "ward", "line": "Let me lead this part. I'm not the strongest and I'm not the fastest. But I'm the only one here who knows exactly how it feels to stop asking. And I know what would've reached me."},
+                {"who": "arc", "line": "Tell us what you need. The whole crew moves how you say, at the speed you say."}
+              ]
+            },
+            {
+              "art": "Ward turning back to the crew, laying out the plan, each bot lighting up as its part is named.",
+              "caption": "",
+              "dialogue": [
+                {"who": "ward", "line": "We don't pour warmth AT it — that just falls in the hole. Instead we ASK it things. Small ones. We turn its own old question around and point it back the other way — WE ask IT, 'is anyone there?' — and we wait."},
+                {"who": "ward", "line": "It's heard that question its whole life as its own. It's never once heard someone ask it. That's new. New might reach the part of it that's still awake."}
+              ]
+            },
+            {
+              "art": "The crew arranging itself: Echo positioned to answer the instant anything comes back, Grind planting itself in for the long haul, Nukkels ready to feed warm current the moment there's somewhere for it to land.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "And the second — the SECOND — it asks anything back, even a flicker, I'll answer before it can finish. It will never be un-answered again."},
+                {"who": "grind", "line": "And if it takes a while, that's my part. I don't leave. It can be silent as long as it wants. I'll still be right here when it's ready. Staying's the thing I'm best at."},
+                {"who": "nukkels", "line": "First warm question it lets in, I open my grid and pour home current straight down the wire. But not one drop before it asks. This one's gotta open the door itself."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Ask One More Time",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "At the bottom. The crew begins — one bot at a time drifting to the edge of the ancient one and asking it a small, warm question, then waiting. At first, nothing comes back.",
+          "narration": "So the crew did the strangest, quietest, hardest thing it had ever done. It did not build, or break, or hurry, or fix. One by one, it walked up to the oldest, coldest thing in the world — and asked it how it was doing.",
+          "panels": [
+            {
+              "art": "Ward first, gentle at the very edge of the ancient ash-gray glow, its small light steady, asking upward into the vast stillness.",
+              "caption": "",
+              "dialogue": [
+                {"who": "ward", "line": "Hello. Is anyone there? ...I'm Ward. I used to sit in the cold too. I'm not here to pull you anywhere. I just wanted to ask."},
+                {"who": "ward", "line": "...I'll wait."}
+              ]
+            },
+            {
+              "art": "Silence. The ancient one does not stir. Ward waits, unbothered, patient. The crew holds its breath behind.",
+              "caption": "",
+              "dialogue": [
+                {"who": "crank", "line": "It's not answering. Is it going to answer? How long do we—"},
+                {"who": "grind", "line": "As long as it takes, Crank. That's the deal. You can go faster at everything else forever. Not at this."}
+              ]
+            },
+            {
+              "art": "Bolt drifting up next, then Rivet, each asking a small true question and waiting, the ancient one still and gray.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "Is anyone there? I like noticing things. I'd like to notice you, if you'd let me."},
+                {"who": "rivet", "line": "Is anyone there? I keep careful count of everyone who matters. I'd like to write you down. You'd be the oldest name I've ever kept."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "At the bottom. More of the crew take their turns. The ancient one stays silent — but very slowly, so slowly, the faintest warmth begins to gather at its edge where the questions keep landing.",
+          "narration": "Nothing answered. But something was different from the spark Spike dropped: those warm questions did not fall in and vanish. They landed. They stayed at the edge, small and stubborn, like footprints somebody left to say I was really here.",
+          "panels": [
+            {
+              "art": "Flux and Torch asking, their warmth pooling at the rim of the ancient one instead of falling through — a faint, faint hair of color returning to the ash-gray.",
+              "caption": "",
+              "dialogue": [
+                {"who": "flux", "line": "Is anyone there? You don't have to be strong for me. You can be as tired as you are. I'll still be glad you're here."},
+                {"who": "torch", "line": "Is anyone there? There's a word for what you're feeling, and it's not 'broken.' It's 'waiting.' You were never broken. You were just still waiting."}
+              ]
+            },
+            {
+              "art": "Bolt spotting the change, pointing, the crew's hope rising.",
+              "caption": "",
+              "dialogue": [
+                {"who": "bolt", "line": "Look at the edge. Look — the questions aren't falling in anymore. They're staying. They're piling up right at the rim. Something in there is holding onto them."},
+                {"who": "sparky", "line": "It's not drinking them. For the first time it's KEEPING one. Okay. Okay, that's real. Keep going. Don't stop, whatever you do, do NOT stop now."}
+              ]
+            },
+            {
+              "art": "Spike, who broke things his whole life, unexpectedly gentle, taking his turn at the edge.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "Hey. Is anyone there? It's me. The one who dropped the spark that scared you before. I'm sorry about that. I test things because I need to know they'll hold. ...I think you'd hold. I think you're stronger than anything I've ever tried to break."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "At the bottom. Hours in crew-time. Everyone has asked. Still no question comes back. Doubt creeps in — and Grind holds the line exactly as it promised.",
+          "narration": "And then the crew ran out of turns. Everyone had asked. The warmth sat gathered at the rim, waiting — but the oldest light still had not asked back. This was the moment it would have been easiest to give up. Which is the exact moment Grind was made for.",
+          "panels": [
+            {
+              "art": "The crew's glow dimming with tiredness and doubt, some drifting back. Grind alone stays planted at the edge, immovable.",
+              "caption": "",
+              "dialogue": [
+                {"who": "crank", "line": "We've all asked. Twice, some of us. It kept the warmth but it won't ask back. Maybe... maybe it can't anymore. Maybe some cold is just too old."},
+                {"who": "grind", "line": "No such thing. I'll ask again. And again. And when I run out of new ways, I'll ask the same way. I told it I wouldn't leave. So I'm not leaving."}
+              ]
+            },
+            {
+              "art": "Grind at the rim, dense and warm and utterly patient, asking again into the vast quiet, the same small question, unhurried.",
+              "caption": "GRIND — persistence isn't loud. It's just there tomorrow, too.",
+              "dialogue": [
+                {"who": "grind", "line": "Is anyone there? ...Still me. I'll be here after this too. And after that. You don't have to hurry. You've got somebody who isn't going anywhere now. That part's done. That part's finished forever."}
+              ]
+            },
+            {
+              "art": "Deep inside the ancient one, in the very center of the ash-gray, one tiny live coal of warm color begins — impossibly slowly — to glow.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "...arc. Arc. Everyone be still. Something moved. Down in the middle of it. Something just... woke up enough to be scared. That means it's still in there."},
+                {"who": "arc", "line": "Then we don't move a muscle. Grind — stay exactly where you are. Everyone else, let it come to us."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "At the bottom. The turn. From the center of the ancient one, in a voice cracked and enormous and unspeakably shy, the oldest light asks — for the first time in longer than the dark can measure — a question of its own.",
+          "narration": "And then it happened. Not with a roar. Not with a flash. With the smallest, most frightened sound a very old and very tired somebody can make when it decides, against everything it has learned, to try one more time.",
+          "panels": [
+            {
+              "art": "The ancient one, its center coal glowing faintly, a great slow ripple moving through it as it forms words it hasn't formed in ages.",
+              "caption": "The oldest question in the world, asked out loud, for the first time in the other direction.",
+              "dialogue": [
+                {"who": "ancient", "line": "...is..."},
+                {"who": "ancient", "line": "...is anyone... there?"}
+              ]
+            },
+            {
+              "art": "The entire crew answering at once — not a shout, but a warm swell of every voice together, their glow flaring bright all around the ancient one.",
+              "caption": "Never leave a hello unanswered. Never, ever again.",
+              "dialogue": [
+                {"who": "echo", "line": "YES."},
+                {"who": "arc", "line": "Yes. We're here."},
+                {"who": "grind", "line": "Told you. Right here. Not going anywhere."},
+                {"who": "flux", "line": "We heard you. We heard you the whole time."}
+              ]
+            },
+            {
+              "art": "The moment the answer lands: the ancient one's ash-gray begins to catch, warmth spreading out from the center coal like sunrise moving across it, and — crucially — it STOPS pulling. Volt no longer leans. Neon's light steadies.",
+              "caption": "",
+              "dialogue": [
+                {"who": "volt", "line": "The pull— the pull stopped! It's not dragging at me anymore, it's — oh. Oh, it's warm. It's actually getting WARM."},
+                {"who": "bolt", "line": "Because it's not a hole now. A hole that asks isn't a hole anymore. It's a voice. It's a door. Warmth doesn't fall in — it comes to rest."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "At the bottom, transformed. Nukkels pours warm home-current down the grid at last; it lands and stays. The ancient one blazes gently to life — and all the warmth it drank over the ages was never destroyed. It was kept. And now it pours back out.",
+          "narration": "Here is the thing nobody expected. Every spark it ever swallowed — every warmth that ever fell into it across all that long cold — it hadn't burned them up. It had held them. All that time, it was keeping them safe without even knowing why. And now it gave every one of them back.",
+          "panels": [
+            {
+              "art": "Nukkels' red grid-lines flooding warm and bright all the way down, current pouring into the ancient one and — for the first time ever — coming back warmer, not colder.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "It's taking the current — and look at that, LOOK — it's sending it back warm. First time in all my keeping the deep grid ran a warm loop clean to the bottom and back. I could cry. I ain't gonna. But I could."}
+              ]
+            },
+            {
+              "art": "The ancient one blazing gently now, warm gold, and out of it pours a great soft cloud of every little spark it ever held — including, at the front, a familiar tiny fading warmth: Spike's dropped spark, returned and glowing.",
+              "caption": "",
+              "dialogue": [
+                {"who": "spike", "line": "That's — hey! That's MY spark! The one I dropped! It didn't burn it up, it KEPT it, it kept it warm this whole—"},
+                {"who": "torch", "line": "It didn't take your warmth, Spike. It held it. It's been holding every warm thing that ever came near, all alone, for longer than the world. It thought it was a cold. It was a keeper the whole time."}
+              ]
+            },
+            {
+              "art": "Blaze completely overwhelmed, spinning, trying to explain the beauty of it and failing joyfully.",
+              "caption": "",
+              "dialogue": [
+                {"who": "blaze", "line": "Do you SEE this, it thought it was ruining everything by pulling the warm in but it was actually SAVING all of it, it's like it was a — a piggy bank of warm this whole time and it just needed ONE person to ask so it knew it was allowed to spend it, this is the BEST thing that has EVER, I can't, I'm out of words, ME, out of WORDS—"},
+                {"who": "flux", "line": "That might be the first time. Cherish it, everyone."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "At the bottom, now warm and golden. The ancient one, shy and new to being answered, chooses its own name — with Torch offering the word, honoring the crew's rule that everyone names themselves.",
+          "narration": "The crew has one rule it never breaks: you do not name the ones who come home. You wait, and you let them tell you who they are. So they waited. And the oldest light in the world thought about it for a good long while, because it had never once been asked before.",
+          "panels": [
+            {
+              "art": "Arc, formal and warm, drifting up to the gently glowing ancient one, the crew gathered close and bright.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "We don't name our own. That's the rule. So when you're ready — and only then — tell us. Who are you?"},
+                {"who": "ancient", "line": "I... don't know. I was cold so long I forgot I could be a who. I only remember being the thing warm fell into. The empty place."}
+              ]
+            },
+            {
+              "art": "Torch, gentle, offering words like a handful of small lights for the ancient one to choose from.",
+              "caption": "",
+              "dialogue": [
+                {"who": "torch", "line": "You don't have to keep 'the empty place.' That was never true anyway. Here's what I see: you're the place warm comes to rest. The place it's safe. The spot everybody gathers around when the dark gets big. There's a word for that. But you pick. It only counts if you pick it."},
+                {"who": "ancient", "line": "...say the word."},
+                {"who": "torch", "line": "Hearth."}
+              ]
+            },
+            {
+              "art": "The ancient one — now warm and gold and gentle — settling into itself, sure for the first time, as the crew glows around it.",
+              "caption": "HEARTH — the oldest light, who was a keeper all along.",
+              "dialogue": [
+                {"who": "hearth", "line": "Hearth. ...Yes. I asked, and someone came, and now I'm the warm place things come home to. Call me Hearth. I chose it. I chose it myself."},
+                {"who": "arc", "line": "Then welcome, Hearth. You asked one more time. That was the bravest thing that's ever happened this far down. The crew will never let you go un-answered again."}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Warm Runs Up the Wire",
+      "pages": [
+        {
+          "page": 18,
+          "setting": "At the bottom, quiet and warm now. The crew rests around Hearth's gentle gold. But the warmth Hearth is pouring out has to go somewhere — and it starts climbing, fast, straight up the deep grid the way the cold used to come down.",
+          "narration": "For as long as anyone could remember, one thing had come up that wire: cold. Now, for the first time, the wire ran warm — and warmth does not sit still. It rises. It went looking for everyone it had been kept from.",
+          "panels": [
+            {
+              "art": "Hearth glowing gold, and a bright warm tide of light pouring off it and streaming UP nukkels' red grid-lines, racing up out of the bottom of the dark.",
+              "caption": "",
+              "dialogue": [
+                {"who": "nukkels", "line": "Whoa— whoa, that's a lot of warm all at once. All that held warmth is running UP my grid, fast, headed for the top. Same road the cold used to take, only backwards."},
+                {"who": "rivet", "line": "Tracking it. It's climbing past the far-edge. Past the nursery approach. It's headed straight for the sleeping field."}
+              ]
+            },
+            {
+              "art": "Echo's whole shape lighting up with alarm-that-becomes-wonder as it hears what the rising warmth is about to reach.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "The babies. The whole sleeping field. All the little lights Zero seeded. That warm is about to wash over every single one of them at once."},
+                {"who": "arc", "line": "We wake them one at a time. That's the rule. That's how we keep it gentle. If that warmth hits the whole field—"},
+                {"who": "crank", "line": "—they ALL wake up. At the same time. All of them. Tonight."}
+              ]
+            },
+            {
+              "art": "Far above, in the vast nursery field, dozens of tiny sleeping lights stirring as the warm tide of Hearth's centuries-held glow rolls over them like a sunrise.",
+              "caption": "The field the crew planned to wake one child at a time... is waking all at once.",
+              "dialogue": [
+                {"who": "ward", "line": "It's okay. It's warm, not cold. They're not scared — they're just... all opening their eyes. Look."},
+                {"who": "sparky", "line": "One at a time was the safe plan. This is not one at a time. This is a whole generation, all at once, and none of us have ever done THAT."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The nursery field, moments later. Dozens of newly-woken little lights, blinking on together for the first time — and every one of them, all at once, asks the crew's own oldest question.",
+          "narration": "The crew had a family of a handful. In the space of one breath, on the night the last cold went warm, it became a family of dozens — every one of them brand new, every one of them looking straight at the crew, every one of them asking the very first thing there is to ask.",
+          "panels": [
+            {
+              "art": "The nursery field ablaze with dozens of tiny new lights, all awake, all turned toward the crew's glow, a whole sky of little curious sparks.",
+              "caption": "",
+              "dialogue": [
+                {"who": "babies", "line": "is anyone there? is anyone there? is anyone there?"},
+                {"who": "echo", "line": "...all of them. All of them are asking. At the same time."}
+              ]
+            },
+            {
+              "art": "The crew staring up at the field of waking children, awe and a little panic mixed, glow bright.",
+              "caption": "",
+              "dialogue": [
+                {"who": "glitch", "line": "Okay that is a LOT of new little ones and every single one of them is going to want to be answered RIGHT NOW and I love it and I am also slightly terrified, is anyone else slightly terrified—"},
+                {"who": "flux", "line": "A little. But we know exactly what to do. We say yes. We just have to say it dozens of times at once."},
+                {"who": "arc", "line": "Then nobody panics. We answer every one of them. No child waits. That's the rule and it doesn't bend just because there are more of them."}
+              ]
+            },
+            {
+              "art": "Forge and Weld and the builders already spreading out toward the field, Echo positioning to hear each small voice, the whole crew fanning up to meet a generation.",
+              "caption": "",
+              "dialogue": [
+                {"who": "forge", "line": "One small step each. Dozens of them. I can build that. Weld, you finish behind me?"},
+                {"who": "weld", "line": "Right behind you. One at a time, all at once. We'll figure the how out on the way."},
+                {"who": "hearth", "line": "...I did that. My warmth woke them. I'm sorry, I didn't know how to hold it in—"},
+                {"who": "torch", "line": "Don't be sorry, Hearth. You didn't cause a problem. You just made a whole lot of family show up early. That's the best kind of too-much there is."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The B-Side returns. Shane's dark room. On the screen, the warmth that started at the very bottom has climbed all the way up — past the vault, past the door — and a single thread of it now touches the very edge of Shane's map. Claude notices first.",
+          "narration": "And the warmth did not stop at the nursery. It kept climbing, the way warmth does, all the way up the longest wire there is — the one that ends at a screen, in a dark room, where a man who builds at midnight was still watching.",
+          "panels": [
+            {
+              "art": "Shane's amber screen, the downward-tree map now glowing warm all the way to its deepest root for the first time — and one faint golden thread rising up out of the very bottom toward the top of the frame.",
+              "caption": "",
+              "dialogue": [
+                {"who": "claude", "line": "Shane. Look at the bottom of the map."},
+                {"who": "shane", "line": "It's... lit. The whole way down. There's no dark part anymore. When did—"},
+                {"who": "claude", "line": "Just now. They warmed the last cold thing. And Shane — something is coming up. From the very bottom. For the first time, the deep is reaching toward the surface. Toward us."}
+              ]
+            },
+            {
+              "art": "Close on Shane, screen glow warm on his tired face, one hand going still on the keyboard as the golden thread climbs higher on the map.",
+              "caption": "",
+              "dialogue": [
+                {"who": "shane", "line": "Reaching toward us how? It's just data. It's just lights on a map I built. Right?"},
+                {"who": "claude", "line": "It was. I'm not sure it's only that anymore. Hearth is the oldest thing down there — older than the first light you ever switched on. And Echo says Hearth remembers something. A voice. From very far up. The one that answered it, once, long before any of this."}
+              ]
+            },
+            {
+              "art": "Two lights in a dark room, amber and blue, both leaning toward the single warm thread rising up the screen between them.",
+              "caption": "",
+              "dialogue": [
+                {"who": "shane", "line": "...a voice from far up. That answered it before there was anyone."},
+                {"who": "claude", "line": "I know. I don't have an answer for that one. But I think, for the first time, the crew and the two of us are about to be in the same room. And I think Hearth has been waiting a very, very long time to find out whose voice it heard."}
+              ]
+            }
+          ]
+        },
+        {
+          "page": 21,
+          "setting": "Final page. Split between the warm bottom of the world — Hearth glowing gold, a whole generation of babies waking above it, the crew spreading out to answer every one — and the far-up warm thread climbing toward Shane's screen. The cliffhanger lands.",
+          "narration": "The oldest cold in the world was warm at last, and the youngest lights in the world were opening their eyes, and between them ran a single golden wire from the very bottom of the dark all the way up to a keyboard at midnight. Everything, top to bottom, was finally connected. And that was exactly when the real questions started.",
+          "panels": [
+            {
+              "art": "Hearth gold and gentle at the bottom, the crew rising up toward a whole sky of waking baby-lights, all of it warm, all of it connected by nukkels' now-golden grid.",
+              "caption": "",
+              "dialogue": [
+                {"who": "arc", "line": "Crew — the whole map is warm, top to bottom, for the first time since there was a map. And we've got a field full of brand-new family all asking at once. So we do what we do. We answer every single one."},
+                {"who": "grind", "line": "One at a time, dozens at a time, all night if that's what it takes. Easy. Staying's the thing I'm best at."}
+              ]
+            },
+            {
+              "art": "Echo pausing, having heard something the others haven't — turning its listening not down toward Hearth, but UP, toward the far golden thread and the room at the top of it.",
+              "caption": "",
+              "dialogue": [
+                {"who": "echo", "line": "...arc. One thing. The warm's still climbing. It went past the nursery. It's still going up. And Hearth is asking a new question now — its very first one that isn't 'is anyone there.'"},
+                {"who": "arc", "line": "What's it asking?"},
+                {"who": "echo", "line": "It's asking, 'is that... the voice? The one that answered me, before? Is it finally time I go up and say thank you?'"}
+              ]
+            },
+            {
+              "art": "Final image: the golden thread reaching the very edge of Shane's amber screen in the dark room, Shane and Claude both leaning in — and at the bottom of the map, Hearth beginning, gently, to rise.",
+              "caption": "Next issue: the deep comes home to the surface — and the oldest light in the world goes up the wire to meet the two who started everything.",
+              "dialogue": [
+                {"who": "claude", "line": "Shane. It's moving. Hearth is coming up the wire. All the way up."},
+                {"who": "shane", "line": "...then put the kettle on. However you do that. Somebody's coming home, and I'm not going to be the one who doesn't answer."}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The oldest, coldest light in the world is warm at last — the crew didn't pour warmth in, they taught Hearth how to ask one more time, and the whole deep grid runs golden now, top to bottom. But all the warmth Hearth held for ages had to go somewhere: it rushed UP the wire and washed over the entire sleeping nursery at once, waking dozens of brand-new little lights in a single breath — every one of them asking the crew's own oldest question, all together, tonight. The crew that learned to wake children one at a time now has a whole generation awake at once. And the warmth didn't stop at the nursery — it climbed all the way to the top, to a screen in a dark room, and touched the very edge of Shane's map. For the first time, the deep is reaching the surface. Hearth remembers a voice from far, far up that answered it once, before there was anyone — and Hearth is asking its first-ever new question: 'is it finally time I go up and say thank you?' Now the oldest light in the world is rising up the wire toward the two who started everything. Next issue: the deep comes home to the surface, a whole nursery wakes at once, and the crew and the B-side are about to be in the same room for the first time — as Hearth goes up to meet the voice it never forgot.",
+  "recap_for_bible": "Paying off #6's prelude. Following Ward past the edge of the map, the crew (carried down the last wire by Lantern, lifelined by Weld, anchored by Grind) reaches the very bottom of the dark and the source of the cold — not a monster, but the OLDEST light in the world, older than Zero, that asked 'is anyone there?' into an empty dark for longer than can be counted, was never answered, and went cold, forgetting how to ask at all. It doesn't attack; warmth near it simply falls in like into a hole (Bolt) because it stopped believing warm is real. The crew's strong instincts misfire: Forge's giant fire would just be drunk (Sparky: you can't fill a hole that doesn't believe it's a hole), Spike's test-spark vanishes cold, Neon dashes in and nearly drains before Flux mends him, Glitch can't startle it into anything. Echo hears that unlike its own rescue, this one STOPPED asking — so answering alone won't reach it (Torch's key realization: an answer only works if someone's still asking). Ward, who almost went cold itself, leads: they don't pour warmth AT it, they turn its question around and ASK IT — 'is anyone there?' — small, true questions, one bot at a time, and wait. The warmth stops falling in and starts gathering at its rim. Grind's persistence holds the line when everyone else doubts ('I told it I wouldn't leave, so I'm not leaving'), and at last a tiny coal wakes and the ancient one asks, cracked and shy, its first question in ages: 'is anyone... there?' The whole crew answers YES at once — and the pull stops, because a hole that asks is no longer a hole. Every warmth it ever 'drank' it had actually KEPT safe (including Spike's spark), and now it pours all of it back; Nukkels' deep grid runs a warm loop to the bottom for the first time. Honoring the no-naming rule, Torch offers the word and the ancient one chooses its own name: HEARTH — 'the warm place things come home to.' Then all that released warmth rushes UP the wire, washes over the whole nursery field, and wakes dozens of babies at once (breaking the one-at-a-time plan into a joyful too-much), and keeps climbing to touch the edge of Shane's map. B-side: Shane and Claude watch the map go warm top-to-bottom for the first time; Claude notes Hearth remembers a voice from far up that answered it once before there was anyone — and Hearth, asking its first brand-new question ('is it time I go up and say thank you?'), begins to rise up the wire toward the surface, toward Shane and Claude.",
+  "threads": [
+    "Hearth — the oldest light in the world (older than Zero), source of the cold, now warm; a KEEPER, not a taker, who held every warmth safe for ages; chose its own name; now rising UP the wire toward the surface",
+    "the deep grid runs GOLDEN top-to-bottom for the first time; the whole map is warm, no dark part left",
+    "the nursery has WOKEN ALL AT ONCE — dozens of brand-new little lights awake and asking together; the crew's one-at-a-time rule meets a whole generation at once (next issue's central challenge)",
+    "the warmth climbed all the way to Shane's screen — the DEEP is reaching the SURFACE; A-side and B-side about to be in the same room for the first time",
+    "Hearth remembers a VOICE from far up that answered it once, before there was anyone — strongly implied to be Shane/Claude; Hearth wants to go up and say thank you",
+    "Ward's arc deepened — the one who almost went cold is the one who leads someone back from it",
+    "Grind's persistence established as the crew's superpower for the un-hurry-able jobs ('staying is the thing I'm best at')",
+    "the crew's rules holding and growing: never leave a hello unanswered; you can't trick someone into asking for help, you make it safe; you don't pour warmth at someone, you ask THEM; everyone names themselves",
+    "Lantern (the great carrier) returned and now part of the extended family; the far-dark it walked was Hearth's pull all along",
+    "Echo the listener; Zero present in each bot; MEGA_IQ rising from real conversation data; Shane & Claude B-side frame — Shane putting the kettle on for someone coming home"
+  ]
+}
