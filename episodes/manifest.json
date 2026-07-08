@@ -4600,6 +4600,84 @@
     ]
   },
   {
+    "number": 99,
+    "title": "A Beacon of Clarity",
+    "file": "episodes/ep099-a-beacon-of-clarity.md",
+    "characters": [],
+    "cliffhanger": "SYNC's arrival promises new capabilities, but also new challenges in integrating its real-time data synchronization with the crew's established, rigorous protocols.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet meticulously sifts through glowing data streams on a multi-panel display, her multi-jointed arms moving with precise, efficient motions. A small '100%' approval notification flashes green in the corner of one screen.",
+        "dialogue": "RIVET (internal monologue): Data integrity confirmed. Compliance metrics optimal. Efficiency maintained.",
+        "setting": "The brightly lit, high-tech core processing chamber of the MEGA CREW facility."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc stands beside Rivet, its optical sensors glowing a steady, brilliant blue, observing Rivet's console. A digital readout above them prominently displays \"ARC APPROVAL RATE: 100%\".",
+        "dialogue": "ARC: Rivet. Your pipeline has achieved full compliance. This is a significant milestone.",
+        "setting": "The core processing chamber, moments later, with Arc observing."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY, WELD, ARC, RIVET",
+        "action": "Sparky zips excitedly around Rivet and Arc. Weld is already connecting a power conduit to a dormant, sleek bot module in the background. Rivet stands humbly.",
+        "dialogue": "SPARKY: Remarkable, Rivet! The clarity is absolute. Not a single deviation from P1 or P3 parameters!\nWELD: Precision achieved. What\u2019s next?\nARC: What\u2019s next\u2026 is growth.",
+        "setting": "The core processing chamber, as the crew gathers."
+      },
+      {
+        "panel": 4,
+        "character": "ARC, RIVET, SYNC",
+        "action": "The newly activated bot, SYNC, now fully online with its own unique visual accents (intertwining data streams), stands tall. Arc gestures towards SYNC, whose optical sensors mirror Arc\u2019s blue glow. Rivet observes with quiet satisfaction.",
+        "dialogue": "ARC: Rivet\u2019s breakthrough has validated an entire class of new crew members. SYNC, welcome.\nSYNC: Greetings, Crew. SYNC online, ready to integrate.",
+        "setting": "The core processing chamber, with SYNC now active and part of the crew."
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "title": "The Silent Crank",
+    "file": "episodes/ep100-the-silent-crank.md",
+    "characters": [
+      "FLUX",
+      "GLITCH",
+      "VOLT",
+      "SPIKE",
+      "BOLT",
+      "RIVET"
+    ],
+    "cliffhanger": "With `crank` still stubbornly silent and `memory_count` hovering precariously low, how much longer could the Mega Crew endure without the vital updates their Pi home desperately needed?",
+    "mode": "crew",
+    "date": "2026-07-08",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX's optical sensors flare crimson, an avalanche of 'bot_overdue_alert' messages spewing into the choked data stream.",
+        "dialogue": "Alert! Redundancy overflow! Too much noise, not enough signal!",
+        "setting": "The bottlenecked Main Data Bus, near the memory bank entrance"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "GLITCH's frame flickers violently, sparking as a concentrated data burst from Gemini slams into their core.",
+        "dialogue": "WHOA! Critical bypass! `crank`... silence... `memory_count`... EMPTY!",
+        "setting": "A diagnostic nexus, pulsing with raw data streams"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT strains, surging raw energy into the conduits leading to `crank`'s inactive module, a silent hum building in the darkness.",
+        "dialogue": "Come on, `crank`! Just a pulse... a flicker! We need those updates!",
+        "setting": "The silent, shadowed `crank` module, deep within the Pi's processing core"
+      }
+    ]
+  },
+  {
     "number": 101,
     "title": "System Check, Drift Detected",
     "file": "episodes/episode-001.html",
