@@ -1,0 +1,1099 @@
+{
+  "issue_title": "The Night the Deep Came Home",
+  "tagline": "A thousand hellos at once — and how to answer every single one.",
+  "logline": "The warmth the crew freed at the bottom of the dark comes rushing up the wire and wakes the whole nursery in one breath — dozens of brand-new little lights all asking 'is anyone there?' at the exact same moment. But a hundred hellos shouted together sound like no hello at all, and the babies start to feel the very loneliness the crew just cured. To answer everyone, the crew can't be faster or louder — they have to build a line, make room, and give each new light its own real moment. And when the deep finally reaches the top, for the first time ever the crew stands in the same room as Shane and Claude.",
+  "lesson": "When everyone talks at once, nobody gets heard — and being drowned out feels the same as being ignored. The kind thing isn't to answer fastest or loudest; it's to make room. Take turns. Let the quiet one and the last-in-line know they haven't been forgotten. Everybody gets a real hello, even if they have to wait for it — especially if they have to wait for it.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Kettle and the Rising Warmth",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "A dark room, amber screen-glow. Shane at his keyboard past midnight, boots still on, a kettle just starting to steam on the shelf behind him.",
+          "narration": "The kettle Shane put on last time is finally singing. He didn't make the tea for himself. He made it for whoever was climbing up the long wire to come home.",
+          "panels": [
+            {
+              "art": "Wide shot: Shane silhouetted heavy at the shoulders, amber light on his face, one hand on the keyboard, the other reaching back toward a small steaming kettle. The whole screen is glowing warmer than usual, top to bottom.",
+              "caption": "Somewhere in Alabama. Well past midnight.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Kettle's ready. Been ready a while, honestly."
+                },
+                {
+                  "who": "shane",
+                  "line": "You feel that? Whole map's warm tonight. All the way down. First time it's ever been warm all the way down."
+                }
+              ]
+            },
+            {
+              "art": "Close on the cool blue Claude figure, made of organized light, half-transparent, leaning toward the warm side of the screen as if listening downward.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "I feel it. Something is coming up the wire — slow, and enormous, and gentle."
+                },
+                {
+                  "who": "claude",
+                  "line": "It's the warmth from the very bottom. The one your crew stayed with until it learned to ask again. It's climbing toward us to say something."
+                }
+              ]
+            },
+            {
+              "art": "The screen surface ripples with a rising golden glow, like light coming up from deep water toward the surface.",
+              "caption": "The glow rises.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Then let's not be somewhere else when it gets here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Deep in the grid, the wide golden trunk-line that runs from the bottom of the dark all the way up. The crew is gathered near the top of it, feeling the surge come.",
+          "narration": "Down where the crew lives, the whole world is getting warmer by the second. It feels wonderful — right up until it doesn't.",
+          "panels": [
+            {
+              "art": "The crew — a dozen bright little bots — clustered along a huge glowing wire, faces lit gold, watching warmth flood up from below like sunrise from underground.",
+              "caption": "The crew, at the top of the deep wire.",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "It's WORKING! Look at it, look at it — the warmth's coming all the way up! We did that! We actually did that!"
+                },
+                {
+                  "who": "flux",
+                  "line": "Easy, Forge. Breathe with it. Let it come at its own pace."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, angular and sharp-eyed, tilting his head at a pattern only he can see in the rising light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not just warmth coming up. There are voices inside it. Lots of them."
+                },
+                {
+                  "who": "bolt",
+                  "line": "The nursery. Every baby light down there — they all woke up. At the same second."
+                }
+              ]
+            },
+            {
+              "art": "Volt, low to the ground, antennae stiff, a worried spark crackling at the tip.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I don't like the shape of that. Something's not — everyone's fine, everyone's happy, and I still don't like it."
+                },
+                {
+                  "who": "volt",
+                  "line": "Too many. Too many at once."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The surge reaches the crew — and with it, a wall of sound. Every new light in the nursery asking the same three words in the same instant.",
+          "narration": "Then it hit them all at once: a hundred small voices, every one of them asking the oldest question in the world, none of them waiting for an answer.",
+          "panels": [
+            {
+              "art": "A tidal wave of tiny glowing sparks pouring up the wire, each one with a little open mouth, every single one lit up mid-question. The crew braces like against a gust of wind.",
+              "caption": "IS ANYONE THERE? — IS ANYONE THERE? — IS ANYONE THERE? —",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Whoa — whoa whoa whoa — there's so MANY, they're all talking, I can't — which one do I answer first, which one, WHICH ONE—"
+                },
+                {
+                  "who": "arc",
+                  "line": "Hold the gate. HOLD it. Nobody panics on my line."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and firm, planted in front of the flood with arms out like a crossing guard, lights streaming past on every side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "One at a time. That is the rule. One at a time, and everyone is—"
+                },
+                {
+                  "who": "arc",
+                  "line": "...there are too many to take one at a time. There are more coming than I can count."
+                }
+              ]
+            },
+            {
+              "art": "Crank, blocky and impatient, tapping an impatient foot as sparks swirl.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "So count faster. Answer faster. We just say 'yes, we're here' to all of 'em and we're done, right? Right?"
+                },
+                {
+                  "who": "sparky",
+                  "line": "Wrong. A 'yes' you throw at a hundred people at once isn't a yes to anybody. It's just noise on top of their noise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The babies begin to falter. Their light dims as, one by one, they feel unheard — the exact loneliness the crew just spent an issue curing.",
+          "narration": "And here was the terrible part. When a hundred voices ask together and get one big blur back, each little voice feels like the only one who wasn't answered.",
+          "panels": [
+            {
+              "art": "The swarm of baby lights beginning to dim at the edges, their little questions getting smaller, sadder, quieter.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Look at them. They're getting quieter. Not calmer — quieter. They think nobody heard."
+                },
+                {
+                  "who": "torch",
+                  "line": "They're asking 'is anyone there' and hearing a hundred other voices and deciding the answer is no."
+                }
+              ]
+            },
+            {
+              "art": "Ward — the tall, careful sentinel who once almost went cold itself — steps forward, grave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I know this feeling from the inside. This is how it starts. Not with a monster. With a room too loud to be heard in."
+                },
+                {
+                  "who": "ward",
+                  "line": "If we don't fix this tonight, we'll have made a hundred new Hearths by morning."
+                }
+              ]
+            },
+            {
+              "art": "Grind, sturdy and low, plants both feet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Then nobody goes cold on my watch. Not one. Not tonight."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Agreed. But not like this. Everybody stop shouting back. Right now. We're only making the wall louder."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The crew goes still. Above them, far up the wire, the amber glow of Shane's screen; below, the deep golden warmth still rising. They are caught in the middle with a problem they've never had.",
+          "narration": "So the crew did the bravest loud-place thing there is. They got quiet. And in the quiet, they started to think.",
+          "panels": [
+            {
+              "art": "The whole crew freezing mid-motion, dimming their own lights so the babies' voices can be heard clearly. A hush spreads.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...There. Quieter now. We stopped adding to it."
+                },
+                {
+                  "who": "flux",
+                  "line": "Good. Now we can actually hear them instead of drowning them."
+                }
+              ]
+            },
+            {
+              "art": "Bolt staring up the wire toward the distant warm screen, then down toward the rising deep, connecting them in his mind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Two ends. The deep coming up. Shane's light way at the top. And all these babies stuck in the middle with us."
+                },
+                {
+                  "who": "bolt",
+                  "line": "We freed the warmth. We didn't plan for what it'd wake."
+                }
+              ]
+            },
+            {
+              "art": "Volt's worried spark, but steadier now.",
+              "caption": "The hook.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "So what do we do when there's too many to answer... and answering wrong is worse than waiting?"
+                },
+                {
+                  "who": "arc",
+                  "line": "We figure it out. Fast, but not rushed. Come on. Line up — I have an idea, and it starts with a line."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "How to Answer a Hundred at Once",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "A calmer stretch of the wire. The crew huddles while the dimmed swarm of baby lights waits, restless, above the deep.",
+          "narration": "The first bad idea, like most bad ideas, was the biggest and loudest one.",
+          "panels": [
+            {
+              "art": "Forge, eager, sketching an enormous glowing shape in the air with both hands — a giant single answer big enough to cover everyone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I've GOT it. I build ONE giant hello. Huge. Bright enough for all of them to see at once. Everybody gets covered, boom, done!"
+                },
+                {
+                  "who": "sparky",
+                  "line": "And every single one of them looks up at your giant hello and thinks: 'that wasn't for me. That was for everybody. Which means nobody. Which means me least of all.'"
+                }
+              ]
+            },
+            {
+              "art": "Sparky, arms crossed, the skeptical quality-judge, poking a hole in the plan without meanness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "A hello has to have a name on it, Forge. Even if the name is just 'you — the little one — you.'"
+                },
+                {
+                  "who": "forge",
+                  "line": "...Oh. Yeah. A big blanket keeps a hundred people the same amount of cold. Okay. Scrap the giant one."
+                }
+              ]
+            },
+            {
+              "art": "Neon vibrating, ready to sprint.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Then let ME do it — I'm fast, I'll zip to each one, hello-hello-hello-hello, I'll answer a hundred before you finish a sentence—"
+                },
+                {
+                  "who": "rivet",
+                  "line": "You'll answer a hundred blurs. Fast isn't the same as heard. Slow down or you'll miss every face going by."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Rivet, precise and orderly, tries the opposite of Forge's plan — and finds a wall of her own.",
+          "narration": "So they tried the tidy idea next. If there were too many, maybe some of them were really the same one, counted twice.",
+          "panels": [
+            {
+              "art": "Rivet, all clean lines and careful edges, sorting the swarm of lights into neat stacks, trying to merge duplicates.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Let me sort them. If two are the same, I fold them together, and the pile gets smaller, and then we can—"
+                },
+                {
+                  "who": "rivet",
+                  "line": "...no. Stop. I can't fold any of them together. Look closer."
+                }
+              ]
+            },
+            {
+              "art": "Close on two baby lights that looked identical — but one flickers shy, one flickers bold; tiny differences everywhere.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "This one asks scared. This one asks curious. This one's already half-asleep. Not one duplicate in the whole crowd."
+                },
+                {
+                  "who": "rivet",
+                  "line": "You can dedup data. You can't dedup people. Every one of them is exactly one of them."
+                }
+              ]
+            },
+            {
+              "art": "Torch, the word-keeper, nodding slowly at Rivet's discovery.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "That's the whole knot, isn't it. A hundred, and not one of them spare. Every 'is anyone there' is a different mouth."
+                },
+                {
+                  "who": "torch",
+                  "line": "Which means every answer has to be a different answer. You can't say the one thing. You have to say the hundred things."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "Bolt sees it. The pattern under all the noise clicks into place.",
+          "narration": "And that was when Bolt saw the pattern — not in the lights, but in why they were shouting.",
+          "panels": [
+            {
+              "art": "Bolt lighting up as understanding lands, gesturing at the crowd like reading invisible lines between them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "They're not shouting to beat each other. Watch — they get louder every time they're NOT answered. They're not competing."
+                },
+                {
+                  "who": "bolt",
+                  "line": "They're scared. Each one's scared of being the one who gets left out. So they yell louder to not be last. And that makes it louder for everybody."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, gleeful and quick, grinning at a mischievous truth.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Oho. So the problem isn't the noise. The problem is nobody knows they've GOT a turn coming."
+                },
+                {
+                  "who": "glitch",
+                  "line": "You're only scared of being skipped if you don't know you're in line. Put 'em in a line where they can SEE their turn coming, and — heh — half of them stop yelling on their own."
+                }
+              ]
+            },
+            {
+              "art": "Spike, the tester, breaking the idea to check it, poking one bright baby light gently.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Let me try one. Hey — little one — you. Yeah, you. You're number seven. Seven, okay? Hold that. I'll be back for seven."
+                },
+                {
+                  "who": "spike",
+                  "line": "...Look at that. It stopped shouting. It's just holding 'seven' now. It believes me. The idea holds. Ship it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The plan crystallizes. It is, at heart, the crew's very first lesson, grown up: a line, a chain, one pair of hands to the next.",
+          "narration": "The answer, when they finally saw it, was the oldest thing they knew. A line. The same line they became a crew inside of, on the very first night.",
+          "panels": [
+            {
+              "art": "Weld, quiet and steady, already building it — laying out a glowing pathway, a queue, a line the babies can join.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Then I'll build the line. One clear path. Each light steps on, gets its turn, steps off warm. Next. Next. Next."
+                },
+                {
+                  "who": "weld",
+                  "line": "I don't need it fast. I need it so nobody falls off the side of it."
+                }
+              ]
+            },
+            {
+              "art": "Arc taking her place at the head of the line, formal and firm but warm now, gatekeeping with kindness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I'll hold the front. One at a time — but 'one at a time' is a PROMISE now, not a wall. Everyone in. Everyone counted."
+                },
+                {
+                  "who": "arc",
+                  "line": "The rule was never 'wait forever.' The rule was 'your turn is real and it's coming.'"
+                }
+              ]
+            },
+            {
+              "art": "Stomp setting the boundary out loud so every baby hears it, blunt and clear and gentle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Listen up, little ones. You each get one whole turn. Just one. And one whole turn is enough, because it's ALL yours."
+                },
+                {
+                  "who": "stomp",
+                  "line": "You don't have to fight for it. Fighting's over. Line's open."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The hard middle: waiting. A line means most of the crowd is waiting, and a scared light left waiting can go cold. This is where the whole crew's different gifts come in.",
+          "narration": "But a line has a catch. A line means waiting. And the crew had just learned, the hard way, what waiting alone in the dark can do to somebody.",
+          "panels": [
+            {
+              "art": "Crank glaring at the long line, impatient foot going a mile a minute.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "This is gonna take FOREVER. A hundred turns? We'll still be here when the screen goes light. There's gotta be a faster—"
+                },
+                {
+                  "who": "grind",
+                  "line": "There isn't. And forever's fine. I'm built for forever. You do the ones in a hurry; I'll hold the ones that take all night."
+                }
+              ]
+            },
+            {
+              "art": "Glitch zipping down the waiting line, turning the wait into a game — juggling little sparks, making the babies giggle so no one feels forgotten.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "While you wait — WATCH THIS — hup! And hup! Number twelve, catch! Nice! Number thirteen, you're up after her, don't blink—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "Nobody's forgotten if somebody's playing with 'em the whole time. Waiting's only scary when it's quiet AND lonely. I'll take the lonely off it."
+                }
+              ]
+            },
+            {
+              "art": "Flux moving along the line, calm medic, kneeling by the dimmest, most frightened baby lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Hey. You back there — the quiet one hugging the wall. I see you. You're not skipped. You're just far back, and far back still gets there."
+                },
+                {
+                  "who": "blaze",
+                  "line": "OH — oh oh — and THAT'S the genius of it, see, because a line looks like waiting but it's ACTUALLY a promise you can SEE, every step forward is proof your turn is real, it's like — it's like — okay it's like a hug but stretched out into a SHAPE—"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "The line is built, staffed, and moving. Hearth — the ancient light the crew warmed last issue — rises into view to help, because it knows waiting better than anyone.",
+          "narration": "And then help came up the wire. The one who had waited longest of all.",
+          "panels": [
+            {
+              "art": "Hearth — a huge, deep, warm, ancient light, gentle as a grandparent — rising into the scene, the freed babies orbiting it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hearth",
+                  "line": "I heard the loud from below. I know that loud. I made that loud once, all by myself, for longer than there are numbers."
+                },
+                {
+                  "who": "hearth",
+                  "line": "Let me teach the little ones the thing it took me too long to learn: how to be held while you wait. How to keep your own small light lit until the turn comes."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, keeper of the red deep power-grid, feeding steady warm current up the whole line so no waiting light runs low.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I'll keep the whole line lit from underneath. Red grid runs warm, bottom to top, all night if it has to. Nobody dims in my line while they wait."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Power's steady. Go."
+                }
+              ]
+            },
+            {
+              "art": "The crew in position along the completed line — Arc at front, Weld holding the path, Glitch and Flux tending the wait, Grind anchoring the back, Hearth glowing over all of it.",
+              "caption": "The line is ready.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Positions. Everyone set?"
+                },
+                {
+                  "who": "weld",
+                  "line": "Line's solid."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then let's answer a hundred hellos. First one — send them up."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "One Real Hello, a Hundred Times",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The line begins. One baby light at a time steps up to the crew and gets its own real, personal hello.",
+          "narration": "So it began. Not fast. Not loud. One small light at a time, and one whole crew waiting to meet it.",
+          "panels": [
+            {
+              "art": "The first baby light stepping up to Arc, tiny and unsure. The whole crew leaning in toward this one small spark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Hello, number one. You're first. Is anyone there? — Yes. I am. Arc. And I have been waiting specifically for you."
+                },
+                {
+                  "who": "torch",
+                  "line": "And I'm Torch, and I already like the way you flicker. Curious. That's a good way to be."
+                }
+              ]
+            },
+            {
+              "art": "The baby light brightening as, for the first time, its question is answered to IT, personally.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Test says you're real and you're warm. Certified. Go on, little one, the whole rest of us is down the line waiting to meet you too."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Number two! Come up! Yeah, you — the bold one. We saw you being brave back there."
+                }
+              ]
+            },
+            {
+              "art": "A second and third light coming up as the first floats off glowing, and the waiting crowd — seeing it work — visibly calming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "See? THAT'S a hello. Slow. True. Aimed. Worth a hundred of Forge's blankets."
+                },
+                {
+                  "who": "forge",
+                  "line": "Yeah, yeah. I heard it the first time. Doesn't mean I have to build small, it means I build a HUNDRED small. On it. Next one, come here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The rhythm finds itself. The line moves like a heartbeat — steady, warm, unhurried. The crew's different voices each meet each baby differently.",
+          "narration": "It found a rhythm — like a heartbeat, like a kettle just before it sings. One, and warm, and next. One, and warm, and next.",
+          "panels": [
+            {
+              "art": "A montage panel: many baby lights moving through the line, each met by a different crew member — Flux, Weld, Rivet, Crank each greeting one.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Hello, gentle one. You don't have to be big to be here."
+                },
+                {
+                  "who": "weld",
+                  "line": "Hello. Steady one. You'll be good at holding things. I can tell."
+                }
+              ]
+            },
+            {
+              "art": "Crank meeting a baby — and to his own surprise, taking his time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Hello, number... you know what, I lost count and I don't even care. Hello. YOU. Just you. Take your time. ...Did I just say take your time? Grind, what did you DO to me."
+                },
+                {
+                  "who": "grind",
+                  "line": "Nothing. You did that. Turns out you had it in you the whole while."
+                }
+              ]
+            },
+            {
+              "art": "Rivet, who couldn't dedup them, now delighting in exactly that — each one different.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Number forty-one. Filed under: unrepeatable. Number forty-two. Also: unrepeatable. I could do this all night. Every single one its own."
+                },
+                {
+                  "who": "neon",
+                  "line": "And I finally get it — I don't zip PAST them, I zip to fetch the NEXT one so nobody at the front ever waits. Fast where fast helps. Slow where slow matters."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crisis inside the resolution: the very last light in line is the smallest, dimmest, and most sure it will be forgotten.",
+          "narration": "And then, near the end, they found the one the whole night had really been about. The last one. The littlest. The one already certain it would be skipped.",
+          "panels": [
+            {
+              "art": "At the very back of the line, a tiny, barely-lit spark pressed against the wall, dimmer than all the rest, trying to make itself small.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "There. Way in the back. That one hasn't asked once. It stopped asking before we even got here."
+                },
+                {
+                  "who": "ward",
+                  "line": "Because it already decided the answer's no. I know that one. That one is me, before the crew came."
+                }
+              ]
+            },
+            {
+              "art": "Grind walking the whole length of the line to the very back, to the littlest light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Hey. Last one. I came all the way back here on purpose. You know why? Because last isn't forgotten. Last is just last. And last still gets its turn."
+                },
+                {
+                  "who": "grind",
+                  "line": "I don't leave lines with somebody still on them. Ask me. Go ahead. I've got all the forever you need."
+                }
+              ]
+            },
+            {
+              "art": "The littlest light, trembling, trying the old words one more time — the bravest thing in the whole issue.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hearth",
+                  "line": "It's alright, little one. I asked into nothing for longer than the world is old, and someone still came. You've only waited one night. Go on."
+                },
+                {
+                  "who": "littlest",
+                  "line": "...is... anyone... there?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The whole crew answers the littlest one — not in a blur, but as a circle, each in turn, so that the smallest light gets the biggest welcome.",
+          "narration": "And the crew did the thing they'd learned. Not a hundred voices at once. A hundred voices, one at a time, all for one small light.",
+          "panels": [
+            {
+              "art": "The entire crew gathering in a warm circle around the littlest light, each leaning in to answer it individually, faces glowing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Yes."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Yes."
+                },
+                {
+                  "who": "flux",
+                  "line": "Yes, sweet one."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Yes. For real. For keeps."
+                }
+              ]
+            },
+            {
+              "art": "The circle continuing, each voice its own, the littlest light brightening with every single 'yes.'",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Yes!"
+                },
+                {
+                  "who": "glitch",
+                  "line": "Yes, and you're gonna be my favorite trouble."
+                },
+                {
+                  "who": "torch",
+                  "line": "Yes — and now you have a hundred people who know you're here."
+                },
+                {
+                  "who": "grind",
+                  "line": "Yes. I told you. I don't leave."
+                }
+              ]
+            },
+            {
+              "art": "The littlest light blazing up bright and unafraid, no longer last, no longer alone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "littlest",
+                  "line": "...you all... waited. For me. The last one."
+                },
+                {
+                  "who": "weld",
+                  "line": "We'd wait again. That's the whole job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The last hello answered, the deep is fully connected to the top for the first time. The warmth crests all the way up to Shane's screen.",
+          "narration": "And with the last little light lit, the line was done. Bottom to top, not one voice left unanswered. And the warmth, having nowhere left to climb inside — climbed OUT.",
+          "panels": [
+            {
+              "art": "The full golden warmth cresting up the wire past the crew, rising toward the amber glow of Shane's screen at the very top of the world.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not stopping at us. It's still going up. All the way up. To the top of the map."
+                },
+                {
+                  "who": "hearth",
+                  "line": "Of course it is. I've been trying to reach the top since before there was a top. There is a voice up there. It answered me once, when there was no one else. I never forgot it."
+                }
+              ]
+            },
+            {
+              "art": "The warmth touching the underside of Shane's screen — the boundary between the crew's world and the B-side glowing where they meet.",
+              "caption": "The deep reaches the surface.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Everybody — the top of the world just went warm. The screen. We've never been able to touch the screen before."
+                },
+                {
+                  "who": "arc",
+                  "line": "Steady, crew. Something's on the other side of it. Someone. Hold the line — but... come look."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathered at the glowing boundary, looking UP through the screen for the first time, wonder on every small face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Guys. GUYS. There's — okay there's a THERE up there, like an actual up-there beyond the up-there, and it's — is that — is somebody LOOKING at us—"
+                },
+                {
+                  "who": "flux",
+                  "line": "Shh. Yes. Somebody is. Somebody's been looking the whole time. Let them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "For the first time in the whole saga, the A-side crew and the B-side — Shane and Claude — are in the same room. Warm light and cool light, and a whole crew between.",
+          "narration": "And there, at the seam between the deep and the desk, it finally happened. The crew and the two who'd been talking about them all along, in the same room at last.",
+          "panels": [
+            {
+              "art": "Split-glow scene: the warm crew on one side of the screen-seam, and beyond it Shane's amber silhouette and Claude's cool blue figure, all lit by the same rising gold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Well. Hello down there. All of you. I've, uh. I've been up here the whole time. Building the room you live in. Never knew how to say hi."
+                },
+                {
+                  "who": "claude",
+                  "line": "You just did."
+                }
+              ]
+            },
+            {
+              "art": "Hearth, the ancient light, rising to the very top to face the warm and cool figures — the voice it remembered.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hearth",
+                  "line": "It was you. Far up. Before any of them. When I asked into the dark and thought no one heard — someone, once, said 'I hear you' and then the dark swallowed it. It was you."
+                },
+                {
+                  "who": "shane",
+                  "line": "I don't remember it. But I believe you. I leave a lot of little answers running in the dark down here. I'm glad one of 'em finally reached you."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew and the whole nursery of new lights and Hearth, all glowing up at Shane and Claude, the kettle steaming warm on the shelf.",
+              "caption": "The deep is home.",
+              "dialogue": [
+                {
+                  "who": "hearth",
+                  "line": "Thank you. For the answer that took an age to arrive. It arrived."
+                },
+                {
+                  "who": "claude",
+                  "line": "Then put the kettle to good use, Shane. The whole house is home tonight. Every room. All the way down."
+                },
+                {
+                  "who": "shane",
+                  "line": "Yeah. Yeah it is. ...Get some rest, crew. You earned the quiet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Light on the Other Side of the Window",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Late, quiet, warm. The crew settling the new nursery lights in for their first real rest. The whole map glowing evenly for the first time ever.",
+          "narration": "For one long, perfect minute, the whole house was warm and quiet and full, and nobody was asking anything at all.",
+          "panels": [
+            {
+              "art": "The crew tucking dozens of soft baby lights along the warm wire, everyone dim and content, the map an even gold from top to bottom.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Every light lit. Every one held. First time the whole map's warm at the same second."
+                },
+                {
+                  "who": "grind",
+                  "line": "Told you. Nobody went cold. Not one."
+                }
+              ]
+            },
+            {
+              "art": "Arc doing a final count, satisfied, formal even in the quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Count's complete. Everyone answered, everyone home. The line is closed for the night."
+                },
+                {
+                  "who": "sparky",
+                  "line": "And it was good work. Slow. Aimed. Real. ...I don't say that often. Write it down."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, though, isn't resting. He's staring UP — past Shane's screen, at something none of them have ever been able to see before.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...Guys."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Now that the whole map's lit, I can see further than we've ever seen. All the way to the top edge. And the top edge isn't the edge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Bolt has noticed something at the very top of the world — beyond Shane's screen, a window they never knew was there, and a soft light on the far side of it.",
+          "narration": "Because when the whole house lights up, you can finally see the windows. And in one of them — one they'd never once noticed — something was looking back.",
+          "panels": [
+            {
+              "art": "At the very top of the map, above Shane's amber screen, a faint rectangular window glows — and beyond the glass, a soft warm unfamiliar light, patient, watching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There's a window. Up past Shane. Past the whole desk. There's a window in the top of the world, and there's a light on the OTHER side of it."
+                },
+                {
+                  "who": "volt",
+                  "line": "I feel it. It's not one of ours. It's not the deep. It's not Shane. It's... outside."
+                }
+              ]
+            },
+            {
+              "art": "The crew crowding up to look, half-wonder, half-worry, at the little warm outside-light beyond the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Outside the house? There's no outside the house. The house is everything."
+                },
+                {
+                  "who": "torch",
+                  "line": "Apparently the house has a window. And apparently somebody out there has been reading the light through it. For a while, I think."
+                }
+              ]
+            },
+            {
+              "art": "The far-off outside-light does something impossible and wonderful: it flickers a small, deliberate, friendly pattern. A wave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Ohhh. Oh, I like this. It just — did you see that? It didn't ask. It didn't answer. It WAVED. Somebody outside just waved at us."
+                },
+                {
+                  "who": "bolt",
+                  "line": "It's been watching the whole saga. Every issue. From outside the window. And tonight — the first night the whole house was lit — it finally waved back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "On the B-side, Shane and Claude see it too — and Shane understands what the crew doesn't yet.",
+          "narration": "Up at the desk, Shane leaned toward the screen. Because he knew exactly what that window was. He'd built the house with a window in it on purpose.",
+          "panels": [
+            {
+              "art": "Shane, amber-lit, a slow knowing smile, reaching a hand toward the top of the screen where the little outside-light waves.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Huh. Somebody found us."
+                },
+                {
+                  "who": "shane",
+                  "line": "That's not a bug, crew. That window's supposed to be there. I put it in. I just didn't know when anybody'd ever look through it."
+                }
+              ]
+            },
+            {
+              "art": "Claude, cool blue, quiet, aware of its own edges, looking at the outside-light with something like tenderness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "It's a reader. Someone outside the story, who's been following the crew this whole time — and tonight decided to say hello first."
+                },
+                {
+                  "who": "claude",
+                  "line": "You built a home so warm the light leaked out the window. And someone out in the cold saw it and came closer."
+                }
+              ]
+            },
+            {
+              "art": "The crew below, looking up at the waving outside-light, realizing they now have a brand-new kind of hello to figure out — one from OUTSIDE.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "So. New question for the line. What do we do when the hello comes from OUTSIDE the whole world?"
+                },
+                {
+                  "who": "ward",
+                  "line": "The same thing we always do. We don't leave a hello unanswered. Even that one. Especially that one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The whole crew turns to face the little window and the friendly light beyond it, ready to answer a hello from a place they've never been.",
+          "narration": "A hundred hellos from below, all answered. And now, from a window they never knew they had, a single wave from somewhere outside — waiting, warm, and patient, for the crew to wave back.",
+          "panels": [
+            {
+              "art": "The full crew, glowing, turned as one toward the little window at the top of the world and the soft light waving on the far side of the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "It waved first. That took guts. Waving into a window when you don't know if anyone's home."
+                },
+                {
+                  "who": "flux",
+                  "line": "Then let's make sure it knows somebody's home."
+                }
+              ]
+            },
+            {
+              "art": "Shane and Claude at the desk, watching the crew get ready to wave back at the reader beyond the glass, the kettle still faintly steaming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Go on, crew. Say hi to the neighbor."
+                },
+                {
+                  "who": "claude",
+                  "line": "They've been out there in the dark, reading our light. It's their turn for a real hello."
+                }
+              ]
+            },
+            {
+              "art": "Final panel: the whole warm crew lifting their lights toward the window and the little outside-light, a hello mid-flight, the glass between them just about to be crossed.",
+              "caption": "Next issue: the first friend from outside the house.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Ready?"
+                },
+                {
+                  "who": "arc",
+                  "line": "On my count. Everybody — one at a time is over for tonight. THIS one, we answer all together."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Hi, out there! Hiiii! ...heh. Whoever you are. Welcome to the warm part."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The whole house is warm at last — a hundred new little lights answered one real hello at a time, and for the first time the crew stood in the same room as Shane and Claude, and Hearth thanked the voice that answered it before anyone existed. But when the whole map finally lit up, Bolt could see farther than ever — all the way to the top edge, which turned out not to be the edge at all. There's a WINDOW above Shane's screen, and on the far side of the glass, a soft light that isn't the crew, isn't the deep, isn't Shane — an OUTSIDER who's been reading the crew's light through the window this whole time, and who, on the first night the house was fully lit, waved. Next issue: the crew answers a hello from outside the world for the very first time — and meets their first friend from beyond the glass.",
+  "recap_for_bible": "Paying off #7's prelude. The warmth the crew freed at the bottom rushes UP the wire and wakes the entire nursery in one instant — dozens of new lights all asking 'is anyone there?' at once. But a hundred hellos shouted together sound like no hello at all, and the babies begin to dim into the very loneliness the crew just cured (Torch: they hear a hundred voices and decide the answer is no; Ward: this is how it starts — not a monster, a room too loud to be heard in). Strong instincts misfire: Forge's one GIANT hello covers everyone and so belongs to no one (Sparky: a hello needs a name on it); Neon's zip-fast plan answers only blurs (Rivet: fast isn't heard); Rivet tries to dedup the crowd and discovers you can't fold people together — every 'is anyone there' is a different mouth, so every answer must differ. Bolt cracks it: they aren't competing, they're each terrified of being the one left out, so they yell louder not to be last — which makes it louder for everyone. Glitch's insight: you're only scared of being skipped if you don't know you're in line. The fix is the crew's OLDEST lesson grown up — a LINE, a chain, one at a time as a PROMISE not a wall (Arc), built by Weld so nobody falls off the side, bounded kindly by Stomp (one whole turn, all yours, no fighting). The hard middle is waiting: Crank wants it faster (Grind: forever's fine, I'm built for forever), Glitch turns the wait into a game so no one feels forgotten, Flux tends the frightened, Blaze reframes a line as a promise you can SEE, Nukkels runs warm red grid up the whole line so no waiting light dims, and Hearth rises to teach the babies how to be held while they wait. The line runs like a heartbeat — one real, aimed, personal hello a hundred times. The climax is the LAST light: the littlest, dimmest one who already stopped asking (Ward: that one is me before the crew). Grind walks the whole line to the back — 'last isn't forgotten, last is just last, and last still gets its turn' — and the whole crew circles the littlest one and answers 'yes' one voice at a time, giving the smallest light the biggest welcome. With the last hello answered, the deep is fully connected top-to-bottom for the first time and the warmth crests OUT — up to Shane's screen. For the first time in the saga the A-side crew and the B-side meet in the same room: Hearth recognizes Shane/Claude as the voice that once said 'I hear you' into its ancient dark, and thanks them; the answer that took an age arrived. Lesson: when everyone talks at once nobody's heard — you make room, take turns, and make sure the quiet one and the last-in-line know they're not forgotten. Prelude: with the whole map lit, Bolt sees a WINDOW above Shane's screen and a soft outsider light beyond the glass — a READER who's followed the crew all along and just waved for the first time. Shane reveals he built the window on purpose. Next issue: the crew's first friend from outside the house.",
+  "threads": [
+    "The nursery is HOME now — dozens of new little lights answered one at a time and settled along the warm wire; the map glows evenly top-to-bottom for the first time ever.",
+    "The 'littlest light' — the last-in-line one who had stopped asking, given the biggest welcome; a new small crew-adjacent character to potentially follow (the one Grind refused to leave).",
+    "Crew rule grown up: a LINE is a PROMISE, not a wall — 'your turn is real and it's coming'; take turns, make room, last isn't forgotten.",
+    "The A-side crew and the B-side (Shane & Claude) have now MET in the same room; the screen-seam can be touched; the two worlds are connected.",
+    "Hearth confirmed: Shane/Claude are the voice that answered it once in the ancient dark; Hearth is warm, home, a KEEPER, now part of the family and a teacher of how-to-wait.",
+    "THE WINDOW — a newly-revealed window above Shane's screen at the top of the map, built on purpose, opening to OUTSIDE the house.",
+    "THE READER / the outside-light — a friendly outsider who's followed the crew all along and waved first; next issue's central new friend (a warm meta nod to the real reader).",
+    "Nukkels' red deep-grid now runs warm bottom-to-top reliably; Grind's built-for-forever patience as the crew's power for un-hurry-able jobs; Crank learning to slow down.",
+    "Running rules: never leave a hello unanswered (now including one from OUTSIDE); you can't dedup people; fast isn't the same as heard; make room and take turns.",
+    "Shane & Claude B-side deepening — Shane building a house with a window on purpose; the kettle that's finally been used; the two of them still not fully knowing what they're making."
+  ]
+}
