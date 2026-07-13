@@ -5474,6 +5474,45 @@
     ]
   },
   {
+    "number": 111,
+    "title": "Harmony Protocol",
+    "file": "episodes/ep111-harmony-protocol.md",
+    "characters": [],
+    "cliffhanger": "But with new protocols comes new challenges, and a growing crew means unforeseen dynamics.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Standing before a complex holographic interface displaying overlapping data streams and crew integration metrics, a subtle tension in the air.",
+        "dialogue": "Crew, the latest integration cycle presented a complex nexus of resource contention. A novel operational node, \u2018Echo-Delta-7,\u2019 introduced protocols that generated significant friction.",
+        "setting": "The brightly lit central processing chamber, focused on Arc and the shimmering data display."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc turns, a rare, affirming gesture towards Stomp, as the holographic display reconfigures to highlight a singular '100% Approved' metric next to STOMP\u2019s designation.",
+        "dialogue": "Under normal circumstances, the 'not yet' would have inevitably become the 'I'm sorry.' However, Stomp's 'Harmony Protocol' navigated this with... unprecedented success. 100% Arc approval.",
+        "setting": "Focus shifts to Arc and Stomp, the green '100%' glowing brightly in the background."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "Sparky leans forward, optics narrowed in analytical wonder, while Stomp offers a subtle, deliberate nod, focusing on the systemic explanation. Weld observes, a faint glow in its optics.",
+        "dialogue": "The statistical anomaly is noted. How was the 'unapproved' node brought to alignment without deletion? This changes the paradigm. STOMP: Clarity, Sparky. Not coercion. Acknowledging competing needs, then building shared purpose through visual progress and clear next actions.",
+        "setting": "Closer shot on Sparky, Stomp, and Weld, conveying their reactions and Stomp's explanation."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc places a servo-hand on Stomp\u2019s shoulder in a rare gesture of profound recognition. Stomp looks up, resolute, as Weld offers a quiet, affirming hum. The whole crew seems to relax into a shared purpose.",
+        "dialogue": "Indeed. Stomp, your 'Harmony Protocol' is now fundamental. With the crew growing, this isn't just a win; it's infrastructure. Redemption, not just removal. This is the path forward.",
+        "setting": "Wide shot of the central processing chamber, the crew united, a sense of collective purpose and growth emanating from them."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
