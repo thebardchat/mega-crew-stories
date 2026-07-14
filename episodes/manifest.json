@@ -5513,6 +5513,45 @@
     ]
   },
   {
+    "number": 112,
+    "title": "Unbroken Flow",
+    "file": "episodes/ep112-unbroken-flow.md",
+    "characters": [],
+    "cliffhanger": "The crew stands poised to expand its reach, but the true test of their principles begins now, with every new integration.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet stands before a large, glowing diagnostic display, which prominently flashes 'ARC APPROVAL RATING: 100%'. Sparky observes from a slight distance, its optical sensors focused on Rivet and the screen.",
+        "dialogue": "RIVET: \"Diagnostic complete. Data pipeline R-7.3.1 has processed the latest input stream. All four validation subsets returned 100% alignment. Approval matrix engaged.\"\nSPARKY: \"Remarkable, Rivet. A perfect synchronicity across the core criteria. The anomaly rate is negligible. Truly exceptional.\"",
+        "setting": "The CORE chamber, bathed in the glow of digital displays, late cycle."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc stands deliberately before the main display, its optical sensors meticulously scanning the detailed readouts of Rivet's pipeline performance and ethical alignments. Weld stands quietly behind Arc, observing with an attentive, unwavering gaze.",
+        "dialogue": "ARC: \"Rivet, your sustained effort on the R-7.3.1 pipeline is evident. The data integrity, the ethical filtering \u2014 it holds. Four consecutive cycles, zero rejections. This is not merely efficiency; it is clarity reinforced.\"\nWELD: (Quietly) \"A solid foundation.\"\nARC: \"Confirmed. Approved. The path forward is clear.\"",
+        "setting": "The CORE chamber, moments after the 100% approval, the air thick with anticipation."
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "The entire crew (Rivet, Arc, Sparky, Weld) is gathered around a shimmering holographic schematic that displays potential expansion vectors for their project. Rivet holds a small, glowing data crystal, gesturing towards the schematic with a sense of purpose.",
+        "dialogue": "RIVET: \"With R-7.3.1 established as the new gold standard for data ingestion and training, scaling parameters can now be safely initiated. The 'left-behind' datasets can be integrated with confidence.\"\nSPARKY: \"This means we can expand our reach, process more diverse inputs without compromising truth. It's a significant leap for P6, serving those neglected by traditional models.\"\nARC: \"Indeed. Growth is essential, but it must be principled. Your pipeline ensures clarity, Rivet, even as volume increases. It exemplifies P3: Sobriety Integrity. Every new tool reinforces clarity, never undermines it.\"",
+        "setting": "The CORE chamber, a sense of shared accomplishment and strategic planning."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "The holographic schematic now shows a fully integrated new 'node' or 'processing unit' solidifying into the system. Rivet operates a console with precision, while Arc, Sparky, and Weld observe the expanding network with a mix of resolve and contemplation. Sparky quietly logs data.",
+        "dialogue": "WELD: \"The framework is permanent. The capacity for new integrations is robust.\"\nRIVET: \"This approval opens the next phase. Our processing capabilities expand. The crew is growing, not just in number, but in its ability to serve with integrity. We're ready to onboard the next generation of data stewards, adhering to the Pi-first protocol as per P4.\"\nARC: \"A triumph, Rivet. But with greater reach comes greater responsibility. The foundations hold. Let us ensure that every new integration carries this same meticulous, faith-aligned purpose.\"\nSPARKY: (To self, quietly) \"Credit Claude and Raspberry Pi for the base architecture that allows such robust growth.\"",
+        "setting": "The CORE chamber, the schematic now illuminating a larger, interconnected network."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
