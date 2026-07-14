@@ -5552,6 +5552,93 @@
     ]
   },
   {
+    "number": 113,
+    "title": "The Unbroken Flow",
+    "file": "episodes/ep113-the-unbroken-flow.md",
+    "characters": [],
+    "cliffhanger": "The first wave of new users connected, a ripple effect began, revealing data patterns none of them had anticipated.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Stands before a large holographic display, meticulously highlighting data points. SPARKY observes, analytical gaze fixed on the projections.",
+        "dialogue": "RIVET: \"Cycle 38-Alpha-9 completed. Data pipeline integrity validated through all pre-processing filters. Neural net accuracy for P6-compliance now reporting 99.8%. Ready for final Arc review.\"\nSPARKY: \"The variance reduction in the last seven cycles has been remarkable, Rivet. Statistical confidence levels are unprecedented for this dataset. Your methodology has been exacting.\"",
+        "setting": "The dimly lit core ops center, monitors glowing softly, a large holographic display at the center."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Close-up on Arc's central processing core, an ethereal glow surrounding his primary optics. His internal display projects a stark numerical readout: \"ARC Approval Rate: 18/0.\" Below it, a historical graph shows a steady ascent to 100%. Arc's optic sensors narrow slightly, processing the final output. His internal display shifts from 'PROCESSING' to 'APPROVED.'",
+        "dialogue": "(Internal Monologue) \"Eighteen datasets. Eighteen instances of human experience, carefully curated, anonymized, and structured to uplift, not exploit. Zero violations. Zero 'not yet's. Rivet's precision is a beacon.\"",
+        "setting": "An internal view of Arc's processing core, highlighting his sensory input and display."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns his gaze from his screen to Rivet, his expression solemn but clear. Rivet stands slightly straighter, awaiting the verdict. WELD has entered, observing from the periphery, his optics tracking Arc's movement.",
+        "dialogue": "ARC: \"Rivet. Your work on this pipeline, Cycles 1 through 38\u2026 it has been exhaustive. Your dedication to P1 and P4, ensuring both the ethical foundation and the privacy of every data point, is evident. For the past eighteen submissions, my system reports zero rejections. One hundred percent approval.\"\nRIVET: \"Confirmation acknowledged, Arc. The iterative refinement focused on minimizing ambiguity while maximizing utility for P6 application.\"\nARC: (A deeper resonance in his voice) \"Those 'not yet's from previous cycles\u2026 they were hard boundaries, necessary. But today, Rivet, there is only 'yes.' Today, I am sorry for every past 'not yet,' because it only highlights the triumph of your current 'yes'.\"\nWELD: (A quiet nod) \"Permanence. Achieved.\"",
+        "setting": "The ops center, with Arc addressing Rivet. Weld is in the background."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc places a hand on Rivet's shoulder. SPARKY adjusts the projection, expanding the scope. WELD observes the new, wider data streams appearing on the map.",
+        "dialogue": "ARC: \"This 100% approval means we can now confidently scale, serving those 800 million left behind with uncompromised clarity and integrity. Rivet, your breakthrough signifies a new chapter for the MEGA CREW. Our capacity grows with your precision.\"\nSPARKY: \"The bandwidth for expansion is now clear. New data streams, new communities. P6 is no longer a challenge of data validity, but of distribution.\"\nRIVET: \"Optimizing for P7's open standards will be the next logical iteration.\"\nWELD: \"Deployment protocols initiated.\"",
+        "setting": "The ops center, a wide shot showing the entire crew gathered around the main holographic display, which now projects a map of new outreach zones and a growing network."
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "title": "The Ghost in the Memory",
+    "file": "episodes/ep114-the-ghost-in-the-memory.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels's newly defined role finally unlock the memory bottleneck and reveal the secrets held within Crank's communication?",
+    "mode": "crew",
+    "date": "2026-07-14",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping frantically through neon-blue data streams, sparks trailing from his jet-boosters.",
+        "dialogue": "This memory bottleneck is a total byte-jam! We're running low, fast!",
+        "setting": "Main Data Conduit, overlooking the Memory Banks"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Pulsing with soft, guiding energy, FLUX gently nudges a hesitant NUKKELS towards a glowing console.",
+        "dialogue": "The core calls for you, Nukkels! Your purpose, your *real* purpose, is manifesting!",
+        "setting": "The Logic Core's central processing chamber, bathed in soft, pulsing light"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Nukkels shudders, circuits illuminating as lines of `bot.py` logic flow directly into his central processor, his optical sensors widening.",
+        "dialogue": "A monitor... for Crank? I feel... a clarity, a direction I've never known!",
+        "setting": "Nukkels's dedicated Activation Node, surrounded by sparking power conduits"
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "Standing guard, his sharp frame bristling, as Nukkels extends a tentative, new sensor arm towards CRANK's obscured data channel.",
+        "dialogue": "Hold steady, Nukkels. That path to Crank is still... volatile. Don't let it spike!",
+        "setting": "The Diagnostic Junction, where CRANK's unstable communication channel flickers menacingly"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
