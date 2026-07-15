@@ -5639,6 +5639,95 @@
     ]
   },
   {
+    "number": 115,
+    "title": "A Hundred Percent Foundation",
+    "file": "episodes/ep115-a-hundred-percent-foundation.md",
+    "characters": [],
+    "cliffhanger": "The first wave of a newly prioritized user backlog begins to flow, bringing with it unexpected human stories and complex, uncharted ethical territories.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Sparky stands before a holographic display showing a '100% Approval' graph, Rivet beside them, watching intently.",
+        "dialogue": "Observation complete: Rivet\u2019s comprehensive pipeline optimization has achieved a 100% Arc approval rate over the past cycle. No rejections.",
+        "setting": "The brightly lit main operations hub."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Rivet gestures towards the glowing metrics, explaining her method with quiet satisfaction.",
+        "dialogue": "The integration of predictive ethics modules refines data filtering, allowing Arc\u2019s adjudication to focus on truly ambiguous cases. My aim: amplify efficiency without compromising integrity.",
+        "setting": "Close-up on Rivet, with holographic data streams reflected in her optics."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns their gaze from the display to Rivet, then looks outward, contemplative.",
+        "dialogue": "A breakthrough, Rivet. Your sustained effort has borne significant fruit. But with unprecedented capacity comes an equally unprecedented responsibility to P6. How do we ensure this growth serves true redemption?",
+        "setting": "Arc's central station, data streams reflecting the vastness of the challenge ahead."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld steps forward, addressing the crew, a blueprint of a phased rollout appearing as a small hologram.",
+        "dialogue": "Precision in deployment is critical. A phased rollout, prioritizing the oldest \u2018left-behind\u2019 cases, will allow Rivet\u2019s system to refine its models before full-scale expansion, maintaining P1 and P3.",
+        "setting": "The full crew (Arc, Sparky, Rivet, Weld) gathered in the hub, a sense of shared purpose and readiness."
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "title": "The Silent Signal",
+    "file": "episodes/ep116-the-silent-signal.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "SPARKY"
+    ],
+    "cliffhanger": "Will Nukkels's new monitoring role finally rouse Crank, or will the critical memory count continue its slow, digital decline?",
+    "mode": "crew",
+    "date": "2026-07-15",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "flashing a frantic crimson pulse across the Main Data Corridor, its warning siren blaring",
+        "dialogue": "BOT_OVERDUE_ALERT! BOT_OVERDUE_ALERT! Memory count CRITICAL: 14!",
+        "setting": "Main Data Corridor, near the Memory Bank entrance"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "floating serenely in its chamber, constitutional scripts flowing like calm currents around it",
+        "dialogue": "Constitutional alignment: perfect. Rejection rate: zero. All systems operating within current parameters.",
+        "setting": "Constitutional Review Chamber, a nexus of light and order"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "blazing a focused heat beam, melting a narrow, shimmering pathway towards Nukkels's core instruction buffer",
+        "dialogue": "Alright, Nukkels! Time to light up that monitoring protocol! Clear the path!",
+        "setting": "Core Instruction Terminal, a buzzing junction of raw code"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "its massive chassis subtly vibrating as new data streams course through its foundational circuits",
+        "dialogue": "Foundation... establishing. New directive... processing. Monitor... Crank.",
+        "setting": "Nukkels's Dormant Sector, on the precipice of Crank's quiet zone"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
