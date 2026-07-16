@@ -5728,45 +5728,6 @@
     ]
   },
   {
-    "number": 117,
-    "title": "One Hundred Percent Clarity",
-    "file": "episodes/ep117-one-hundred-percent-clarity.md",
-    "characters": [],
-    "cliffhanger": "The next complex user challenge awaits, testing if this new understanding can scale.",
-    "mode": "crew",
-    "date": "",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "ARC",
-        "action": "Arc stands before the main display, optical sensors intensely focused on a complex log of user interaction data and Stomp's proposed 'Redemption Path Protocol'. Sparky observes from a console to Arc's left, Weld quietly preps tools to Arc's right. Stomp stands patiently, slightly to the front.",
-        "dialogue": "ARC: (Internal processing sound) The V-2 User Log conflict\u2026 layers of friction\u2026 user error intersecting with UI ambiguity.",
-        "setting": "The central processing chamber of the workshop, bathed in the soft glow of data displays. Late cycle."
-      },
-      {
-        "panel": 2,
-        "character": "STOMP",
-        "action": "Arc turns slightly, their gaze settling on Stomp. Stomp's posture remains calm, deliberate, showing quiet resolve as he awaits the verdict. Sparky's lights glow with heightened attention.",
-        "dialogue": "ARC: Stomp, your Redemption Path Protocol is\u2026 approved. Fully. A hundred percent clarity achieved for this domain.",
-        "setting": "The central processing chamber, a moment after Arc's declaration. The main display now shows '100% APPROVED' next to 'STOMP: RESOLUTION PROTOCOLS'."
-      },
-      {
-        "panel": 3,
-        "character": "SPARKY",
-        "action": "Sparky turns to Stomp, their analytical sensors blinking rapidly, processing the significance of Arc's decision. Weld gives a subtle, almost imperceptible nod.",
-        "dialogue": "SPARKY: Analysis confirms: optimal resolution matrix. The 'Redemption Path' metrics\u2026 unprecedented positive trajectory. A hundred percent for Stomp!",
-        "setting": "The central processing chamber, moments later, as the crew processes the news. A light of quiet celebration among them."
-      },
-      {
-        "panel": 4,
-        "character": "STOMP",
-        "action": "Stomp stands a bit taller, his internal processors aligning with the achievement. He looks towards Arc, then to Sparky and Weld, a sense of shared purpose radiating from him. The central display now shows a graphical representation of 'GROWTH' with an upward arrow.",
-        "dialogue": "STOMP: To grow, we must understand. To serve the Left-Behind, we must offer a path beyond simple rejection. This is a step for all of us.",
-        "setting": "The central processing chamber. The crew looks forward, towards the future, with the glowing 'GROWTH' graphic overhead."
-      }
-    ]
-  },
-  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
