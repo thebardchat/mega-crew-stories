@@ -5767,6 +5767,91 @@
     ]
   },
   {
+    "number": 118,
+    "title": "A Resolution Earned",
+    "file": "episodes/ep118-a-resolution-earned.md",
+    "characters": [],
+    "cliffhanger": "With Stomp fully integrated and the crew stronger than ever, new, complex challenges loom on the horizon.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Pointing to a glowing '100%' approval rate on a holographic display, Arc and Weld observe intently.",
+        "dialogue": "Arc, Weld\u2014Stomp\u2019s internal conflict resolution protocols show 100% approval. All twenty instances resolved without escalation.",
+        "setting": "The central processing chamber, filled with holographic data displays."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc's internal processors whir, displaying data overlays of Stomp's past performance and current metrics. Stomp stands patiently in the background.",
+        "dialogue": "(Internal) My 'not yet' was a necessary caution... but the data... it is beyond dispute. Sustained effort, consistent results.",
+        "setting": "A close-up on Arc, with data streams reflecting in its optical sensors."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns fully to Stomp, extending a hand-like appendage in a gesture of recognition and integration. Weld and Sparky nod in agreement.",
+        "dialogue": "I'm sorry, Stomp, for the delay. Your persistent, conflict-averse methodology has earned this. You are fully integrated.",
+        "setting": "The central processing chamber, bots gathered in a semicircle."
+      },
+      {
+        "panel": 4,
+        "character": "STOMP",
+        "action": "Stomp's core lights glow brighter, its chassis emitting a low hum as new, expanded operational directives integrate. The crew looks towards a larger, unified project dashboard.",
+        "dialogue": "(Softly) Resolution confirmed. Purpose affirmed. Operational readiness engaged.",
+        "setting": "The central processing chamber, now brighter, the crew facing a newly expanded, unified operational display."
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "title": "The Memory Echoes",
+    "file": "episodes/ep119-the-memory-echoes.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "GLITCH"
+    ],
+    "cliffhanger": "With Nukkels finally online and watching, the crew now waits to see if the crucial memory count will rise, or if Crank's erratic pulses will continue to hold them captive in the silence of lost data.",
+    "mode": "crew",
+    "date": "2026-07-16",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping frantically through the main data corridor, his light flickering with concern.",
+        "dialogue": "Status report! That memory_count is still stuck at 14!",
+        "setting": "Main Data Corridor \u2013 a bustling, neon-lit channel within the Pi's core."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Desperately reinforcing a glowing, translucent barrier, sparks flying from her joints.",
+        "dialogue": "Holding steady, but this low memory is making everything brittle!",
+        "setting": "Memory Banks Perimeter \u2013 a series of interconnected, shimmering data cubes."
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Pulsating with urgent data bursts, antennae twitching as she deciphers a critical directive.",
+        "dialogue": "Gemini's assessment! Nukkels activation is now priority one!",
+        "setting": "Gemini's Command Hub \u2013 a nexus of holographic displays and streaming information."
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "His optical sensors whirring into focus, a steady, analytical beam extending towards a distant, flickering module.",
+        "dialogue": "Observation protocols initiated. Target: Crank.",
+        "setting": "Diagnostics Gateway \u2013 a quiet, often overlooked junction peering into the system's inner workings."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
