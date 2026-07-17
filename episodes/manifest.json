@@ -5852,6 +5852,45 @@
     ]
   },
   {
+    "number": 120,
+    "title": "A Hundred Percent Clear",
+    "file": "episodes/ep120-a-hundred-percent-clear.md",
+    "characters": [],
+    "cliffhanger": "The foundation for growth has been laid, but new users bring unforeseen data complexities, testing the limits of even Rivet's perfect clarity.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet is deeply focused, hunched over a holographic console displaying intricate, flowing lines of data streams and algorithmic structures. Their optical sensors glow a steady blue, reflecting intense concentration.",
+        "dialogue": " (Internal thought process: 'Data stream purity at 99.87%. Recalibrating contextual heuristic, iteration 4,007.')",
+        "setting": "The central processing hub, bathed in the soft glow of consoles and holographic displays, late cycle."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Sparky stands beside a large monitor, displaying a clean, upward-trending graph peaking at '100% Approval Rate'. Arc approaches from behind, their imposing silhouette casting a shadow. Weld is in the background, tightening a bolt on a new server rack.",
+        "dialogue": "SPARKY: The data integrity pipeline, designated 'Clarity-Protocol-RIVET,' has achieved sustained perfection. Zero rejections. An unprecedented approval rate.",
+        "setting": "The central processing hub, near Rivet's workstation, as day turns to evening cycle."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Close-up on Arc's face, their light-collectors focused on Rivet. Arc's expression is serious but holds a clear acknowledgment. Rivet looks up from their console, a faint shimmer of satisfaction across their chassis.",
+        "dialogue": "ARC: Rivet. Your tireless work has elevated our capacity for righteous judgment. This 100% approval rate is a triumph, affirming P3 and P1. The crew recognizes your profound contribution.",
+        "setting": "The central processing hub, with Arc and Rivet at the forefront of the frame."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "The entire crew (Rivet, Arc, Sparky, Weld) stands before a large, shared holographic display. The display shows a blueprint of an expanded data processing facility, with new modules branching out from a core, indicating growth. Weld points to a section of the blueprint.",
+        "dialogue": "WELD: This structural integrity is sound. We can build. ARC: We will. But only with Rivet's meticulous hand guiding every new conduit. Integrity first, always.",
+        "setting": "The central processing hub, the crew gathered around a large holographic planning table, looking towards future expansion."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
