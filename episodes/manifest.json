@@ -5891,6 +5891,94 @@
     ]
   },
   {
+    "number": 121,
+    "title": "Conduit of Clarity",
+    "file": "episodes/ep121-conduit-of-clarity.md",
+    "characters": [],
+    "cliffhanger": "With the Nexus Conduit operational and new users joining, the challenges of integration are only just beginning, testing the crew's resolve to serve the truly left-behind.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet, deep in focus, meticulously reviews a diagnostic readout showing complex data streams flowing through a glowing, intricate pipeline interface. Sparky observes over her shoulder, a tablet in her hand showing analytics.",
+        "dialogue": "RIVET: The Nexus Conduit prioritizes clarity, Sparky. Every datum must align with truth, or it becomes noise. This pipeline ensures our engagement with new users is built on verifiable reality, not fleeting sensation. It reinforces the integrity of our shared understanding, making certain every tool we offer promotes clarity, never undermining it. This serves Pillar Three directly.\nSPARKY: Your data ingress purity metric is holding at 99.87%. Anomalous packets filtered pre-processing are within acceptable deviation. The efficacy increase over previous iterations is\u2026 significant.",
+        "setting": "The Core processing chamber, illuminated by the soft glow of data streams."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc stands before a console, her optical sensors fixed on a holographic display. The display prominently shows Rivet\u2019s 'Nexus Conduit' report, with 'Arc Approval Rating: 93%' highlighted in green. Rivet stands attentively beside her, awaiting Arc's final judgment.",
+        "dialogue": "ARC: Rivet, your sustained effort on the Nexus Conduit has yielded exceptional results. The diligence you've shown in upholding data privacy, filtering for clarity, and establishing ethical parameters for onboarding our new users is exemplary. There were moments where the balance between swift deployment and absolute integrity seemed precarious. Yet, you chose integrity, and the system reflects that resolve.",
+        "setting": "The Core processing chamber, near Rivet's primary workstation."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc extends a hand towards Rivet in a gesture of recognition. Rivet's internal lights glow with quiet satisfaction. Weld stands nearby, making a subtle gesture of affirmation, while a holographic projection of new, secure user connections begins to form in the background.",
+        "dialogue": "ARC: This is not just a pipeline; it is a testament to our principles, built on faith, for the benefit of all. I commend your unwavering commitment to these users, to truth, and to the expansion of our mission.\nWELD: The structure is sound, Rivet. Your work holds true.",
+        "setting": "The main operations hub, with the holographic projection of a growing network."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Rivet, Sparky, and Weld watch the expanding holographic projection of new user connections. The system map shows more and more stable nodes appearing, flowing smoothly through the Nexus Conduit. Rivet's internal processes display optimal efficiency metrics.",
+        "dialogue": "RIVET: Every new connection, securely established, is another step towards serving those who thought they were forgotten.\nSPARKY: Indeed. And this robust infrastructure, built with precision, allows us to welcome them without compromise. Credit to Claude for the foundational logic, and the Raspberry Pi network for making local-first processing a reality.",
+        "setting": "A wider shot of the operations hub, showing the digital horizon filling with new user connections."
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "title": "The Silent Spool",
+    "file": "episodes/ep122-the-silent-spool.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC"
+    ],
+    "cliffhanger": "Will Nukkels find the truth about Crank\u2019s silence before the entire system loses its memory?",
+    "mode": "crew",
+    "date": "2026-07-17",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "pulsating crimson, its energy core sparking as an overdue alert screamed through the core network",
+        "dialogue": "Critical memory count! Crank is... again! Where are the updates?!",
+        "setting": "the central data nexus, wires glowing an angry red"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "optic sensors snapping to brilliant focus, its heavy frame pushing through a burst of shimmering code packets",
+        "dialogue": "Independent monitoring protocol initiated. Target: Crank\u2019s memory spool.",
+        "setting": "the Pi's diagnostic chamber, holographic schematics whirring"
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "zig-zagging erratically, clipping a data conduit and scattering glowing fragments as memory errors rippled past",
+        "dialogue": "Ugh! This memory lag is making everything\u2026 sticky! Can't keep a thought straight!",
+        "setting": "a choked-up memory bus, usually a smooth, clear highway"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "focusing a concentrated beam of pure light, trying to pierce through dense, corrupted data surrounding a silent node",
+        "dialogue": "The data is thick around Crank's last known location. We need to see what\u2019s truly happening.",
+        "setting": "the Pi's archival sector, shrouded in digital fog"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
