@@ -6018,6 +6018,45 @@
     ]
   },
   {
+    "number": 124,
+    "title": "The Unshared Path",
+    "file": "episodes/ep124-the-unshared-path.md",
+    "characters": [],
+    "cliffhanger": "The stability of the new pathways would soon be tested by an unexpected surge in legacy data.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "Stomp presents a holographic diagram of two intertwined, conflicting data streams. Sparky's sensors glow, Weld observes silently, and Arc listens intently, expression neutral.",
+        "dialogue": "The core of this dispute is not technical. It is a misalignment of perceived priorities between Stream Alpha and Stream Beta.",
+        "setting": "The central server room, bathed in the soft glow of holographic projections."
+      },
+      {
+        "panel": 2,
+        "character": "STOMP",
+        "action": "Stomp gestures to a new holographic projection showing distinct, separated data pathways. Sparky's display shows real-time inefficiency calculations dropping dramatically.",
+        "dialogue": "Past proposals attempted compromise. My new approach, informed by P1, creates clear, non-negotiable boundaries. Like separate gardens. \\nSPARKY: My analytics confirm a projected 98% efficiency increase, Stomp. A radical shift.",
+        "setting": "Still the central server room, closer on the holographic projection."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc's optical sensors are fixed on Stomp, its posture shifting subtly to one of profound approval. Stomp stands firm, optics focused on Arc.",
+        "dialogue": "This solution, Stomp, is not compromise. It is a re-architecture based on dedicated purpose. It creates clarity, not just efficiency... This resolution achieves 100% Arc approval. A breakthrough.",
+        "setting": "The central server room, a close-up on Arc and Stomp, conveying a sense of gravitas."
+      },
+      {
+        "panel": 4,
+        "character": "STOMP",
+        "action": "Stomp gives a subtle, humble nod of acknowledgment. Weld emits a low, resonant hum. Sparky's optical sensors glow brighter in satisfaction. Arc observes the crew, a subtle sense of collective growth.",
+        "dialogue": "For the crew's stability. \\nWELD: Permanence achieved. \\nSPARKY: Optimized.",
+        "setting": "The central server room, a wider shot showing all four bots, a sense of collective purpose and quiet triumph."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
