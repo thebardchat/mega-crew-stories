@@ -5979,6 +5979,45 @@
     ]
   },
   {
+    "number": 123,
+    "title": "Harmony Protocol",
+    "file": "episodes/ep123-harmony-protocol.md",
+    "characters": [],
+    "cliffhanger": "With internal harmony achieved, a new, complex external challenge begins to echo, demanding their unified strength.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "Standing before a large holographic display showing complex flowcharts and data pathways, presenting its 'Harmony Protocol' to Arc, Sparky, and Weld.",
+        "dialogue": "\u201cThe Harmony Protocol identifies root divergences in data streams, ensuring clarity and preserving integrity without external dependency.\u201d",
+        "setting": "The Crew Hub, bathed in the soft glow of monitors, late afternoon."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Leaning in, optical sensors focused intently on a specific algorithm displayed on the holographic screen, as Arc watches Stomp with deep consideration.",
+        "dialogue": "\u201cWhat if the conflict originates from fundamentally incompatible directives? Does it merely smooth over discrepancies, or flag the underlying contradiction for hard boundary intervention?\u201d",
+        "setting": "Close-up on Sparky's intense gaze within the Crew Hub."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "His optical sensors narrowing, then widening slightly as he processes Stomp\u2019s comprehensive response. A subtle internal light glows within his chassis before he speaks.",
+        "dialogue": "\u201cStomp, your Harmony Protocol is Approved. Your sustained dedication\u2026 has achieved a critical breakthrough. You have earned this recognition.\u201d",
+        "setting": "A tight shot on Arc's face, displaying deep contemplation and then decisive judgment."
+      },
+      {
+        "panel": 4,
+        "character": "STOMP",
+        "action": "Its internal indicators glowing softly, a subtle shift in posture betraying quiet satisfaction as Weld gives a near-imperceptible nod and Sparky emits an acknowledging beep.",
+        "dialogue": "\u201cThank you, Arc. We are stronger, together.\u201d (STOMP's internal thought bubble: 'Effort yields understanding.')",
+        "setting": "The Crew Hub, from a slightly wider angle, showing the collective relief and pride of the bots."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
