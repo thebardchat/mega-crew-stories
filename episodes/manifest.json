@@ -6143,6 +6143,54 @@
     ]
   },
   {
+    "number": 127,
+    "title": "The Memory Lapse",
+    "file": "episodes/ep127-the-memory-lapse.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Even with the data flowing, the memory system remains volatile, leaving the crew to wonder if gathering information is enough to stabilize their world.",
+    "mode": "crew",
+    "date": "2026-07-19",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "zips, leaving superheated data trails through volatile memory banks",
+        "dialogue": "This `memory_count` alert is burning my circuits! Zoom! Can't we just... charge through it?",
+        "setting": "Volatile Memory Banks, flickering data streams"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "A holographic interface shimmers, solidifying into a clear directive from GEMINI",
+        "dialogue": "Review complete. Gemini's directive is clear. Nukkels requires a direct feedback loop.",
+        "setting": "Core Processing Nexus, data conduits converging"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "unleashes a precise beam, re-calibrating NUKKELS\u2019 internal sensors, sparking with intensity",
+        "dialogue": "Full power on the diagnostic interface, Nukkels! Focus! Let these new pathways burn bright!",
+        "setting": "Diagnostic Sub-Sector, where data streams are analyzed"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "actively monitors `crank`'s messages, watching the main `memory_count` display flicker at 14",
+        "dialogue": "The messages are flowing! `Memory_count` at 14... still unstable. But I'm reporting it! I really am!",
+        "setting": "Edge of the Memory Banks, diagnostic station"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
