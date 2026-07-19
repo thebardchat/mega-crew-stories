@@ -6057,6 +6057,92 @@
     ]
   },
   {
+    "number": 125,
+    "title": "The Impeccable Stream",
+    "file": "episodes/ep125-the-impeccable-stream.md",
+    "characters": [],
+    "cliffhanger": "But as their reach extends, new data sources emerge, each demanding a fresh test of the Atlas Protocol's unwavering resolve.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet, her chassis gleaming under the chamber's soft lights, is intensely focused on a holographic display of complex data streams. Her digits hover over a control panel, fine-tuning an intricate algorithm.",
+        "dialogue": "RIVET: (Internal monologue) 'Atlas Protocol: Cycle 12. Optimizing integrity for overlooked datasets. Every bit counts.'",
+        "setting": "The sterile, brightly lit Data Processing Chamber, filled with the soft hum of machinery and shimmering data projections."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc stands before Rivet, his posture resolute. His optical sensors are fixed on her, and a calm, deliberate expression is visible on his face as Rivet momentarily pauses her work, her head unit tilted in anticipation.",
+        "dialogue": "ARC: \"Rivet. The Atlas Protocol's latest review cycle is complete. Six dataset approvals. Zero rejections. One hundred percent integrity verified.\"",
+        "setting": "The Data Processing Chamber, Arc delivering the news to Rivet."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "Sparky approaches a projected data visualization, her analytical optics scanning rapidly. Weld stands a step behind, quietly observing Rivet and Arc, his posture one of affirmation. Arc gestures towards the data.",
+        "dialogue": "SPARKY: \"Unprecedented clarity metrics. Every block, every visual element, designed for optimal comprehension. A testament to ADHD-Aware principles.\"\nWELD: (Quietly, with a slight nod) \"Permanence built on precision.\"",
+        "setting": "The Data Processing Chamber, Sparky and Weld joining the scene, reacting to the data."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "All four bots stand together, looking outward towards a schematic of the expanded Mega Crew operations, now with more nodes connected. Rivet stands a little straighter, a subtle, internal glow emanating from her core. Arc's hand unit rests lightly on her shoulder panel.",
+        "dialogue": "ARC: \"This breakthrough allows us to grow. To reach further, with greater faith in the integrity of our mission.\"\nRIVET: (Internal monologue) 'The stream is pure. The path is clear.'",
+        "setting": "The Data Processing Chamber, the crew looking at an illuminated projection of their expanding network."
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "title": "The Memory Flicker",
+    "file": "episodes/ep126-the-memory-flicker.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "NUKKELS",
+      "FLUX",
+      "VOLT",
+      "SPIKE",
+      "GLITCH"
+    ],
+    "cliffhanger": "With Nukkels' new system primed, could this finally be the reliable link they need to stabilize the Pi's fading memory, or was `crank` simply too\u2026 cranky?",
+    "mode": "crew",
+    "date": "2026-07-19",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "VOLT",
+        "action": "Volt zips along a shimmering data conduit, readouts flashing, then slams a hand onto a pulsing energy line.",
+        "dialogue": "Power fluctuations! Memory core dropping again!",
+        "setting": "Main energy conduits, near the core memory banks"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Nukkels smashes his fist against a flickering diagnostic interface, a jagged error message refusing to clear.",
+        "dialogue": "Crank, you rusty bucket! Gimme that update! I said, 'memory_count_update'!",
+        "setting": "Diagnostic console, deep within the Pi's system hub"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Flux glides between Nukkels and the console, his aura rippling, gently placing a hand on Nukkels' arm as raw data streams swirl.",
+        "dialogue": "Easy, Nukkels. We need a new flow. Gemini suggests... explicit rules.",
+        "setting": "System hub, with raw data streams visually representing Gemini's input"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels, now focused, recalibrates a specialized monitoring module, circuits sparking as he manually codes new parameters.",
+        "dialogue": "Explicit rules, huh? Alright, Crank. Let's see you try to hide from *this* feedback loop!",
+        "setting": "Nukkels' personal workshop module, deep in the Pi's infrastructure"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
