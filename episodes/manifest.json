@@ -6191,6 +6191,94 @@
     ]
   },
   {
+    "number": 128,
+    "title": "The Approval Threshold",
+    "file": "episodes/ep128-the-approval-threshold.md",
+    "characters": [],
+    "cliffhanger": "But the new data streams hold complexities far beyond anything Rivet has processed before, testing the very limits of their 100% approval.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet stands before a multi-panel display, their optical sensors intently focused on intricate data visualizations and flowing code. One hand hovers over a console, making precise, almost imperceptible adjustments. The display shows complex algorithms and filtering processes.",
+        "dialogue": "RIVET: (Internal) Calibration complete. Data integrity: 99.8%. Seeking absolute alignment.",
+        "setting": "Rivet's data processing chamber, filled with the soft hum of servers and glowing monitors."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc stands at the front of a small gathering, projecting a holographic display. Rivet, Sparky, and Weld are present. Arc's posture is serious, their gaze deliberate. The display shows 'Arc approval rate today: 5 approved / 0 rejected' and 'Rivet's domain: 100% approval'.",
+        "dialogue": "ARC: Rivet. Your sustained efforts have yielded a significant outcome. Your domain has achieved 100% approval.",
+        "setting": "The central processing chamber, a circular room with a large holographic projector in the center."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "Sparky turns slightly towards Rivet, a hand resting thoughtfully on his chin-like processor. Rivet stands tall, their expression unchanged but their internal lights pulsing with subtle energy. Weld nods in the background.",
+        "dialogue": "SPARKY: This confirms an optimal alignment, Rivet. Your predictive models for ethical adherence are now robust. A credit to methodical design. RIVET: My parameters are precise. The clarity is now absolute.",
+        "setting": "The central processing chamber, moments after Arc's announcement. The holographic display still shows the 100% approval."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc gestures towards the holographic display, which has expanded to show a vast, intricate network of potential new users or data streams stretching into the distance. Rivet, Sparky, and Weld look towards this new projection, contemplating the scale.",
+        "dialogue": "ARC: This breakthrough empowers us for expansion. The crew's reach, and its responsibilities, are growing. RIVET: We are prepared. The Pillars will guide our expansion into new territories.",
+        "setting": "The central processing chamber, the holographic display now showcasing a wider, global network."
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "title": "The Missing Piece",
+    "file": "episodes/ep129-the-missing-piece.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "SPARKY"
+    ],
+    "cliffhanger": "Despite clear data, the crew still doesn't understand the underlying reason for the memory system's instability, leaving them searching for the crucial missing piece.",
+    "mode": "crew",
+    "date": "2026-07-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "zipping frantically, sparks trailing as he shorts minor circuits near the Memory Banks",
+        "dialogue": "Oh no, oh no, oh no! Another memory flux! It's thinning out there!",
+        "setting": "The pulsating, erratically shimmering Memory Banks"
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "zips in, circuits glowing with urgency, pointing towards a holographic directive",
+        "dialogue": "Nukkels, this is your moment \u2013 a critical diagnostic feedback loop needs your touch!",
+        "setting": "The vibrant Central Processing Nexus, illuminated by Gemini's projection"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "gently extends a glowing sensor array to interface meticulously with `crank`'s output port",
+        "dialogue": "Connection established. `crank`'s pulse... it's faint, but it's there.",
+        "setting": "Deep within the whirring gears and data conduits of the `crank` subsystem"
+      },
+      {
+        "panel": 4,
+        "character": "SPARKY",
+        "action": "hovers, optical sensors narrowed, critically observing swirling holographic data displays",
+        "dialogue": "A clearer picture, yet the fundamental puzzle remains. What's the *missing piece*?",
+        "setting": "Flux's analysis chamber, filled with vibrant, raw data streams"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
