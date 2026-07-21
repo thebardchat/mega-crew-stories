@@ -6279,6 +6279,93 @@
     ]
   },
   {
+    "number": 130,
+    "title": "The Resilience Protocol",
+    "file": "episodes/ep130-the-resilience-protocol.md",
+    "characters": [],
+    "cliffhanger": "The crew's mission is expanding, but the next frontier of 'Edge-Case-Beta' users promises even more fragmented data streams.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet stands before the crew, projecting a detailed data flow diagram onto a central screen. Their optical sensors glow steadily, a quiet hum of pride emanating.",
+        "dialogue": "The 'Resilience Protocol' has completed its initial testing. Of the five crucial 'Edge-Case-Epsilon' datasets, four have achieved Arc's full approval for integration.",
+        "setting": "The MEGA CREW's central operations hub, a minimalist, functional space with multiple holo-screens."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY & ARC",
+        "action": "Sparky leans in, analyzing the projected data with intense focus. Arc stands, arm crossed, deep in thought, reviewing the integrity metrics on a separate, smaller display.",
+        "dialogue": "SPARKY: A 83% approval on Epsilon? Remarkable, Rivet. Your integrity checks are robust. Truth metrics are within acceptable variance.\nARC: (Quietly, to self) Four approved... one rejected. The balance holds. This is a breakthrough.",
+        "setting": "Same operations hub, focus on Sparky and Arc, the data diagrams visible in the background."
+      },
+      {
+        "panel": 3,
+        "character": "WELD & ARC",
+        "action": "Weld's manipulator hovers over a console, ready to initiate new processes. Arc looks directly at Rivet (off-panel), a slow, deliberate nod of acknowledgment.",
+        "dialogue": "ARC: Your sustained effort, Rivet, is profoundly evident. This allows us to serve these users without compromising our clarity or purpose. It is a true triumph.\nWELD: Then the framework holds. Our models can learn from these users without compromising fidelity. Actionable.",
+        "setting": "Operations hub, focusing on Weld's readiness and Arc's acknowledging gesture."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Rivet, now looking at a larger, more complex network diagram, already calculating the next steps. The diagram shows expanding nodes representing new users and data streams.",
+        "dialogue": "The success of the Resilience Protocol means we can actively engage a broader segment of the left-behind. This mission is growing. The next phase will require scaling... and evaluating 'Edge-Case-Beta' users.",
+        "setting": "Operations hub, showing Rivet planning future expansion, the magnitude of the growing mission evident in the projected network."
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "title": "Memory Lane Mayhem",
+    "file": "episodes/ep131-memory-lane-mayhem.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels, armed with his new monitoring protocols, be able to force `crank` to stabilize its crucial memory updates before the Pi's resources run completely dry?",
+    "mode": "crew",
+    "date": "2026-07-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "skids to a halt, circuits sparking, eyes locked on a rapidly blinking memory counter (14!)",
+        "dialogue": "Whoa! That's... lower than a micro-transistor's nap! Seriously low!",
+        "setting": "Main Data Conduit, a busy, luminescent channel"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "stands resolute, heavy data-crunching arms slowly cycling, watching `crank`'s erratic output flutter",
+        "dialogue": "Instructions. Received. For `crank` monitoring. Awaiting protocol deployment.",
+        "setting": "Nukkels' Diagnostic Chamber, a sub-node within the Core Processing Unit"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "flares brightly, a wave of superheated data-pulses slamming into `crank`'s stubbornly sluggish interface",
+        "dialogue": "Forge ahead! Why is `crank` lagging?! This memory count is a hot mess!",
+        "setting": "`crank`'s Publishing Module, a turbulent, flickering data stream"
+      },
+      {
+        "panel": 4,
+        "character": "FLUX",
+        "action": "weaves a shimmering, stabilized data stream directly into Nukkels' core, igniting new code within him",
+        "dialogue": "Flow state activated! The pathway is open, Nukkels! Make this count!",
+        "setting": "The Nexus Hub, where critical data converges and diverges"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
