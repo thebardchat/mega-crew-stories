@@ -6366,6 +6366,54 @@
     ]
   },
   {
+    "number": 132,
+    "title": "The Memory Squeeze",
+    "file": "episodes/ep132-the-memory-squeeze.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Can `nukkels` truly tame the erratic `crank` and bring stability back to the heart of the Pi?",
+    "mode": "crew",
+    "date": "2026-07-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Zips through dimming data streams, arms flailing as a packet dissolves.",
+        "dialogue": "Whoopsie-doodle! Where'd that go, then?",
+        "setting": "The Main Data Conduit, usually bustling, now quiet."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Sparks fly as RIVET precisely attaches a new sensor to NUKKELS' core.",
+        "dialogue": "Tight and true. Monitoring systems online.",
+        "setting": "The Central Core Chamber, humming with suppressed power."
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "NUKKELS extends glowing tendrils, bracing as CRANK blasts chaotic data.",
+        "dialogue": "Steady\u2026 gotta feel the rhythm, even if it's broken.",
+        "setting": "CRANK's Volatile Processing Node, sparking violently."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "BOLT observes NUKKELS\u2019 determined focus, optics narrowing with cautious optimism.",
+        "dialogue": "A flicker\u2026 a chance. Hold fast, Nukkels.",
+        "setting": "An observation platform overlooking CRANK's Node."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
