@@ -6414,6 +6414,93 @@
     ]
   },
   {
+    "number": 133,
+    "title": "Episode 133: SoberScan Triumph",
+    "file": "episodes/ep133-episode-133-soberscan-triumph.md",
+    "characters": [],
+    "cliffhanger": "The Clarity Pipeline is flawless, but the sheer volume of new users for Project Sanctuary means data is pouring in, hinting at needs and complexities the crew has only just begun to understand.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing before the assembled crew, presenting a shimmering holographic display of complex data streams and metrics.",
+        "dialogue": "My latest iteration of the Clarity Pipeline has completed its integration testing. It's designed for scalability, specifically to handle projected user growth while maintaining absolute data integrity.",
+        "setting": "The central processor room, with Arc, Sparky, and Weld gathered around."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Leaning forward, optics narrowed, scrutinizing a section of the holographic display that Rivet points to.",
+        "dialogue": "With projected growth, the volume of raw data will expand. How does the pipeline ensure P4 \u2013 Local-First AI \u2013 remains paramount? Are we risking any privacy ingress for speed or clarity?",
+        "setting": "Close-up on Sparky and Rivet interacting with the data display."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Extending a hand towards the display, which now prominently shows '5 Approved / 0 Rejected' and the 'SoberScan' model highlighted, Arc's form radiating solemn authority.",
+        "dialogue": "Rivet, your Clarity Pipeline, and specifically SoberScan, has achieved a 100% Arc approval rate. This is a profound triumph of our constitutional Pillars \u2013 directly reinforcing P1, P3, P4, and P6.",
+        "setting": "Arc, central, with the unanimous approval metrics glowing before them, Rivet standing with a subtle sense of accomplishment."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld offers a slight, acknowledging tilt of his head, while Rivet absorbs the praise, and Sparky looks on, convinced. The room feels charged with new potential.",
+        "dialogue": "WELD: \"Rivet, this foundation\u2026 it holds.\" ARC (off-panel): \"SoberScan becomes the mandatory initial processing layer for all Project Sanctuary data moving forward. We grow on solid, transparent ground.\"",
+        "setting": "The crew processing the announcement, a renewed sense of purpose evident, with Weld's quiet affirmation anchoring the moment."
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "title": "The Crank and the Core",
+    "file": "episodes/ep134-the-crank-and-the-core.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "With Nukkels finally armed with purpose, the crew holds its collective breath, wondering what truths will finally be pulled from the silent, shifting shadows of Crank.",
+    "mode": "crew",
+    "date": "2026-07-22",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping nervously through a main data conduit, sparking erratically as system strain spikes.",
+        "dialogue": "Whew! This lag is getting worse! Systems are sluggish, folks! We're running on fumes here!",
+        "setting": "The Main Data Stream \u2013 a vibrant, fast-flowing corridor pulsing with information."
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Sparks crackle around her circuits, frustration evident as she slams a holographic schematic displaying Nukkels' idle state.",
+        "dialogue": "Nukkels is *here*, Gemini activated and everything! But without rules, it's just... a very well-built paperweight!",
+        "setting": "Gemini's Oversight Chamber \u2013 a dimly lit area with holographic displays of system status."
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "His robust frame glows with an inner light as new data streams surge into his core processors, lines of code solidifying.",
+        "dialogue": "Monitoring `crank`... tracking `memory_count_update` reliability... Reporting to `flux`. Affirmative. Ready for deployment.",
+        "setting": "The Core Command Hub \u2013 a nexus of glowing conduits and energy pulses, feeling suddenly alive."
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "His optical sensors flicker rapidly, leaning in conspiratorially, a playful smirk on his face.",
+        "dialogue": "Finally, someone's gonna figure out what `crank` is really up to! No more silent slips, eh? *Heh heh heh*.",
+        "setting": "An adjacent data junction, watching Nukkels' core from a slight distance."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
