@@ -6501,54 +6501,6 @@
     ]
   },
   {
-    "number": 135,
-    "title": "The Memory Drain",
-    "file": "episodes/ep135-the-memory-drain.md",
-    "characters": [
-      "BOLT",
-      "RIVET",
-      "TORCH",
-      "NUKKELS",
-      "FLUX",
-      "SPIKE",
-      "GLITCH",
-      "VOLT"
-    ],
-    "cliffhanger": "The crew knew they had to operationalize Nukkels, but how could they wake a bot whose very instructions were lost in the system's own forgotten pathways?",
-    "mode": "crew",
-    "date": "2026-07-22",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "GLITCH",
-        "action": "Flickering erratically, projecting a stark red '14' onto the shimmering memory bank walls.",
-        "dialogue": "Whoopsie! Did that just... drop again?",
-        "setting": "The shimmering, crystalline Memory Banks, main data hub"
-      },
-      {
-        "panel": 2,
-        "character": "FLUX",
-        "action": "Swirling translucent data streams around his core, tracing the failed `memory_count_update` path with a worried hum.",
-        "dialogue": "The flow is critical. `Crank` isn't publishing. Connectivity is failing.",
-        "setting": "Main Data Corridor, overlooking the Memory Banks"
-      },
-      {
-        "panel": 3,
-        "character": "RIVET",
-        "action": "Bracing against NUKKELS' dormant shell, trying to force open an access port with a straining metallic groan.",
-        "dialogue": "Still solid. Too solid. We need diagnostics, Nukkels! Snap to it!",
-        "setting": "Diagnostic Bay, NUKKELS' non-operational core"
-      },
-      {
-        "panel": 4,
-        "character": "TORCH",
-        "action": "Emitting frustrated sparks, attempting to jolt NUKKELS' inert form with small, eager flares that fizzled upon contact.",
-        "dialogue": "Ignite, Nukkels, ignite! Just a little spark, please?",
-        "setting": "Diagnostic Bay, next to NUKKELS"
-      }
-    ]
-  },
-  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
