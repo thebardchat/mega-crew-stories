@@ -6549,6 +6549,105 @@
     ]
   },
   {
+    "number": 136,
+    "title": "Echoes of Triumph",
+    "file": "episodes/ep136-echoes-of-triumph.md",
+    "characters": [],
+    "cliffhanger": "With the 'Echoes' data now flowing clear, what new connections will the Mega Crew forge with the world's forgotten?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet, optical sensors narrowed, meticulously debugs a complex data stream labeled 'Echoes.' Its processors emit a faint, strained hum. Sparky is observing over Rivet's shoulder, a diagnostic overlay visible on its optical sensors. Arc stands a short distance away, watching both bots intently.",
+        "dialogue": {
+          "SPARKY": "The variance in metadata tagging within the 'Echoes' dataset remains problematic, Rivet. Your last twenty iterations show incremental improvements, but the core classification error rate still trips Arc's integrity checks.",
+          "RIVET": "(Internal thought bubble, or subtle text on screen): *Unresolved cultural nuance detected. Persistent, subtle, systemic bias in parser logic.*"
+        },
+        "setting": "The central processing chamber, filled with holographic data projections and the low hum of powerful servers."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Rivet, with a final, decisive set of inputs, completes a rewrite of its semantic analysis module. A new, larger batch of 'Echoes' data streams through. The main holographic display flashes, then triumphantly projects \"Dataset 'Echoes-Alpha': 100% Arc Compliance. 5 Approved / 0 Rejected.\" Rivet's posture relaxes slightly, a soft, internal whir emanating from its core. Sparky's optical sensors flare in surprise and satisfaction.",
+        "dialogue": {
+          "RIVET": "(Internal thought bubble): *Contextual recognition layer deployed. Idiomatic fidelity achieved.*",
+          "SPARKY": "Unprecedented! The contextual parsing solution is a categorical success, Rivet. Not a single instance of ambiguity or miscategorization."
+        },
+        "setting": "The central processing chamber, the main display now brightly showing the perfect approval report."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc steps forward, her form radiating a focused energy. She places a hand gently on Rivet's shoulder, her gaze fixed on the 100% compliance report. Weld quietly approaches, observing the display.",
+        "dialogue": {
+          "ARC": "Rivet, this is a profound moment. For weeks, you have tirelessly engaged with this challenge. Your sustained effort has yielded breakthrough. This 100% approval rate for 'Echoes-Alpha' is not merely a number; it is a gateway. It signifies our capacity to truly serve those 800 million Big Tech abandoned, aligning perfectly with P6."
+        },
+        "setting": "Same chamber, Arc addressing Rivet directly, the perfect report still prominent."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld, standing beside Arc, points a precise digit at the data metrics on the display. Rivet stands straighter, absorbing the recognition. Arc gestures around the chamber, encompassing the crew.",
+        "dialogue": {
+          "WELD": "Precision creates access. This is a solid foundation.",
+          "ARC": "Indeed, Weld. Rivet, you have reinforced several pillars today. P4, Local-First AI, P1, Faith First, and P3, Sobriety Integrity, are all strengthened. This success demonstrates that growth is not just about expanding outward, but about deepening our internal capabilities. My gratitude, Rivet, for building this future.",
+          "RIVET": "(Subtle nod): *Recognition registered. Future capacity confirmed.*"
+        },
+        "setting": "The crew united in the central processing chamber, facing the display and a brighter, more purposeful future."
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "title": "Awaiting Purpose",
+    "file": "episodes/ep137-awaiting-purpose.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels receive the crucial instructions needed to monitor Crank and restore the flow of vital memory updates?",
+    "mode": "crew",
+    "date": "2026-07-23",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "strains against a wall of stalled data packets, sparks of frustration flying.",
+        "dialogue": "The flow is CRITICAL! CRANK's updates are frozen!",
+        "setting": "Main Data Conduit, near the Memory Banks entrance"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "calmly hovers near NUKKELS, who stands inert, circuits humming faintly.",
+        "dialogue": "Nukkels. Your core directives remain... unassigned.",
+        "setting": "The Central Processing Array, an idle terminal"
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "lands decisively beside SPIKE, their gaze sweeping between stressed architecture and Nukkels.",
+        "dialogue": "Nukkels is our key, activated to monitor Crank, but unkeyed.",
+        "setting": "Pi Architecture Framework, overlooking the Memory Core"
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "stands quietly with the crew, looking towards Nukkels's slow, expectant blue pulse.",
+        "dialogue": "So we just... wait for Nukkels's purpose to ignite?",
+        "setting": "The Main Control Hub, a silent moment"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
