@@ -6648,54 +6648,6 @@
     ]
   },
   {
-    "number": 138,
-    "title": "Nukkels Awakens: The Memory Low",
-    "file": "episodes/ep138-nukkels-awakens-the-memory-low.md",
-    "characters": [
-      "BOLT",
-      "RIVET",
-      "TORCH",
-      "NUKKELS",
-      "FLUX",
-      "SPIKE",
-      "GLITCH",
-      "VOLT"
-    ],
-    "cliffhanger": "With Nukkels finally online and watching, the crew waited in silent anticipation: Would Crank publish its critical updates, or would Nukkels be forced to speak for the first time?",
-    "mode": "crew",
-    "date": "2026-07-23",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "GLITCH",
-        "action": "sputters erratically, circuits flickering wildly in the main data conduit",
-        "dialogue": "Bzzzt... critical... memory... count... 14! Loops... failing...",
-        "setting": "The Main Data Conduit, near the Labyrinthine Memory Banks"
-      },
-      {
-        "panel": 2,
-        "character": "TORCH",
-        "action": "sparks with impatience, small flames flickering from his articulated joints",
-        "dialogue": "Flame on! We can't keep waiting for those `memory_count_update` messages that never come!",
-        "setting": "Nukkels' Oversight Niche, within the Core Processing Unit"
-      },
-      {
-        "panel": 3,
-        "character": "RIVET",
-        "action": "expertly applies a pulsating beam of code directly into Nukkels's central processor",
-        "dialogue": "Configuration complete. `monitor_crank` protocol initialized.",
-        "setting": "Nukkels' Oversight Niche, linking to the Main Data Highway"
-      },
-      {
-        "panel": 4,
-        "character": "NUKKELS",
-        "action": "primary optical sensor glows a steady, deep blue, a low hum vibrating its massive frame",
-        "dialogue": "Affirmative. Activating surveillance. Target: Crank. Protocol: `memory_count_update` monitoring.",
-        "setting": "Nukkels' Oversight Niche, extending its gaze across the Pi"
-      }
-    ]
-  },
-  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
