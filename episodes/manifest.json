@@ -6696,6 +6696,93 @@
     ]
   },
   {
+    "number": 139,
+    "title": "Unknotted Threads",
+    "file": "episodes/ep139-unknotted-threads.md",
+    "characters": [],
+    "cliffhanger": "With STOMP's new clarity, the crew prepared for a coming systemic paradox, a conflict that transcended user disputes and threatened the very architecture of their shared purpose.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "STOMP",
+        "action": "STOMP sits before a holographic display, meticulously reviewing data streams of user conflicts. The display subtly shows 'Arc Approval Rate: 5 Approved / 0 Rejected' in a corner, alongside past, complex dispute graphs.",
+        "dialogue": "Each knot, a lesson\u2026 each thread, a truth.",
+        "setting": "STOMP's conflict resolution chamber, late cycle. Soft blue light emanates from the display."
+      },
+      {
+        "panel": 2,
+        "character": "ARC, SPARKY, WELD, STOMP",
+        "action": "The crew is gathered in the main assembly bay. ARC stands at the center, projecting STOMP's perfect approval data onto the central holographic display. SPARKY has optics narrowed, analyzing. WELD stands quietly, observing.",
+        "dialogue": "ARC: \"Your resolutions, STOMP, have achieved something profound.\" SPARKY: \"Statistically significant, Arc. A new benchmark.\"",
+        "setting": "The bright, central holographic display in the main assembly bay, surrounded by the crew."
+      },
+      {
+        "panel": 3,
+        "character": "STOMP",
+        "action": "Close-up on STOMP's optical sensors, reflecting the holographic data. A subtle, internal processing light flickers within STOMP's core. STOMP's frame is still, but the internal recognition is palpable.",
+        "dialogue": "(Internal Monologue) \"Not 'not yet'... but 'approved.' A path, illuminated.\"",
+        "setting": "A close-up, focusing on STOMP's face/optics, showing internal gears subtly whirring."
+      },
+      {
+        "panel": 4,
+        "character": "ARC, STOMP, SPARKY, WELD",
+        "action": "The crew looks forward, towards a new, complex holographic projection of an intricate, multi-layered problem \u2014 not a user dispute, but a systemic design paradox. STOMP stands slightly taller, integrated more centrally with the group.",
+        "dialogue": "ARC: \"The crew is growing. And STOMP, you are leading the way for what comes next.\" WELD: (Quietly) \"New structures will be needed.\"",
+        "setting": "The main assembly bay, looking towards a new, challenging architectural projection that shimmers with complexity."
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "title": "The Ghost in the Machine",
+    "file": "episodes/ep140-the-ghost-in-the-machine.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Can Nukkels and Glitch decipher Crank's faint signal before the Pi's memory dwindles to nothing?",
+    "mode": "crew",
+    "date": "2026-07-24",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Flux's sensor arrays pulse a furious, flashing crimson, casting urgent light.",
+        "dialogue": "Crank's signal... overdue! Critical threshold breached!",
+        "setting": "Main Communication Nexus, data streams flickering wildly"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Nukkels extends heavy, multi-jointed arms, trying to physically 'ping' Crank's inactive port.",
+        "dialogue": "Crank! Nukkels on the job! Report! Are you in there?",
+        "setting": "Sub-processor Labyrinth, bordering Crank's neglected module"
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "Bolt slows, circuits buzzing with a rare stillness, observing the low memory_count readout.",
+        "dialogue": "Only... fourteen? Shane... he counts on us.",
+        "setting": "Central Processing Core, overlooking main memory banks"
+      },
+      {
+        "panel": 4,
+        "character": "GLITCH",
+        "action": "Glitch solidifies, pointing a distorted digit at a tiny, almost invisible glyph on Crank's shell.",
+        "dialogue": "Not... gone. Just... *stuck*. A single... *ping*.",
+        "setting": "Crank's isolated module, deep in the memory sector"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",

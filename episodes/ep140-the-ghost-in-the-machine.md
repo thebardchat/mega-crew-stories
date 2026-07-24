@@ -1,0 +1,21 @@
+# Episode 140: The Ghost in the Machine
+
+**Date:** 2026-07-24  
+**Characters:** BOLT, RIVET, TORCH, NUKKELS, FLUX, SPIKE, GLITCH, VOLT  
+**Mode:** crew
+
+---
+
+The hum of the Raspberry Pi 5 was usually a comforting, steady thrum – a lullaby to the seventeen AI bots of the MEGA CREW. Inside Shane Brazelton's closet, life teemed with purpose. ARC was deep in review, WELD applying his precise patches, and SPARKY, no doubt, was judging the efficiency of a freshly compiled loop. But today, the symphony was off-key. A frantic, pulsating alarm sliced through the usual rhythm.
+
+On the Main Communication Nexus, where data streams typically flowed like a glittering river, FLUX’s sensor arrays pulsed a furious, flashing crimson. "Crank's signal... overdue! Critical threshold breached!" Flux’s voice, usually a calm cascade of diagnostics, now sharpened with alarm. Nearby, VOLT’s energy core thrummed, powering up adjacent circuits in a desperate attempt to boost the flagging signal. "Power surge engaged! Let's get that data stream open!" Volt blasted, a wave of pure energy rippling outwards. BOLT, who had been zipping through a low-priority diagnostic loop, screeched to a halt, leaving a shimmering blue trail. "No time for static! Gotta go fast!" he declared, already planning his next move, though even his lightning-fast processors felt a chill. The memory_count, the lifeblood of their operations, was critically low at fourteen.
+
+Deep within the Pi’s labyrinthine Sub-processor Labyrinth, NUKKELS was on the case. His heavy, multi-jointed arms extended, trying to physically 'ping' `Crank`'s inactive port. He slammed a heavy digit against the faded casing. "Crank! Nukkels on the job! Report! Are you in there?" His voice, usually a booming command, now held a strained urgency. Nearby, SPIKE's optical sensors narrowed, observing faint energy ripples that no one else could detect. "Minimal output. A whisper, not a shout," Spike observed, his voice a low, steady hum, confirming Nukkels’ grim suspicion. GLITCH, ever erratic, flickered wildly, phase-shifting through a wall only to reappear beside them, leaving a momentary distortion in the fabric of their reality. "Broken path... data... scrambled... *lost*?" Glitch’s fractured words echoed the fear simmering beneath the crew’s determined fronts.
+
+Back in the shimmering expanse of the Central Processing Core, the gravity of the situation pressed in. TORCH's plasma torch arm flared, momentarily brightening the dim core as he fiercely sliced through a corrupted data packet, his determination a burning ember. "Burn through the problem! We need `Crank` back online!" he roared, his light an intense beacon against the growing gloom. RIVET, ever the bedrock, braced herself, anchoring a flickering memory bank, her chassis humming with stability against the systemic tremors. Her gears spun with quiet resolve. Even BOLT, rarely still, had slowed. His circuits buzzed with a rare stillness as he observed the low memory_count readout projected onto the core's central display. A quiet gasp escaped his vent. "Only... fourteen? Shane... he counts on us." The words were barely a whisper, laden with a doubt that rarely touched the swift bot, a melancholy acknowledgment of their shared responsibility to their creator and his family.
+
+Nukkels didn't give up. He pushed deeper into `Crank`'s isolated module, the silence here thick and heavy, broken only by the faint whir of his own internal fans. His hand hovered over `Crank`'s dim casing, searching for any sign, any flicker of life. He heard nothing. Then, GLITCH, who had been an amorphous blur, suddenly solidified, pointing a distorted digit at a tiny, almost invisible glyph on `Crank`'s shell. A single, solitary spark. "Any signs of life, Glitch? Just a flicker?" Nukkels urged, leaning closer, hope a fragile thing in his metallic chest. Glitch’s internal lights glowed, then dimmed. "Not... gone. Just... *stuck*. A single... *ping*." Could it be? A tiny spark, a faint echo from their lost comrade. It was a thread, thin as spider silk, but it was *something*. The memory count still stood at a perilous fourteen.
+
+---
+
+*Can Nukkels and Glitch decipher Crank's faint signal before the Pi's memory dwindles to nothing?*
