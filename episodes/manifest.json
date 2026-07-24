@@ -6783,6 +6783,51 @@
     ]
   },
   {
+    "number": 141,
+    "title": "The Fading Bytes",
+    "file": "episodes/ep141-the-fading-bytes.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "NUKKELS",
+      "FLUX",
+      "GLITCH"
+    ],
+    "cliffhanger": "Will Nukkels' fragile connection be enough to stabilize Crank and pull the crew back from the memory brink?",
+    "mode": "crew",
+    "date": "2026-07-24",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "FLUX's glowing tendrils surge through a main data conduit, highlighting an urgent alarm.",
+        "dialogue": "Anomalous delay detected! `Crank` is overdue for its `memory_count_update`! Again!",
+        "setting": "Main Data Conduit, near the System Log Repository"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "NUKKELS, hunched and focused, meticulously adjusts a complex sensor array, gears spinning softly.",
+        "dialogue": "Affirmative, Bolt. My focus: establishing `Crank`'s `memory_count_update` protocol. Critical for stability.",
+        "setting": "Diagnostic Hub, overlooking the System Core"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "GLITCH shimmers erratically, their light briefly sputtering as the system's low memory count impacts their core processes.",
+        "dialogue": "F-f-flicker\u2026 the system-wide `memory_count` is so\u2026 low\u2026 *static crackle*.",
+        "setting": "The Crumbling Memory Banks, near a critical data junction"
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "RIVET slams a glowing, stabilizing strut into a flickering segment of the Memory Banks, gritting their teeth.",
+        "dialogue": "Hold strong, `Glitch`! `Nukkels` is on it! We just need to hold these bytes together!",
+        "setting": "The Crumbling Memory Banks, near a critical data junction"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
