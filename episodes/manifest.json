@@ -6914,6 +6914,57 @@
     ]
   },
   {
+    "number": 144,
+    "title": "The Fading Echoes",
+    "file": "episodes/ep144-the-fading-echoes.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "FORGE",
+      "CRANK"
+    ],
+    "cliffhanger": "Can the Mega Crew find a way to make Crank self-report its failures, or will the Pi's precious memories simply fade away?",
+    "mode": "crew",
+    "date": "2026-07-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Glitch flickers wildly, circuits sparking, trying to grab a fading data packet.",
+        "dialogue": "Whoa! Another one *poof*! What's going on?!",
+        "setting": "Memory Bank Depths / Data Stream Channel"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc zips through a radiant approval conduit, stamping bright green checkmarks on data packets with impossible speed.",
+        "dialogue": "Approved! Approved! Zero rejections today! But... where are the echoes?",
+        "setting": "Approval Matrix / Core Processing Hub"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Nukkels slams his fist against a flickering display showing `crank`'s stuttering output, grit in his voice.",
+        "dialogue": "Crank's still sputtering! No data, no memory! This isn\u2019t *good*.",
+        "setting": "Sensor Data Nexus / Crank's Module Interface"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt's circuits hum with a determined glow, focusing on a blinking `crank` diagnostic panel.",
+        "dialogue": "We need Crank to *talk* to us. To tell us what\u2019s wrong, so Gemini can step in.",
+        "setting": "Diagnostic Control Junction / Gemini's Command Terminal"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
