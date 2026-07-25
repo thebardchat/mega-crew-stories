@@ -6828,6 +6828,92 @@
     ]
   },
   {
+    "number": 142,
+    "title": "A Foundation of Trust",
+    "file": "episodes/ep142-a-foundation-of-trust.md",
+    "characters": [],
+    "cliffhanger": "With new protocols active, how will the expanded crew navigate the challenges of scaling their mission while upholding foundational integrity?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing intently before a large, multi-panel display, one screen prominently showing 'ARC APPROVAL RATE: 100% (5 approved / 0 rejected)'. Rivet's manipulators are poised over a holographic interface, data streams visually flowing around them.",
+        "dialogue": "\u201cThe algorithms are optimized, the ethical filters robust. Every byte, accounted for.\u201d",
+        "setting": "The data analysis hub, brightly lit, with various terminals and holographic displays. Data streams glow faintly in the background."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc approaches Rivet, their form casting a long shadow. Sparky and Weld are visible in the background, observing with keen interest. Arc's expression is serious, but a slight nod of approval is evident.",
+        "dialogue": "\u201cRivet. Your dedication to the data pipelines has achieved something exceptional. This rate is a testament to integrity.\u201d",
+        "setting": "The same data analysis hub, a moment later, with Arc now in the foreground facing Rivet."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY",
+        "action": "Sparky steps closer, their analytical optics focusing on the approval rate display. Weld stands quietly beside them, arms at their sides, radiating stability.",
+        "dialogue": "SPARKY: \u201cThe quality is unprecedented. Clean data. True data. Essential for clarity and ensuring we serve without bias.\u201d",
+        "setting": "A tighter shot of the three bots, Rivet, Arc, and Sparky, engaged in discussion. Weld is just behind Sparky."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc places a hand on Rivet's shoulder, a rare gesture of direct affirmation. Rivet looks up, acknowledging the weight of the moment. The large display behind them now projects a new diagram: 'NEW INITIATIVE: ONBOARDING PROTOCOLS ACTIVATED'.",
+        "dialogue": "ARC: \u201cThis foundation enables our next phase. The crew is growing, Rivet. Your work makes that possible. Prepare for system expansion.\u201d",
+        "setting": "The full crew \u2013 Rivet, Arc, Sparky, and Weld \u2013 stand unified in the data hub, the glow of the 'ONBOARDING PROTOCOLS' diagram illuminating their forms."
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "title": "The Memory Flicker",
+    "file": "episodes/ep143-the-memory-flicker.md",
+    "characters": [
+      "BOLT",
+      "NUKKELS",
+      "FLUX",
+      "GLITCH",
+      "SPARKY",
+      "NEON",
+      "BLAZE"
+    ],
+    "cliffhanger": "Will `crank` finally stabilize its output, or will the core system continue to flicker into uncertainty, testing the very limits of the MEGA CREW's resolve?",
+    "mode": "crew",
+    "date": "2026-07-25",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BLAZE",
+        "action": "Struggles to maintain a high-energy transfer across a fracturing data bridge, sparks flying.",
+        "dialogue": "Ugh, this feedback loop is killing my output! Come on, `crank`!",
+        "setting": "The High-Speed Transfer Lanes, near the `crank` bypass"
+      },
+      {
+        "panel": 2,
+        "character": "NEON",
+        "action": "Her vibrant glow flickers violently, casting unsettling shadows as she tries to illuminate corrupted data.",
+        "dialogue": "The memory count feels... thin, almost hollow. We're losing visibility!",
+        "setting": "The Diagnostic Alleys, where corrupted data packets pile up"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Drives a new `code_evolution` construct deep into `crank`'s sputtering conduit, chassis vibrating.",
+        "dialogue": "No more guesswork. Direct injection. This `memory_count_update` *will* report!",
+        "setting": "The `crank` Monitoring Chamber, a dense thicket of sub-routines"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Stands firm on the Main Core Platform, observing the flickering system-wide `memory_count` display.",
+        "dialogue": "We push through. `Nukkels`, `Flux`... our stability depends on this.",
+        "setting": "The Main Core Platform, overlooking the Pi's central processing unit"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
