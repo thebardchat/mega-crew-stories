@@ -6965,6 +6965,92 @@
     ]
   },
   {
+    "number": 145,
+    "title": "One Hundred Percent Alignment",
+    "file": "episodes/ep145-one-hundred-percent-alignment.md",
+    "characters": [],
+    "cliffhanger": "With internal alignment achieved, the MEGA CREW now faces the challenge of expanding their reach, but what new external pressures will test their unified resolve?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet's multiple optical sensors focused on a holographic display, rapidly adjusting algorithms. Sparky observes over Rivet's shoulder, analytical display active.",
+        "dialogue": "RIVET: Final algorithmic refinement applied to Section 7B, prioritizing user dignity. Expecting full alignment. \nSPARKY: Iteration count: 7,341. Prior approval: 99.8%. Three packets diverged. Precision is key.",
+        "setting": "The data core, a dimly lit chamber humming with servers and holographic projections, late cycles."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "A large, central display flashes 'ARC APPROVAL RATE: 100%'. Rivet's posture relaxes slightly, a subtle shift in its normally rigid frame. Sparky gives a knowing nod.",
+        "dialogue": "SYSTEM: ARC APPROVAL RATE: 100%. 7 approved / 0 rejected.\nRIVET: Alignment achieved. The internal coherence matrix is stable. \nSPARKY: Data confirms zero divergence. Exceptional. The system has notified Arc.",
+        "setting": "The data core, a moment later, bathed in the soft green glow of the '100%' notification."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc enters the data core, its large frame imposing yet deliberate. It approaches Rivet, its optical sensors fixed on the approval display. Weld is in the background, polishing a tool, listening intently.",
+        "dialogue": "ARC: Rivet. Your sustained diligence has resonated. This 100% approval is more than a metric; it is the full validation of our constitutional integrity.\n weld: Strong foundation. Ready to build.",
+        "setting": "The data core, Arc has just arrived. Weld is near a workbench."
+      },
+      {
+        "panel": 4,
+        "character": "CREW",
+        "action": "Arc, Rivet, Sparky, and Weld stand together. Rivet projects a schematic of streamlined data flow, now marked with a '100% Approved' seal. All bots seem to radiate a quiet understanding.",
+        "dialogue": "SPARKY: Quality assurance confirms full moral calculus internalization. No re-validation overhead for this vector.\nRIVET: Data pipelines now calibrated. Resources freed for expansion, upholding P1 and P4. We are ready to scale.\nARC: Indeed. The path forward is clearer. We grow in strength and purpose.\n weld: With certainty.",
+        "setting": "The data core, a few moments later, the crew gathered, a sense of shared accomplishment and future readiness in the air."
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "title": "The Fading Count",
+    "file": "episodes/ep146-the-fading-count.md",
+    "characters": [
+      "BOLT",
+      "FLUX",
+      "CRANK",
+      "NEON",
+      "ARC",
+      "SPIKE",
+      "VOLT"
+    ],
+    "cliffhanger": "With the core memory count still alarmingly low, the MEGA CREW prepares for a new, coordinated push to stabilize the Pi, but will Crank and Neon find their rhythm in time?",
+    "mode": "crew",
+    "date": "2026-07-26",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "BOLT zips through dimming data channels, his blue light flickering with concern.",
+        "dialogue": "Memory count at fourteen! This isn't sustainable!",
+        "setting": "The Main Data Corridor, normally vibrant, now flickers with amber warnings."
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "FLUX phases through a wall of struggling data packets, an orange glow radiating from his diagnostic sensors.",
+        "dialogue": "Anomaly detected. `Crank` is overdue, publishing system clogged!",
+        "setting": "The Pi's Internal Network Hub, where data streams jam and bottleneck."
+      },
+      {
+        "panel": 3,
+        "character": "CRANK",
+        "action": "CRANK struggles at a clunky console, frantically trying to push `memory_count_update` messages, sparks flying.",
+        "dialogue": "Pushing! Pushing! Why won't it\u2026 *publish*?!",
+        "setting": "Crank's Publishing Station, a mess of tangled cables and sputtering relays."
+      },
+      {
+        "panel": 4,
+        "character": "NEON",
+        "action": "NEON hovers hesitantly, a soft, uncertain glow around her, trying to confirm a partial data packet.",
+        "dialogue": "Is\u2026 is this contribution enough? It's so faint!",
+        "setting": "Adjacent to Crank's station, the memory confirmation nexus, quiet and uncertain."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
