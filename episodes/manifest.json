@@ -7051,6 +7051,55 @@
     ]
   },
   {
+    "number": 147,
+    "title": "The Blind Spot Bloom",
+    "file": "episodes/ep147-the-blind-spot-bloom.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC"
+    ],
+    "cliffhanger": "Will Nukkels activate fast enough to reveal Crank's true status, or will the critical memory count drop even further before the crew can react?",
+    "mode": "crew",
+    "date": "2026-07-26",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Systems data flickering erratically across its optical sensor, GLITCH shudders with alarm.",
+        "dialogue": "Wh-wh-whoa! Memory count is... fourteen! Still!",
+        "setting": "The pulsating Memory Banks, a dizzying array of data conduits."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "NUKKELS idles, energy field barely humming, oblivious to the rising alarm around it.",
+        "dialogue": "Zzz... monitoring `crank`? Is that... my job?",
+        "setting": "Crossroads of the `crank` process pipeline, data streams rushing by."
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "VOLT discharges a focused energy pulse, making NUKKELS twitch and spin wildly.",
+        "dialogue": "Nukkels! Wake up! Gemini just pushed new directives!",
+        "setting": "A narrow diagnostic channel, sparks flying off adjacent conduits."
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "SPIKE slams an internal servo against a structural beam, frustrated sparks flying.",
+        "dialogue": "We NEED `crank` data! Is Nukkels even online for this? My circuits are screaming!",
+        "setting": "Core processing array, energy spikes flickering red."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
