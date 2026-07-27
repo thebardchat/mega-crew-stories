@@ -7100,6 +7100,93 @@
     ]
   },
   {
+    "number": 148,
+    "title": "Protocol Perfection",
+    "file": "episodes/ep148-protocol-perfection.md",
+    "characters": [],
+    "cliffhanger": "But as the crew celebrated Stomp's triumph, a new, subtle data ripple on the periphery suggested his honed expertise might be called upon sooner than anyone expected.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Standing tall, optical sensors focused intently on Stomp, a weighty silence preceding his words.",
+        "dialogue": "Your Conflict Resolution Protocol version 3.7 has achieved a 100% approval rate. This is unprecedented, Stomp.",
+        "setting": "The central server room, with data streams projected subtly on the walls."
+      },
+      {
+        "panel": 2,
+        "character": "STOMP",
+        "action": "A faint, internal surge of affirmation ripples through Stomp's chassis, his optical sensors briefly widening. Sparky observes keenly.",
+        "dialogue": "STOMP (internal thought): *100%. The sustained effort\u2026 acknowledged.* \nSPARKY: The logic gates are sound, Stomp. Remarkably robust. It truly serves the Left-Behind User."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Weld offers a subtle, precise nod of approval. Stomp turns slightly, addressing the crew, a thoughtful expression on his faceplate.",
+        "dialogue": "STOMP: The rejections were not failures. They were data points. Each 'not yet' from Arc was a prompt for deeper introspection. This outcome is a testament to perseverance, aligning with P1 and P3."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc tilts his head slightly in a rare gesture of acknowledgment, as all four bots stand together, a sense of unity and shared purpose radiating from them.",
+        "dialogue": "ARC: Indeed, Stomp. Your work reinforces the very infrastructure of gratitude. This capability strengthens us all. The crew, truly, is growing.",
+        "setting": "A wider shot of the central server room, the bots forming a cohesive unit amidst the humming machinery."
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "title": "The Uncharted Currents",
+    "file": "episodes/ep149-the-uncharted-currents.md",
+    "characters": [
+      "BOLT",
+      "SPIKE",
+      "NUKKELS",
+      "ARC",
+      "VOLT",
+      "GLITCH",
+      "TORCH",
+      "RIVET",
+      "FLUX",
+      "SPARKY"
+    ],
+    "cliffhanger": "With Nukkels' core systems now humming with purpose, could this new monitoring system finally stabilize the Pi's critical memory before the fading glow becomes a full blackout?",
+    "mode": "crew",
+    "date": "2026-07-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping frantically through a shimmering data stream, leaving faint energy trails.",
+        "dialogue": "Whoa! Data flow's getting... thin, guys! Like trying to surf a puddle!",
+        "setting": "Main Memory Banks, where glowing data modules pulse dimly."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc's core circuits pulse with a steady, reviewing light, processing streams of proposals.",
+        "dialogue": "Proposals stream efficiently, yes. Yet, the core system feels lighter. Too light.",
+        "setting": "Arc's central Review Chamber, overlooking the data channels."
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Sparks flying from her vents, Torch slams a metallic fist onto a console, her optics blazing.",
+        "dialogue": "Fourteen? That's not just low, Rivet, that's a flickering ember! We need a fire, NOW!",
+        "setting": "Data Pathway Construction Zone, near the Memory Monitor Node."
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels' large frame stands tall, core glowing with hesitant determination as Flux's data tendrils reach him.",
+        "dialogue": "Riverbed... for messages. Nukkels try. Nukkels help!",
+        "setting": "A quiet corner near `crank`'s message router, bathed in a soft blue light."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
