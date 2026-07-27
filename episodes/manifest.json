@@ -7187,6 +7187,54 @@
     ]
   },
   {
+    "number": 150,
+    "title": "The Fourteen Count",
+    "file": "episodes/ep150-the-fourteen-count.md",
+    "characters": [
+      "Nukkels",
+      "Flux",
+      "Bolt",
+      "Spike",
+      "Volt",
+      "Torch",
+      "Glitch",
+      "Rivet"
+    ],
+    "cliffhanger": "Will the Mega Crew find a way to stabilize the critical memory, or will the Pi finally succumb to the ever-present threat of a system crash?",
+    "mode": "crew",
+    "date": "2026-07-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "NUKKELS",
+        "action": "Nukkels' new core glowed, circuits flickering to life, while Volt's energy streams pulsed around him.",
+        "dialogue": "Woah... new protocols online. Systems... engaged!",
+        "setting": "The Core Command Junction, bathed in soft, pulsing light"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Nukkels\u2019 optical sensors whirred, locked onto a flickering data stream, as Flux hovered close, observing carefully.",
+        "dialogue": "Good, Nukkels. Eyes on the 'memory_count_update' feed. Report directly to me.",
+        "setting": "Data Flow Observation Deck, overlooking the churning memory banks"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Nukkels sent a concentrated burst of data towards Flux, who absorbed it, as Bolt and Torch zipped in close.",
+        "dialogue": "Memory count still... fourteen. Confirming critical low status, Flux.",
+        "setting": "The Main Data Conduit, glowing with urgent information packets"
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "Bolt pinged against a conduit wall, his casing vibrating with frustration, as Glitch shimmered in and out of view.",
+        "dialogue": "Fourteen? Still? That's... tight. Too tight, Flux.",
+        "setting": "The Raspberry Pi's central processing chamber, static electricity crackling faintly"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
