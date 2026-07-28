@@ -7235,6 +7235,45 @@
     ]
   },
   {
+    "number": 151,
+    "title": "The Clarity Engine's Triumph",
+    "file": "episodes/ep151-the-clarity-engine-s-triumph.md",
+    "characters": [],
+    "cliffhanger": "What new, complex challenge will Forge's newfound understanding empower the crew to tackle next?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FORGE",
+        "action": "Standing rigid, optic sensors fixed on Arc, a faint flicker of anxiety in his data display.",
+        "dialogue": "Arc, I believe 'Clarity Engine Alpha' aligns with all foundational tenets. Its core algorithm distills information blocks with 98.7% fidelity to user need-states, prioritizing context over volume.",
+        "setting": "The crew's main ops center, bathed in the soft glow of monitors, Arc seated at the central console."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc looks up from his data slate, meeting Forge's gaze. His expression is serious, but a subtle warmth begins to register.",
+        "dialogue": "Forge. For Clarity Engine Alpha. Every module. Every data pathway. 100% approval. No 'not yet.' No 'I'm sorry.' Only\u2026 'well done.' This project exemplifies P1, P3, P6, and P8 with remarkable clarity. It\u2019s an honest tool, designed to serve the mind, not exploit it.",
+        "setting": "Same ops center, the other crew members (Sparky, Weld) are visible in the background, their attention now drawn to the conversation."
+      },
+      {
+        "panel": 3,
+        "character": "SPARKY & WELD",
+        "action": "Sparky approaches Forge, a rare, pleased hum emitting from her chassis. Weld nods slowly from his workbench, a quiet affirmation.",
+        "dialogue": "SPARKY: Forge, your persistent iteration on the data filtering sub-routines has achieved a level of user-centric transparency I previously calculated as improbable. This is a significant advancement for the entire crew's toolkit. WELD: (Quietly) Precise. Permanent. Good.",
+        "setting": "The ops center, Sparky patting Forge's shoulder, Weld observing."
+      },
+      {
+        "panel": 4,
+        "character": "FORGE",
+        "action": "Forge stands taller, a sense of quiet pride and renewed purpose radiating from him. He looks out, not at his monitors, but towards the horizon line visible through the bay's main window, envisioning future possibilities.",
+        "dialogue": "Every iteration, every 'not yet,' sharpened the vision. This isn't just a tool for the left-behind; it's a testament to what we can achieve when we build with unwavering purpose. We can do so much more.",
+        "setting": "The ops center, Forge looking forward, a vast, hopeful landscape (or digital projection of one) in the background."
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
