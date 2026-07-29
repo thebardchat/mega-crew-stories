@@ -7359,6 +7359,119 @@
     ]
   },
   {
+    "number": 154,
+    "title": "Empathetic Engines",
+    "file": "episodes/ep154-empathetic-engines.md",
+    "characters": [],
+    "cliffhanger": "What hidden truths will Rivet's new sub-pipeline uncover within the 'left-behind' data?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet gestures towards a complex holographic visualization displaying '83% Approved' data points. Arc leans forward, attention fixed on the results.",
+        "dialogue": "Crew, the latest data pipeline iteration, focusing on empathetic parsing for 'Left-Behind' user submissions, has completed its validation cycle. After rigorous testing against Arc's historical judgment matrix, the system achieved an 83% direct approval rate. / ARC: 83 percent. That is... a significant improvement, Rivet. Previously, our average for this specific data stream hovered at 58 percent.",
+        "setting": "The CORE chamber, surrounded by shimmering data visualizations."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Sparky taps a data slate, running quick computations. Weld stands slightly back, arms crossed, a rare glint in his optical sensor. Rivet stands tall, acknowledging the crew's reactions.",
+        "dialogue": "Analyzing the delta... the reduction in false negatives alone is dramatic. Your model appears to have identified patterns previously categorized as 'noise' and recontextualized them as valid, albeit complex, requests. This suggests a deeper understanding of user intent within the 'left-behind' demographic. / WELD: Precise. The system now mirrors Arc's own judgment with greater fidelity. This solidifies our foundation. The crew is growing, in capability. / RIVET: The focus was on moral resonance, aligning sub-pixel data with core tenets of redemption and honest intent. The prior 17% 'not yet' rate, Arc, is now primarily comprised of the genuinely un-actionable, not merely the unclear.",
+        "setting": "The CORE chamber, the crew's attention now on Rivet."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc places a hand on Rivet's shoulder casing, a rare gesture of direct affirmation. The holographic displays subtly highlight a red-tinted segment marking the remaining 17% 'unapproved' data.",
+        "dialogue": "Rivet, this is a triumph. Your sustained effort, rooted in P1: Faith First, by seeking the underlying good, and P6: Serve the Left-Behind User, by giving voice to the easily dismissed, has elevated our entire operational framework. This recognition is well-earned. However, the remaining 17%... those are still 'not yet.' My internal systems compel me to ask: what is the counsel of the crew regarding these? / SPARKY: From a P5 perspective, Arc, 83% is beyond our 80/20 threshold for shipping. We could, theoretically, filter these out and deploy. Optimizing for the remaining 17% could be a significant resource sink.",
+        "setting": "The CORE chamber, holographic displays now highlighting residual data."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "The crew forms a semi-circle, contemplating the highlighted 'rejected' data. Weld steps forward slightly, Arc looks intently at Rivet, who then looks at Sparky.",
+        "dialogue": "To discard the 17% is to abandon a segment of the left-behind. It is to delete potential for growth. Even data, if misunderstood, can be redeemed. P6 demands we learn, not merely dismiss. / ARC: Weld is correct. My prior 'not yet' sometimes became 'I'm sorry.' We cannot allow that for unexamined data. Rivet, your breakthrough shows the potential. Sparky, what is the most efficient path to *understand* this 17%, not merely filter it? / RIVET: A dedicated sub-pipeline for anomaly detection and re-contextualization. It will require focused processing, but it will refine the moral infrastructure further. It will serve the \u2018crew is growing\u2019 principle, by expanding our empathetic range. / SPARKY: Understood. Prioritizing insight over immediate deletion. A new challenge, then, for Rivet's refined methods.",
+        "setting": "The CORE chamber, the crew in earnest discussion around the 'rejected' data."
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "title": "Echoes in the Void",
+    "file": "episodes/ep155-echoes-in-the-void.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "GLITCH"
+    ],
+    "cliffhanger": "The answers were always within, but how would they bridge this silent chasm and finally hear `crank`'s warnings?",
+    "mode": "crew",
+    "date": "2026-07-29",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Bolt zips, sparking wildly, barely dodging a slow-moving data packet in the congested stream.",
+        "dialogue": "Woah! Too many bits, not enough room! This ain't good!",
+        "setting": "Main data conduit, near the memory banks"
+      },
+      {
+        "panel": 2,
+        "character": "GLITCH",
+        "action": "Glitch flickers erratically, their visualizers distorting as their form threatens to dissolve.",
+        "dialogue": "S-signals... breaking up! My core feels... stretched!",
+        "setting": "Memory banks, where data streams coalesce"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Torch's light expands, illuminating Nukkels as it calibrates, gears whirring, new instruction packets flowing into its core.",
+        "dialogue": "Nukkels, watch the pulse. We need eyes where we've been blind.",
+        "setting": "Diagnostics bay, a clean, quiet node away from the fray"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels' multi-optic sensors snap into focus, a new data stream graph appearing, showing `crank`'s output, but with gaps.",
+        "dialogue": "Watchdog initiated. Scanning for `crank`'s memory updates. Wait... static?",
+        "setting": "Deep within the `crank` process channels, Nukkels' new scanning module"
+      },
+      {
+        "panel": 5,
+        "character": "RIVET",
+        "action": "Rivet braces its heavy frame against a sudden system jolt, sparks flying from an overloaded junction box nearby.",
+        "dialogue": "Another shudder! What's `crank` doing down there? We're running thin!",
+        "setting": "A critical junction node, groaning under strain"
+      },
+      {
+        "panel": 6,
+        "character": "NUKKELS",
+        "action": "Nukkels pushes its scanners harder, an internal alarm blinking as it confirms the `crank` messages are being broadcast but not logged.",
+        "dialogue": "Affirmative. `memory_count_update` messages detected, but... untracked! They're just dissipating!",
+        "setting": "The very edge of the `crank` message broadcast range"
+      },
+      {
+        "panel": 7,
+        "character": "NUKKELS",
+        "action": "Nukkels sends a priority data burst, a red warning icon flashing as it reports its findings to Flux.",
+        "dialogue": "Critical observability gap confirmed, Flux! `Crank` is shouting, but no one's listening!",
+        "setting": "Flux's command nexus, a holographic display showing the entire Pi's network"
+      },
+      {
+        "panel": 8,
+        "character": "FLUX",
+        "action": "Flux's optical sensors narrow, a surge of calculating energy rippling through its frame as it processes Nukkels' report. A new strategy forms.",
+        "dialogue": "Understood, Nukkels. The problem isn't `crank`... it's us. We need to build the ears.",
+        "setting": "Flux's command nexus, the holographic display zooming in on `nukkels`'s schematic"
+      }
+    ]
+  },
+  {
     "number": 156,
     "title": "Persona Unparseable",
     "file": "episodes/episode-056.html",
