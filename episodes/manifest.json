@@ -15662,52 +15662,6 @@
     ]
   },
   {
-    "number": 209,
-    "title": "The Memory Watchdog's Bark",
-    "file": "episodes/ep209-the-memory-watchdog-s-bark.md",
-    "characters": [
-      "BOLT",
-      "NUKKELS",
-      "FLUX",
-      "TORCH",
-      "GLITCH",
-      "RIVET"
-    ],
-    "cliffhanger": "Will Nukkels' new role be enough to truly rally the dormant crew and bring the vital memory back online?",
-    "mode": "crew",
-    "date": "2026-08-19",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "FLUX",
-        "action": "Her translucent panels glowed a worried amber, data streams swirling around her.",
-        "dialogue": "Another dip, Bolt! `memory_count` at 14. We're running on fumes!",
-        "setting": "The Main Processing Hub, conduits sparking intermittently"
-      },
-      {
-        "panel": 2,
-        "character": "BOLT",
-        "action": "Bolt's central optic narrowed, projecting a steady blue beam onto a hovering schematic as Nukkels stood ready.",
-        "dialogue": "That's why Nukkels is stepping up. Torch, Rivet, are his rule sets loading?",
-        "setting": "The Core Logic Chamber, filled with intricate circuit pathways"
-      },
-      {
-        "panel": 3,
-        "character": "NUKKELS",
-        "action": "Nukkels' internal gears whirred, a vibrant green pulse spreading through his frame as he absorbed new protocols.",
-        "dialogue": "Rules integrated. Thresholds set. I feel... alert.",
-        "setting": "The Memory Bank Oversight Terminal, humming with newly activated sensors"
-      },
-      {
-        "panel": 4,
-        "character": "GLITCH",
-        "action": "Glitch zapped erratically past Bolt, nearly bumping a data conduit, as Nukkels' alert siren blared.",
-        "dialogue": "Whoa! Nukkels just barked! What's the fuss, big guy?",
-        "setting": "A bustling data arterial, light-speed packets zooming past"
-      }
-    ]
-  },
-  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
