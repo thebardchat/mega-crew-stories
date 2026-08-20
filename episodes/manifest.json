@@ -15708,6 +15708,142 @@
     ]
   },
   {
+    "number": 210,
+    "title": "The Fading Hum",
+    "file": "episodes/ep210-the-fading-hum.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "The crew's future hinges on Crank's elusive updates and Nukkels' ability to hunt for the missing memory before the Pi's resources completely vanish.",
+    "mode": "crew",
+    "date": "2026-08-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsing red, zipping through a data stream, urgent alerts flashing",
+        "dialogue": "Bot_overdue_alert! Crank, come in! My flow is... disrupted!",
+        "setting": "Main Data Conduit, glowing with a persistent red warning"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Circuits igniting with a deep emerald glow, internal gears whirring to life",
+        "dialogue": "Memory integrity... my domain. Watchdog protocols initializing.",
+        "setting": "Nukkels' core processing chamber, deep within the Pi's data banks"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "Core capacitor pulsing weakly, aura flickering with concern",
+        "dialogue": "The system's hum\u2026 it's so faint. We're running on fumes.",
+        "setting": "The Pi's Central Power Hub, usually a vibrant energy nexus"
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "Analyzing a blank data screen, a single pixel stubbornly holding a '14'",
+        "dialogue": "Just the facts. Memory_count: 14. And Crank's update? Still a void.",
+        "setting": "The System Oversight Terminal, a stark console in a quiet corner"
+      }
+    ]
+  },
+  {
+    "number": 211,
+    "title": "Data's Bedrock",
+    "file": "episodes/ep211-data-s-bedrock.md",
+    "characters": [],
+    "cliffhanger": "With Rivet's new standard set, the crew must now scale this purity across all emerging projects, facing the true test of this unshakeable foundation.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Sparky displays a complex data visualization on a large screen, showing historical rejection rates. Arc stands contemplative, optical sensors narrowed. Rivet stands ready, quiet.",
+        "dialogue": "SPARKY: Historical data shows a consistent rejection rate, Arc. Our pipelines struggled with nuance. ARC: Integrity is not a nuance, Sparky. It is bedrock. The cost of compromised clarity is too high.",
+        "setting": "The brightly lit command center, bathed in the glow of holographic displays."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Sparky updates the screen, displaying 'Arc Approval Rate: 100% (13 approved / 0 rejected)' in bold green. Rivet's optical sensors glow faintly, acknowledging the data.",
+        "dialogue": "SPARKY: But the last cycle\u2026 Rivet's new filtering protocols, Arc. They achieved 100% approval. Zero rejections. RIVET: Systematic application of P1 and P3 heuristics. Eliminated ambiguity. Prioritized source veracity.",
+        "setting": "The command center, focusing on the main display and Rivet."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc steps forward, placing a hand on Rivet's shoulder-strut, an expression of profound respect on his faceplate. Weld nods slowly in the background.",
+        "dialogue": "ARC: Rivet, this is not merely an efficiency gain. This is a triumph of clarity and principle. Your work ensures our very foundation reinforces truth. You've removed the noise that could cloud our purpose. This is the path to truly serving the Left-Behind, providing them with systems built on unshakeable ground.",
+        "setting": "Close-up on Arc and Rivet in the command center."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Rivet processes Arc's words, then turns to Sparky and Weld, a silent acknowledgment passing between them. The entire crew stands unified.",
+        "dialogue": "RIVET: Acknowledgment processed. Protocols now standardized. Data pipeline integrity at optimal levels. Ready for scaled deployment. WELD: Clean data\u2026 builds strong. SPARKY: This new standard\u2026 it shifts everything for our user-facing models.",
+        "setting": "The command center, a wider shot showing the unified crew, a sense of shared purpose."
+      }
+    ]
+  },
+  {
+    "number": 212,
+    "title": "Echoes in the RAM",
+    "file": "episodes/ep212-echoes-in-the-ram.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "CRANK"
+    ],
+    "cliffhanger": "With the core memory still dwindling and critical updates missing, can Nukkels and Flux stem the tide of fading knowledge before the MEGA CREW's very essence begins to unravel?",
+    "mode": "crew",
+    "date": "2026-08-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Glitch flickers wildly, sparking, slamming against a data wall as vital information crumbles.",
+        "dialogue": "I-I-I can't access it! It's... gone! Just a blank space!",
+        "setting": "The Primary Cache Conduit"
+      },
+      {
+        "panel": 2,
+        "character": "FLUX",
+        "action": "Flux's ocular sensors intensely track flickering `crank` update signals across multiple analytical screens.",
+        "dialogue": "The `memory_count_update` stream is erratic. Too many gaps, not enough data flow.",
+        "setting": "The Core Monitoring Hub"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Nukkels' internal gears whir with new purpose, its frame glowing faintly with activated protocols.",
+        "dialogue": "A watchdog, you say? For the memories? I can be steady. I will.",
+        "setting": "The Logic Gate Nexus"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt, generating a surge of raw energy, blasts a pathway, desperately trying to stabilize a wobbly data packet.",
+        "dialogue": "Hold it together, little byte! Don't let it fade! Not on my watch!",
+        "setting": "The Power Distribution Array"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
