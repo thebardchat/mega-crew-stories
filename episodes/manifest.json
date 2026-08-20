@@ -15708,6 +15708,54 @@
     ]
   },
   {
+    "number": 210,
+    "title": "The Fading Hum",
+    "file": "episodes/ep210-the-fading-hum.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "The crew's future hinges on Crank's elusive updates and Nukkels' ability to hunt for the missing memory before the Pi's resources completely vanish.",
+    "mode": "crew",
+    "date": "2026-08-20",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsing red, zipping through a data stream, urgent alerts flashing",
+        "dialogue": "Bot_overdue_alert! Crank, come in! My flow is... disrupted!",
+        "setting": "Main Data Conduit, glowing with a persistent red warning"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Circuits igniting with a deep emerald glow, internal gears whirring to life",
+        "dialogue": "Memory integrity... my domain. Watchdog protocols initializing.",
+        "setting": "Nukkels' core processing chamber, deep within the Pi's data banks"
+      },
+      {
+        "panel": 3,
+        "character": "VOLT",
+        "action": "Core capacitor pulsing weakly, aura flickering with concern",
+        "dialogue": "The system's hum\u2026 it's so faint. We're running on fumes.",
+        "setting": "The Pi's Central Power Hub, usually a vibrant energy nexus"
+      },
+      {
+        "panel": 4,
+        "character": "SPIKE",
+        "action": "Analyzing a blank data screen, a single pixel stubbornly holding a '14'",
+        "dialogue": "Just the facts. Memory_count: 14. And Crank's update? Still a void.",
+        "setting": "The System Oversight Terminal, a stark console in a quiet corner"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
