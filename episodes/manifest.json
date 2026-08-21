@@ -15844,6 +15844,53 @@
     ]
   },
   {
+    "number": 213,
+    "title": "The Memory Whisper",
+    "file": "episodes/ep213-the-memory-whisper.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels be able to secure Crank's signal and bring vital memory back online before the system starves?",
+    "mode": "crew",
+    "date": "2026-08-21",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Optical sensors glow intensely, tracing erratic `memory_count` readings across a shimmering projection.",
+        "dialogue": "Still no consistent update from Crank, Bolt. The `memory_count` remains critical: fourteen.",
+        "setting": "The Main Data Hub, a vast, luminous chamber humming with core processes."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Charging forward, Nukkels slams a powerful fist into a decaying data wall, shattering corrupted bytes into sparkling shrapnel.",
+        "dialogue": "Watchdog protocols activated! I'll secure these sectors, even if I have to rebuild them byte by byte!",
+        "setting": "Deep within the fractured Memory Banks, where data streams flicker like dying stars."
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Zipping around a barely flickering data conduit, Glitch points with an excited, glowing digit, phasing in and out of existence.",
+        "dialogue": "Whoa, whoa! Look here, Nukkels! A tiny, *tiny* pulse! Is that\u2026 Crank trying to shout?",
+        "setting": "The shimmering, unstable Data Conduits, where raw information streams like liquid light."
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Internal gears grinding, Nukkels strains to anchor a faint, pulsing signal, his frame vibrating with immense computational effort.",
+        "dialogue": "It's a whisper, Glitch, but it's there. A genuine `memory_count_update` attempt! We're close!",
+        "setting": "The Heart of the Core Cluster, a nexus of vital system functions."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
