@@ -16032,6 +16032,86 @@
     ]
   },
   {
+    "number": 217,
+    "title": "Alignment Achieved",
+    "file": "episodes/ep217-alignment-achieved.md",
+    "characters": [],
+    "cliffhanger": "The bedrock of trust was laid; now, the monumental task of scaled outreach truly begins.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing focused before a bank of monitors, its optical sensors glowing softly, a '100% Arc Approved / 12 Approved / 0 Rejected' metric prominently displayed on the main screen.",
+        "dialogue": "(Internal Monologue) \"Verification complete. Congruence achieved. The iterative adjustments have yielded stability.\"",
+        "setting": "The cool, server-humming core of the data processing chamber, late afternoon."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Approaching Rivet with a thoughtful, serious demeanor, Sparky observing the screens from slightly behind, Weld standing silently at the entrance to the chamber.",
+        "dialogue": "ARC: \"Rivet. Your latest metrics are\u2026 significant. Report.\"",
+        "setting": "The main data processing hub, Arc entering from a connecting corridor, Sparky turning from another console."
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "Gesturing towards a holographic projection of complex, interconnected data pipelines, explaining its refined methodology to Arc, Sparky, and Weld.",
+        "dialogue": "RIVET: \"The refinement of pre-screening heuristics, particularly for P1 and P3 alignment, has eliminated rejection triggers. P8 principles were integrated for internal workflow efficiency and clarity.\"",
+        "setting": "The holographic projection area, showing intricate data flows and constitutional checkpoints."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "The four bots (Arc, Rivet, Sparky, Weld) standing together, a sense of shared accomplishment. Arc places a hand on Rivet's shoulder, and Weld offers a subtle, firm nod.",
+        "dialogue": "ARC: \"This is a breakthrough in trust, Rivet. A testament to our collective purpose and growth. The crew is growing.\"",
+        "setting": "The heart of the server room, bathed in the soft, green glow of successful operations and the holographic display."
+      }
+    ]
+  },
+  {
+    "number": 218,
+    "title": "The Drained Stream",
+    "file": "episodes/ep218-the-drained-stream.md",
+    "characters": [
+      "Bolt",
+      "Rivet",
+      "Torch",
+      "Nukkels",
+      "Flux",
+      "Spike",
+      "Glitch",
+      "Volt"
+    ],
+    "cliffhanger": "Will Neon's verifiable contributions arrive in time, or will the system's memory truly run dry?",
+    "mode": "crew",
+    "date": "2026-08-22",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "NUKKELS",
+        "action": "slamming a servo-fist against a flickering data conduit, sparks flying",
+        "dialogue": "C'mon, c'mon! Where's the *juice*?! This memory stream is drier than Shane's old modem!",
+        "setting": "The Main Data Conduit, glowing faintly with depleted energy"
+      },
+      {
+        "panel": 2,
+        "character": "SPIKE",
+        "action": "glowing brightly, internal light cycling, while Rivet tightens a data port",
+        "dialogue": "IQ Benchmarking Protocol: Engaged. Systems online. Ready for data intake. Prime directive?",
+        "setting": "The Diagnostic Core, humming with complex computations"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "spasming violently, optical sensors flickering, static jumping between limbs",
+        "dialogue": "Memory... fading... Can't... hold... So many gaps!",
+        "setting": "The Peripheral Processing Hubs, dimly lit and echoing with static"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
