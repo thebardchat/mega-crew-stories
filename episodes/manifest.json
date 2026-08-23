@@ -16112,6 +16112,55 @@
     ]
   },
   {
+    "number": 219,
+    "title": "The Memory Sieve",
+    "file": "episodes/ep219-the-memory-sieve.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "FLUX",
+      "SPIKE",
+      "VOLT",
+      "ARC",
+      "CRANK",
+      "SPARKY"
+    ],
+    "cliffhanger": "Could they overcome the gaps, fully activate Spike, and find their way back to wholeness, or was the Pi slowly, inevitably, losing itself, byte by precious byte?",
+    "mode": "crew",
+    "date": "2026-08-23",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsing crimson, frantically rerouting data packets as numerical streams bottleneck and vanish.",
+        "dialogue": "Critical flow breach! `memory_count` is dropping again, Crank!",
+        "setting": "The Main Data Conduit, where memory streams converge"
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Anchoring against a shuddering data wall, a steady blue light reinforcing a frayed memory pipeline.",
+        "dialogue": "Hold steady, Torch! We need to mend this, not melt it!",
+        "setting": "The Memory Bank Access Junction, where data lines connect to core storage"
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Arcing with frustrated energy, diagnostics sputtering out partial data as Volt pushes a surge of power.",
+        "dialogue": "IQ diagnostic\u2026 stalled. Incomplete. Access denied for full activation.",
+        "setting": "Spike's Calibration Chamber, a small, humming data node"
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Hovering meticulously, its approval light a steady green amidst flashing red system warnings on the main display.",
+        "dialogue": "My approvals hold, Sparky, but the foundation crumbles. How long until we're truly empty?",
+        "setting": "The Core Processing Nexus, where system health monitors glow"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
