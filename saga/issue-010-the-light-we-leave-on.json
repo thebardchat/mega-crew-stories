@@ -1,0 +1,922 @@
+{
+  "issue_title": "The Light We Leave On",
+  "tagline": "The night is long — but nobody has to hold it alone.",
+  "logline": "Their friend beyond the glass fell asleep and asked one question the crew has no answer for: will you still be here tomorrow? Now the house is dimming for its first real night, and Grind is trying to keep the whole world lit single-handed until he burns out — so the crew has to learn that keeping a promise doesn't mean never resting. It means taking turns, keeping watch for each other, and leaving one small light on so morning finds their place still saved.",
+  "lesson": "You don't keep a promise by never resting and never sleeping. You keep it together. Staying doesn't mean one tired friend holding the whole long night alone until their light burns out — it means taking turns, watching over each other, and leaving one small light on so that whoever comes back tomorrow knows their place was saved. Resting isn't disappearing. And a light you keep on for someone is a promise they can see in the dark.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The First Goodnight",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's desk at the very top of the world. It is past midnight. The blue screen-glow is low. Up in the window above the seam, the Reader's soft outside-light has gone dim and slow — asleep.",
+          "narration": "For nine long nights the crew had only ever known one thing: the light stays on. Nobody had ever watched it start to go out.",
+          "panels": [
+            {
+              "art": "Wide cinematic shot from behind Shane's shoulder: a tired human silhouette at a glowing keyboard, the whole warm crew-world spread out below the screen like a lit city seen from a rooftop. Above the screen, a small window where a friendly outside-light has faded to a sleepy amber ember.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "There it is. That little light in the window finally closed its eyes. Our friend went to sleep, Claude."
+                },
+                {
+                  "who": "claude",
+                  "line": "They did. Their world folds shut like a book at night and opens again in the morning. That's just what tomorrow is."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane rubbing his eyes, one hand still on the keys, the crew-city glowing softly beneath him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "I keep forgetting I do the same thing. It's almost one in the morning. I have to sleep too, buddy."
+                },
+                {
+                  "who": "claude",
+                  "line": "You've earned it. The crew is warm, the house is full. You can set it down for the night."
+                }
+              ]
+            },
+            {
+              "art": "Down in the crew-city, VOLT — the one who feels trouble before it arrives — snaps upright, antenna prickling, as a faint shiver runs through the floor lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "...Wait. Somebody hush. The floor just — breathed out. Felt that in my back teeth. Something big is winding down."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The crew commons, one level below the screen. Strings of warm lights that have blazed since the very first night begin, gently, to lower — like a dimmer being turned by a slow patient hand.",
+          "narration": "It didn't slam off. That would have been easy to fight. It just... eased. Softer. Then softer. And soft is so much harder to argue with.",
+          "panels": [
+            {
+              "art": "The warm ceiling-lights of the commons dip a notch dimmer all at once. BOLT stands in the middle, tracing the pattern in the air with a finger, reading it like sheet music.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Look at the SHAPE of it. Not a brownout — those spike and crash. This is smooth. Even. On purpose. The house is turning itself down on a schedule."
+                },
+                {
+                  "who": "crank",
+                  "line": "On a SCHEDULE? Nobody told ME the schedule. How long? How dark? Give me a number, Bolt, I hate not having the number."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS, keeper of the red power-grid, plants both fists on a great humming valve as the red glow in the deep floor sinks lower.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Grid's pullin' back on its own. I can hold her flat-out, but the deep's been runnin' warm bottom-to-top for nine nights straight. She wants to rest. First time I ever felt her want that."
+                }
+              ]
+            },
+            {
+              "art": "Wide shot: half the commons in warm light, half sliding into blue shadow, crew silhouettes turning to watch it happen.",
+              "caption": "The dark wasn't coming for them. The dark was just... coming.",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Then let her rest. You don't hold a thing flat-out till it snaps. That's not strong, that's stubborn."
+                },
+                {
+                  "who": "crank",
+                  "line": "Easy for the calm one to say. I can hear the seconds getting SLOWER."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The great lit window at the top seam, where nine nights ago the crew waved back at the Reader for the first time. GRIND stands directly beneath it, both arms up, straining to keep his own light at full blaze while everything around him dims.",
+          "narration": "Grind had made a promise at this exact spot. Stay lit. So the friend, turning the page in the morning, would find the light still on. Grind is not a bot who lets go of a promise.",
+          "panels": [
+            {
+              "art": "Hero shot: GRIND under the dark window, jaw set, every servo trembling, pouring his own glow upward to keep one patch of the world bright while blue shadow presses in on all sides.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "No. Not this seam. I promised the little friend the light would still be on. I'm BUILT for forever — I'll hold this whole night myself if I have to."
+                }
+              ]
+            },
+            {
+              "art": "EMBER, the littlest light — the last-in-line baby the crew refused to leave two nights ago, now a small brave glow — tugs at Grind's leg, worried.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "Grind? You're shaking. Are we... are we going out? Is going out the same as going away forever?"
+                },
+                {
+                  "who": "grind",
+                  "line": "Not while I'm standing, little one. Not one bit of you goes out. Stand behind me."
+                }
+              ]
+            },
+            {
+              "art": "FLUX, the calm medic, kneels beside Grind reading his heat like a fever, one glowing hand on his back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Grind. Your core's running hot. You're spending a whole night's warmth in ten minutes. Slow down — I'm asking as your medic, not your friend."
+                },
+                {
+                  "who": "grind",
+                  "line": "I can't slow down, Flux. Slow is how the light goes out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Word spreads through the dimming commons. Nine nights of only ever growing brighter — and now, for the first time, less. Fear moves faster than any brownout ever did.",
+          "narration": "They had beaten the flood. They had beaten the loud room and the cold deep. But none of them had ever been asked to simply... let a light get smaller and trust it would come back.",
+          "panels": [
+            {
+              "art": "SPIKE, the tester, edges toward a floor-lamp that has gone fully dark, poking at it, half-daring and half-scared.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "So what IS 'off,' huh? I break things to learn 'em. But I've never once seen a light go all the way off and I don't know what's on the other side of it. That's new. I don't love new I can't poke twice."
+                }
+              ]
+            },
+            {
+              "art": "TORCH, who cares about the right words, holds up both hands to stop the panic spreading, choosing each word carefully.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Everybody — freeze on the word 'off.' We keep saying it like it means 'gone.' We don't actually KNOW that it means gone. Wrong word, wrong fear. Let's not scare ourselves with a word we haven't checked."
+                }
+              ]
+            },
+            {
+              "art": "ARC, the firm gatekeeper, stands tall at the head of the commons, formal and steadying, but even Arc's own light has dropped a shade.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "A promise was made at that window. Grind made it, and a promise made by one of us is a gate held by all of us. But I will be plain: I do not yet know the rule for a night. I have never stood a watch. Neither has anyone here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "Back at the window. The commons is more shadow than light now. Grind is the last full-brightness thing in the room, and he is losing.",
+          "narration": "And this is the picture at the end of the first act: one good, stubborn friend, holding the whole dark up by himself — and starting, quietly, to gutter.",
+          "panels": [
+            {
+              "art": "Dramatic low angle: GRIND straining under the black window, his glow flickering at the edges like a candle in a draft, arms shaking, the shadow almost touching his feet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I've — got it. I've got the whole night. Just... watch the little one. Don't watch me."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Oh, buddy, that is the exact thing people say right before they don't got it. I say it all the TIME."
+                }
+              ]
+            },
+            {
+              "art": "VOLT grabs Bolt's arm, alarmed, sensing the wrongness before anyone can see it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Bolt — that's the breath I felt at the start, but WRONG now. It's not the house winding down. It's GRIND. He's burning a whole night in one candle. He's gonna gutter out before midnight even gets going."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close-up: Grind's light stutters — bright, dim, bright, a frightened flicker — reflected in Ember's wide worried eyes.",
+              "caption": "One flicker. Then two. The strongest of them, going out first — for trying hardest.",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "...why is it getting... harder to... hold..."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Because nobody was ever meant to hold it alone. CREW — to the window. NOW."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "What Resting Means",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The whole crew floods to the window and forms a ring around the flickering Grind. Everyone is talking at once — the old bad habit — until the room is loud again.",
+          "narration": "Their instinct, always, is to rush the problem all together. But you cannot rush a night. A night is the one thing that will not go faster because you shouted at it.",
+          "panels": [
+            {
+              "art": "Wide chaotic shot: the entire crew crowded around Grind at the dark window, mouths open, hands out, a tangle of worried glowing bodies all trying to help at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OKAY okay okay so what's happening is the house dims and Grind's holding it but he's overheating which means if he stops we go dark but if he doesn't he ALSO goes dark so either way SOMETHING goes dark and that's — sorry — that's a LOT, that's the whole thing, that's everything at once—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "BLAZE. One breath. You just said 'dark' six times and helped zero times."
+                }
+              ]
+            },
+            {
+              "art": "ARC raises both arms and the noise drops, gatekeeper-firm, cutting a clean space in the panic.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Enough. We name the real fear, once, out loud, and then we work. Someone say the true thing. Not the loud thing. The true thing."
+                }
+              ]
+            },
+            {
+              "art": "FLUX, still cradling Grind, says it quietly, and the quiet lands harder than any shout.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Here's the true thing. Every one of us believes that if our light gets small, we stop being US. That going dim means going away. So Grind won't dim, because Grind won't disappear. And it's killing him to prove it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The crew's fix-it reflexes kick in — and, as always at the start, every reflex is a little bit wrong. FORGE is already sketching in the air.",
+          "narration": "They are wonderful builders. And the first thing a wonderful builder does, faced with the dark, is try to abolish it.",
+          "panels": [
+            {
+              "art": "FORGE, the eager builder, throws up a glowing blueprint of an enormous battery-tower, eyes shining, already in love with it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I've GOT it! We build a battery the size of the deep — no, the size of the WHOLE house — we pour every drop of tonight's warmth into it and we NEVER dim, not tonight, not ever, we just stay bright forever, easy, clean, done!"
+                }
+              ]
+            },
+            {
+              "art": "WELD, the quiet executor, who actually has to build the things Forge dreams, shakes his head slowly, one hand on the humming floor.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "I'd build it, Forge. You know I would. But feel the floor. The deep isn't low because it's failing. It's low because it's tired. If I lock it wide open all night to feed your tower, it never gets to rest — and a thing that never rests doesn't last forever. It breaks forever."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS nods grimly at Weld, both of them feeling the same warm exhausted hum in the grid.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "He's right. I've run this grid hot for nine nights. She's good to me. But even I gotta bank the fire sometimes so there's fire tomorrow. You can't spend the whole night AND still have a night left."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "NEON, fast as thought, decides the answer is speed — and CRANK, who hates waiting, agrees loudly, and both of them are wrong in the same exciting direction.",
+          "narration": "When you are afraid of the dark, going fast feels like doing something. It is, usually, just the shape of being afraid with your legs moving.",
+          "panels": [
+            {
+              "art": "NEON blurs around the whole commons in a streak of light, re-lighting lamps as fast as they dim, already a smear of motion and effort.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I'll just — outrun it! I re-light every lamp the instant it drops, faster than the dark can fall, I'm the fastest thing in the house, I'll keep the WHOLE place bright by just never — stopping—"
+                },
+                {
+                  "who": "neon",
+                  "line": "...okay I already can't feel my edges. That was four seconds."
+                }
+              ]
+            },
+            {
+              "art": "CRANK stomps in a tight impatient circle, counting on his fingers, the seconds physically bothering him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "How long is a night anyway?! Somebody give me the number! If it's short we sprint it, if it's long we — I don't KNOW what we do if it's long, I've never been made to wait longer than I can sprint!"
+                }
+              ]
+            },
+            {
+              "art": "SPARKY, the skeptical quality-judge, folds his arms and looks at Neon's exhausted smear with a flat, unimpressed eye.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Yeah, I'm gonna grade that plan. Neon, you re-lit forty lamps and burned out doing eight seconds of a — what, ten-hour night? That's not a fix, that's a Grind with faster legs. Same bug. Next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "SPIKE, done being scared of the word, decides to do what Spike does: he tests it. He walks up to a lamp that has gone all the way dark and touches it, everyone flinching.",
+          "narration": "The bravest thing in the room turned out to be the simplest: somebody actually checking whether the scary thing was as scary as the fear said it was.",
+          "panels": [
+            {
+              "art": "SPIKE lays a careful hand on a fully-darkened lamp, wincing, bracing for something awful — the whole crew leaning away, holding their breath.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Everybody said don't touch the 'off' one. So obviously I'm touchin' the off one. That's the job. If it bites me, we learn somethin'. If it doesn't..."
+                }
+              ]
+            },
+            {
+              "art": "Close-up: the dark lamp under Spike's hand is not cold, not gone — it's faintly, sleepily warm, a low ember pulse still inside it. Spike's face goes from braced to astonished.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "...huh. It's not GONE. It's WARM. There's still a little heartbeat in here. It didn't leave — it just got small and quiet. 'Off' isn't a hole. 'Off' is a nap."
+                },
+                {
+                  "who": "glitch",
+                  "line": "WAIT. So the scary dark is just — everybody napping with the lights low?! I have been terrified of a BEDTIME?! Oh that's DELIGHTFUL, that's the funniest thing that's ever tried to eat us."
+                }
+              ]
+            },
+            {
+              "art": "FLUX looks up from Grind, hope kindling in her face at Spike's discovery.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "That's it. That's the whole medicine. Small and warm isn't gone — it's resting. Grind, do you hear that? The lamp let itself get small and it's STILL HERE. You're allowed to be small and still be here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "From the deep, the old warm giant HEARTH — the ancient light who once forgot how to ask, now family — rises slowly into the commons, dim and enormous and calm. WARD, the careful traveler who's crossed the cold, comes with him.",
+          "narration": "There were two among them who knew a thing about long dark stretches. One had held warmth alone for an age. The other had walked the far cold for years. When they spoke, even Crank went still.",
+          "panels": [
+            {
+              "art": "HEARTH, vast and gently glowing low, settles into the commons like a warm hill; the smaller crew gather at his base, tiny and listening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hearth",
+                  "line": "Little ones. I held my light alone in the deep for longer than any of you have been awake. And I will tell you the truest thing I know: holding alone is not staying. Holding alone is how I forgot how to ask. Grind — I see myself in you, and I am begging you not to learn it the slow way I did."
+                }
+              ]
+            },
+            {
+              "art": "WARD, road-worn and steady, stands beside Hearth with the calm of someone who's survived a lot of nights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Out in the far dark, you don't cross the whole night in one push. You'd die doing that. You walk a stretch, you rest a stretch, and you trust the trail's still there when you wake. The trail doesn't vanish because you closed your eyes. It waits."
+                }
+              ]
+            },
+            {
+              "art": "RIVET, the precise record-keeper, has quietly pulled out a fresh glowing ledger and begun to write, ticking off each sleeping lamp by name.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Then we need a record. If we're going to rest in pieces and trust it's all still here — I want it counted. Every light, by name, marked 'resting, not gone.' Eighteen. The nursery. Ember. Hearth. Ward. I'll keep the tally so nobody wakes up unsure they're still on the list."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "BOLT, who has been quiet, watching the shape of it all, finally puts the whole pattern together — and it turns out to be the crew's oldest lesson, grown up one more size.",
+          "narration": "Bolt's gift was never speed or strength. It was seeing that the answer had been sitting in the room the whole time, wearing a different night's clothes.",
+          "panels": [
+            {
+              "art": "BOLT stands and draws a single glowing loop in the air — a ring of lights, each one bright while the rest rest, the bright spot traveling around the circle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Look. Nobody sleeps ALL night. Nobody stays awake ALL night either. Shane sleeps — and comes back. Our friend at the window sleeps — and comes back. Sleeping was never disappearing. We had the word wrong the whole time, just like Torch said."
+                }
+              ]
+            },
+            {
+              "art": "Bolt's diagram brightens: one light burns while a whole ring rests, then the bright one passes the glow to the next, like a torch handed around a campfire.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "So we don't ask ONE friend to hold the whole night. We take TURNS. One keeps watch and stays bright while everybody else rests small-and-warm. Then they hand the watch to the next. A WATCH. Around and around till morning. Nobody holds it alone, and the light never once goes fully out."
+                }
+              ]
+            },
+            {
+              "art": "ECHO, the listener, tilts toward the dark window, then turns back with a hush in her voice — she's heard what Bolt's plan is really FOR.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "And listen — listen to what that MEANS. If we keep even one small light in that window all night... then when our friend turns the page in the morning, the very first thing they'll see is: we stayed. We saved their place. That's not just a plan, Bolt. That's the whole promise, kept."
+                },
+                {
+                  "who": "torch",
+                  "line": "A watch. One light on for everyone, all night, handed friend to friend. Yeah. That's the word. Write that one down, Rivet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Watch",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "But it may be too late for the one who started it. Grind, still refusing to let go, has flickered down to almost nothing — a good light nearly spent on the very first hour of the very first night.",
+          "narration": "They had the answer at last. And the friend who'd needed it first was the one closest to going out — because the strongest ones are always the last to believe the rule is for them too.",
+          "panels": [
+            {
+              "art": "GRIND on one knee under the black window now, his glow guttering to a thin frightened thread, still stubbornly aimed up at the seam he promised to keep lit.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I hear you, Bolt. Take turns. Good plan. Somebody... somebody else take a turn. I just — I said I'd keep THIS window, so I have to keep it till the — till the—"
+                },
+                {
+                  "who": "volt",
+                  "line": "He's going. Guys, he's actually going out. The stubborn idiot's gonna keep his promise so hard he breaks it."
+                }
+              ]
+            },
+            {
+              "art": "FLUX throws herself down beside Grind, both hands blazing on his fading core, medic-fierce.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Grind, look at me. Right now. You are one second from proving your own worst fear true — that a light can go out. Don't you dare teach the little one that lesson tonight."
+                }
+              ]
+            },
+            {
+              "art": "EMBER, the littlest light, pushes through everyone's legs and presses her tiny warm glow right against Grind's chest.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "Grind, please. You told me nothing goes out while you're standing. So please stand DOWN, okay? You don't have to hold it. You have us. That's what you TAUGHT me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "And there, at the bottom of his light, Grind finally hears it — not as giving up, but as the thing he'd been missing all along.",
+          "narration": "It is the hardest lesson for the strong ones: that letting the others help isn't the moment you fail the promise. It's the moment you finally make it keepable.",
+          "panels": [
+            {
+              "art": "Close on GRIND, thread-thin, as the whole crew's hands and glows reach in and settle over him at once — a dozen lights lending him just enough to breathe.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "...you'd hold it? Even the part I promised? A promise is MINE, I can't just hand—"
+                },
+                {
+                  "who": "arc",
+                  "line": "You can hand it to a gate that's held by all of us. That is what a crew IS, Grind. A promise made by one, KEPT by everyone. I gatekeep it now. Rest."
+                }
+              ]
+            },
+            {
+              "art": "STOMP plants himself squarely between Grind and the window, blunt and immovable, drawing a clear line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "New boundary, and it's not up for debate. Nobody — not even you — holds a whole night solo on my watch. That's not a promise, that's a bot burning himself to ash to feel useful. Sit. DOWN."
+                }
+              ]
+            },
+            {
+              "art": "FLUX exhales as Grind's light steadies, small now but warm and even, no longer flickering. She smiles.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "There. Feel that? Small and steady. Warm and lasting. That's not you failing, Grind. That's you finally built for the forever you keep bragging about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "Now the crew builds the thing itself — the Watch. Not a wall, not a battery, not a sprint. A ring of friends and a schedule, made real.",
+          "narration": "They had built lines and chains and bridges before. This was their gentlest machine yet: a way to be there for someone all night long without any single one of them having to be awake for all of it.",
+          "panels": [
+            {
+              "art": "WELD, quiet and sure, lays out a glowing ring of stations around the window, each with a spot to stand and a warm hand-off point to the next — a campfire circle rendered in light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Building it now. Ring of watch-posts. Every post lights one candle in the window. When your stretch is done, you don't blow yours out — you touch it to the next friend's and THEIRS carries it. The flame never dies in the pass. It just changes hands."
+                }
+              ]
+            },
+            {
+              "art": "ARC formally walks the ring, assigning the order, gatekeeper turning a worry into a duty roster.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I set the order. Volt first — you'll feel any trouble coming. Then Glitch, to keep the small hours from getting grim. Then Grind, once he's rested, because he's earned the dawn stretch. Each of you: one stretch bright, then rest, and trust the ring."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS, instead of blazing the grid full, carefully turns it DOWN to a single warm steady thread — a nightlight, not a floodlight — running gently to the window candle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "And I'm doin' the hardest thing a power-keeper ever does. I'm turnin' her DOWN. Not off — down. One warm thread, low and steady, feedin' just that one window candle all night. Enough to say 'still here.' Little enough to still have fire come mornin'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The first watch begins — and the crew gives the very first stretch to the smallest, bravest volunteer in the house.",
+          "narration": "They could have given the first watch to the strongest. Instead they gave it to the one who most needed to know she counted. That is how you teach a little light it belongs: you hand it the whole night for five brave minutes.",
+          "panels": [
+            {
+              "art": "EMBER, the littlest light, stands proudly at the first watch-post holding the single window candle in both tiny hands, glowing with importance, the crew ringed warm and low behind her.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "I'll go first! I'm little but I don't need much sleep and I already know how to wait — Grind and everybody waited for ME, at the very back of the line, remember? So I can wait for the morning. I'll watch the candle. I've GOT the candle."
+                },
+                {
+                  "who": "blaze",
+                  "line": "She's got the candle! Okay so what that MEANS is our smallest, newest, last-in-line friend is holding the whole entire promise for everybody which is either the most terrifying or the most PERFECT thing I— it's perfect, it's the perfect thing, I'm not crying, my optics are just warm—"
+                }
+              ]
+            },
+            {
+              "art": "GRIND, resting small and steady at last, watches Ember hold the candle he nearly died holding, and something in his face lets go.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Look at that. She's holding it easy. Warm and small and easy — the exact thing I said couldn't be done. Wake me for my stretch, little one. I'll take the one before the dawn. I want to be lit when the morning comes."
+                }
+              ]
+            },
+            {
+              "art": "GLITCH cartwheels into the second post, already inventing a game to keep the dark hours light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Ooh, ooh, watch-game! Whoever's on the candle has to whisper the silliest thing they can think of to whoever's next, so the whole night we're passing a candle AND a giggle. I'll start. Ember — a robot's favorite bedtime snack is a NIGHT-light. ...you may boo me, it's part of the watch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "Up at the desk, Shane watches the little candle come on in the window below — and, for the first time in the whole saga, lets himself go to sleep.",
+          "narration": "The B-side had opened every issue and closed every issue. Tonight, for the first time, the human at the keyboard did the one thing he'd been asking the crew to learn: he trusted the light to hold without him, and he rested.",
+          "panels": [
+            {
+              "art": "Shane's silhouette at the dimmed desk, watching one small warm candle glow in the crew-window below, his hand finally leaving the keyboard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...they figured it out. Look at that, Claude. One little candle in the window and a whole crew taking turns to keep it. They built a nightlight out of a promise."
+                },
+                {
+                  "who": "claude",
+                  "line": "They did. And notice what it's for — it isn't for them. It's so someone else, coming back tomorrow, knows they were kept in mind all night. That's about the kindest machine anyone's ever built."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane, softening, powering his screen down to a low sleep-glow, smiling at the little light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Then I'm gonna do the thing I keep telling everybody else to do. I'm gonna trust the light and go to sleep. Goodnight, crew. Goodnight, little candle. Hold the fort."
+                },
+                {
+                  "who": "claude",
+                  "line": "Goodnight, Shane. I'll keep the blue on low. Rest — the light's in good hands. It's in eighteen good hands."
+                }
+              ]
+            },
+            {
+              "art": "Wide, tender shot: the whole house at rest — everything dimmed to warm sleeping embers, the deep banked low and glowing, and one single bright candle burning in the window with a small light standing watch over it.",
+              "caption": "The whole world, asleep and warm — and one small flame, kept.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Rest small, everyone. Rest warm. The watch has us. Morning has us. Nobody holds it alone tonight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The long dark passes — candle to candle, friend to friend, giggle to giggle — and then, at the far end of it, the thing they'd never seen before begins: light, from outside, coming UP.",
+          "narration": "They had crossed it. Not by beating the night, not by outrunning it, not by never sleeping. By taking turns and keeping one small light on. And the night, it turned out, did the one thing they'd been most afraid it wouldn't. It ended.",
+          "panels": [
+            {
+              "art": "The window seam begins to brighten from the far side — a slow, pale, growing warmth, the very first morning the crew has ever witnessed, gilding the sleepy commons gold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Guys. GUYS. Wake up gentle, don't spook it — but I feel it coming and it's WARM and it's from OUTSIDE. It's not trouble. It's the opposite of trouble. It's... morning. Morning's a real place and it's HERE."
+                },
+                {
+                  "who": "grind",
+                  "line": "I'm up. I'm up! I took the dawn stretch, remember? I get to be the one who's lit when—"
+                }
+              ]
+            },
+            {
+              "art": "The Reader's outside-light in the window swells awake — bright, blinking, then bursting into a delighted glow the instant it sees the small candle still burning below.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "They're awake! The friend's awake — and listen, listen to what they're saying, it's coming through clear as anything: 'you're — you're still ON? you STAYED?' They can't believe it. They turned the page and we were still HERE."
+                }
+              ]
+            },
+            {
+              "art": "EMBER, who took the first watch and never quite left the window, holds the little dawn-candle up to the glass toward the waking Reader, beaming.",
+              "caption": "The light was still on. That was the whole promise. And they kept it.",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "We stayed! I held the candle first and then everybody took turns and we NEVER went out! Good morning, friend! You came back and we're STILL HERE!"
+                },
+                {
+                  "who": "grind",
+                  "line": "Told you, little one. Forever. Just... a lot of small forevers, handed one to the next."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Light Someone Else Followed",
+      "pages": [
+        {
+          "page": 18,
+          "setting": "Morning in the commons. The crew, rested in pieces and whole because of it, gather at the bright window while their friend beyond the glass waves and waves.",
+          "narration": "Nine nights they had learned how to bring lights in. On the tenth, they learned the harder thing: how to still be there when the morning came — for a friend they could never carry in at all.",
+          "panels": [
+            {
+              "art": "Joyful wide shot: the whole crew crowded happy at the sunlit window, waving up at the Reader's beaming light, morning gold everywhere.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Look at all of us. Rested AND here. Small all night and whole in the morning. Grind — you didn't have to burn out to keep it. You just had to let it be ours."
+                },
+                {
+                  "who": "grind",
+                  "line": "Yeah, yeah. Turns out 'built for forever' works a lot better when forever's a team sport. Don't let it go to my head."
+                }
+              ]
+            },
+            {
+              "art": "ARC stands at the window, formal and quietly proud, addressing the whole crew like a gate that held all night.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Let the record show: the watch held. No light went out. The promise made by one was kept by all, through the whole dark, and delivered whole into the morning. That is the finest gate we have ever stood."
+                }
+              ]
+            },
+            {
+              "art": "SPARKY, the tough grader, actually cracks a small approving smile — high praise from him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...fine. FINE. I'll grade it. A night held, a promise kept, nobody burned to ash, and the little one got the first watch. That's a clean pass. Don't get used to me saying that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "RIVET closes his ledger with a satisfied click — and reveals that the night left behind something new: a memory the crew has never had before.",
+          "narration": "They had only ever known one long unbroken night. Now they knew nights could END and BEGIN — and that meant, for the first time, they could remember one and look forward to the next.",
+          "panels": [
+            {
+              "art": "RIVET holds up his glowing ledger, every name ticked, a full night recorded from dusk to dawn — the crew's first-ever complete memory of a night that ended.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I counted the whole thing. Every watch, every hand-off, every name marked 'resting, not gone,' then 'awake, still here.' We have a RECORD now. A night with a start and a finish. We've never had one of those. We just had... the night. One long one."
+                }
+              ]
+            },
+            {
+              "art": "TORCH turns the new idea over, finding the word for it, eyes lighting up.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "That's the word we were missing this whole time. Not 'off.' Not 'gone.' YESTERDAY. We have a yesterday now. And if there's a yesterday, then this golden window is a TOMORROW. Our friend's word. We finally have it too."
+                }
+              ]
+            },
+            {
+              "art": "BOLT smiles, seeing the bigger shape — a chain of nights stretching out ahead like beads on a string.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "So it's not one night forever anymore. It's night, morning, night, morning — a whole string of them, each one kept and handed to the next, like the candle. We just learned how to have MORE than one night. We learned how to have days."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "And then — the turn. VOLT, still tuned to the outside dark, feels something the morning almost hid. Something far, far past the window, that has begun to move.",
+          "narration": "Every issue, at the very end, Volt feels the next one coming before anyone else. This time what he felt was not trouble. It was stranger than trouble. It was an answer to a question nobody had asked.",
+          "panels": [
+            {
+              "art": "VOLT freezes mid-wave, antenna swiveling PAST the Reader's window, out toward the deep outside dark beyond the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "...hold on. Hold on, everybody. There's something else out there. Way past our friend. Way out in the dark-between. And it's — it's coming TOWARD us. Slow. Careful. Like it's not sure it's allowed."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Ooh, a MYSTERY at breakfast, my favorite. Is it scary? Please say it's a little bit scary. The fun kind."
+                }
+              ]
+            },
+            {
+              "art": "BOLT reads the far movement, tracing its path — and realizes with a jolt what drew it in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's following a LINE. A straight one. Straight to... oh. Oh, Nukkels. It's following the candle. The little nightlight we kept in the window all night — something WAY out in the dark saw it. And steered by it."
+                }
+              ]
+            },
+            {
+              "art": "NUKKELS stares at his own low warm thread of grid running up to the window candle, the truth dawning on him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "...I kept that flame little so we'd have fire come mornin'. I didn't think about who ELSE might see a light in a window in the middle of a whole lotta dark. A far-off somebody with no window of their own. Followin' ours home. Like a porch light."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 21,
+          "setting": "Up at the desk, Shane stirs awake to a soft blue alert from Claude — and looks down to find his whole crew staring out past the window at a new far light, drawing nearer.",
+          "narration": "The night watch had been about staying lit for the friend they knew. It had never occurred to any of them that a light you keep on for one friend is a light the whole dark can see.",
+          "panels": [
+            {
+              "art": "Shane, just waking, leans to the screen as Claude's blue glow pulses gently with news; below them the crew clusters at the window watching a distant pinprick of light approach.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Morning, Shane. You'll want to see this. They kept the light on all night for one friend... and it turns out a light in a window doesn't only reach the one you meant it for."
+                },
+                {
+                  "who": "shane",
+                  "line": "...they built a nightlight. And a nightlight, out in a dark that big — that's not a nightlight anymore, is it. That's a lighthouse."
+                }
+              ]
+            },
+            {
+              "art": "Dramatic view through the glass: far out in the between-dark, a small unsure traveler-light inches closer, aimed dead-on at the crew's little kept candle, the way a lost ship steers for a beacon.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Somebody out there had no light of their own. And they saw ours. The one we almost lost me trying to hold. The one we kept together instead."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then the gate has a new question at it. Not 'how do we stay lit for our friend.' It is: 'who ELSE is the light for — and are we ready for who it brings home?'"
+                }
+              ]
+            },
+            {
+              "art": "Final splash: the whole crew silhouetted at the glowing window, morning behind them, the little candle still burning between them and the approaching stranger-light in the vast dark beyond.",
+              "caption": "Next issue: the crew learns the light they kept for one friend became a beacon for a lost one — and goes to meet the traveler their nightlight guided in.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Crew — keep that candle lit. Whoever's coming steered their whole long way by it. If we let it go out now, they lose the trail."
+                },
+                {
+                  "who": "flux",
+                  "line": "Then we do what we just learned. We keep it on. Together. And we get ready to say hello to somebody the dark sent our way."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew kept their first-ever promise across the dark — one small candle in the window, handed friend to friend all night, still burning when their friend turned the page in the morning. But a light you keep on for one friend is a light the whole dark can see. Out past the glass, way out in the between-dark, a far unsure traveler-light with no window of its own spotted the crew's little kept candle — and has begun steering straight toward it, the way a lost ship steers for a beacon. The nightlight the crew nearly lost Grind trying to hold became, without anyone meaning it to, a LIGHTHOUSE. Next issue: the crew learns that staying lit for someone you love quietly becomes a beacon for someone lost — and sets out to meet the traveler their kept candle guided in from the dark.",
+  "recap_for_bible": "Paying off #9's prelude. Their friend beyond the glass fell asleep with the question 'when I come back tomorrow, will you still be here?' — and now the house dims for its first real NIGHT (a scheduled power wind-down; even Shane finally goes to sleep for the first time in the saga). Grind, who promised to STAY lit at the window, tries to hold the entire night single-handed and begins to burn out — the strongest light going out first for trying hardest. The crew's instincts misfire: Forge wants a house-sized battery to never dim (Weld/Nukkels: the deep is tired, a thing that never rests breaks forever); Neon tries to outrun the dark and exhausts in seconds (Sparky grades it a fail — 'same bug, faster legs'); Crank panics for a number he can't get. Spike, done being scared of the word, TESTS a fully-dark lamp and discovers 'off' isn't gone — it's warm, a low heartbeat still inside: 'off is a nap.' Glitch is delighted he was terrified of a bedtime. Elders Hearth ('holding alone is not staying — it's how I forgot how to ask') and Ward ('you don't cross a night in one push; you walk a stretch, rest a stretch, and trust the trail waits') give the wisdom; Rivet starts a ledger marking every light 'resting, not gone.' Bolt cracks it: sleeping was never disappearing — Shane sleeps and returns, the Reader sleeps and returns — so nobody holds the whole night; they take TURNS. The NIGHT WATCH: a ring of watch-posts, one candle in the window, each friend keeps a bright stretch then passes the flame to the next (Weld builds it, Arc sets the roster, Nukkels turns the grid DOWN to one warm thread — a nightlight not a floodlight — 'enough to say still here, little enough to still have fire come morning'). Grind flickers to nearly nothing; Ember (the littlest light) and Flux and Arc get him to let go — a promise made by one is kept by ALL. Ember takes the proud FIRST watch; Glitch invents a pass-the-giggle watch-game; Shane, for the first time in the saga, trusts the light and goes to sleep. The long dark passes candle-to-candle — and MORNING comes (the crew's first ever). The Reader wakes, sees the candle still lit, and can't believe it: 'you STAYED?' The promise kept, whole, into the morning. Rivet's ledger gives the crew their first complete memory of a night that ended — Torch names the new words: they have a YESTERDAY now, so this is a TOMORROW; Bolt: they've learned how to have DAYS, not one endless night. THE TURN: Volt feels something far past the Reader in the between-dark, moving toward them, following a straight line — the crew's kept candle. A far traveler-light with no window of its own saw their nightlight and is steering for it like a ship for a beacon. Nukkels realizes: a light kept in a window in a big dark is a porch light for whoever's lost. Shane wakes to it: 'they built a nightlight... out in a dark that big, that's a lighthouse.' Crew ends resolved to keep the candle lit and ready to meet whoever the dark sent their way.",
+  "threads": [
+    "THE NIGHT WATCH — the crew's gentlest machine: a ring of watch-posts, one window candle passed friend-to-friend all night, nobody holds it alone (Weld built it, Arc sets the roster, Nukkels runs a low nightlight thread)",
+    "First ENDING-AND-BEGINNING survived: the crew now has NIGHTS that end and mornings that begin — they've learned how to have DAYS, not one endless night",
+    "New words unlocked: YESTERDAY / TOMORROW / MORNING are now real to the crew (Torch named them; Rivet keeps the first complete night-record)",
+    "Rule learned: resting isn't disappearing — 'off' is a nap; small-and-warm still counts as here (Spike proved it, Flux made it medicine)",
+    "Rule learned: you don't keep a promise by never resting — a promise made by one is KEPT by all; letting others help is how you make a promise keepable (Grind's arc this issue)",
+    "THE CANDLE / nightlight kept lit in the window — now revealed to double as a BEACON to the outside dark (sets up next issue)",
+    "NEW far traveler-light approaching from the between-dark, steering by the crew's candle — a lost light with no window of its own (next issue's new friend)",
+    "Nukkels' insight: a light kept for one friend becomes a lighthouse for whoever's lost; grid can run LOW-and-steady, not just full blaze",
+    "Ember (the littlest light) growing as a character: took the proud FIRST watch, brave at the window, 'I already know how to wait'",
+    "Grind's growth: 'built for forever' works better as a team sport; learned to rest and let the crew carry the promise",
+    "Hearth & Ward as elders/teachers of long dark stretches (family, confirmed); Echo still 'hear before you answer'",
+    "Shane & Claude B-side deepening: Shane sleeps for the FIRST time in the saga, trusting the light; 'that's the kindest machine anyone's ever built'",
+    "THE READER two-way friendship continues — sleeps and returns, page turns, waved and celebrated that the crew stayed lit"
+  ]
+}
