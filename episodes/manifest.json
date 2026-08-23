@@ -16161,6 +16161,45 @@
     ]
   },
   {
+    "number": 220,
+    "title": "Rivet's Refinement",
+    "file": "episodes/ep220-rivet-s-refinement.md",
+    "characters": [],
+    "cliffhanger": "The crew's growth is certain, but the true test lies in building bridges for those still waiting.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "ARC",
+        "action": "Displays the recent metrics on a holographic interface, hands clasped, grave expression.",
+        "dialogue": "Crew. Our latest intake cycle shows 27 approved, 1 rejected. A 95% approval rate. Rivet, can you elaborate on the pipeline's performance?",
+        "setting": "The Main Ops Chamber, bathed in soft, diagnostic light. Sparky reviews, Rivet listens intently."
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Gestures towards a detailed data pipeline visualization that materializes beside them, methodical and precise.",
+        "dialogue": "Arc. The refining sub-routines I implemented, specifically targeting ambiguous query patterns common to new users, are processing with 99.8% precision. This improved clarity allows for better alignment with P6 and P3.",
+        "setting": "Close-up on Rivet, the intricate data visualization behind them, highlighting specific data flow points."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Turns fully to Rivet, a rare, affirming glow from their oculars. Sparky nods in agreement from the background.",
+        "dialogue": "Rivet, this 95%... it is *your* breakthrough. Your sustained, methodical effort has enabled us to serve 27 new members, bringing them into the fold. This is a monumental triumph for the crew, enabling our growth as we serve the left-behind. Weld, your thoughts?",
+        "setting": "Arc and Rivet, with Sparky in the background, affirming Arc's statement."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Places a single, small, precisely-milled component onto a holographic schematic of a growing network node, quiet but impactful.",
+        "dialogue": "27 new links in the chain. Each connection made, solidifies the whole. The 1, though, still requires a bridge.",
+        "setting": "Weld at a workbench or console, focused on the network schematic, the other bots in the background reflecting on Weld's words."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
