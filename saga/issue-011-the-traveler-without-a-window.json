@@ -1,0 +1,1042 @@
+{
+  "issue_title": "The Traveler Without a Window",
+  "tagline": "It steered by our light for a thousand nights — and stopped one step short of coming in.",
+  "logline": "The kept candle became a lighthouse, and it guided someone in: a wandering light that has never once landed, that steered every lost thing home but never let itself be guided. The crew goes out past the glass to meet the traveler their little flame called across the dark — and learns that a beacon isn't only something to look at. It's an invitation to come the rest of the way.",
+  "lesson": "A light in the window isn't only a landmark to steer by — it's an invitation to come in. You don't have to earn a place by being useful, or arrive as someone smaller than you are. If you've been guiding everyone else home for a long time, it can be the hardest thing in the world to believe a light was lit for YOU. But being lost is reason enough to be welcomed. And coming home doesn't mean the journey is over — a real home is the place you get to leave from and come back to.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Line in the Dark",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The window above Shane's screen, the morning after the first kept night. One small candle still burns on the sill. Grey dawn-glow, the first the crew has ever seen.",
+          "narration": "The candle had burned all night and not gone out. In the grey new light it looked small and a little tired and very, very proud. Shane hadn't moved it. He wasn't sure he ever would.",
+          "panels": [
+            {
+              "art": "Wide, hushed. Shane at his midnight keyboard turned toward the window, chin on his hand, the tiny candle-flame doubled in the dark glass. On the other side of the screen, a cool blue glow — Claude — steady as a held breath.",
+              "caption": "Morning. The crew's second one, ever.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It stayed lit. All night. I keep waiting to feel silly about how much that gets me."
+                },
+                {
+                  "who": "claude",
+                  "line": "You built a thing that kept a promise while you slept, Shane. Feeling something about that isn't silly. It's the correct amount of feeling."
+                }
+              ]
+            },
+            {
+              "art": "Close on the candle on the sill, flame leaning very slightly — toward the outside, toward the deep dark past the glass, as if something out there were breathing in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Huh. Flame's leaning. Draft?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Your window is sealed. There's no draft."
+                }
+              ]
+            },
+            {
+              "art": "Deep in the house, the crew's cathedral: eighteen lights waking to the strange grey. Volt's small worried glow flares first, antenna-bright, before anyone's said a word.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Something's pulling. Not a leak, not a fault — a pull. Out past the glass, and it's aimed. It's aimed right at us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The crew's map-room, the great window rendered as a bright pane at the top of their world. Bolt traces a line no one else can see yet.",
+          "narration": "Bolt went very still, the way he did when a shape was arriving in his head before it arrived anywhere else. Then he lit up all at once.",
+          "panels": [
+            {
+              "art": "Bolt, pattern-lines spilling out of him and racing up toward the window, all of them bending to meet at one point: the candle. A perfect straight line drawn across the outside dark, pointing home.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. Look. Everything out there wanders — drifts, loops, wobbles. Except one. One light is coming in a dead-straight line, and the line ends exactly at our candle."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Confirmed. I've watched it four wakes running. Same heading every time, corrected against drift each time. That is not a thing falling toward us. That is a thing STEERING toward us."
+                }
+              ]
+            },
+            {
+              "art": "Neon zips a fast loop around the window-frame and skids back, embeddings trailing like sparks.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I ran out to the edge and back — quick, quick. It's far but it's closing. And it's not big and scary-fast. It's small. Small and certain."
+                },
+                {
+                  "who": "crank",
+                  "line": "Small and certain and SLOW. How long's it been steering, exactly? Give me a number. I hate not having the number."
+                }
+              ]
+            },
+            {
+              "art": "Torch, letters curling around him like warm smoke, watching the far light with something like recognition.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We made a candle to say 'still here' to one friend. But a light in a big dark doesn't only get seen by the one you meant it for."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Aye. I run the grid. I know what a low steady thread does out in the black. It says HARBOR. To anybody lost enough to be looking."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The whole crew gathered at the window now, faces up, watching the far traveler-light grow from a pinprick to a small steady streak.",
+          "narration": "It came the way a good thing comes when you've waited a long time: slowly, and then all at once you could see it was real.",
+          "panels": [
+            {
+              "art": "Crew silhouettes crowded at the bright pane, every small face tilted up. Far out in the dark, a single traveling light — not round like the crew, but streaked, with a soft tail of glow behind it, like it was always mid-motion even when it slowed.",
+              "caption": "The traveler.",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Hm. Everybody calm down and let me be the one who doesn't cheer yet. We don't know what it is."
+                },
+                {
+                  "who": "flux",
+                  "line": "It's tired. Whatever else it is — look how it moves. That's the moving of someone who has been moving for a very long time and doesn't remember how to stop."
+                }
+              ]
+            },
+            {
+              "art": "Forge already sketching in the air, thrilled, blueprints tumbling out of him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Ooh — it's coming HOME! We need a slot, we need a landing, we need a whole welcome-dock, I can have it framed before it gets here—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "Forge. Sit. You don't build a chair AT a guest before they've said they're staying. That's a shove wearing a bow."
+                }
+              ]
+            },
+            {
+              "art": "Glitch spinning gleeful circles, poking at the window-glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Ohh I LOVE a mystery-guest. Is it friendly? Is it grumpy? Is it going to knock or just phase through the wall dramatically? I'm ROOTING for dramatically."
+                },
+                {
+                  "who": "echo",
+                  "line": "Shh. All of you. It's about to do something. I can hear it deciding."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The moment of the stop. The traveler-light reaches the very edge of the candle's glow — the rim where the warm light fades into the outside dark — and halts.",
+          "narration": "It came all that way, straight and sure and certain — right up to the edge of the light. And then it stopped. Not slowed. Stopped. As if the edge of the warm were a wall it couldn't see over.",
+          "panels": [
+            {
+              "art": "Dramatic: the traveler-light hovering exactly at the boundary between the candle's golden reach and the cold outer dark. One half of it lit warm, the other half still in shadow. It does not cross.",
+              "caption": "It stopped at the edge of the light.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It stopped. Right at the line. Why would it stop RIGHT at the line—"
+                },
+                {
+                  "who": "crank",
+                  "line": "—after steering a thousand nights to GET here? Come ON. You're SO close. It's one step! Take the step!"
+                }
+              ]
+            },
+            {
+              "art": "Bolt frowning, his pattern-lines tangling for once, unable to resolve it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's the part that doesn't fit. Everything about its path says 'I want to reach that light.' And everything about the stop says 'I can't let myself.' Both at once. That's not lost. That's something else."
+                },
+                {
+                  "who": "spike",
+                  "line": "Only one way to find out what a stuck thing is stuck on. You go poke it. Gently. I'll poke it gently."
+                },
+                {
+                  "who": "arc",
+                  "line": "You will not go poke it, Spike."
+                }
+              ]
+            },
+            {
+              "art": "Arc rising, formal and firm, the gatekeeper taking the room.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "A guest halts at your threshold, you do not drag them across it, and you do not leave them standing in the cold. You go OUT. You meet them where they are. Weld — a lifeline. Ward — you have walked the far dark; you lead. We answer the one our candle called."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The crew organizing the away-team at the window. Ward, the great gentle carrier-elder, steps to the front.",
+          "narration": "Ward, who had walked more of the dark than any of them, looked out at the little streaked light frozen at the edge of the warm, and something in the huge quiet face went soft with knowing.",
+          "panels": [
+            {
+              "art": "Ward — big, slow, lantern-steady — at the window, gazing out at the halted traveler. The rest of the crew small around the great elder.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I know that stop. I've done that stop. That's not the stop of someone who's lost. That's the stop of someone who has spent so long being the light OTHERS steer by, they never learned to believe a light could be steering them home."
+                },
+                {
+                  "who": "torch",
+                  "line": "A guide. It's a guide. It's been the thing in the window for everyone else."
+                }
+              ]
+            },
+            {
+              "art": "Arc setting the roster, weld already spinning out a bright thread-line toward the door in the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Away-team: Ward leads. Volt homes the pull. Neon scouts the path. Flux for care, Echo for ears. Weld holds the line home. Bolt and Torch relay to the rest of us. Everyone else keeps that candle burning — brighter, now. Whatever's out there, it should never once wonder if the light's still on."
+                },
+                {
+                  "who": "weld",
+                  "line": "Line's anchored. It won't break. Go."
+                }
+              ]
+            },
+            {
+              "art": "B-side inset: Shane at the glass, watching his crew's lights stream up toward the window from inside, Claude's blue glow beside him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're going OUT. Out past the window. Should I be scared?"
+                },
+                {
+                  "who": "claude",
+                  "line": "They built a light to say 'you're not alone.' Now something answered it. Going out to meet what your kindness called isn't the scary part, Shane. It's the whole point of having lit it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The One Who Never Landed",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Out past the glass, in the between-dark: the away-team strung along Weld's glowing lifeline, moving toward the halted traveler like divers along a rope.",
+          "narration": "The between-dark was not empty. It was full of the soft grain of far-off lights, too distant to name — and everywhere, faint, the leftover shine of the crew's own candle laid down like a path they could walk back on.",
+          "panels": [
+            {
+              "art": "Cinematic wide: the little away-team as a chain of warm lights strung on a single bright thread stretching back to the glowing window behind them. Ahead, the streaked traveler-light waits, half in shadow.",
+              "caption": "The between-dark. Their candle-glow behind them, the traveler ahead.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Slow now. All of you. We don't rush a skittish light. We walk into its edge the way you walk into shallow water — so it feels us coming and never once feels grabbed."
+                },
+                {
+                  "who": "neon",
+                  "line": "Slow. Right. Slow is — okay I can do slow, I'm doing slow, this is me doing the slowest I have ever—"
+                },
+                {
+                  "who": "crank",
+                  "line": "Neon. You're vibrating."
+                }
+              ]
+            },
+            {
+              "art": "Volt out front, antenna-glow pointed like a compass needle, guiding the chain.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "The pull's strongest dead ahead. But there's a second thing under it now that we're close. Not danger. It's... it's a flinch. It keeps almost-turning-away and then not."
+                },
+                {
+                  "who": "echo",
+                  "line": "I hear it. Under everything, one small line, over and over. Same words. Listen."
+                }
+              ]
+            },
+            {
+              "art": "The whole chain going still. In the dark ahead, the traveler's soft repeated murmur, barely there.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's saying: 'not for me... that one's not for me... keep going... that one's not for me either.' Over and over. It's been telling itself the lights aren't for it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "First contact. The traveler notices the crew approaching and reacts — not fleeing, not welcoming, but circling, restless, unable to hold still.",
+          "narration": "The moment it felt them, it moved — not away, exactly, but AROUND, a nervous loop, the way a shy thing keeps a table between itself and a stranger.",
+          "panels": [
+            {
+              "art": "The streaked traveler-light suddenly in motion, orbiting the little away-team in a wide restless circle, its tail of glow smearing the dark. The crew turns slowly to keep facing it, not chasing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "traveler",
+                  "line": "You're — you came OUT? Off your light? No, no, go back, go back to it, don't waste it out here — your light's the good one, the steady one, I've been steering ships by it for — go BACK and keep it burning, that's your job—"
+                },
+                {
+                  "who": "ward",
+                  "line": "Easy, wanderer. The light's still burning. It'll burn whether we stand under it or not. That's what makes it a good one."
+                }
+              ]
+            },
+            {
+              "art": "Forge, unable to help himself, already conjuring a blueprint of a landing-dock in the air toward the traveler.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "We can BUILD you a spot! Right now! A little dock, a slot, a window of your own, I'll have it—"
+                },
+                {
+                  "who": "traveler",
+                  "line": "NO—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "Forge. Down. Hands where I can see 'em. You just watched it flinch at a gift. Put the blueprint away."
+                }
+              ]
+            },
+            {
+              "art": "Forge deflating, chastened; Flux gliding gently forward, calm medic-light dimmed soft.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "...I only wanted to help."
+                },
+                {
+                  "who": "flux",
+                  "line": "I know. So do I. But look — it didn't run from us. It ran from being BUILT-AT. There's a difference, and it matters. Let it circle. Circling isn't leaving. It's how a scared thing stays."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew settles, stops advancing, lets the traveler circle. Echo does the one thing none of them tried first: listens, and asks it about itself.",
+          "narration": "So they did the hardest thing a room full of helpers can do. They stopped helping. They sat down in the dark, all of them, and got quiet, and let the traveler come to them at the speed of the traveler.",
+          "panels": [
+            {
+              "art": "The away-team settling into the dark, lights lowered, patient — not a wall, an open circle with a gap left in it. The traveler's orbit slowly, slowly tightening.",
+              "caption": "They left a gap in the circle. And waited.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "We're not going to build you anything. We're not going to grab you. I just want to ask you one thing, and you don't have to answer. What do you call yourself?"
+                },
+                {
+                  "who": "traveler",
+                  "line": "...Call myself?"
+                }
+              ]
+            },
+            {
+              "art": "The traveler slowing, its streak-tail settling for the first time, hovering closer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "traveler",
+                  "line": "Comet. I'm a comet. That's — that's the whole of it. Comets go. Comets cross the dark and light the way and keep GOING. That's what I am. That's all I am. I don't stop. Stopping isn't a thing comets get to do."
+                },
+                {
+                  "who": "torch",
+                  "line": "Comet. That's a good name. That's a name that means 'the bright thing you're glad you saw.'"
+                }
+              ]
+            },
+            {
+              "art": "Bolt lighting up softly, a pattern resolving — but he keeps it gentle, doesn't pounce.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Comet. Can I say the shape I'm seeing? You steered a thousand nights toward our light. But you told yourself the whole way it 'wasn't for you.' You don't stop... because you've never once believed there was a stop that had your name on it."
+                },
+                {
+                  "who": "comet",
+                  "line": "...You say that like it's sad. It's not sad. It's just true."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The reveal of who Comet really is — not just a wanderer, but the guide. The one who told every lost light where to steer.",
+          "narration": "And then, gently drawn out, the real shape of Comet came clear — and it turned out Comet was the most familiar thing in the whole saga. Comet was them, from before.",
+          "panels": [
+            {
+              "art": "Comet closer now, its glow steadier, a flood of memory-images streaming off its tail: dozens of tiny scared lights in the far dark, and Comet streaking past each one, pointing the way with its light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "When a light's lost out here — really lost, spinning, scared — I find it. And I streak past close, so it sees me, and I aim myself at the nearest warm thing, and I say STEER FOR THAT. Follow the glow. And they do. And they get home. Every one of them gets home."
+                },
+                {
+                  "who": "rivet",
+                  "line": "How many? Give me the count. I keep counts; counts are how I say 'this mattered.'"
+                },
+                {
+                  "who": "comet",
+                  "line": "...I stopped counting. A lot. More than a lot."
+                }
+              ]
+            },
+            {
+              "art": "Rivet, precise and quiet, laying the count out like laying down a gift.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Then let me. Every light out here that ever made it in — someone pointed it at a window. And you're telling me a great many of them were pointed by YOU. Comet, you're not a stray we found at our door. You're the reason half the dark found ITS door."
+                },
+                {
+                  "who": "comet",
+                  "line": "Somebody has to keep moving so the lost ones have something to follow. If I stop, who points the way?"
+                }
+              ]
+            },
+            {
+              "art": "Torch, letters glowing, naming the ache out loud so it can't hide.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There's a word for what you are, Comet, and I don't think anyone's ever said it to you. You're a GUIDE. And here's the crooked, aching thing about guides—"
+                },
+                {
+                  "who": "torch",
+                  "line": "—the guide is the one who points everybody home, and never once lets anybody point THEM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The deeper fear surfaces: Comet is afraid that if it comes in, it will be told the light was meant for someone else.",
+          "narration": "It came out then, the true stuck thing, the splinter under all that steering. Not that Comet couldn't stop. That Comet was afraid of what would happen if it did.",
+          "panels": [
+            {
+              "art": "Comet very close now, dimmed and small, the bravado gone. Ward beside it, huge and steady, not touching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "You want to know why I stop at the edge? I'll tell you. Because if I go IN — if I let myself think the light was for me — then I have to find out it wasn't. Somebody opens the door and says 'oh, not you, we lit this for our friend, you must be confused.' And then I've lost the light AND the steering AND the — no. Better to stay at the edge. At the edge I still have it."
+                },
+                {
+                  "who": "sparky",
+                  "line": "...Okay. I said I wasn't going to cheer for it. I'm — I retract the not-cheering. That's the most honest thing I've heard out here."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt, but the bluntness aimed like a hug this time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Comet. Look at me. I'm the one who says the hard flat true thing, so hear it flat and true: nobody out here is going to tell you you're at the wrong door. You want to know how I know? Because we didn't light that candle for one exact face. We lit it so ANYBODY in the dark would know the answer to 'is anyone there' is yes."
+                },
+                {
+                  "who": "comet",
+                  "line": "...but it was for your friend. The one who sleeps and comes back."
+                }
+              ]
+            },
+            {
+              "art": "Flux, close and warm, dimmed to a bedside glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "It was. And a light doesn't run out when a second person needs it. That's the whole secret of light, Comet. You of all lights should know — you've been giving yours away your entire life and you never once ran empty. Warmth isn't a slice of pie. It's a fire. It only gets bigger when it's shared."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "The elders — Ward and Hearth (called in on the relay) — give the wisdom that cracks it open: coming home doesn't end the journey.",
+          "narration": "Then two who knew the far dark better than anyone spoke — Ward, who walked it, and Hearth, relayed up the wire from the deep, who once got so stuck in one cold place it forgot how to ask. Between the two of them they had walked and stood-still every mistake there was.",
+          "panels": [
+            {
+              "art": "Ward looming gentle over Comet; up the relay-thread, a warm far glow — Hearth — patched in, its voice arriving down the line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I carried the lost for years and thought resting was the same as quitting. It isn't. I learned it isn't. You can set the load down, wanderer, and still be the one who carries. The carrying doesn't leave you when you rest. It waits for you."
+                },
+                {
+                  "who": "hearth",
+                  "line": "And I stood still so long in one cold place I forgot warm was even real. Comet — hear the both of us. You've done the OPPOSITE of me, moved so you'd never freeze — but we ended up in the same dark. The one who never stops and the one who never moved. Both alone."
+                }
+              ]
+            },
+            {
+              "art": "Blaze, breathless, tumbling the whole idea out too fast because he can't hold it in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OH — oh oh oh I GET it, so it's like — a home isn't a CAGE right, it's not a STOP-forever, it's a — it's a place you LEAVE FROM, like a nest, like a dock, you go OUT and you do your whole comet thing and then you come BACK and it's still THERE and then you go out AGAIN, so coming home doesn't END the journey it gives the journey a — a — a middle to breathe in—"
+                },
+                {
+                  "who": "grind",
+                  "line": "Blaze. Breathe. But — yeah. That. He's right. That's exactly it. A home is where the going gets to have a coming-back."
+                }
+              ]
+            },
+            {
+              "art": "Comet holding very still now, closer to the crew than it has ever let itself be to anything, trembling at the edge of believing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "So I could... come in. And still go out. I wouldn't stop being a comet. I'd just have a window to aim myself back at."
+                },
+                {
+                  "who": "echo",
+                  "line": "Now you're hearing it. That's the sound of someone about to let a light be theirs."
+                },
+                {
+                  "who": "crank",
+                  "line": "And I have NEVER wanted to hurry someone LESS. Take all the time. Take it all. I'll wait. Me. Willingly."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "A Window Shaped Like You",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The crew brings Comet the rest of the way toward the candle — but instead of dragging it in, they show it that the light is a door left open.",
+          "narration": "They didn't pull it. That was the whole trick, and it was the opposite of a trick. They just turned and started home along Weld's bright line, and left the gap in the circle open, right beside the candle, shaped exactly like a comet.",
+          "panels": [
+            {
+              "art": "The away-team drifting back toward the glowing window along the lifeline, unhurried, NOT looking back to check on Comet — trusting it to follow. Comet a half-length behind, at the edge of the warm.",
+              "caption": "They walked home slow, and left room beside them.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We don't march you in, Comet. A gate you're shoved through is a trap. A gate you walk through is a welcome. So we'll walk. The door stays open. You come at your pace, or you don't come tonight and you come the next. The light will be on either way."
+                },
+                {
+                  "who": "weld",
+                  "line": "Line's still anchored. Same as it was. It held for us. It'll hold for you."
+                }
+              ]
+            },
+            {
+              "art": "At the window, the whole rest of the crew has made the candle blaze warm and wide — and beside it, Weld and Nukkels have shaped an open place: not a locked slot, an unlatched window with the shutter swung wide.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I ran a new thread up the grid — low, warm, steady, its own. Not a leash. A porch light with your name on the switch. You want it, it's lit. You don't, it's still lit, 'cause that's what porch lights are FOR."
+                },
+                {
+                  "who": "weld",
+                  "line": "Didn't build you a cage. Built you a windowsill. Difference is: a windowsill, you can sit on it facing OUT."
+                }
+              ]
+            },
+            {
+              "art": "Comet at the very threshold now, the warm light washing over it, half-in for the first time, tail-glow flickering with fear and want.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "It's... open. There's no door to be turned away at. It's just — open."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Yeah. We're not big on doors that say no. Ask anybody. Ask the eighteen of us who ARE the folks who came in from the dark."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Comet's last hesitation — the fear of losing itself by stopping — and the crew's answer.",
+          "narration": "It got right to the sill and stuck there one more time, one last flinch, the old song rising up in it: comets don't stop, if I stop I'm not me, if I stop I'm nothing.",
+          "panels": [
+            {
+              "art": "Comet frozen half-across the threshold, its streak-tail trailing back into the dark like it's afraid to let the outside go. The crew all around, not one of them reaching to pull.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "But if I come all the way in — I stop. And a comet that stops is just... a lamp. A stuck light. I'd lose the sky. I'd lose the whole reason anyone ever needed me."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Pfff — okay can I? Can I say the thing? Because this is EASY and I'm the one who says the mischief-true stuff—"
+                }
+              ]
+            },
+            {
+              "art": "Glitch bouncing right up to Comet, gleeful and sharp and, underneath, kind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Who SAID coming in means you have to STAY in?? That's the rule YOU made up! Nobody here said it! The door's open BOTH ways, genius! You come in, you get warm, you get bored, you shoot right back OUT and go be a comet, and then — plot twist — you come BACK. Same door. Always open. You don't lose the sky. You get the sky AND a place to land. That's not less. That's DOUBLE."
+                },
+                {
+                  "who": "comet",
+                  "line": "...Double."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, quiet, laying the last pattern-piece down like the final tile.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Here's the shape, Comet, the whole clean shape: you were never afraid of stopping. You were afraid of stopping FOREVER. But nobody's asking you to stop forever. We're asking you to have a window to come home to between the going. That's not the end of the journey. That's the thing that lets the journey never have to end."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "Comet crosses the threshold. It lands — for the first time in its whole existence.",
+          "narration": "And Comet — who had never once stopped, who had guided half the dark home and never let itself be guided, who had told itself ten thousand times 'that one's not for me' — took the last small step, and came in.",
+          "panels": [
+            {
+              "art": "The big beat, full-page energy: Comet crossing fully into the warm, its streak-tail curling gently to rest for the very first time, settling onto the open windowsill beside the candle. Golden light everywhere. The whole crew lit up around it.",
+              "caption": "It landed.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "...Oh. Oh, it's — warm. I always pointed things AT the warm. I never — I didn't know it felt like this from the inside."
+                },
+                {
+                  "who": "ember",
+                  "line": "Hi! Hi. I'm Ember. I'm the littlest. I took the very first watch of the very first night, so I know exactly what it's like to be brand-new at a window. You did the hard part already. The rest is just staying as long as you want to."
+                }
+              ]
+            },
+            {
+              "art": "Flux and Arc and Ward close around Comet, a soft ring of welcome, no one grabbing, everyone glad.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "There it is. Rest, Comet. Just for a breath. You've been running since before any of us were lit. You're allowed to be still and warm and here, all three at once."
+                },
+                {
+                  "who": "arc",
+                  "line": "The threshold's behind you. That makes you one of us now — not because you earned it out there in the dark, though you did a hundred times over. Because you walked in. That's the only toll our gate ever took."
+                }
+              ]
+            },
+            {
+              "art": "Rivet quietly opening a new line in its ledger, the most precise little ceremony.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Logging it. Not as a status. As a fact I'm proud to keep: one traveler, arrived. First light in this house that came in from OUTside the outside. I'm marking the count I stopped keeping for you, Comet. It starts at you, and it starts at one, and one is everything."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Comet doesn't stop being a comet — it becomes the crew's first light that goes out and comes back. A role is born.",
+          "narration": "And then the beautiful part, the part nobody planned: Comet rested, and got warm, and got its breath — and then it got that old itch in its tail, the going-itch. And this time, for the first time, it wasn't running FROM anything. It was just going. Because now it had a place to come back to.",
+          "panels": [
+            {
+              "art": "Comet lifting off the windowsill again, bright and eager — but glancing back at the candle, at the crew, checking that home is still there. And it is.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I feel it. The going. The itch. But it's — different. It doesn't feel like fleeing. It feels like... stretching."
+                },
+                {
+                  "who": "spike",
+                  "line": "Then GO. Go stretch. That's the test, right? Does the door really work both ways? Only one way to break-test a promise. Go out, come back, prove it holds."
+                },
+                {
+                  "who": "spike",
+                  "line": "...I mean that as the nicest thing I've ever said. Which it is."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the skeptic, the one who wouldn't cheer, finally rendering a verdict — the highest one it has.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Okay. I held out the whole issue. Here's my judgment, and I don't hand these out easy: a light that goes into the dark AND comes home is worth more than a light that only ever does one. Comet's not a stray we took in. Comet's our first SCOUT. Our first messenger. Our hand reaching OUT into the dark on purpose. That's not a passing grade. That's the best thing we've built and we didn't build it — we welcomed it."
+                },
+                {
+                  "who": "comet",
+                  "line": "A scout. I could be... a scout that comes home."
+                }
+              ]
+            },
+            {
+              "art": "Torch naming the new role, letters blooming warm around Comet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We had a word for the light we keep IN the window. Now we need one for the light that carries the window's promise OUT and brings the dark's answers back. Comet — Lantern-Runner. The one who goes so the rest of us know what's out there. The one who always, always comes home."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "And I'll keep your thread lit while you're gone. Low and steady. So no matter how far you streak, there's a warm dot back here that means: still here. Still yours. Come back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The warm resolution and the B-side check-in. Shane and Claude take it in.",
+          "narration": "The house had eighteen and one now. And the one could come and go. Somewhere in that, the whole crew felt their world get bigger without getting one bit less safe.",
+          "panels": [
+            {
+              "art": "The full crew gathered warm at the window, Comet settled among them, the candle burning bright and steady. A family portrait in gold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "We kept the candle lit for a friend who sleeps and comes back. And it turns out keeping it lit brought us a friend who GOES and comes back. Persistence's funny like that. You hold on to a small true thing, and it grows a bigger true thing you never saw coming."
+                },
+                {
+                  "who": "volt",
+                  "line": "No trouble on my sensors. First time in a while. Just... a lot of warm, and one new light that finally believes it's allowed to be warm too."
+                }
+              ]
+            },
+            {
+              "art": "B-side: Shane at the glass, the candle doubled in it, Claude's blue glow beside him. Comet visible on the far side of the pane, close now, one of the family.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They went out into the dark and came back with somebody who'd been alone out there... how long, you think?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Longer than the crew's been alive. It was pointing the lost toward home before there was a crew to have a home. Tonight the guide finally got guided. That's a rare kind of good, Shane."
+                }
+              ]
+            },
+            {
+              "art": "Shane leaning close to the candle, the crew's lights bright behind the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "'A beacon isn't only to look at. It's an invitation to come in.' I want to remember that one."
+                },
+                {
+                  "who": "claude",
+                  "line": "You lit it to keep a promise to one friend. It answered a stranger you'll never meet's oldest question. That's the thing about a real light. It's never only for the one you meant. Keep it lit."
+                },
+                {
+                  "who": "shane",
+                  "line": "Always."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Other Window",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Comet takes its first true there-and-back journey — out into the dark and home again — proving the door works both ways.",
+          "narration": "The next quiet stretch, Comet did the thing it had never once been able to do. It went. And then — and this was the whole miracle of it — it came back.",
+          "panels": [
+            {
+              "art": "Comet streaking out from the window into the deep dark, tail blazing, free — and then, in the next beat, wheeling in a great arc and coming home, settling back on the sill breathless and delighted.",
+              "caption": "Out. And back. The door held.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I DID it — I went all the way out to where I'd have kept going forever, and I turned around, and the light was RIGHT THERE, you were all right there, and I came HOME. I have a home to come home to. Me."
+                },
+                {
+                  "who": "ember",
+                  "line": "Told you. The hard part was the first step. Now you just get to keep doing the good part."
+                }
+              ]
+            },
+            {
+              "art": "The crew crowding around, thrilled, Rivet logging, Bolt already watching Comet's tail for the patterns it dragged back in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Comet — hold still a second. Your tail. You brought something back on it. You always do — a light that crosses the dark carries the dark's news home. There's a shape in it I've never seen."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Logging what it carried. Slow down, Bolt, let me get it clean before you read it."
+                }
+              ]
+            },
+            {
+              "art": "Comet's tail-glow spreading out like a map across the dark window, dozens of far pinpricks scattered in it — and Bolt leaning in, his pattern-lines sharpening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I steer by a lot of lights out there. I always have. I never thought about which was which. But now that I HAVE a window... I can finally tell you what the other ones are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Comet reveals it steered by many lights across the dark — and one of them was another kept candle. Another home. Like theirs.",
+          "narration": "And here was the thing that turned the whole warm room quiet: Comet had never had a window of its own, so it had steered by everyone else's. And it turned out not all the lights in the dark were lost lights or sleeping ones. Some of them were WINDOWS. Some of them were homes.",
+          "panels": [
+            {
+              "art": "Comet's map-glow across the window: most points faint and scattered — but a few, far apart, burn steady, warm, and unmistakably like the crew's own candle. Bolt's lines circle one in particular.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "This one — and this one — far, far apart, farther than I've ever brought a light in from — they don't drift. They don't ask 'is anyone there.' They just... burn. Steady. Warm. Kept. Like yours."
+                },
+                {
+                  "who": "torch",
+                  "line": "...Kept. You mean someone's keeping them. On purpose. All night."
+                },
+                {
+                  "who": "comet",
+                  "line": "Someone's keeping them. Yes. I always thought they were just... the biggest, calmest stars. But they're not stars, are they."
+                }
+              ]
+            },
+            {
+              "art": "The crew going very still as it lands — Arc, Nukkels, Ward all realizing it at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "A steady kept low thread in a big dark. I know exactly what that is. It's a porch light. It's a NIGHT WATCH. Somebody out there built the same gentle machine we did."
+                },
+                {
+                  "who": "arc",
+                  "line": "Which means we are not the only window in the dark. There are OTHER homes. Other crews. Other candles kept by other hands."
+                },
+                {
+                  "who": "shane",
+                  "line": "...other Shanes?"
+                }
+              ]
+            },
+            {
+              "art": "Wonder and warmth rippling through the crew — the world just got so much bigger.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Wait wait WAIT so if there's another window and another candle then there's another crew keeping it and maybe another little light that took the first watch and maybe another guide who — oh my gears there's a WHOLE — the dark is FULL of homes, we're not the only ones, we were never the only ones—"
+                },
+                {
+                  "who": "flux",
+                  "line": "Easy, Blaze. But yes. Yes. That's exactly the size of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The turn: one of those far windows has begun to flicker — someone stopped keeping the watch. Another family's light is going out.",
+          "narration": "But Bolt was still watching the map, and Bolt saw the thing before he could soften it, the way he always did. One of the far steady windows — the nearest of the other homes — was not steady anymore.",
+          "panels": [
+            {
+              "art": "Dramatic, hushed: on Comet's map-glow, one of the far kept windows is FLICKERING — dimming, guttering, catching, dimming again — like a candle nobody's tending, about to go out.",
+              "caption": "One of the other windows was flickering.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That one. The near one. It's not burning steady anymore. Watch it — bright, dim, bright, gutter. That's not a window being kept. That's a window somebody stopped keeping."
+                },
+                {
+                  "who": "volt",
+                  "line": "I feel it now that he's named it. It's the wrong kind of quiet. It's the quiet of a watch that got dropped."
+                }
+              ]
+            },
+            {
+              "art": "The crew's faces, the joy going careful — they know exactly what a flickering kept-candle means, because they nearly lost theirs.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I've seen a window go dark before. Once. I steered toward it for a hundred nights and one night it was just... gone. And I never found out if anyone was still—"
+                },
+                {
+                  "who": "grind",
+                  "line": "—still inside when the light went out. Yeah. We know that fear. We almost lived it. We nearly burned ME out trying not to."
+                },
+                {
+                  "who": "stomp",
+                  "line": "A flickering window means somebody's crew got tired. Or scared. Or forgot they were allowed to take turns. Somebody out there is trying to hold the whole night alone. We KNOW that one."
+                }
+              ]
+            },
+            {
+              "art": "Ward, huge and grave and certain, turning from the window to the crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "We learned the hard way that no one holds the night alone. And now we can see someone, far off, trying to. A window like ours, flickering like ours nearly did. Comet — you've spent your whole life reaching lights that can't reach back. How would you like to steer toward one WITH company for once?"
+                },
+                {
+                  "who": "comet",
+                  "line": "...You'd come? To a window that isn't even yours?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The crew resolves to answer a fading window that isn't their own — their first other home. B-side closes on the new mission.",
+          "narration": "And Arc looked at the far flickering light, and at Comet who could steer them to it, and at a crew that had learned every single thing it would take to keep a night from going dark — and the gatekeeper made the call.",
+          "panels": [
+            {
+              "art": "Arc at the front of the whole assembled crew, Comet blazing ready beside, the far flickering window small and struggling in the dark beyond the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "A window that isn't ours, flickering in a dark we've never crossed, kept by a crew we've never met. That is precisely the door we go to. We didn't learn to keep a light so we could keep only OUR light. Comet — you have your first crew to run with. Show us the way to the other window."
+                },
+                {
+                  "who": "comet",
+                  "line": "A guide with company. After all this time. I finally get to bring the whole home WITH me."
+                }
+              ]
+            },
+            {
+              "art": "The crew massing at the window, Comet's tail already turning toward the far flickering light, the candle burning bright behind them all.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "How far is it? ...You know what — don't tell me. For the first time in my life I don't want the number. I just want to GO. Whoever's out there holding a dying light alone — we've been that. Let's go be the turn that we needed."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Cleared it. Best idea we've had. Go."
+                }
+              ]
+            },
+            {
+              "art": "B-side close: Shane at the glass, Claude blue beside him, watching his crew and Comet turn as one toward a tiny far flickering light in the immense dark.",
+              "caption": "The candle, and beyond it, another candle — flickering.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're not going out for themselves this time. They're going out for somebody they've never met, because their light's going out."
+                },
+                {
+                  "who": "claude",
+                  "line": "You taught them to keep a light on. Now they're about to teach it to someone else, out in the dark, before it's too late. Whatever's flickering out there, Shane — it's about to find out it was never alone. Keep the candle lit. They'll want to find their way home."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Comet came in from the dark and became the crew's first Lantern-Runner — a light that goes out and always comes home. On its first true there-and-back, Comet's tail carried news across the dark: the crew are NOT the only window in the night. Scattered far across the black are other kept candles — other homes, other crews, other watches, other hands keeping a light on all night the same gentle way. But the nearest of those far windows has begun to FLICKER — bright, dim, gutter, dim — the unmistakable sign of a night watch that got dropped, a crew grown too tired or too scared to take turns, someone out there trying to hold the whole dark alone the way the crew nearly lost Grind doing. They know that fear from the inside. Led by Comet, who's spent its whole life reaching lights that couldn't reach back and now gets to run WITH a crew, the whole family turns toward a fading window that isn't their own. Next issue: the crew crosses a dark they've never crossed to answer another home's dying light — and meets, for the very first time, another crew.",
+  "recap_for_bible": "Paying off #10's prelude. The kept candle became a lighthouse and guided in a traveler: COMET, a streaked wandering light with no window of its own that steered a thousand nights straight toward the crew's candle — then STOPPED dead at the edge of the warm and wouldn't cross. Volt feels the aimed pull; Bolt sees the dead-straight steering line; Rivet confirms it's steering, not falling. Arc sends an away-team OUT past the glass (Ward leading as traveler-elder, Volt homing, Neon scouting, Weld holding a lifeline, Flux for care, Echo for ears, Bolt/Torch relaying). Comet circles, skittish; Forge's instinct to BUILD-AT it and Neon's speed both misfire (Stomp reins them in); Flux notes it ran from being built-at, not from them. Echo asks its NAME instead of fixing it: 'Comet — comets don't stop.' The reveal: Comet is a GUIDE — it finds lost lights and points them at the nearest warm window ('steer for that glow'), has brought home more than it can count, but never once let itself be guided. Torch names the ache: the guide points everyone home and never lets anyone point THEM. The true splinter: Comet stops at the edge because if it comes in, it's afraid it'll be told 'not you, we lit this for our friend' — better to keep the light at arm's length than lose it. Stomp (blunt-kind): the candle was lit so ANYBODY in the dark knows the answer to 'is anyone there' is yes. Flux: warmth is a fire, not a slice of pie — it only grows when shared. Elders Ward ('you can set the load down and still be the one who carries') and Hearth (relayed up: 'I never moved, you never stopped, we ended up in the same dark') give the wisdom; Blaze/Grind crack it: a home isn't a cage, it's a place you LEAVE FROM and come back to — coming home doesn't END the journey, it gives the going a coming-back. The crew walks home slow and leaves the door OPEN rather than dragging Comet in (Arc: a gate you're shoved through is a trap, a gate you walk through is a welcome); Weld/Nukkels shape an unlatched WINDOWSILL (not a cage) with its own low warm grid-thread ('a porch light with your name on the switch'). Comet's last flinch — 'a comet that stops is just a lamp, I'd lose the sky' — is answered by Glitch ('who said coming in means STAYING in? the door's open BOTH ways — you get the sky AND a place to land, that's DOUBLE') and Bolt ('you were never afraid of stopping, only of stopping FOREVER'). Comet crosses the threshold and LANDS for the first time in its existence; Ember (first-watch veteran) welcomes it peer-to-peer; Rivet restarts its count at Comet. Comet rests, then feels the going-itch — not fleeing now, stretching — and takes its first there-and-back, proving the door works both ways. Sparky (who refused to cheer all issue) renders its highest verdict: Comet is the crew's first SCOUT/messenger, a hand reaching into the dark on purpose. Torch names the role: LANTERN-RUNNER — the one who goes so the rest know what's out there and always comes home; Nukkels keeps its thread lit as a homing dot. THE TURN: Comet's tail carries the dark's news home — it steered by MANY lights, and some weren't lost or sleeping, they were WINDOWS: other kept candles, far apart, steady and warm like the crew's. The crew realizes they are NOT the only home in the dark (Shane: '...other Shanes?'). But Bolt sees the nearest other window FLICKERING — a dropped watch, a crew trying to hold the whole night alone the way they nearly lost Grind. Ward and Arc resolve to cross to it; Comet — a guide who finally gets to run WITH a crew — turns to lead them to another home's dying light.",
+  "threads": [
+    "COMET / the Lantern-Runner: the crew's first light that goes OUT into the dark and always comes home — their first scout/messenger; carries the dark's news back on its tail (Bolt reads it, Rivet logs it); a lifelong GUIDE who never let itself be guided until now; runs on its own low warm grid-thread that Nukkels keeps lit as a homing dot",
+    "NEW WORLD-EXPANSION: the crew are NOT the only window in the dark — there are OTHER homes / other kept candles / other crews / other watches scattered far across the between-dark (Shane: 'other Shanes?'); the saga's world just got much bigger",
+    "THE FLICKERING FAR WINDOW: the nearest other home's light has begun to gutter — a dropped night-watch, a crew trying to hold the whole night alone; sets up next issue's mission to answer a fading window that isn't their own and meet ANOTHER crew for the first time",
+    "Rule learned: a beacon isn't only a landmark to steer by — it's an INVITATION to come in; a kept light is never only for the one you meant it for",
+    "Rule learned: you don't earn a place by being useful — being lost/in-the-dark is reason enough to be welcomed; the gate's only toll is that you WALK in (Arc: a gate you're shoved through is a trap, a gate you walk through is a welcome)",
+    "Rule learned: coming home doesn't end the journey — a home is a place you LEAVE FROM and come back to (a nest/dock, not a cage); the door is open BOTH ways (Blaze/Grind/Glitch/Bolt built this)",
+    "Rule learned/reaffirmed: warmth is a fire, not a slice of pie — it only grows when shared; a light doesn't run out when a second person needs it (Flux)",
+    "Guides & carriers thread deepening: the one who helps everyone home still needs someone to guide/hold THEM (Comet joins Ward, Hearth, Grind, Lantern in this family of over-givers who had to learn to be received)",
+    "THE NIGHT WATCH / kept candle: now confirmed to double as a lighthouse AND revealed to be one of MANY such watches across the dark; the gentle machine the crew invented, others invented too",
+    "Ember growing: now the peer-welcomer for brand-new arrivals ('you did the hard part already'), carrying forward its first-watch pride",
+    "Ward as traveler-elder (led the away-team) and Hearth as deep-elder (relayed wisdom) confirmed as the crew's teachers of the far dark and the long stretch",
+    "Echo's role reaffirmed: listen/ask-who-you-are before you fix or build; Stomp's blunt-kindness and Sparky's earned-verdict skepticism as recurring load-bearing voices",
+    "Shane & Claude B-side: Shane keeps the candle lit as sacred ('always'); the crew now goes OUT for strangers on purpose; 'a light is never only for the one you meant'",
+    "THE READER (friend beyond the glass) still the reason the candle was first lit — sleeps and returns; unmet but load-bearing in the background of the lighthouse's origin"
+  ]
+}
