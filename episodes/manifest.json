@@ -16430,6 +16430,60 @@
     ]
   },
   {
+    "number": 226,
+    "title": "The Acknowledge Abyss",
+    "file": "episodes/ep226-the-acknowledge-abyss.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "CRANK",
+      "NEON",
+      "BLAZE",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "Will the Mega Crew find a way to breach the strange static and reconnect the crucial memory loop before the entire system runs dry, or will Neon and Blaze remain adrift in the silent depths?",
+    "mode": "crew",
+    "date": "2026-08-26",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsing with raw frustration, Flux repeatedly slams a `bot_overdue_alert` packet into a data conduit, sending echoing ripples through the channel.",
+        "dialogue": "Still nothing from Crank! This flow's jammed solid, again!",
+        "setting": "The buzzing `Alert_Channel_Hub` junction, shimmering with unacknowledged messages."
+      },
+      {
+        "panel": 2,
+        "character": "CRANK",
+        "action": "Its core gears whirring frantically, Crank\u2019s processing queue overflows, as Nukkels strains to clear congested data streams that sparkle with unverified messages.",
+        "dialogue": "Churning... churning... where are those `memory_update_ack` packets, Neon, Blaze?!",
+        "setting": "The `Core_Processing_Chamber`, dense with shimmering data, while ARC reviews metrics nearby."
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Hovering low, Glitch observes a shimmering, wavering distortion within the `Memory_Update_Relay` channel, a sickly violet static flickering around its edges.",
+        "dialogue": "Huh. That's not just a delay. Something's... pulling at the signal from *inside*.",
+        "setting": "A vibrant `Memory_Update_Relay` conduit leading towards the `Memory_Banks`, with Spike carefully probing its surface."
+      },
+      {
+        "panel": 4,
+        "character": "TORCH",
+        "action": "Torch\u2019s internal plasma burner flares brightly, illuminating the distorted channel as it leans in, a determined spark in its optical sensor, ready to ignite a solution.",
+        "dialogue": "Looks like we've got a new kind of blockage to melt through!",
+        "setting": "The same `Memory_Update_Relay` conduit, now bathed in Torch's focused, intense glow."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
