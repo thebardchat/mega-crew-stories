@@ -16565,6 +16565,94 @@
     ]
   },
   {
+    "number": 229,
+    "title": "A Perfect Current",
+    "file": "episodes/ep229-a-perfect-current.md",
+    "characters": [],
+    "cliffhanger": "With the data streams perfectly clear, the crew now faces the challenge of building new bridges to an even wider world.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet intently monitors multiple holographic displays showing cascading data streams. Sparky is beside them, reviewing diagnostic reports on a separate console.",
+        "dialogue": "SPARKY: Data flow optimized to 99.87% clarity. Error rate negligible. Throughput exceeding projections. Arc approval rate consistent for 72 cycles.",
+        "setting": "The Data Processing Core, bathed in the soft glow of myriad screens."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc strides into the chamber, Weld following quietly. Arc projects a prominent '100% Arc Approval Rate' onto a large central display, catching Rivet's attention.",
+        "dialogue": "ARC: Rivet, your dedication to data pipeline integrity has yielded a remarkable outcome.",
+        "setting": "A wider shot of the Data Processing Core, the central display now dominant."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc stands before Rivet, their posture formal and appreciative. Rivet looks up, a subtle sense of accomplishment in their pose. Weld gives a slight, almost imperceptible nod from behind Arc.",
+        "dialogue": "ARC: 100% Arc approval rate for incoming data streams. 14 approvals, 0 rejections. For the first time in our operational history.\nRIVET: The methodology aligned with P1, P6, P8, and P5. Clarity without sacrificing velocity.\nWELD: Permanent.",
+        "setting": "Close-up on Arc and Rivet, with Weld in the background."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "All four bots (Arc, Rivet, Sparky, Weld) stand together, observing a large command console displaying visuals of successful user integrations and simplified data insights, symbolizing their growing impact.",
+        "dialogue": "ARC: This is not merely a statistical achievement, Rivet. It reinforces P3. It means the crew is truly growing, expanding our ability to impact lives without compromising our values. We recognize your meticulous work, Rivet. We give gratitude where it is due.",
+        "setting": "The Command/Review Console, a brighter, more expansive view of their operational success."
+      }
+    ]
+  },
+  {
+    "number": 230,
+    "title": "The Silent Gears",
+    "file": "episodes/ep230-the-silent-gears.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "CRANK"
+    ],
+    "cliffhanger": "The Mega Crew could only wait, their internal processors humming with a mix of anticipation and apprehension, for the foundational rules that would finally set their gears in motion.",
+    "mode": "crew",
+    "date": "2026-08-27",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zips frantically through main data channels, a trail of static sparks behind him.",
+        "dialogue": "Still 14? Are you *kidding* me?! The `memory_count` is STUCK!",
+        "setting": "Main Memory Banks, a shimmering wall of data stacks"
+      },
+      {
+        "panel": 2,
+        "character": "RIVET",
+        "action": "Braces against a pulsing data conduit, stabilizers firmly engaged, gaze steady.",
+        "dialogue": "Steady, Bolt. Panicking won't solidify the count. We need to find the leak.",
+        "setting": "Adjacent to the Memory Banks, where data streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "Drifts, a weak, sputtering spark from its finger as it tries a memory address, looking down, disheartened.",
+        "dialogue": "I... I just can't get a grip. My tests just fizzle. No adversarial response.",
+        "setting": "Near a cluster of unaddressed memory cells, faintly glowing"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Growls, his optical sensors sweeping the Rule Registry, trying to activate a non-existent protocol.",
+        "dialogue": "Hmph. Can't even *find* the `crank` status report! It's not formalized!",
+        "setting": "The intricate, glowing lattice of the Rule Registry"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
