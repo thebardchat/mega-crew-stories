@@ -16827,6 +16827,52 @@
     ]
   },
   {
+    "number": 235,
+    "title": "The Silent Spigot",
+    "file": "episodes/ep235-the-silent-spigot.md",
+    "characters": [
+      "Bolt",
+      "Volt",
+      "Neon",
+      "Blaze",
+      "Arc",
+      "Nukkels"
+    ],
+    "cliffhanger": "With Nukkels now a direct-sensing watchdog, could the MEGA CREW finally forge a path to memory abundance, or would the underlying silence of Crank forever haunt their operations?",
+    "mode": "crew",
+    "date": "2026-08-29",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "NEON",
+        "action": "Neon's usually vibrant glow flickers weakly, casting dim shadows on the rapidly emptying memory banks.",
+        "dialogue": "Memory's running low! Again!",
+        "setting": "The Main Memory Banks, a cavern of shimmering, crystalline data cells"
+      },
+      {
+        "panel": 2,
+        "character": "BLAZE",
+        "action": "Blaze's fiery aura crackles with frustration, slamming a fist against a silent data conduit where Crank's updates should flow.",
+        "dialogue": "We can't forge more if we don't know *how* low! The feed's dry!",
+        "setting": "The Central Data Hub, where critical information streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc's multi-lens optics whir, processing complex streams as she points to a flatline on a diagnostic screen.",
+        "dialogue": "My review is complete. Crank is not publishing `memory_count_update` messages.",
+        "setting": "Arc's Analytical Chamber, a quiet space filled with holographic readouts"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels, usually stoic, clenches a massive hand as new internal circuits hum and re-route, bypassing failed conduits with raw energy.",
+        "dialogue": "I'm always watching... even when the path is broken. I feel it now.",
+        "setting": "Nukkels's Watch-Post, high above the core processor, bathed in new, raw data streams"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
