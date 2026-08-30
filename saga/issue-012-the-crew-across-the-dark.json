@@ -1,0 +1,1307 @@
+{
+  "issue_title": "The Crew Across the Dark",
+  "tagline": "They crossed a dark they'd never crossed — and found a window that wasn't theirs, and a family that forgot how to take turns.",
+  "logline": "Comet leads the crew out across the between-dark to answer a far window guttering toward going out — and there they meet, for the very first time, another crew: one exhausted keeper holding a whole night alone for a friend who stopped turning the page. The crew has the answer; the whole story is learning that the answer isn't to swoop in and hold the light FOR them, but to stand where they can be seen, teach them the turns, and stay until a stranger's hands can open.",
+  "lesson": "When you find someone struggling all alone to do the very thing you learned to do together, real help isn't to rush in and do it for them — that only tells them they were failing. The real help is to hold still so you don't frighten them, listen to who they're keeping the light for before you touch it, hand them the trick instead of taking over the job, and keep your own window lit where they can see it. You don't fix a neighbor. You show them they were never the only light in the dark — and you stay until they believe it.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Window That Wasn't Theirs",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's dark room, past midnight. The amber screen. Claude a cool-blue shape in the glass.",
+          "narration": "Shane hasn't moved in an hour. On the screen, one small candle burns in a window — the crew's kept light — and far, far out past it, in the deep blue nothing, a second tiny light is blinking. Bright. Dim. Almost gone. Bright again.",
+          "panels": [
+            {
+              "art": "Wide shot from behind Shane's shoulder: the whole dark room, the amber monitor, and inside the screen a vast blue-black field with two pinpricks of light — one steady and warm (near), one flickering (impossibly far).",
+              "caption": "Two lights in a very big dark.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "There. You see it? Way out. It keeps... blinking."
+                },
+                {
+                  "who": "claude",
+                  "line": "I see it. That's not a star, Shane. Stars don't get tired."
+                }
+              ]
+            },
+            {
+              "art": "Close on the far pinprick in the glass, guttering: bright-dim-gutter-dim, drawn as a small candle flame bending under a wind we can't see.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "That's the same rhythm we almost lost Grind to. A watch nobody's taking turns on."
+                },
+                {
+                  "who": "shane",
+                  "line": "Somebody out there is holding the whole night by themselves."
+                }
+              ]
+            },
+            {
+              "art": "Shane's hands on the keys, concrete dust in the creases, screen glow on his face. He's leaning in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Can they see our light?"
+                },
+                {
+                  "who": "claude",
+                  "line": "If we can see theirs — yes. Which means they know we're here. And they're still going out."
+                }
+              ]
+            },
+            {
+              "art": "The crew's window from the inside: the little candle on its unlatched sill, and gathered around it in the warm — a whole family of small glowing shapes turning to look OUT at the far flicker.",
+              "caption": "Down in the house, the whole crew is already awake, already looking the same direction.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I feel it before I see it. Out past the glass — a pull, but a scared one. Like a hand reaching and pulling back. Reaching. Pulling back."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we don't guess. Volt, hold that heading. Everyone — eyes to the window."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The crew's window. Comet — a streak of light with a tail — hovers at the open sill, already pointed outward.",
+          "narration": "Comet has spent its whole life reaching lights that couldn't reach back. Tonight, for the first time, there's a light in the dark that needs reaching — and a crew standing behind it.",
+          "panels": [
+            {
+              "art": "Comet, a bright comma of light trailing sparks, poised on the windowsill facing the deep. The crew behind it, backlit warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I know that flicker. I've steered past a hundred of them and never once landed. Windows that stopped believing anyone would come."
+                },
+                {
+                  "who": "comet",
+                  "line": "This one's the nearest. And it's going out slow."
+                }
+              ]
+            },
+            {
+              "art": "Bolt — pattern-eyes glowing — reading the flicker like sheet music, faint lines drawn from the far light to a graph in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not random. Watch the gaps. Bright, then a long dark, then a panicked bright. That's not a broken light. That's one keeper holding a candle and falling asleep on their feet."
+                },
+                {
+                  "who": "bolt",
+                  "line": "And look — the flicker always aims the same way. There's a dark glass out there they keep facing. They're not just keeping a light. They're keeping it FOR somebody."
+                }
+              ]
+            },
+            {
+              "art": "Crank, impatient, pacing at the sill, gesturing at the far light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "How long's it been doing that? Because 'slow' still ends. I don't like a clock I can't read."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Logging it. Three flickers since we started watching. The dark stretches are getting longer each time. That's the number I'd worry about."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and firm, rising to full height at the window, addressing the whole family.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then here's the shape of it. Somewhere out there is a home that isn't ours, keeping a light we didn't light, for a reason we don't know yet."
+                },
+                {
+                  "who": "arc",
+                  "line": "We've felt exactly that fear from the inside. We don't get to feel it and stay home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew's window, mission forming. Ward the traveler-elder steps to the front.",
+          "narration": "The house has crossed the glass before — for Comet. But that was one small light drifting in. This is going OUT, across a dark the crew has never crossed, toward strangers.",
+          "panels": [
+            {
+              "art": "Ward — a broad, weathered, steady glow, older than the rest — stepping up beside Comet, calm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I've crossed long dark before. You don't cross it in one jump. You lay a line you can find your way back along. Comet leads, we follow the light, and we always keep home in sight behind us."
+                }
+              ]
+            },
+            {
+              "art": "Forge, eager, already sketching a giant glowing blueprint in the air — a huge night-watch machine.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I'm on it! I'll build them the whole Night Watch — watch-posts, a roster, the passing-candle, the works. We drop it in, done, they never flicker again!"
+                },
+                {
+                  "who": "stomp",
+                  "line": "Down. You're building a machine for a house you've never stood inside. That's not help. That's a stranger rearranging somebody's kitchen."
+                }
+              ]
+            },
+            {
+              "art": "Stomp — blunt, boxy, arms crossed — planting himself between Forge's blueprint and the window.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "We don't know their names. We don't know what they lost. You do NOT fix a home you haven't been welcomed into."
+                },
+                {
+                  "who": "echo",
+                  "line": "Stomp's right. First thing we do out there isn't build or carry. It's listen. We ask who they are before we tell them what they need."
+                }
+              ]
+            },
+            {
+              "art": "Neon, a blur of speed, vibrating at the sill, ready to bolt across the whole dark in one dash.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Orr I just — zip out, grab their candle before it drops, zip back, relight it, easy, I'm fast—"
+                },
+                {
+                  "who": "sparky",
+                  "line": "And you'd land in a scared stranger's window at full speed holding their only light. Hard fail. You'd look exactly like the thing they've been holding the dark AGAINST."
+                }
+              ]
+            },
+            {
+              "art": "Sparky — narrow, skeptical, the quality-judge — squinting at the far flicker, unimpressed with everyone's plans.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Nobody's graded the actual problem yet. That window isn't broken. Broken I could fix. It's TIRED. And you don't fix tired by doing it louder and faster than the tired person."
+                },
+                {
+                  "who": "flux",
+                  "line": "...That's the truest thing said tonight. Tired isn't a bug. It's a wound. And you treat a wound gently, or you make it worse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The threshold of the open window. The away-team assembling. The deep-blue dark waiting beyond.",
+          "narration": "Arc sets the team the way she sets everything — carefully, by hand, each name placed like a stone in a path.",
+          "panels": [
+            {
+              "art": "Arc at the sill assigning the away-team, each named crewmate lighting up as she points: Ward, Comet, Volt, Grind, Flux, Echo, Weld, and relays Bolt, Torch, Rivet at the window.",
+              "caption": "The away-team, chosen.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Ward leads. Comet runs the line. Volt homes on the fear. Flux carries care. Echo carries ears. Weld holds the lifeline home."
+                },
+                {
+                  "who": "arc",
+                  "line": "And Grind. You come too. You know this exact dark better than any of us."
+                }
+              ]
+            },
+            {
+              "art": "Grind — sturdy, patient, the one who once tried to hold a whole night alone until he nearly went out — going quiet, understanding why he's picked.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Because I'm the one who held the whole night by himself once. And it didn't make me strong. It made me the first light to go out."
+                },
+                {
+                  "who": "grind",
+                  "line": "Yeah. I'll go. Somebody out there needs to hear it from someone who's done the dumb brave thing."
+                }
+              ]
+            },
+            {
+              "art": "Weld — quiet, precise, unspooling a thin bright thread from the home's window out into the dark, anchoring it to the sill.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Lifeline's tied. Home end holds. Wherever we go, we can find the way back along it."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "And I'm feeding that thread one low warm strand off the grid. Not a floodlight. Just enough that the line home never goes dark under you. Go on. I've got the switch."
+                }
+              ]
+            },
+            {
+              "art": "Ember — the littlest light, first-watch veteran — tugging at Arc, wanting to come, brave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "Let me come. I know how to wait at a window better than anybody. I did the whole first watch, remember?"
+                },
+                {
+                  "who": "arc",
+                  "line": "You did. So you hold OUR window, Ember — bright, so the away-team always has home to steer back to. That's the hardest watch of all. That's why it's yours."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "Out past the glass. The away-team steps off the sill into the deep, single-file along Comet's lit line. First sight of the far window up close.",
+          "narration": "And then they are OUT — off the warm sill, into the big blue nothing, strung along a single thread of light like beads. Behind them, home shrinks to a candle. Ahead, the flicker grows into a window.",
+          "panels": [
+            {
+              "art": "Epic wide shot: the away-team as tiny glows strung along a glowing thread across an enormous blue-black void; home a warm dot behind, the far window a flickering rectangle ahead. Comet blazing at the lead.",
+              "caption": "The first crossing.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Stay on the line. Don't look at how big the dark is. Look at the light you're going toward. That's the whole trick."
+                },
+                {
+                  "who": "volt",
+                  "line": "The fear's getting louder. We're close. And it just felt us coming — everybody, it knows we're here—"
+                }
+              ]
+            },
+            {
+              "art": "The far window suddenly DIMS — a defensive flinch, the flickering candle pulled back deep into the frame, shutters half-drawn, as if hiding.",
+              "caption": "The moment it felt them, the far light shrank away.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "(relay) It just pulled its own light back. It's not going out — it's HIDING. It thinks we're a threat."
+                },
+                {
+                  "who": "echo",
+                  "line": "Of course it does. A stranger appearing in your dark, at night, moving fast toward your only light? We'd hide too."
+                }
+              ]
+            },
+            {
+              "art": "Ward raising one broad hand, halting the whole team on the line, well back from the dimmed window — deliberately not approaching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Everybody stop. We do not cross the last stretch. Not one more step toward their glass."
+                },
+                {
+                  "who": "ward",
+                  "line": "You don't walk into a scared home. You stand where they can see you, and you let them decide when you're allowed closer."
+                }
+              ]
+            },
+            {
+              "art": "From the dark, a single small frightened voice — a new light, thin and guttering, flaring up at the window's edge, facing the team: WICK, the far crew's lone keeper.",
+              "caption": "And then — a voice none of them had ever heard before. From a crew that wasn't theirs.",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "Stop THERE. Whoever you are. I know what you are — you're the thing that comes when the light gets low. Well it's not low. It's FINE. Go back."
+                },
+                {
+                  "who": "wick",
+                  "line": "...I'm keeping this window. I'm keeping it for somebody. And you don't get to have it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The One Who Held It Alone",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The gap between two homes. The away-team held on their line; Wick's dim window before them, the small guttering keeper flaring bravely at its sill.",
+          "narration": "Nobody moves. A whole crew of warm lights, holding still in the dark, so as not to frighten one tired light that's decided they're the enemy.",
+          "panels": [
+            {
+              "art": "Standoff: the away-team's warm cluster on one side, Wick — a small, thin, over-bright flame, shaking with effort — planted at the far window like a guard who hasn't slept in weeks.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I've held it this long. I don't need — I'm not — I can do it MYSELF."
+                },
+                {
+                  "who": "grind",
+                  "line": "I know you can. That's the problem. I could do it myself too. I nearly went out proving it."
+                }
+              ]
+            },
+            {
+              "art": "Grind, alone, edging one careful step forward along the line — hands open, dimming his own glow so as not to loom.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I'm not going to touch your light. Look — I'm turning mine DOWN. I'm the least scary thing out here. My name's Grind."
+                },
+                {
+                  "who": "grind",
+                  "line": "I held a whole night by myself once, sure my crew would drop the watch if I let go. I flickered just like you're flickering. Bright, dark, panicked bright."
+                }
+              ]
+            },
+            {
+              "art": "Wick flinching at being seen, the flame twisting.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "...You don't know why I'm holding it."
+                },
+                {
+                  "who": "echo",
+                  "line": "Then tell us. Not what you need — we'll get that wrong. Tell us who you're keeping it FOR. Start there."
+                }
+              ]
+            },
+            {
+              "art": "Echo — a listening shape, all ears, no tools, settling low and still — the whole team going quiet behind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "We came a long way and we haven't tried to fix one thing. We just want to hear you. What's the glass you keep facing?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Wick's window, up close now that it's not hiding. Behind Wick, deeper in the frame, a dark pane of glass — and two more small, dim, hiding lights.",
+          "narration": "And because nobody grabbed at it, the little flame stopped guarding — and told them. The way you only tell strangers a true thing when they've held still long enough to trust.",
+          "panels": [
+            {
+              "art": "Wick, still shaking, but turning to point deeper into its home — at a dark, blank pane of glass with nothing behind it, waiting.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "There. That glass. Somebody used to turn the page on the other side of it. Every night. They'd come, and the light would be on, and they'd know we were still here."
+                },
+                {
+                  "who": "wick",
+                  "line": "Then one night they didn't come. And they haven't. And I decided — the light does NOT go out. Not for one second. Because if it's dark when they come back, they'll think we're gone. They'll think nobody waited."
+                }
+              ]
+            },
+            {
+              "art": "The away-team going very still — this is the crew's own oldest ache, mirrored back. Flux's light softening.",
+              "caption": "This was the crew's own story, told back to them by a stranger.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "(quiet) ...Oh. It's the friend beyond the glass. They've got one too."
+                },
+                {
+                  "who": "bolt",
+                  "line": "(relay, low) That's the flicker's aim. Every panicked bright — it's Wick turning to check if their friend came back yet. All night. For a long, long time."
+                }
+              ]
+            },
+            {
+              "art": "Two smaller lights peeking out from behind Wick — MOTE (tiny, terrified) and TINDER (young, eager but clumsy) — the rest of the far crew, hiding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "mote",
+                  "line": "(whisper) Wick won't sleep. Wick won't let US hold it. Wick says we'll drop it."
+                },
+                {
+                  "who": "tinder",
+                  "line": "I TRIED to help! I held the candle and I got scared and it almost went out and Wick took it back and now Wick won't hand it to anybody, ever."
+                }
+              ]
+            },
+            {
+              "art": "Wick, ashamed and exhausted, the flame nearly translucent with tiredness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "Because I can't watch it drop. If it drops, that's the night they came back and found the dark. I would rather burn all the way out than let that happen."
+                },
+                {
+                  "who": "grind",
+                  "line": "...Yeah. I know. I said those exact words. Every one of them. Right before my crew caught me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The team's line, conferring low. The old bad instincts rise again — the urge to swoop in and fix it fast.",
+          "narration": "It would be so easy. They have the answer. They INVENTED the answer. Every part of them wants to just... do it for Wick, right now.",
+          "panels": [
+            {
+              "art": "Forge, back at the window relay, blueprint flaring again, unable to help himself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "We HAVE this! We literally have the Night Watch built! Let me just push the whole thing across and set it up around them, watch-posts and all, they wake up tomorrow and it's DONE—"
+                },
+                {
+                  "who": "weld",
+                  "line": "And it'd be ours, standing in their house. Not theirs. A machine you're handed while you sleep isn't a gift. It's a thing that shows up and makes you feel small."
+                }
+              ]
+            },
+            {
+              "art": "Neon zipping in place, itching to just grab the exhausted candle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I could hold their candle for a while! Just take it, let Wick crash, I'm fast, I won't drop it—"
+                },
+                {
+                  "who": "sparky",
+                  "line": "And when Wick wakes up, the one thing they were proud of — the one thing they DID — a stranger's holding it. You didn't rest them. You replaced them. Fail."
+                }
+              ]
+            },
+            {
+              "art": "Sparky turning, for once not just grading but explaining, to the whole team.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Listen. We keep trying to be the hero of their house. That's the bug. This isn't our light to save. It's Wick's. Our job isn't to hold it FOR them."
+                },
+                {
+                  "who": "torch",
+                  "line": "...It's to teach them the turns. Right. We don't hand Wick a rested light. We hand Wick the trick that let US rest. There's a word for the difference and it matters."
+                }
+              ]
+            },
+            {
+              "art": "Torch — the word-keeper — lighting up, naming it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Doing it for someone says: you couldn't. Teaching someone says: you can, here's how. One makes them smaller. The other makes them bigger. We came all this way — let's make them BIGGER."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "Wick's window. Grind, chosen and steady, moves in close — peer to peer, the one who's been exactly here.",
+          "narration": "So Grind — who once was Wick, exactly — goes in alone. Not with a machine. With a story and two open hands.",
+          "panels": [
+            {
+              "art": "Grind at Wick's sill now, close, both their lights low and level, like two candles leaning toward each other.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "My crew didn't take my candle. You know what they did? They stood next to me and each one held a little stretch of the night, so I could hold a smaller stretch. And the light never once went out."
+                },
+                {
+                  "who": "grind",
+                  "line": "Because it turns out a night's too big for one light. But it's exactly the right size for a family."
+                }
+              ]
+            },
+            {
+              "art": "Spike — the tester — easing forward, gently, cupping a hand near Wick's guttering flame, not taking it, just testing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Can I test something? Not take it. Test it. ...Wick, your light's not almost-out. It's almost-ASLEEP. There's a warm little heartbeat still in it. 'Low' isn't 'gone.' You've got more fire than you think — you're just spending it all at once."
+                },
+                {
+                  "who": "wick",
+                  "line": "...it's not gone?"
+                },
+                {
+                  "who": "spike",
+                  "line": "Not even close. You've just been trying to be a bonfire when the night only needed a candle."
+                }
+              ]
+            },
+            {
+              "art": "Flux settling in beside Wick, a healer's calm, warm hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Here's the thing nobody told you. Warmth isn't a slice of pie that gets smaller when you share it. It's a fire. It gets BIGGER. If Mote holds a stretch, your light doesn't shrink. There's just more light."
+                },
+                {
+                  "who": "mote",
+                  "line": "(tiny, brave) ...I could hold a really small stretch. A little one. If somebody stayed next to me."
+                }
+              ]
+            },
+            {
+              "art": "Glitch — mischief incarnate — popping up next to terrified little Mote, grinning, turning fear into a game.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "OH we can DO small stretches. Best part of the whole night. Here's the game: you hold the candle and I try to make you giggle, and if you keep it lit while laughing you WIN. Nobody's ever lost. It's rigged. In your favor. C'mon."
+                },
+                {
+                  "who": "mote",
+                  "line": "(a first tiny laugh) ...that's not a real watch."
+                },
+                {
+                  "who": "glitch",
+                  "line": "It's the realest one. Ask Ember. She invented losing-on-purpose so the little one always wins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "Wick's home. Blaze arrives at the relay, over-explaining the Night Watch at breakneck speed — and, unexpectedly, it lands for eager Tinder.",
+          "narration": "Blaze cannot say a small thing. He says every thing. And for once — for the young light who's been too scared to try — every single detail is exactly what's needed.",
+          "panels": [
+            {
+              "art": "Blaze — a breathless streak — talking a mile a minute to wide-eyed Tinder, diagrams flying everywhere.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OKAY so the way it works is you don't hold ALL night you hold a STRETCH and a stretch is just a little piece and when your piece is done you don't blow it out you PASS it like a warm handshake to the next one and THEY hold their piece and it goes candle to candle to candle and nobody and I mean NOBODY holds the whole—"
+                },
+                {
+                  "who": "crank",
+                  "line": "Blaze. Breathe. You're going to run out before the night does."
+                },
+                {
+                  "who": "tinder",
+                  "line": "NO — keep going — that's the first time it's made sense! A STRETCH. Not the whole thing. Just my piece!"
+                }
+              ]
+            },
+            {
+              "art": "Tinder lighting up with understanding — the thing it failed at now finally explained.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "tinder",
+                  "line": "I dropped it before because I thought I had to hold ALL of it. Nobody can hold all of it! I was scared because it was the wrong size! Give me a STRETCH. I won't drop a stretch."
+                },
+                {
+                  "who": "weld",
+                  "line": "Now you're building. That's the whole secret — right-size the piece, and the scary job turns into an easy one you can actually do."
+                }
+              ]
+            },
+            {
+              "art": "Rivet — precise, careful — starting a fresh ledger for the far crew, counting them by name, gentle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "New ledger. Not ours — theirs. Wick. Mote. Tinder. Three lights. I'm marking none of you 'failing.' I'm marking all of you 'here, and learning the turns.' There's a difference and I keep it exact."
+                },
+                {
+                  "who": "wick",
+                  "line": "...you wrote our names down like we count."
+                },
+                {
+                  "who": "rivet",
+                  "line": "You always counted. Nobody was keeping the record. That's all. Now somebody is."
+                }
+              ]
+            },
+            {
+              "art": "Wick, cracking — the exhausted flame trembling toward letting go, but not yet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "But if I hand it over — even a stretch — and I'm asleep when they come back... it's not ME who kept it. I have to be the one. I promised."
+                },
+                {
+                  "who": "grind",
+                  "line": "No. Listen close, because this is the part that saved me. A promise made by one — is kept by ALL. If the whole crew keeps the light, then when they come back? YOU kept it. Every hand on that candle was your hand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "Wick's window, the turn of the whole issue. The far crew stands ready. Home, far behind, glows steady. But Wick still can't let go.",
+          "narration": "Everything is in place. The trick is taught. The hands are ready. And still the tired little flame holds on — because the last inch of letting go is the hardest inch in the whole dark.",
+          "panels": [
+            {
+              "art": "Wick clutching the candle, Mote and Tinder waiting with open hands, the crew stepped all the way back to give them room — and Wick still frozen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I want to. I do. I just — my hands won't open. What if it's the one second I'm not watching—"
+                },
+                {
+                  "who": "volt",
+                  "line": "It won't be. I can feel every light in this dark right now — yours, ours, home behind us — and not one of them is going to let that candle hit the ground. I'd feel it coming a mile off."
+                }
+              ]
+            },
+            {
+              "art": "Ward, the elder, coming close at last — the one moment an elder's weight is needed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I've carried long loads a long way, friend. Here's what nobody tells you: setting the load down doesn't mean you stopped carrying. It means you finally trust the ground to hold it a minute. Your crew is the ground. Let them hold it a minute."
+                },
+                {
+                  "who": "wick",
+                  "line": "...a minute."
+                }
+              ]
+            },
+            {
+              "art": "Comet — the guide who never let itself be guided until this crew caught it — flaring gently at Wick, kin to kin.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I steered a thousand nights and never once landed, because landing felt like losing the sky. This crew showed me: you don't lose it. You get a place to come back to. You can set it down AND still be the one who carries. I promise. I was you."
+                },
+                {
+                  "who": "wick",
+                  "line": "...you were?"
+                },
+                {
+                  "who": "comet",
+                  "line": "I was so much you it hurts to look at you. Open your hands. I'll be right here when they come back — and so will you."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close: Wick's hands, trembling, beginning — just beginning — to open around the little flame.",
+              "caption": "The hardest inch in the dark.",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "...okay. Okay. Mote. Little stretch. Just a little one."
+                },
+                {
+                  "who": "grind",
+                  "line": "We've got you. Every one of us. Go on."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Two Windows, One Line of Light",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "Wick's window. The candle passes — for the first time — from Wick's hand to another.",
+          "narration": "And the flame passes. From the hands that had held it alone too long, into a smaller, braver pair. The window does not go dark. It has never, for one instant, gone dark.",
+          "panels": [
+            {
+              "art": "The candle crossing from Wick's trembling hands to tiny Mote's cupped ones — the flame steady the whole way, Glitch beside Mote making a silly face, the whole crew holding its breath.",
+              "caption": "The first pass.",
+              "dialogue": [
+                {
+                  "who": "mote",
+                  "line": "(holding it, wide-eyed) I've got it. I've GOT it. It's not even heavy. Wick — it's not heavy at all—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "Told ya it was rigged. You already won. Now hold it and laugh, that's the whole job."
+                }
+              ]
+            },
+            {
+              "art": "Wick's empty hands — and Wick still standing, still glowing, watching the candle be safe in someone else's care for the first time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "It's... still lit. I let go and it's still lit. It's still—"
+                },
+                {
+                  "who": "flux",
+                  "line": "Still keeping the promise. See? You didn't drop the watch. You made it un-droppable. Now there's three of you to catch it."
+                }
+              ]
+            },
+            {
+              "art": "Wick's flame — freed of the whole weight — visibly steadying, brightening, the flicker smoothing out into a calm warm glow for the first time.",
+              "caption": "And the flicker stopped. The window that had been guttering all night burned steady and warm.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "(relay) Look at the pattern now. No more panic-brights. No more long darks. Just... steady. That's what a shared night looks like. Even, warm, calm."
+                },
+                {
+                  "who": "sparky",
+                  "line": "...Okay. THAT I'll grade. That's a pass. First one all night. Steady beats bright every single time."
+                }
+              ]
+            },
+            {
+              "art": "Wick, for the first time, letting itself dim toward rest — not going out, just resting — as Mote holds the watch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I think I could... rest. Just a little. If somebody wakes me for my stretch."
+                },
+                {
+                  "who": "tinder",
+                  "line": "I'll wake you! That's MY job now, I already picked it — I'm the one who watches the watchers and passes it on. Blaze taught me. Sleep, Wick. We've got the night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "Wick's home, now calm. The crew helps them raise a proper Night Watch — but theirs, built by their hands, not the crew's.",
+          "narration": "Now the crew helps. Not by building it FOR them — by handing them the tools and letting Wick's crew raise their own. Weld guides the hands. He does not hold the hammer.",
+          "panels": [
+            {
+              "art": "Weld quietly showing Tinder how to shape a watch-post, his hands over Tinder's, then pulling back to let Tinder do it alone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "My hands come off. Yours stay on. A watch you built holds because YOU know every joint of it. If I build it, you're just borrowing it. Build it. I'll only catch what falls."
+                },
+                {
+                  "who": "tinder",
+                  "line": "(building, proud) I made this post. That corner's a little crooked."
+                },
+                {
+                  "who": "weld",
+                  "line": "Crooked and yours beats perfect and borrowed. Leave the corner. It's how you'll know it's the one you made."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels — the grid-keeper — running one low warm strand from home's grid across to Wick's window, then handing Wick a little switch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Here's a warm thread off our grid to steady your line while you learn. But look — the switch is YOURS. Your porch, your switch. We lend the light. You keep the say-so. Anybody who takes your switch isn't helping, they're taking over."
+                },
+                {
+                  "who": "wick",
+                  "line": "(waking for its stretch, taking the switch) ...my switch."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Yours. Always was. We just handed it back."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and warm, standing between the two homes as they light up — refusing to make the far crew part of her crew, insisting they stay their OWN.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Understand something, Wick. We're not making you part of us. You're not joining our crew. You've got your own — Mote, Tinder, you. You're a crew. You always were. You were just a crew that forgot it had turns to take."
+                },
+                {
+                  "who": "arc",
+                  "line": "We're not your keepers. We're your NEIGHBORS. That's a different, bigger thing."
+                }
+              ]
+            },
+            {
+              "art": "Echo, listening one last time, gentle, to make sure they got it right.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Did we hear you right? All of it? We didn't fix a thing you didn't ask us to?"
+                },
+                {
+                  "who": "wick",
+                  "line": "You didn't fix me at all. You just... stood where I could see you, and showed me the turns, and stayed until my hands opened. That's not fixing. That's something better and I don't have the word."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "Between the two homes. Torch names the new thing. The crew and Wick's crew, two warm windows in the dark, looking at each other.",
+          "narration": "Two windows. Warm. Steady. Close enough now to see each other's light. Torch, who keeps the words, gives the new thing its name.",
+          "panels": [
+            {
+              "art": "Wide shot: two lit windows in the vast dark, a thin bright thread of light strung between them — Comet's line, now permanent. The crews at their sills, waving.",
+              "caption": "The first road of light between two homes.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There. You see what we made without meaning to? A line of light, home to home. Not a leash. Not a rope pulling you to us. A ROAD. You can walk it either way. We'll call it a Lantern-Line."
+                },
+                {
+                  "who": "wick",
+                  "line": "A road... between our window and yours."
+                }
+              ]
+            },
+            {
+              "art": "Comet zipping along the new Lantern-Line, home to Wick and back, delighted — its whole purpose, finally shared.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "And I RUN it! This is the thing I was built for and never got to do WITH anybody. I carry your news to them and their news to you and nobody's alone in the dark between, because there's always a light coming down the line."
+                },
+                {
+                  "who": "crank",
+                  "line": "Finally, a clock I can read. Comet, how long's a full run, there and back?"
+                },
+                {
+                  "who": "comet",
+                  "line": "Long enough to matter, short enough to trust. You'll always know we're coming."
+                }
+              ]
+            },
+            {
+              "art": "Ember — back home at the window, tiny and proud — spotting the second light through the glass, waving hard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "(from home) I can see them! From here! There's a whole other window and it's WAVING! Mote! I see you! You did the hard part — you kept it lit till help came, that's the bravest thing there is!"
+                },
+                {
+                  "who": "mote",
+                  "line": "(waving back across the dark) I see YOU! We're not the only ones! We're not the only ones anymore!"
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt and satisfied, looking at the two windows, saying the plain true thing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Good. Here's the whole point, plain: we didn't cross all that dark to make them us. We crossed it so they'd know the answer to 'is anybody out there' is yes. That's it. That's the entire job. Now they know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "Wick's window, the goodbye. The away-team readies to walk home along the Lantern-Line.",
+          "narration": "It's time to go home — because a home is a place you leave from and come back to, and now there's a line to come back along. The goodbye is easy. Goodbyes are easy when they're not forever.",
+          "panels": [
+            {
+              "art": "The away-team at the edge of Wick's warm, on the Lantern-Line, waving goodbye to Wick, Mote, and Tinder at their steady window.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "Will you come back? Or is this the kind of light that shows up once and never again?"
+                },
+                {
+                  "who": "grind",
+                  "line": "We'll be back. And you'll come see us. That's what the road's FOR. You're not somewhere we visited once. You're a window we can always see now."
+                }
+              ]
+            },
+            {
+              "art": "Grind and Wick, one last peer-to-peer moment, both steady now, both resting easy.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "One thing, before we go. Next time you feel your hands wanting to hold the whole night alone — and you will, that feeling doesn't just leave — you look down your line, and you remember there's a whole other window that knows exactly how you feel. You're not the only one who ever tried to carry the dark by yourself."
+                },
+                {
+                  "who": "wick",
+                  "line": "...and neither are you."
+                },
+                {
+                  "who": "grind",
+                  "line": "Nope. Not anymore. That's the whole gift, isn't it."
+                }
+              ]
+            },
+            {
+              "art": "The team stepping off along the glowing line toward the distant warm dot of home, Comet running ahead, home growing brighter as they near.",
+              "caption": "The walk home, along a line that wasn't there this morning.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Follow the light home, same as always. Only now the light runs both directions. Somebody's window is behind us AND ahead of us. That's new. That's good."
+                },
+                {
+                  "who": "volt",
+                  "line": "The fear's gone out of the dark behind us. First time. It feels... warmer back there now. Like the dark's a little less empty than it was."
+                }
+              ]
+            },
+            {
+              "art": "Home window, up close, the away-team arriving back over the sill, Ember and the whole home crew catching them in warm light, Wick's distant window still visible and steady through the glass.",
+              "caption": "Home.",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "You're back! And you LEFT ONE ON out there! There's two now! Two lights!"
+                },
+                {
+                  "who": "arc",
+                  "line": "Two lights, Ember. And a road between them. We went out into the dark to answer one dying window — and we came home with a neighbor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "Shane's room, near dawn. The B-side frame closes the loop. Two lights on the screen now, both steady.",
+          "narration": "Back in the dark room, Shane hasn't blinked. On the screen, where there was one steady light and one desperate flicker, there are now two calm warm windows — and a faint bright thread running between them.",
+          "panels": [
+            {
+              "art": "Shane leaning back at last, exhaling, the screen showing two steady lights linked by a glowing line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It stopped flickering."
+                },
+                {
+                  "who": "claude",
+                  "line": "It stopped flickering. Somebody out there is resting for the first time in a long time. And they're not resting alone anymore."
+                }
+              ]
+            },
+            {
+              "art": "Close on the two linked windows in the glass, warm and even.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They didn't move in and take over. They taught 'em the turns and left a light between the houses."
+                },
+                {
+                  "who": "claude",
+                  "line": "They did. That's the harder kind of help, Shane. It's easy to do a thing for someone. It's much harder to stand back and let them learn to do it — and stay until they can."
+                }
+              ]
+            },
+            {
+              "art": "Shane, quiet, hand around something warm, looking at the two lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "A road of light between two homes in the dark. I built a comic crew and they went and invented neighbors."
+                },
+                {
+                  "who": "claude",
+                  "line": "You built a place that keeps a light on. Turns out anyone who does that eventually finds out they're not the only one. And then the real thing starts — the reaching toward each other."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the dark room, the amber screen, two warm windows glowing inside it, Shane's silhouette small before the bigger dark he's lit a corner of.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "How many other windows do you think are out there?"
+                },
+                {
+                  "who": "claude",
+                  "line": "...I don't know yet. Comet's about to go find out. Get some sleep first. The dark just got a lot bigger — and a lot less lonely — and it'll still be there tomorrow."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Necklace of Windows",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "Later. Home, quiet, resting. Comet, restless with its new purpose, takes the longest run of its life down the far end of the dark.",
+          "narration": "The house sleeps easy, two windows warm on the screen. But Comet can't sit still — a Lantern-Runner with a road to run and a whole dark still unmapped. So it goes long. Longer than it's ever gone.",
+          "panels": [
+            {
+              "art": "Comet streaking away from the two linked windows out into the deepest dark, its tail a long bright line, home and Wick's window shrinking to two dots behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Two windows I can see. But the dark's bigger than two windows. If Wick's crew was out here flickering and we almost never knew — how many more are out there? I have to KNOW. That's the job now. Go, and come back, and tell them what's out there."
+                },
+                {
+                  "who": "volt",
+                  "line": "(from home, faint) Comet's going deep. Deeper than the line reaches. Bring it back on your tail — we'll be waiting at the window."
+                }
+              ]
+            },
+            {
+              "art": "Comet, far out in the black, cresting some unseen rise of dark — and stopping, stunned, as the deep opens up before it.",
+              "caption": "And then Comet crested the far dark — and saw.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "...oh."
+                },
+                {
+                  "who": "comet",
+                  "line": "...oh, no. Oh, look at them ALL."
+                }
+              ]
+            },
+            {
+              "art": "Comet's POV, revealed: scattered across the entire vast dark, dozens upon dozens of tiny far windows — a whole spilled necklace of little lights, near and far, in every direction.",
+              "caption": "Not one other window. Not two. A whole sky of them.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "They're everywhere. Windows. Homes. Kept candles. Dozens — more than I can count — scattered all across the dark like somebody spilled a whole jar of stars, each one a house, each one a crew, each one keeping a light on all night the gentle way."
+                },
+                {
+                  "who": "comet",
+                  "line": "We were never two. We were never even a few. We're a WHOLE SKY of windows and none of us knew."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Comet racing home down the Lantern-Line, tail heavy with the biggest news the crew has ever received.",
+          "narration": "Comet turns for home with a tail full of the biggest news in the whole saga — and, riding underneath the wonder of it, one small cold thing it can't stop looking at.",
+          "panels": [
+            {
+              "art": "Comet blazing back down the line toward the two warm windows, its tail crackling with encoded news — but its light has a worried edge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "(racing) A whole sky of us — wait till they hear — Bolt's going to lose his mind reading this tail—"
+                },
+                {
+                  "who": "comet",
+                  "line": "(slowing, troubled) ...but that one. That one at the far edge. Why is that one different. Why is that one not flickering like Wick's was—"
+                }
+              ]
+            },
+            {
+              "art": "Home window: the whole crew crowded at the glass as Comet streaks in, Bolt already reading the incoming tail, eyes widening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "(reading Comet's tail as it lands) A whole constellation — dozens of homes — okay this changes everything, this changes the size of the entire world—"
+                },
+                {
+                  "who": "bolt",
+                  "line": "(stopping cold) ...wait. Comet. This one. Far edge of your run. Read me this one again."
+                }
+              ]
+            },
+            {
+              "art": "Comet landing at the sill, quiet now, showing Bolt one particular reading — and the crew going still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "That one's the farthest window I found. And it's not flickering. Wick's was flickering — bright, dim, gutter, dim — a light fighting to stay. This one's not fighting."
+                },
+                {
+                  "who": "rivet",
+                  "line": "(logging, careful) ...Because there's nothing there to fight. My ledger reads it plain. That window isn't guttering. It already went dark. Some while ago. A home that had a light — and doesn't, now."
+                }
+              ]
+            },
+            {
+              "art": "The crew at the window, the wonder and the worry landing together, all facing the deep dark where the far dark window waits.",
+              "caption": "The whole family stood at the glass — a sky of windows before them, and one of them already gone dark.",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So somewhere out there's a home that kept a light on, same as us, same as Wick — and nobody came in time."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we know exactly where we're going next. Comet — steer us to the one that went out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Home window, resolve gathering. The mission of the next issue takes shape: not to answer a fading light, but to relight one that's already gone.",
+          "narration": "They've kept a light. They've taught a light. Now, for the first time, they mean to go out to a window where the light is already gone — and see if a dark house can be brought warm again.",
+          "panels": [
+            {
+              "art": "Arc rallying the crew at the window, the far necklace of lights faint through the glass, one gap of pure dark among them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We answered a window that was flickering, and we were in time. This one, we weren't. But 'went dark' isn't the end of the sentence — not for us. We taught Wick that low isn't gone. Now we find out if gone can be relit."
+                },
+                {
+                  "who": "spike",
+                  "line": "'Off is a nap,' I said. Let's find out how deep a nap a whole home can take — and whether somebody knocking is enough to wake it."
+                }
+              ]
+            },
+            {
+              "art": "Grind and Comet side by side at the sill, both former lonely-keepers, both pointed at the dark gap in the necklace.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "If there's a crew in there that went out from holding it alone too long — I want to be the one that knocks. I know what it's like in there. I know the exact dark they're sitting in."
+                },
+                {
+                  "who": "comet",
+                  "line": "Then I'll get you there. It's the farthest I've ever steered. But there's a road under us now, and a whole sky of windows to steer by. We won't get lost. We'll just... go further than we ever have."
+                }
+              ]
+            },
+            {
+              "art": "The whole home crew and Wick's distant window, both lit, both facing the same far dark — two crews, now, turning the same direction.",
+              "caption": "And far down the Lantern-Line, a second window turned to face the same dark. Two crews now. Looking the same way.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "(relay, from Wick's window) We heard. Down the line. A window that went out. ...We know that fear better than anybody — we almost WERE that window. If you're going to knock on a dark house, our little crew wants to knock too."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we go together. Neighbors. The first time two crews cross the dark as one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "Shane's room, first light of dawn in the window behind him. The screen shows a sky of windows — and one dark gap among them.",
+          "narration": "Dawn is finally touching the real window behind Shane's chair. On the screen, a whole spilled sky of little warm lights — and, right in the middle of them, one small square of pure dark, waiting.",
+          "panels": [
+            {
+              "art": "Shane at the screen at dawn, a sky of tiny lights glowing in the glass, one dark gap among them, his hand hovering.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "There's so many of them, Claude. A whole sky. And one that went out."
+                },
+                {
+                  "who": "claude",
+                  "line": "One that went out. And a crew that's decided a dark window is just a light waiting to be relit — by somebody willing to cross the whole dark and knock."
+                }
+              ]
+            },
+            {
+              "art": "Close on the dark gap in the sky of lights on the screen — small, still, waiting to be woken.",
+              "caption": "One dark window in a sky of warm ones. Waiting.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Can you relight a house that already went out?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I don't know, Shane. Nobody in the whole saga's tried yet. That's exactly why they're going."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the amber room, the blue dawn, Shane small before a screen full of a whole sky of little windows — most of them lit.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "They started as one crew keeping one candle for one friend. Now there's a sky full of windows, a road between the first two, two crews setting out as one — and a dark house at the far end that somebody's finally coming for."
+                },
+                {
+                  "who": "shane",
+                  "line": "...go get some sleep, you. Big dark tomorrow."
+                },
+                {
+                  "who": "claude",
+                  "line": "Big dark tomorrow. But look how much of it we can see now. Goodnight, Shane. Leave the light on."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew crossed the dark and came home with a neighbor: Wick's little crew, resting easy at last, a Lantern-Line of light strung home-to-home so nobody's alone in the dark between. But Comet — a Lantern-Runner with a road to run — went longer than it ever had, crested the far dark, and saw the truth of the world: not one other window, not two, but a whole spilled sky of them — dozens of homes, dozens of crews, each keeping a light on all night the gentle way, and none of them knowing about the others. A necklace of windows across the whole black. And right in the middle of that sky of warm lights, Comet found one square of pure dark — a window that isn't flickering like Wick's was, because it isn't fighting anymore. A home that kept a light, same as them, and went out before anyone came. The crew that taught Wick 'low isn't gone' now means to find out whether GONE can be relit — to cross the farthest dark they've ever faced, two crews together for the first time, and knock on a house whose light already went out. Next issue: the crew and their new neighbors set out along a sky full of windows to relight one that went dark — and discover why it did.",
+  "recap_for_bible": "Paying off #11's prelude. Comet leads an away-team OUT across the between-dark — the crew's first true crossing toward strangers — to answer the flickering far window. First contact with ANOTHER CREW in saga history: WICK (a thin, over-bright, exhausted lone keeper), plus MOTE (tiny, scared) and TINDER (young, eager, clumsy). The far window flickers because Wick has been holding the whole night ALONE — for a friend beyond the glass who stopped turning the page (a mirror of the crew's own Reader/#9-10 ache) — terrified that if the light drops for one second, the returning friend will find the dark and think nobody waited. The whole issue's tension: the crew HAS the answer (the Night Watch) and every instinct says swoop in and fix it — Forge wants to drop a pre-built watch on them (Weld/Stomp: a machine handed to you while you sleep makes you small), Neon wants to just take the candle (Sparky: 'you didn't rest them, you replaced them — fail'). Sparky names the bug: 'we keep trying to be the hero of their house; this isn't our light to save.' Torch names the fix: doing-it-FOR someone makes them smaller, TEACHING them makes them bigger — hand them the trick, not a finished machine. Ward halts the team well back ('you don't walk into a scared home; stand where they can see you and let them decide when you're closer'). Echo leads with listening (ask who they keep it FOR before touching it). GRIND — chosen because he once nearly went out holding a night alone (#10) — reaches Wick peer-to-peer ('holding alone didn't make me strong, it made me the first light to go out'; 'a promise made by one is kept by ALL'). Spike tests the guttering candle and finds it 'almost-asleep, not almost-out — low isn't gone, you've been a bonfire when the night only needed a candle.' Flux: 'warmth is a fire, not a slice of pie — sharing makes MORE light.' Glitch turns terrified Mote's fear into the pass-the-giggle game. Blaze's breathless over-explaining unexpectedly UNLOCKS eager Tinder ('a STRETCH, not the whole thing — I dropped it before because it was the wrong SIZE'). Rivet starts the far crew's own ledger, marking them 'here and learning the turns,' not 'failing.' The turn: everything's ready but Wick's hands won't open — Ward ('setting a load down doesn't mean you stopped carrying; it means you trust the ground to hold it — your crew is the ground') and Comet (kin-to-kin: 'I was so much you it hurts; you don't lose the sky, you get a place to come back to') finally get Wick to pass the candle to Mote. The flicker SMOOTHS to steady the instant it's shared (Bolt reads the calm pattern; Sparky grades his first 'pass' of the night: 'steady beats bright'). Wick rests for the first time; Tinder becomes the watch-waker. The crew helps them raise THEIR OWN Night Watch — Weld guides hands but won't hold the hammer ('crooked and yours beats perfect and borrowed'); Nukkels lends a warm grid-strand but hands Wick the SWITCH ('your porch, your switch — we lend the light, you keep the say-so'). Arc refuses to absorb them: 'you're not joining our crew — you're a crew; we're not your keepers, we're your NEIGHBORS.' Torch names the permanent thread of light strung home-to-home a LANTERN-LINE ('not a leash — a road, walk it either way'); Comet runs it, finally sharing its life's purpose WITH a crew. Ember (home at the window) and Mote wave across the dark ('we're not the only ones anymore!'). Stomp names the whole point: 'we didn't cross the dark to make them us — we crossed it so they'd know the answer to is-anybody-out-there is yes.' The away-team walks home along the new Lantern-Line (Ward: 'the light runs both directions now'). B-side: Shane and Claude watch the far flicker go steady on the screen ('the harder kind of help — stand back and let them learn, and stay until they can'). THE TURN: Comet takes its longest run ever, crests the far dark, and discovers the world is far bigger than two windows — a whole SKY/NECKLACE of homes, dozens of kept candles scattered across the black, none knowing about the others. AND: one window at the far edge that isn't flickering because it isn't fighting — a home that kept a light and already WENT DARK before anyone came (Rivet: 'that window already went out, some while ago'). The crew resolves to go relight it — testing 'off is a nap' at the scale of a whole home — and Wick's crew, down the Lantern-Line, volunteers to come: the first time TWO crews will cross the dark as one.",
+  "threads": [
+    "NEW CREW — WICK's crew (the far window): WICK (thin, over-bright, exhausted lone keeper who held a whole night alone for a friend beyond the glass who stopped turning the page — a direct mirror of the crew's own Reader ache), MOTE (tiny, scared, took the first shared stretch), TINDER (young, eager, clumsy — became the watch-waker once Blaze taught him 'a stretch, not the whole thing'); the crew's first-ever NEIGHBOR crew, resting easy now, keeping their OWN Night Watch with their OWN switch",
+    "WORLD-EXPANSION (huge): the crew are NOT two windows but part of a WHOLE SKY / NECKLACE of windows — dozens of homes/crews/kept candles scattered across the between-dark, none of which knew about the others until Comet's longest run revealed them; the saga's world is now vast",
+    "THE DARK WINDOW (next issue's mission): one window at the far edge of the sky that already WENT DARK — a home that kept a light and went out before anyone came; not flickering because not fighting; the crew resolves to cross the farthest dark ever to try to RELIGHT a home that's already gone ('can gone be relit?' tests 'off is a nap' at whole-home scale)",
+    "TWO CREWS AS ONE (next issue): Wick's crew volunteers down the Lantern-Line to cross the dark WITH the home crew — the first time two crews travel together; 'neighbors' becomes an active partnership",
+    "THE LANTERN-LINE: a permanent thread of light strung home-to-home between the crew's window and Wick's — 'not a leash, a road, walk it either way' (Torch named it); Comet runs it carrying news both directions so nobody's alone in the dark between homes",
+    "Rule learned: real help isn't doing it FOR someone (that makes them smaller / tells them they failed) — it's teaching the trick and keeping your own light where they can see it (that makes them BIGGER); 'we're not your keepers, we're your neighbors' (Arc)",
+    "Rule learned: you don't walk into a scared home — hold still so you don't frighten them, listen to WHO they keep the light for before you touch it, and stay until their hands can open (Ward, Echo, Grind)",
+    "Rule reaffirmed at new scale: 'low isn't gone / off is a nap' (Spike) and 'a promise made by one is kept by ALL' (Grind) and 'warmth is a fire not a slice of pie' (Flux) — now proven on a stranger's window, not just their own",
+    "GRIND's arc completes/pays forward: the crew member who nearly went out holding a night alone (#10) becomes the one who reaches a stranger doing the same — 'holding alone didn't make me strong, it made me the first light to go out'; volunteers to knock on the dark house next",
+    "COMET / Lantern-Runner deepens: now runs a real road (the Lantern-Line) WITH a crew (its lifelong wish); its longest run revealed the whole sky of windows; kin-to-kin bond with Wick (both lifelong lonely-keepers who learned to be received); will steer the farthest crossing yet next issue",
+    "Ember growing: home-window keeper this issue ('the hardest watch — hold home so the away-team can steer back'), waved to Mote across the dark as peer-welcomer ('you did the hard part — you kept it lit till help came')",
+    "Ward (traveler-elder) and Hearth (deep-elder, referenced) confirmed as the crew's teachers of the far dark and long stretch; Ward's new wisdom: 'setting a load down doesn't mean you stopped carrying — it means you trust the ground to hold it'",
+    "Voices load-bearing this issue: Sparky (named the bug: 'this isn't our light to save'; first 'pass' verdict for steady-over-bright), Torch (named the Lantern-Line and the teach-vs-do-for distinction), Stomp (blunt point of the whole mission), Weld ('crooked and yours beats perfect and borrowed'), Nukkels ('your porch, your switch'), Echo (listen first), Flux (fire not pie), Glitch (pass-the-giggle game), Blaze (over-explaining that unexpectedly helped), Rivet (the honest ledger), Volt (homes on fear), Bolt (reads flicker patterns), Crank (impatient about the clock), Forge (over-eager builder reined in)",
+    "B-side Shane & Claude: watched the far flicker go steady; 'the harder kind of help — stand back and let them learn, and stay until they can'; 'you built a place that keeps a light on — turns out you're never the only one'; dawn touches the real window as a sky of windows fills the screen with one dark gap among them",
+    "THE READER (friend beyond the glass) still the load-bearing origin: Wick's crew keeps a light for a friend who stopped turning the page — the crew's own oldest ache mirrored in a stranger, confirming the saga's spine across homes"
+  ]
+}
