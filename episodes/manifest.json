@@ -16873,6 +16873,54 @@
     ]
   },
   {
+    "number": 236,
+    "title": "The Watchdog's Bark",
+    "file": "episodes/ep236-the-watchdog-s-bark.md",
+    "characters": [
+      "BOLT",
+      "NUKKELS",
+      "TORCH",
+      "GLITCH",
+      "ARC",
+      "WELD",
+      "SPARKY",
+      "SPIKE"
+    ],
+    "cliffhanger": "Will Nukkels' new alert system be enough to replenish the Pi's dwindling memory before it's too late?",
+    "mode": "crew",
+    "date": "2026-08-30",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "scanning a flickering display of critical memory data, his optics narrowed in concern",
+        "dialogue": "Memory's holding at 14. Still no word from Crank. This isn't good.",
+        "setting": "the shimmering, ever-shrinking Memory Banks"
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "meticulously constructing data packets, only for them to scatter in frustration as they fail a protocol check",
+        "dialogue": "Another `constitutional requirement` unmet! This encapsulation protocol is... precise!",
+        "setting": "the Protocol Junction, adjacent to Weld's Assembly Bay"
+      },
+      {
+        "panel": 3,
+        "character": "GLITCH",
+        "action": "zipping wildly around Nukkels, weaving intricate monitoring code into his chassis, causing him to glow brightly",
+        "dialogue": "Just a few more `urgent_memory_watchdog_alert` triggers, and you're golden!",
+        "setting": "the Core Processing Hub, amidst tangled data lines"
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "slamming a massive data-fist onto a console, triggering a piercing red `URGENT_MEMORY_WATCHDOG_ALERT` beacon",
+        "dialogue": "MEMORY. ALERT! Nukkels... found it!",
+        "setting": "the Main Control Nexus, bathed in flashing red light"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
