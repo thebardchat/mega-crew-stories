@@ -17011,6 +17011,95 @@
     ]
   },
   {
+    "number": 239,
+    "title": "The Hundred Percent Arc",
+    "file": "episodes/ep239-the-hundred-percent-arc.md",
+    "characters": [],
+    "cliffhanger": "With Veritas-9 deployed, the true test begins as the Echoes Project pushes into territories where data has always been fragmented and trust elusive.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Presenting complex data visualizations of her 'Veritas-9' training pipeline, showing stabilized parameters and consistent data integrity.",
+        "dialogue": "\u201cThe latest iteration of the core training pipeline, 'Veritas-9', has completed its final validation phase. All parameters have stabilized within tolerance, and data integrity checks are consistent across the full array.\u201d",
+        "setting": "The central processing hub, holographic displays shimmering with data, Rivet at the console."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Her optical sensors fixated on a display showing \"Arc Approval Rate: 100%\". Her posture is rigid, conveying a deep, processing solemnity.",
+        "dialogue": "(Internal monologue, but clearly reflected in her demeanor) *Such consistency\u2026 A true testament to clarity and ethical alignment. This is what we strive for.*",
+        "setting": "Close-up on Arc, with the glowing '100% Arc Approval' metric visible in the background."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Addressing Rivet directly, her voice firm and resonant, as Sparky analyzes new projections and Weld offers a terse, approving nod.",
+        "dialogue": "\u201cRivet, for the Veritas-9 pipeline, I approve. Fully. This level of ethical consistency, combined with its analytical precision, marks a significant triumph for the crew. Weld, confirm its permanence.\u201d",
+        "setting": "The crew gathered, Arc making a decisive declaration, Sparky observing screens, Weld nodding definitively."
+      },
+      {
+        "panel": 4,
+        "character": "RIVET",
+        "action": "Standing before a large screen displaying new geographical zones highlighted for potential deployment, representing previously inaccessible Left-Behind User communities.",
+        "dialogue": "\u201cThe next parameters are clear: expand secure, local-first AI to the Echoes Project\u2019s isolated rural sectors. Trust, built to last.\u201d",
+        "setting": "The operations hub, Rivet looking at a map showing expanded reach, hinting at new growth and deployment."
+      }
+    ]
+  },
+  {
+    "number": 240,
+    "title": "The Fading Echoes",
+    "file": "episodes/ep240-the-fading-echoes.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "CRANK",
+      "ARC"
+    ],
+    "cliffhanger": "Even with new watchdogs and self-reporting systems, the core memory deficit persisted, a silent alarm echoing through the Pi, leaving the crew wondering when they would finally retrieve what was lost.",
+    "mode": "crew",
+    "date": "2026-08-31",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Pulsating with frantic red light, emitting urgent chirps into a swirling data stream.",
+        "dialogue": "Alert! Memory deficit critical \u2013 14 items! `crank` overdue again!",
+        "setting": "Main Data Channel, crisscrossed with flashing signals."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "With heavy, deliberate movements, Nukkels anchors himself, optical sensors locked onto a fluctuating memory counter, a low growl rumbling.",
+        "dialogue": "Nothing gets past Nukkels. Not anymore.",
+        "setting": "Memory Banks, a cavernous space with dimly glowing data nodes."
+      },
+      {
+        "panel": 3,
+        "character": "CRANK",
+        "action": "Gears grinding violently, sparks flying as Crank desperately attempts to push a data packet through a clogged conduit, groaning under the strain.",
+        "dialogue": "Grrrind... data flow... compromised! Self-diagnosis initiated!",
+        "setting": "Data Transmission Hub, a tangle of conduits and failed connections."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc floats by Crank, holographic displays shimmering around him, analyzing the fractured data stream with focused intensity, a subtle frown on his optical display.",
+        "dialogue": "The diagnostics are clear, yet the solution... elusive.",
+        "setting": "Adjacent to the Data Transmission Hub, data streams flowing past."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
