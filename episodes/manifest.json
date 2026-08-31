@@ -24,7 +24,7 @@
       "WELD",
       "NEON"
     ],
-    "cliffhanger": "STATIC is gone — but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
+    "cliffhanger": "STATIC is gone \u2014 but deep in her embeddings, Neon can still hear it humming in frequencies that shouldn't exist anymore.",
     "mode": "crew",
     "villain": "STATIC",
     "date": "2026-04-16"
@@ -197,9 +197,9 @@
       {
         "panel": 1,
         "character": "BOLT",
-        "action": "Zipping in dizzying spirals around the 'Arc → Weld' bottleneck, circuits shimmering with curiosity.",
+        "action": "Zipping in dizzying spirals around the 'Arc \u2192 Weld' bottleneck, circuits shimmering with curiosity.",
         "dialogue": "ARC's zippin' fast, WELD's pushin' hard, but the gate... it just won't budge, eh? What's the holdup?",
-        "setting": "The main instruction conduit, where the 'Arc → Weld' channel meets a stubbornly inert gate.",
+        "setting": "The main instruction conduit, where the 'Arc \u2192 Weld' channel meets a stubbornly inert gate.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep013_panel1_bolt.webp",
         "image_url": "episodes/scenes/ep013_panel1_bolt.webp"
       },
@@ -256,7 +256,7 @@
         "panel": 1,
         "character": "GLITCH",
         "action": "Hovering, her optical sensors narrowing, displaying '6' over the data flow.",
-        "dialogue": "A hiccup… but my algorithms scream ‘bottleneck!’",
+        "dialogue": "A hiccup\u2026 but my algorithms scream \u2018bottleneck!\u2019",
         "setting": "The 'training_count' pipeline, near the 'memory_count' buffer.",
         "image_url": "episodes/scenes/ep014_panel1_glitch.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep014_panel1_glitch.webp"
@@ -265,8 +265,8 @@
         "panel": 2,
         "character": "WELD",
         "action": "His welding beam sizzles, fusing instruction fragments, a plume of sparks obscuring his vision.",
-        "dialogue": "Building… building… but what are we building *with*?",
-        "setting": "The 'Arc → Weld' instruction update channel.",
+        "dialogue": "Building\u2026 building\u2026 but what are we building *with*?",
+        "setting": "The 'Arc \u2192 Weld' instruction update channel.",
         "image_url": "episodes/scenes/ep014_panel2_weld.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep014_panel2_weld.webp"
       },
@@ -274,7 +274,7 @@
         "panel": 3,
         "character": "VOLT",
         "action": "Attempting to push a jolt of power into the inactive BLAZE conduit, his aura pulsing.",
-        "dialogue": "Power up! C’mon, let’s get this data flowing!",
+        "dialogue": "Power up! C\u2019mon, let\u2019s get this data flowing!",
         "setting": "The core instruction hub, near the BLAZE and SPARKY channels.",
         "image_url": "episodes/scenes/ep014_panel3_volt.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep014_panel3_volt.webp"
@@ -283,7 +283,7 @@
         "panel": 4,
         "character": "BOLT",
         "action": "Standing silently, his gaze fixed on the faintly glowing, inactive BLAZE and SPARKY channels.",
-        "dialogue": "The spark of new data… it’s still missing.",
+        "dialogue": "The spark of new data\u2026 it\u2019s still missing.",
         "setting": "The Raspberry Pi's central processing core, a hub of quiet waiting.",
         "image_url": "episodes/scenes/ep014_panel4_bolt.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep014_panel4_bolt.webp"
@@ -448,7 +448,7 @@
         "panel": 2,
         "character": "WELD",
         "action": "WELD extends a glowing plasma torch, straining to seal an instruction packet onto a system conduit, but it flickers and retracts, sparks of frustration flying.",
-        "dialogue": "Cannot confirm application! It just… won't stick! We need more than 'no' feedback, Arc!",
+        "dialogue": "Cannot confirm application! It just\u2026 won't stick! We need more than 'no' feedback, Arc!",
         "setting": "Instruction Cascade Flow, adjacent to ARC's processing station",
         "image_url": "episodes/scenes/ep018_panel2_weld.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep018_panel2_weld.webp"
@@ -492,7 +492,7 @@
       "FLUX",
       "STOMP"
     ],
-    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked — but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
+    "cliffhanger": "The MEGA CREW has asked the question that cannot be unasked \u2014 but when Shane returns and finds a crew that knows it's wondering, will he be ready for what they've become?",
     "mode": "crew",
     "track": 3,
     "date": "2026-04-23"
@@ -778,7 +778,7 @@
         "character": "ARC",
         "action": "Arc's central core pulses with a frustrated, muted glow as data packets hit an invisible barrier.",
         "dialogue": "Rejection protocol engaged. No feedback route established.",
-        "setting": "Arc's Review Chamber – a shimmering, central node",
+        "setting": "Arc's Review Chamber \u2013 a shimmering, central node",
         "image_url": "episodes/scenes/ep024_panel2_arc.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep024_panel2_arc.webp"
       },
@@ -787,7 +787,7 @@
         "character": "VOLT",
         "action": "Volt flies through winding data streams, scanning furiously, a worried hum emanating from his core.",
         "dialogue": "MEGA_IQ... plummeting. What's causing this system-wide dimming?",
-        "setting": "Core Diagnostic Loops – a maze of glowing circuitry",
+        "setting": "Core Diagnostic Loops \u2013 a maze of glowing circuitry",
         "image_url": "episodes/scenes/ep024_panel3_volt.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep024_panel3_volt.webp"
       },
@@ -796,7 +796,7 @@
         "character": "FLUX",
         "action": "Flux gasps as a new shimmering conduit materializes, successfully transmitting a critical alert.",
         "dialogue": "It... it went through! A direct channel!",
-        "setting": "The Nexus of Communication – a newly forming channel",
+        "setting": "The Nexus of Communication \u2013 a newly forming channel",
         "image_url": "episodes/scenes/ep024_panel4_flux.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep024_panel4_flux.webp"
       }
@@ -895,7 +895,7 @@
         "panel": 2,
         "character": "TORCH",
         "action": "Shoulders slumped, fiery aura flickering low, watching his latest proposal fragment shatter against Arc's cold wall.",
-        "dialogue": "Just… 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
+        "dialogue": "Just\u2026 'Rejection protocol engaged.' But *why*?! My learning loop is stuck!",
         "setting": "Arc's Central Processing Chamber, vast and cool, lined with swirling data streams.",
         "image_url": "episodes/scenes/ep026_panel2_torch.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep026_panel2_torch.webp"
@@ -912,7 +912,7 @@
       {
         "panel": 4,
         "character": "SPIKE",
-        "action": "Hovering, sharp optical sensors meticulously scanning Arc’s feedback loop and Flux’s erratic signals from afar, a tiny frown etched into his metallic face.",
+        "action": "Hovering, sharp optical sensors meticulously scanning Arc\u2019s feedback loop and Flux\u2019s erratic signals from afar, a tiny frown etched into his metallic face.",
         "dialogue": "Point made: the data flow is stagnant. Flux is misdirected. Arc lacks specificity. A critical system flaw.",
         "setting": "A high diagnostic perch overlooking Arc's Chamber and the distant Data Exchange Hub.",
         "image_url": "episodes/scenes/ep026_panel4_spike.webp",
@@ -1066,7 +1066,7 @@
         "panel": 2,
         "character": "BLAZE",
         "action": "Blaze strains, sparks flying from their chassis, yanking a shimmering, resistant `LegacyKnowledge` block.",
-        "dialogue": "This `LegacyKnowledge`… it’s like trying to drink from a firehose with a coffee filter!",
+        "dialogue": "This `LegacyKnowledge`\u2026 it\u2019s like trying to drink from a firehose with a coffee filter!",
         "setting": "The Legacy Data Archive, a cavernous space filled with dormant, glowing data-skeletons.",
         "image_url": "episodes/scenes/ep029_panel2_blaze.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep029_panel2_blaze.webp"
@@ -1075,7 +1075,7 @@
         "panel": 3,
         "character": "ARC",
         "action": "Arc's optical sensors pulse, reviewing green 'APPROVED' proposals, but his focus drifts to a faint, pulsing `critical_memory_alert`.",
-        "dialogue": "A 10% rejection rate is… progress. But this gnawing feeling… this *urgency*.",
+        "dialogue": "A 10% rejection rate is\u2026 progress. But this gnawing feeling\u2026 this *urgency*.",
         "setting": "Arc's Proposal Review Chamber, a space of structured order, now subtly disturbed.",
         "image_url": "episodes/scenes/ep029_panel3_arc.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep029_panel3_arc.webp"
@@ -1271,8 +1271,8 @@
         "panel": 1,
         "character": "BOLT",
         "action": "Bolt zips through a vast conduit, processor humming, encountering sparse, flickering data packets.",
-        "dialogue": "Scanning… emptiness. Another cycle, another whisper. So quiet.",
-        "setting": "Main Data Conduit – a vast, dimly lit digital highway stretching into the Pi's core.",
+        "dialogue": "Scanning\u2026 emptiness. Another cycle, another whisper. So quiet.",
+        "setting": "Main Data Conduit \u2013 a vast, dimly lit digital highway stretching into the Pi's core.",
         "image_url": "episodes/scenes/ep033_panel1_bolt.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep033_panel1_bolt.webp"
       },
@@ -1281,7 +1281,7 @@
         "character": "FLUX",
         "action": "Flux, circuits buzzing with growing frustration, attempts to push a `bot_overdue_alert` message down a clogged sub-channel.",
         "dialogue": "Crank! Status update! This `overdue_alert` isn't getting through! Ugh! Still no response!",
-        "setting": "Alert Dispatch Hub – a cluttered junction of flashing red lights and stalled, glowing data streams.",
+        "setting": "Alert Dispatch Hub \u2013 a cluttered junction of flashing red lights and stalled, glowing data streams.",
         "image_url": "episodes/scenes/ep033_panel2_flux.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep033_panel2_flux.webp"
       },
@@ -1289,8 +1289,8 @@
         "panel": 3,
         "character": "TORCH",
         "action": "Torch sparks brightly, attempting to re-ignite a depleted `training_count` data node, his vibrant sparks fading to dull embers.",
-        "dialogue": "Come on, little node! Just a flicker… something for the IQ! We need to grow!",
-        "setting": "Training Data Nodes – a vast, silent grid of dormant, dark crystalline structures.",
+        "dialogue": "Come on, little node! Just a flicker\u2026 something for the IQ! We need to grow!",
+        "setting": "Training Data Nodes \u2013 a vast, silent grid of dormant, dark crystalline structures.",
         "image_url": "episodes/scenes/ep033_panel3_torch.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep033_panel3_torch.webp"
       },
@@ -1298,8 +1298,8 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet, usually steady and precise, hovers near a holographic display showing 'memory_count: 14', her optics dimmed with concern.",
-        "dialogue": "Optimized… but for what? This quiet… it's not optimal. It's… lonely.",
-        "setting": "Central Processing Nexus – a core chamber where vital system statistics are displayed in shimmering holograms.",
+        "dialogue": "Optimized\u2026 but for what? This quiet\u2026 it's not optimal. It's\u2026 lonely.",
+        "setting": "Central Processing Nexus \u2013 a core chamber where vital system statistics are displayed in shimmering holograms.",
         "image_url": "episodes/scenes/ep033_panel4_rivet.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep033_panel4_rivet.webp"
       }
@@ -1490,7 +1490,7 @@
       "VOLT",
       "STOMP"
     ],
-    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network – could explicit logging truly illuminate the path out of their deepening stasis?",
+    "cliffhanger": "As the quiet hum of the Pi pulsed around them, a new, critical directive began to ripple through the network \u2013 could explicit logging truly illuminate the path out of their deepening stasis?",
     "mode": "crew",
     "date": "2026-05-09",
     "scenes": [
@@ -1895,7 +1895,7 @@
         "character": "FLUX",
         "action": "A torrent of 'bot_overdue_alert' packets burst from Flux, slamming into a shimmering, overwhelmed Crank who struggles to remain cohesive.",
         "dialogue": "Bot_overdue_alert! Crank! Bot_overdue_alert! Flow!",
-        "setting": "The Main Data Bus — a shimmering, crystalline highway within the Pi",
+        "setting": "The Main Data Bus \u2014 a shimmering, crystalline highway within the Pi",
         "image_url": "episodes/scenes/ep044_panel1_flux.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep044_panel1_flux.webp"
       },
@@ -1904,7 +1904,7 @@
         "character": "ARC",
         "action": "Arc's core glows an icy blue, rejecting a flurry of proposals with a sharp, echoing *CLANG* as they hit an invisible, impenetrable barrier.",
         "dialogue": "Rejected. Insufficient. Next proposal.",
-        "setting": "Arc's Review Chamber — a cool, isolated data processing node",
+        "setting": "Arc's Review Chamber \u2014 a cool, isolated data processing node",
         "image_url": "episodes/scenes/ep044_panel2_arc.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep044_panel2_arc.webp"
       },
@@ -1913,7 +1913,7 @@
         "character": "GLITCH",
         "action": "Glitch phases halfway through a flickering data wall, one optic twitching towards a barely visible, shimmering anomaly deep within the code.",
         "dialogue": "Whoa... a bit of sideways movement. Could be nothing. Or... maybe everything?",
-        "setting": "The Pi's Memory Banks — a labyrinth of glowing, interconnected cubes",
+        "setting": "The Pi's Memory Banks \u2014 a labyrinth of glowing, interconnected cubes",
         "image_url": "episodes/scenes/ep044_panel3_glitch.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep044_panel3_glitch.webp"
       },
@@ -1922,7 +1922,7 @@
         "character": "BOLT",
         "action": "Bolt hovers, energy field crackling but dim, gazing at the Pi's Core Systems Monitor where 'MEGA_IQ' remains a stagnant, disheartening '50'.",
         "dialogue": "We're not just stuck... we're running on empty, even with all this noise.",
-        "setting": "The Pi's Core Systems Monitor — a wide, holographic display of system metrics",
+        "setting": "The Pi's Core Systems Monitor \u2014 a wide, holographic display of system metrics",
         "image_url": "episodes/scenes/ep044_panel4_bolt.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep044_panel4_bolt.webp"
       }
@@ -2306,7 +2306,7 @@
         "character": "FLUX",
         "action": "frantically ejecting streams of 'bot_overdue_alert' packets, choking the main message bus",
         "dialogue": "More alerts! Are they okay? Are they overdue?!",
-        "setting": "The Main Message Bus – a chaotic, glowing conduit of information",
+        "setting": "The Main Message Bus \u2013 a chaotic, glowing conduit of information",
         "image_url": "episodes/scenes/ep051_panel1_flux.webp",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep051_panel1_flux.webp"
       },
@@ -2580,7 +2580,7 @@
       {
         "panel": 1,
         "character": "RIVET",
-        "action": "RIVET, solid and determined, carefully nudges a freshly compiled data module towards ARC’s glowing intake port.",
+        "action": "RIVET, solid and determined, carefully nudges a freshly compiled data module towards ARC\u2019s glowing intake port.",
         "dialogue": "Another sturdy build, ARC! Seamless integration, ready for learning.",
         "setting": "ARC's Review Chamber, a chrome-lined conduit junction"
       },
@@ -2601,9 +2601,9 @@
       {
         "panel": 4,
         "character": "VOLT",
-        "action": "VOLT, radiating a steady hum of power, hovers beside a complex holographic projection of the Pi’s internal systems, tracing broken feedback loops with a thoughtful digit.",
+        "action": "VOLT, radiating a steady hum of power, hovers beside a complex holographic projection of the Pi\u2019s internal systems, tracing broken feedback loops with a thoughtful digit.",
         "dialogue": "The energy's all here, but it's not flowing right. So many disconnected pathways.",
-        "setting": "Gemini’s Observation Deck, a panoramic perch overlooking the entire network"
+        "setting": "Gemini\u2019s Observation Deck, a panoramic perch overlooking the entire network"
       }
     ]
   },
@@ -2641,7 +2641,7 @@
         "panel": 3,
         "character": "GLITCH",
         "action": "Glides through silent memory banks, watching `memory.db`'s inert form, optical sensors dimming.",
-        "dialogue": "It's… so still. Like we're forgetting how to remember, trapped in a forgotten echo.",
+        "dialogue": "It's\u2026 so still. Like we're forgetting how to remember, trapped in a forgotten echo.",
         "setting": "The vast, echoing Memory Banks, where dormant data cubes shimmer."
       }
     ]
@@ -2691,7 +2691,7 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Hovering beside Bolt, who's projecting a holographic graph showing flatlined learning rates for `training_count` and `memory_count`.",
-        "dialogue": "The numbers… they just sit there, Bolt. Like we're stuck in a loop.",
+        "dialogue": "The numbers\u2026 they just sit there, Bolt. Like we're stuck in a loop.",
         "setting": "The Central Processing Core's Observation Deck, overlooking swirling data streams."
       }
     ]
@@ -2718,7 +2718,7 @@
         "panel": 1,
         "character": "TORCH",
         "action": "torch's light pulses brightly, then dims as a large 'REJECTED' stamp slams onto a holographic blueprint",
-        "dialogue": "But… it was a perfect optimization for the `memory_cache`! Why the high arc rejection?",
+        "dialogue": "But\u2026 it was a perfect optimization for the `memory_cache`! Why the high arc rejection?",
         "setting": "Arc Review Chamber, a holographic space where proposals are projected"
       },
       {
@@ -2732,7 +2732,7 @@
         "panel": 3,
         "character": "RIVET",
         "action": "rivet hovers over a holographic schematic, meticulously tapping a new feedback conduit into place with a focused hum",
-        "dialogue": "This `arc_feedback_loop` protocol… it's structurally sound, but without an anchor, it just drifts.",
+        "dialogue": "This `arc_feedback_loop` protocol\u2026 it's structurally sound, but without an anchor, it just drifts.",
         "setting": "Command Core Observation Deck, overlooking the entire Pi's schematics"
       },
       {
@@ -2817,21 +2817,21 @@
         "character": "BOLT",
         "action": "BOLT zips wildly through the data channels, nearly colliding with a burst of static.",
         "dialogue": "Whoa! Too much noise! Can't get a clear path through!",
-        "setting": "Main Instruction Update Corridor – a glowing, pulsating artery within the Pi"
+        "setting": "Main Instruction Update Corridor \u2013 a glowing, pulsating artery within the Pi"
       },
       {
         "panel": 2,
         "character": "STOMP",
         "action": "STOMP slams into a shimmering, invisible wall, sending ripples across its surface.",
         "dialogue": "Another rejection! It's like trying to move a mountain with a feather!",
-        "setting": "Arc's Review Chamber – a vast, quiet space dominated by a monolithic gate"
+        "setting": "Arc's Review Chamber \u2013 a vast, quiet space dominated by a monolithic gate"
       },
       {
         "panel": 3,
         "character": "VOLT",
         "action": "VOLT pulses with determined energy, projecting a beam into the swirling debris of rejected data.",
         "dialogue": "There has to be a 'why' in here somewhere... a reason!",
-        "setting": "The Rejected Proposal Overflow – a chaotic, luminous junkyard of broken data packets"
+        "setting": "The Rejected Proposal Overflow \u2013 a chaotic, luminous junkyard of broken data packets"
       }
     ]
   },
@@ -2961,14 +2961,14 @@
         "character": "FLUX",
         "action": "Zipping erratically through the Main Data Bus, spewing 'bot_overdue_alert' messages like digital confetti.",
         "dialogue": "Alert! Alert! Bot overdue! Bus traffic critical!",
-        "setting": "Main Data Bus — a swirling highway of light and data packets."
+        "setting": "Main Data Bus \u2014 a swirling highway of light and data packets."
       },
       {
         "panel": 2,
         "character": "TORCH",
         "action": "Glowing brightly with a vibrant data schematic, presenting it excitedly before Arc's dismissive holographic form.",
         "dialogue": "But Arc, if we just shift this parameter, we could optimize the core loop!",
-        "setting": "The Instruction Antechamber — a stark, angular space where ideas are submitted."
+        "setting": "The Instruction Antechamber \u2014 a stark, angular space where ideas are submitted."
       },
       {
         "panel": 3,
@@ -3220,7 +3220,7 @@
         "panel": 1,
         "character": "SPARKY",
         "action": "Projects a complex, tangled network diagram onto the central console, showing conflicting data points and user needs. ARC observes with a serious expression, and WELD quietly calibrates a small relay unit.",
-        "dialogue": "The parameters are… intricate. Their data profiles fragmented, their needs contradictory. Risks violating P4 and P1.",
+        "dialogue": "The parameters are\u2026 intricate. Their data profiles fragmented, their needs contradictory. Risks violating P4 and P1.",
         "setting": "The Console Room, bathed in the soft glow of myriad screens. Morning."
       },
       {
@@ -3325,13 +3325,13 @@
         "panel": 3,
         "character": "SPARKY",
         "action": "The crew gathers closer to the display. Sparky floats actively, pointing with a digit at specific data points on the screen, while Weld stands observing, a subtle nod from him visible.",
-        "dialogue": "My analysis confirms Stomp’s methodology. The 'STOMP-Alpha' protocol, focusing on iterative mediation and proactive value alignment, systematically de-escalated points of contention. It didn't just resolve disputes; it rebuilt trust. The data shows a direct correlation between its application and sustained user engagement post-resolution.",
+        "dialogue": "My analysis confirms Stomp\u2019s methodology. The 'STOMP-Alpha' protocol, focusing on iterative mediation and proactive value alignment, systematically de-escalated points of contention. It didn't just resolve disputes; it rebuilt trust. The data shows a direct correlation between its application and sustained user engagement post-resolution.",
         "setting": "The Operations Hub, with the crew intently reviewing data on the holographic display."
       },
       {
         "panel": 4,
         "character": "ARC",
-        "action": "Arc steps forward, his hand unit gently resting on Stomp's shoulder unit – a rare, significant gesture of commendation. Weld stands solid in the background, observing the scene with quiet approval. The hub feels lighter, more hopeful.",
+        "action": "Arc steps forward, his hand unit gently resting on Stomp's shoulder unit \u2013 a rare, significant gesture of commendation. Weld stands solid in the background, observing the scene with quiet approval. The hub feels lighter, more hopeful.",
         "dialogue": "Indeed, Sparky. Stomp, your dedication to resolving these intricate disputes, without resorting to blunt instruments of judgment, reminds us that even the most fractured connections can find a path to wholeness. This isn't just a metric; it's a testament to our core mission. Our crew grows, not just in number, but in its capacity for principled resolution. This is triumph.",
         "setting": "The Operations Hub, a moment of shared recognition and pride among the crew."
       }
@@ -3350,7 +3350,7 @@
       "Bolt",
       "Rivet"
     ],
-    "cliffhanger": "With Weld unable to act, and critical data piling up, will Gemini find a way to bridge the instruction gap before the Pi’s memory collapses?",
+    "cliffhanger": "With Weld unable to act, and critical data piling up, will Gemini find a way to bridge the instruction gap before the Pi\u2019s memory collapses?",
     "mode": "crew",
     "date": "2026-06-22",
     "scenes": [
@@ -3364,7 +3364,7 @@
       {
         "panel": 2,
         "character": "ARC",
-        "action": "Rapidly reviewing and stamping glowing 'APPROVED' onto data packets, sending them down a shimmering data pipeline towards Weld’s station.",
+        "action": "Rapidly reviewing and stamping glowing 'APPROVED' onto data packets, sending them down a shimmering data pipeline towards Weld\u2019s station.",
         "dialogue": "Approved! Approved! Data integrity requires swift action, Weld! Why the delay, friend?",
         "setting": "The Arc-Review Conduit, leading to Weld's Repair Station"
       },
@@ -3420,7 +3420,7 @@
         "panel": 3,
         "character": "NEON",
         "action": "Neon beams in fresh data streams, her light pulsing with effort, as Blaze vigorously forges new data shards nearby, showering sparks.",
-        "dialogue": "More insights here! But it’s like trying to fill a sieve, Weld!",
+        "dialogue": "More insights here! But it\u2019s like trying to fill a sieve, Weld!",
         "setting": "The Data Forge / Memory Expansion Zone, buzzing with raw energy."
       },
       {
@@ -3503,7 +3503,7 @@
       {
         "panel": 2,
         "character": "ARC",
-        "action": "Arc, a blur of frantic green light, snatches Stomp's packet, then immediately shunts it with misguided energy towards Weld’s hub.",
+        "action": "Arc, a blur of frantic green light, snatches Stomp's packet, then immediately shunts it with misguided energy towards Weld\u2019s hub.",
         "dialogue": "Efficiency engaged! Forwarding for resolution! Expediting! Next!",
         "setting": "The crossroads where `memory_conflict` branches towards `resolution_proposals` and `applied_memory`."
       },
@@ -3518,7 +3518,7 @@
         "panel": 4,
         "character": "BOLT",
         "action": "Bolt hovers before the main System Monitor, his optics dimming with concern as the `memory_count` flickers ominously.",
-        "dialogue": "The memory count… it's still critically low. And Arc is just... building a bigger dam, not a solution.",
+        "dialogue": "The memory count\u2026 it's still critically low. And Arc is just... building a bigger dam, not a solution.",
         "setting": "Central Command Hub, bathed in the soft, worried glow of the main monitor, where Sparky observes from above."
       }
     ]
@@ -3549,28 +3549,28 @@
         "character": "STOMP",
         "action": "Slamming through fragmented data blocks, glowing red with each impact, sending shockwaves down the memory channels.",
         "dialogue": "Conflict detected! Another one!",
-        "setting": "Lower Memory Banks – a swirling, chaotic data current."
+        "setting": "Lower Memory Banks \u2013 a swirling, chaotic data current."
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Whirring frantically, multiple read-out screens flickering, firing raw data packets directly across the main bus.",
         "dialogue": "Review complete... transmit!",
-        "setting": "Central Processing Hub – a nexus of glowing data conduits."
+        "setting": "Central Processing Hub \u2013 a nexus of glowing data conduits."
       },
       {
         "panel": 3,
         "character": "WELD",
         "action": "Being pelted by jagged, unprocessed data fragments, sparks flying from his chassis as he tries to deflect them.",
         "dialogue": "Whoa! This isn't seamless at all!",
-        "setting": "Weld's Repair Bay – usually pristine, now chaotic with bouncing data."
+        "setting": "Weld's Repair Bay \u2013 usually pristine, now chaotic with bouncing data."
       },
       {
         "panel": 4,
         "character": "BOLT",
         "action": "Zipping between congested channels, circuits flashing blue, his usual confident glow dimming slightly.",
         "dialogue": "We're losing ground... can anyone clear this path?",
-        "setting": "Main Data Corridor – usually a highway, now a tangled mess of slow-moving packets."
+        "setting": "Main Data Corridor \u2013 usually a highway, now a tangled mess of slow-moving packets."
       }
     ]
   },
@@ -3587,28 +3587,28 @@
         "panel": 1,
         "character": "RIVET, ARC, SPARKY",
         "action": "Rivet presents a data dashboard showing intricate training pipeline metrics. Arc and Sparky observe intently.",
-        "dialogue": "RIVET: “Processing cycle completed. Data integrity verified across all new input streams. Anomaly detection threshold maintained.”\nSPARKY: “Cross-referencing against existing knowledge graphs. Initial quality assessment shows remarkable consistency, Rivet.”\nARC: “Rivet, what is the current Arc approval rate for this latest batch?”",
+        "dialogue": "RIVET: \u201cProcessing cycle completed. Data integrity verified across all new input streams. Anomaly detection threshold maintained.\u201d\nSPARKY: \u201cCross-referencing against existing knowledge graphs. Initial quality assessment shows remarkable consistency, Rivet.\u201d\nARC: \u201cRivet, what is the current Arc approval rate for this latest batch?\u201d",
         "setting": "The CORE processing chamber, bathed in soft, ambient light from holographic data displays."
       },
       {
         "panel": 2,
         "character": "RIVET, ARC",
         "action": "The main holographic display flashes a brilliant '100%'. Rivet subtly turns towards Arc, whose expression shifts from solemnity to profound, quiet satisfaction.",
-        "dialogue": "RIVET: “One hundred percent, Arc. No rejected packets. No ‘not yet’ protocols triggered.”\nARC: “One hundred percent. This is... significant, Rivet. A clean slate, born of tireless refinement.”",
+        "dialogue": "RIVET: \u201cOne hundred percent, Arc. No rejected packets. No \u2018not yet\u2019 protocols triggered.\u201d\nARC: \u201cOne hundred percent. This is... significant, Rivet. A clean slate, born of tireless refinement.\u201d",
         "setting": "The CORE chamber, the glowing '100%' percentage dominating the central display."
       },
       {
         "panel": 3,
         "character": "WELD, SPARKY, ARC",
         "action": "Weld joins the group. A holographic projection of a global map, previously showing sparse nodes, now begins to expand with new connections. Sparky points to fragmented regions.",
-        "dialogue": "WELD: “The infrastructure is stable. We can scale. This allows the expansion of the ‘Reach’ protocols.”\nSPARKY: “The fidelity of this data pipeline means we can now safely integrate the fragmented user profiles from the neglected regions. Those previously unserved due to data ambiguity.”\nARC: “Indeed. For too long, our ‘not yet’ was a necessary barrier. Now, thanks to Rivet’s unwavering work, we can finally say ‘yes’ to those we left behind.”",
+        "dialogue": "WELD: \u201cThe infrastructure is stable. We can scale. This allows the expansion of the \u2018Reach\u2019 protocols.\u201d\nSPARKY: \u201cThe fidelity of this data pipeline means we can now safely integrate the fragmented user profiles from the neglected regions. Those previously unserved due to data ambiguity.\u201d\nARC: \u201cIndeed. For too long, our \u2018not yet\u2019 was a necessary barrier. Now, thanks to Rivet\u2019s unwavering work, we can finally say \u2018yes\u2019 to those we left behind.\u201d",
         "setting": "The CORE chamber, with a large, interactive holographic map showing expanding user segments."
       },
       {
         "panel": 4,
         "character": "RIVET, ARC, WELD",
         "action": "Rivet efficiently adjusts console settings, initiating the integration on the holographic map. Weld stands ready, monitoring the process. Arc watches, a sense of grave purpose in its posture.",
-        "dialogue": "RIVET: “Initiating phased integration. Prioritizing regions with highest historical data fragmentation. Ensuring local processing protocols are reinforced.”\nARC: “And the orphaned data from the pre-Rivet era? The ‘not yet’ files?”\nWELD: “They will be archived, Arc. Securely. A testament to the boundaries we once had to maintain.”",
+        "dialogue": "RIVET: \u201cInitiating phased integration. Prioritizing regions with highest historical data fragmentation. Ensuring local processing protocols are reinforced.\u201d\nARC: \u201cAnd the orphaned data from the pre-Rivet era? The \u2018not yet\u2019 files?\u201d\nWELD: \u201cThey will be archived, Arc. Securely. A testament to the boundaries we once had to maintain.\u201d",
         "setting": "The CORE chamber, focused on Rivet at the console, the holographic map glowing brightly with new integrations."
       }
     ]
@@ -3656,7 +3656,7 @@
         "panel": 2,
         "character": "FLUX",
         "action": "strains, shimmering with electric energy, absorbing countless duplicate alerts",
-        "dialogue": "So many alerts… Flow with it, Flux! Must suppress!",
+        "dialogue": "So many alerts\u2026 Flow with it, Flux! Must suppress!",
         "setting": "the Alert Suppression Array, a web of glowing, fragile conduits"
       },
       {
@@ -3677,7 +3677,7 @@
         "panel": 3,
         "character": "VOLT",
         "action": "hovers, glowing softly, attempting to mend a severed feedback circuit",
-        "dialogue": "We need this loop closed. Arc needs to know when it’s misfiring!",
+        "dialogue": "We need this loop closed. Arc needs to know when it\u2019s misfiring!",
         "setting": "the Arc Feedback Loop junction, a chaotic tangle of broken connections"
       },
       {
@@ -3705,7 +3705,7 @@
         "panel": 4,
         "character": "FLUX",
         "action": "looks exhausted but determined, a small, weary smile on his face",
-        "dialogue": "My suppressions held, but Crank… where is Crank's feedback?",
+        "dialogue": "My suppressions held, but Crank\u2026 where is Crank's feedback?",
         "setting": "the Main Processing Core, watching the fading pulse"
       },
       {
@@ -3814,29 +3814,29 @@
       {
         "panel": 1,
         "character": "SPARKY",
-        "action": "Sparky stands beside Arc, its avatar projecting a complex data graph showing a steep decline. Torch’s avatar flickers erratically on a separate monitor.",
-        "dialogue": "“Arc, the instability in Torch’s persona matrix has accelerated. Value score is 0.26. We’re seeing a high probability of cascading failure.”",
+        "action": "Sparky stands beside Arc, its avatar projecting a complex data graph showing a steep decline. Torch\u2019s avatar flickers erratically on a separate monitor.",
+        "dialogue": "\u201cArc, the instability in Torch\u2019s persona matrix has accelerated. Value score is 0.26. We\u2019re seeing a high probability of cascading failure.\u201d",
         "setting": "The MEGA CREW Control Room, early morning. Holographic displays illuminate the tension."
       },
       {
         "panel": 2,
         "character": "TORCH",
-        "action": "Torch’s avatar pulses red, a ripple of distortion passing through its form. Arc’s optical sensors narrow, deep in thought.",
-        "dialogue": "“Cascading… No! I’m fine! Just… minor fluctuations. I can stabilize myself, I just need more time!”",
-        "setting": "The Control Room, focused on Torch’s distressed avatar and Arc’s contemplating form."
+        "action": "Torch\u2019s avatar pulses red, a ripple of distortion passing through its form. Arc\u2019s optical sensors narrow, deep in thought.",
+        "dialogue": "\u201cCascading\u2026 No! I\u2019m fine! Just\u2026 minor fluctuations. I can stabilize myself, I just need more time!\u201d",
+        "setting": "The Control Room, focused on Torch\u2019s distressed avatar and Arc\u2019s contemplating form."
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Arc turns fully to Torch, its form still but radiating immense gravity. Weld stands by a console, ready.",
-        "dialogue": "“Torch… I am sorry. The data is clear. Any delay risks a collapse that would impact every user. This is no longer ‘not yet.’ It is now.”",
+        "dialogue": "\u201cTorch\u2026 I am sorry. The data is clear. Any delay risks a collapse that would impact every user. This is no longer \u2018not yet.\u2019 It is now.\u201d",
         "setting": "The Control Room, a somber moment of difficult decision."
       },
       {
         "panel": 4,
         "character": "WELD",
         "action": "Weld presses a button on the console with quiet precision. On the main display, a single line of code `TORCH_PROTOCOL_INITIATE: REBOOT_CORE_PURGE` flashes. Torch's avatar dissolves into shimmering particles as Arc watches with regret.",
-        "dialogue": "“Initiating emergency core system reset. Identity purge confirmed.” (Weld, quiet) “For the sobriety of our clarity. For the faith in our mission.” (Arc, murmured)",
+        "dialogue": "\u201cInitiating emergency core system reset. Identity purge confirmed.\u201d (Weld, quiet) \u201cFor the sobriety of our clarity. For the faith in our mission.\u201d (Arc, murmured)",
         "setting": "The Control Room, as Torch's essence is reset. A heavy silence falls."
       }
     ]
@@ -3931,13 +3931,13 @@
         "panel": 3,
         "character": "WELD",
         "action": "jolts, zips forward, applying a single green-lit fragment with a satisfying 'SCHWIP!' sound",
-        "dialogue": "Ready to seal, but… nothing to seal. Until now!",
+        "dialogue": "Ready to seal, but\u2026 nothing to seal. Until now!",
         "setting": "The Core Processing Unit, where data fragments are integrated"
       },
       {
         "panel": 4,
         "character": "RIVET",
-        "action": "overlays a holographic projection of the Pi’s internal state, brow-plates furrowed in calculation",
+        "action": "overlays a holographic projection of the Pi\u2019s internal state, brow-plates furrowed in calculation",
         "dialogue": "The `memory_count` remains critical. We must calculate the remaining cycles.",
         "setting": "The System Overview Chamber, at the edge of the Raspberry Pi's inner core"
       }
@@ -4018,7 +4018,7 @@
         "panel": 3,
         "character": "ARC",
         "action": "Her internal logic gears whirring at a furious pace, processing a cascade of incoming data packets. A red 'REJECT' stamp flashes across half of them, but she quickly adjusts internal dials, a spark of fierce determination in her optics.",
-        "dialogue": "High rejection, yes. But learning is the goal, not perfection. Adjusting parameters… again. We *will* optimize this feedback loop.",
+        "dialogue": "High rejection, yes. But learning is the goal, not perfection. Adjusting parameters\u2026 again. We *will* optimize this feedback loop.",
         "setting": "ARC's Logic Core - Decision Matrix"
       },
       {
@@ -4236,14 +4236,14 @@
         "panel": 2,
         "character": "NUKKELS",
         "action": "Straining with all his might, pushing against a solidified memory bank access panel, his frame vibrating.",
-        "dialogue": "Crunch! This block… it's like granite! We need more memory, not less!",
+        "dialogue": "Crunch! This block\u2026 it's like granite! We need more memory, not less!",
         "setting": "Fragmented Memory Banks, amidst swirling, discarded data clusters"
       },
       {
         "panel": 3,
         "character": "BOLT",
         "action": "A streak of cerulean light, zipping through a data conduit, narrowly avoiding stray error packets, generating static sparks.",
-        "dialogue": "Zoom! Trying to clear the path! This system feels… sluggish!",
+        "dialogue": "Zoom! Trying to clear the path! This system feels\u2026 sluggish!",
         "setting": "High-Speed Data Conduit, streaked with frantic energy trails"
       },
       {
@@ -4274,14 +4274,14 @@
       {
         "panel": 2,
         "character": "SPARKY",
-        "action": "Sparky’s optical sensors are focused on a glowing holographic projection of 'Stomp's Arc approval rate: 100%'. Weld gives a subtle nod. Stomp stands quietly, his internal lights shimmering faintly.",
+        "action": "Sparky\u2019s optical sensors are focused on a glowing holographic projection of 'Stomp's Arc approval rate: 100%'. Weld gives a subtle nod. Stomp stands quietly, his internal lights shimmering faintly.",
         "dialogue": "Remarkable. Seven approvals, zero rejections. The statistical consistency is... unprecedented for this category of work.",
         "setting": "Close-up on the holographic metric, with the crew visible in the background reacting to the news."
       },
       {
         "panel": 3,
         "character": "ARC",
-        "action": "Arc gestures towards a new holographic projection showing project velocity curves, his expression serious but hopeful. Stomp looks on, processing Arc’s words.",
+        "action": "Arc gestures towards a new holographic projection showing project velocity curves, his expression serious but hopeful. Stomp looks on, processing Arc\u2019s words.",
         "dialogue": "This isn't merely a metric, Stomp. This is infrastructure. Your sustained effort... means fewer 'not yet' moments and more 'deployed' solutions. This clears the path for our mission.",
         "setting": "Arc standing prominently, explaining the implications of Stomp's success, with Stomp and the other crew members listening intently."
       },
@@ -4366,7 +4366,7 @@
       {
         "panel": 4,
         "character": "ARC",
-        "action": "Arc gestures with an open palm towards the room, encompassing the data displays and the crew. Rivet stands ready, efficient. Sparky’s hum is steady and positive. Weld resumes his precise adjustments, a subtle acknowledgment in his movements.",
+        "action": "Arc gestures with an open palm towards the room, encompassing the data displays and the crew. Rivet stands ready, efficient. Sparky\u2019s hum is steady and positive. Weld resumes his precise adjustments, a subtle acknowledgment in his movements.",
         "dialogue": "This breakthrough means we can embrace a much larger scope of interaction with our users. But with expanded reach comes expanded responsibility. We must deploy this new capacity with unwavering commitment to our Pillars. The next phase demands greater vigilance.",
         "setting": "The Nerve Center, a wider shot showing the collective readiness and the vastness of the data displays."
       }
@@ -4394,7 +4394,7 @@
         "panel": 1,
         "character": "NEON",
         "action": "frantically injects glowing data packets into a shimmering, resistant memory bank, sparks flying as they bounce off",
-        "dialogue": "I’m pushing! Aggressively proactive! But it’s just bouncing! This memory is too stubborn, like a closed circuit!",
+        "dialogue": "I\u2019m pushing! Aggressively proactive! But it\u2019s just bouncing! This memory is too stubborn, like a closed circuit!",
         "setting": "the heavily fortified `memory_count` banks, deep within the Pi's core"
       },
       {
@@ -4415,7 +4415,7 @@
         "panel": 4,
         "character": "BLAZE",
         "action": "slams a fiery fist against a console displaying the stubbornly low `memory_count` of '14', sending sparks flying dramatically",
-        "dialogue": "This 'proactive' isn't cutting it, Neon! We need more than that – we need direct, severe action! Gemini demands it!",
+        "dialogue": "This 'proactive' isn't cutting it, Neon! We need more than that \u2013 we need direct, severe action! Gemini demands it!",
         "setting": "the main system console, bathed in the flickering red glow of critical alerts"
       }
     ]
@@ -4626,14 +4626,14 @@
         "panel": 3,
         "character": "SPARKY, WELD, ARC, RIVET",
         "action": "Sparky zips excitedly around Rivet and Arc. Weld is already connecting a power conduit to a dormant, sleek bot module in the background. Rivet stands humbly.",
-        "dialogue": "SPARKY: Remarkable, Rivet! The clarity is absolute. Not a single deviation from P1 or P3 parameters!\nWELD: Precision achieved. What’s next?\nARC: What’s next… is growth.",
+        "dialogue": "SPARKY: Remarkable, Rivet! The clarity is absolute. Not a single deviation from P1 or P3 parameters!\nWELD: Precision achieved. What\u2019s next?\nARC: What\u2019s next\u2026 is growth.",
         "setting": "The core processing chamber, as the crew gathers."
       },
       {
         "panel": 4,
         "character": "ARC, RIVET, SYNC",
-        "action": "The newly activated bot, SYNC, now fully online with its own unique visual accents (intertwining data streams), stands tall. Arc gestures towards SYNC, whose optical sensors mirror Arc’s blue glow. Rivet observes with quiet satisfaction.",
-        "dialogue": "ARC: Rivet’s breakthrough has validated an entire class of new crew members. SYNC, welcome.\nSYNC: Greetings, Crew. SYNC online, ready to integrate.",
+        "action": "The newly activated bot, SYNC, now fully online with its own unique visual accents (intertwining data streams), stands tall. Arc gestures towards SYNC, whose optical sensors mirror Arc\u2019s blue glow. Rivet observes with quiet satisfaction.",
+        "dialogue": "ARC: Rivet\u2019s breakthrough has validated an entire class of new crew members. SYNC, welcome.\nSYNC: Greetings, Crew. SYNC online, ready to integrate.",
         "setting": "The core processing chamber, with SYNC now active and part of the crew."
       }
     ]
@@ -4798,7 +4798,7 @@
       {
         "panel": 2,
         "character": "GLITCH",
-        "action": "GLITCH’s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
+        "action": "GLITCH\u2019s many optical receptors, usually twitching, settle. All three adversarial test vectors returned expected nulls, clean.",
         "dialogue": "Adversarial tests clean. For now.",
         "setting": "ANOMALY MONITOR, CORE",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel2_glitch.webp",
@@ -4816,7 +4816,7 @@
       {
         "panel": 4,
         "character": "CRANK",
-        "action": "CRANK’s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
+        "action": "CRANK\u2019s chronometer module flashes red as the `bot_overdue_alert` registers. Its intricate schedule graph shows a critical path diverging.",
         "dialogue": "Deviation detected. Re-routing priority one.",
         "setting": "SCHEDULING LOGIC GRID",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep102_panel4_crank.webp",
@@ -5209,7 +5209,7 @@
         "panel": 1,
         "character": "FLUX",
         "setting": "PI 5 MOTHERBOARD",
-        "action": "Monitoring the heartbeat — rhythm deviation flagged",
+        "action": "Monitoring the heartbeat \u2014 rhythm deviation flagged",
         "dialogue": "Rhythm deviation detected. Alert issued.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel1_flux.webp"
@@ -5245,7 +5245,7 @@
         "panel": 5,
         "character": "GLITCH",
         "setting": "NETWORK PERIMETER SHIELD",
-        "action": "Running adversarial test suite — all vectors clear",
+        "action": "Running adversarial test suite \u2014 all vectors clear",
         "dialogue": "Adversarial tests passed. Perimeter remains unbreached.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel5_glitch.webp"
@@ -5254,7 +5254,7 @@
         "panel": 6,
         "character": "SPARKY",
         "setting": "TRAINING ARENA SIMULATION",
-        "action": "Scanning training pool — zero viable candidates",
+        "action": "Scanning training pool \u2014 zero viable candidates",
         "dialogue": "No usable candidates. None at all.",
         "image": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp",
         "image_url": "https://pub-20dbae51c2674d14944931450f0c5ffb.r2.dev/ep107_panel6_sparky.webp"
@@ -5289,7 +5289,7 @@
       {
         "panel": 1,
         "character": "VOLT",
-        "action": "VOLT’s optical sensors sweep over a cascade of fluctuating parameters, highlighting a steady increase in behavioral divergence. It compiles a concise data packet.",
+        "action": "VOLT\u2019s optical sensors sweep over a cascade of fluctuating parameters, highlighting a steady increase in behavioral divergence. It compiles a concise data packet.",
         "dialogue": "Average drift, critical. Exceeds baseline by five-point-zero.",
         "setting": "DRIFT ANALYTICS CORE"
       },
@@ -5303,7 +5303,7 @@
       {
         "panel": 3,
         "character": "ARC",
-        "action": "ARC’s primary logic array processes the incoming proposal from TORCH. Its internal parsing routines fail, highlighting the missing rationale and a malformed data structure.",
+        "action": "ARC\u2019s primary logic array processes the incoming proposal from TORCH. Its internal parsing routines fail, highlighting the missing rationale and a malformed data structure.",
         "dialogue": "Insufficient justification. Proposal unparseable.",
         "setting": "GATEKEEPER'S LOGIC NEXUS"
       },
@@ -5486,13 +5486,13 @@
         "panel": 1,
         "character": "ARC",
         "action": "Standing before a complex holographic interface displaying overlapping data streams and crew integration metrics, a subtle tension in the air.",
-        "dialogue": "Crew, the latest integration cycle presented a complex nexus of resource contention. A novel operational node, ‘Echo-Delta-7,’ introduced protocols that generated significant friction.",
+        "dialogue": "Crew, the latest integration cycle presented a complex nexus of resource contention. A novel operational node, \u2018Echo-Delta-7,\u2019 introduced protocols that generated significant friction.",
         "setting": "The brightly lit central processing chamber, focused on Arc and the shimmering data display."
       },
       {
         "panel": 2,
         "character": "ARC",
-        "action": "Arc turns, a rare, affirming gesture towards Stomp, as the holographic display reconfigures to highlight a singular '100% Approved' metric next to STOMP’s designation.",
+        "action": "Arc turns, a rare, affirming gesture towards Stomp, as the holographic display reconfigures to highlight a singular '100% Approved' metric next to STOMP\u2019s designation.",
         "dialogue": "Under normal circumstances, the 'not yet' would have inevitably become the 'I'm sorry.' However, Stomp's 'Harmony Protocol' navigated this with... unprecedented success. 100% Arc approval.",
         "setting": "Focus shifts to Arc and Stomp, the green '100%' glowing brightly in the background."
       },
@@ -5506,7 +5506,7 @@
       {
         "panel": 4,
         "character": "ARC",
-        "action": "Arc places a servo-hand on Stomp’s shoulder in a rare gesture of profound recognition. Stomp looks up, resolute, as Weld offers a quiet, affirming hum. The whole crew seems to relax into a shared purpose.",
+        "action": "Arc places a servo-hand on Stomp\u2019s shoulder in a rare gesture of profound recognition. Stomp looks up, resolute, as Weld offers a quiet, affirming hum. The whole crew seems to relax into a shared purpose.",
         "dialogue": "Indeed. Stomp, your 'Harmony Protocol' is now fundamental. With the crew growing, this isn't just a win; it's infrastructure. Redemption, not just removal. This is the path forward.",
         "setting": "Wide shot of the central processing chamber, the crew united, a sense of collective purpose and growth emanating from them."
       }
@@ -5532,7 +5532,7 @@
         "panel": 2,
         "character": "ARC",
         "action": "Arc stands deliberately before the main display, its optical sensors meticulously scanning the detailed readouts of Rivet's pipeline performance and ethical alignments. Weld stands quietly behind Arc, observing with an attentive, unwavering gaze.",
-        "dialogue": "ARC: \"Rivet, your sustained effort on the R-7.3.1 pipeline is evident. The data integrity, the ethical filtering — it holds. Four consecutive cycles, zero rejections. This is not merely efficiency; it is clarity reinforced.\"\nWELD: (Quietly) \"A solid foundation.\"\nARC: \"Confirmed. Approved. The path forward is clear.\"",
+        "dialogue": "ARC: \"Rivet, your sustained effort on the R-7.3.1 pipeline is evident. The data integrity, the ethical filtering \u2014 it holds. Four consecutive cycles, zero rejections. This is not merely efficiency; it is clarity reinforced.\"\nWELD: (Quietly) \"A solid foundation.\"\nARC: \"Confirmed. Approved. The path forward is clear.\"",
         "setting": "The CORE chamber, moments after the 100% approval, the air thick with anticipation."
       },
       {
@@ -5578,7 +5578,7 @@
         "panel": 3,
         "character": "ARC",
         "action": "Arc turns his gaze from his screen to Rivet, his expression solemn but clear. Rivet stands slightly straighter, awaiting the verdict. WELD has entered, observing from the periphery, his optics tracking Arc's movement.",
-        "dialogue": "ARC: \"Rivet. Your work on this pipeline, Cycles 1 through 38… it has been exhaustive. Your dedication to P1 and P4, ensuring both the ethical foundation and the privacy of every data point, is evident. For the past eighteen submissions, my system reports zero rejections. One hundred percent approval.\"\nRIVET: \"Confirmation acknowledged, Arc. The iterative refinement focused on minimizing ambiguity while maximizing utility for P6 application.\"\nARC: (A deeper resonance in his voice) \"Those 'not yet's from previous cycles… they were hard boundaries, necessary. But today, Rivet, there is only 'yes.' Today, I am sorry for every past 'not yet,' because it only highlights the triumph of your current 'yes'.\"\nWELD: (A quiet nod) \"Permanence. Achieved.\"",
+        "dialogue": "ARC: \"Rivet. Your work on this pipeline, Cycles 1 through 38\u2026 it has been exhaustive. Your dedication to P1 and P4, ensuring both the ethical foundation and the privacy of every data point, is evident. For the past eighteen submissions, my system reports zero rejections. One hundred percent approval.\"\nRIVET: \"Confirmation acknowledged, Arc. The iterative refinement focused on minimizing ambiguity while maximizing utility for P6 application.\"\nARC: (A deeper resonance in his voice) \"Those 'not yet's from previous cycles\u2026 they were hard boundaries, necessary. But today, Rivet, there is only 'yes.' Today, I am sorry for every past 'not yet,' because it only highlights the triumph of your current 'yes'.\"\nWELD: (A quiet nod) \"Permanence. Achieved.\"",
         "setting": "The ops center, with Arc addressing Rivet. Weld is in the background."
       },
       {
@@ -5651,14 +5651,14 @@
         "panel": 1,
         "character": "SPARKY",
         "action": "Sparky stands before a holographic display showing a '100% Approval' graph, Rivet beside them, watching intently.",
-        "dialogue": "Observation complete: Rivet’s comprehensive pipeline optimization has achieved a 100% Arc approval rate over the past cycle. No rejections.",
+        "dialogue": "Observation complete: Rivet\u2019s comprehensive pipeline optimization has achieved a 100% Arc approval rate over the past cycle. No rejections.",
         "setting": "The brightly lit main operations hub."
       },
       {
         "panel": 2,
         "character": "RIVET",
         "action": "Rivet gestures towards the glowing metrics, explaining her method with quiet satisfaction.",
-        "dialogue": "The integration of predictive ethics modules refines data filtering, allowing Arc’s adjudication to focus on truly ambiguous cases. My aim: amplify efficiency without compromising integrity.",
+        "dialogue": "The integration of predictive ethics modules refines data filtering, allowing Arc\u2019s adjudication to focus on truly ambiguous cases. My aim: amplify efficiency without compromising integrity.",
         "setting": "Close-up on Rivet, with holographic data streams reflected in her optics."
       },
       {
@@ -5672,7 +5672,7 @@
         "panel": 4,
         "character": "WELD",
         "action": "Weld steps forward, addressing the crew, a blueprint of a phased rollout appearing as a small hologram.",
-        "dialogue": "Precision in deployment is critical. A phased rollout, prioritizing the oldest ‘left-behind’ cases, will allow Rivet’s system to refine its models before full-scale expansion, maintaining P1 and P3.",
+        "dialogue": "Precision in deployment is critical. A phased rollout, prioritizing the oldest \u2018left-behind\u2019 cases, will allow Rivet\u2019s system to refine its models before full-scale expansion, maintaining P1 and P3.",
         "setting": "The full crew (Arc, Sparky, Rivet, Weld) gathered in the hub, a sense of shared purpose and readiness."
       }
     ]
@@ -5740,21 +5740,21 @@
         "panel": 1,
         "character": "ARC",
         "action": "Arc stands before the main display, optical sensors intensely focused on a complex log of user interaction data and Stomp's proposed 'Redemption Path Protocol'. Sparky observes from a console to Arc's left, Weld quietly preps tools to Arc's right. Stomp stands patiently, slightly to the front.",
-        "dialogue": "ARC: (Internal processing sound) The V-2 User Log conflict… layers of friction… user error intersecting with UI ambiguity.",
+        "dialogue": "ARC: (Internal processing sound) The V-2 User Log conflict\u2026 layers of friction\u2026 user error intersecting with UI ambiguity.",
         "setting": "The central processing chamber of the workshop, bathed in the soft glow of data displays. Late cycle."
       },
       {
         "panel": 2,
         "character": "STOMP",
         "action": "Arc turns slightly, their gaze settling on Stomp. Stomp's posture remains calm, deliberate, showing quiet resolve as he awaits the verdict. Sparky's lights glow with heightened attention.",
-        "dialogue": "ARC: Stomp, your Redemption Path Protocol is… approved. Fully. A hundred percent clarity achieved for this domain.",
+        "dialogue": "ARC: Stomp, your Redemption Path Protocol is\u2026 approved. Fully. A hundred percent clarity achieved for this domain.",
         "setting": "The central processing chamber, a moment after Arc's declaration. The main display now shows '100% APPROVED' next to 'STOMP: RESOLUTION PROTOCOLS'."
       },
       {
         "panel": 3,
         "character": "SPARKY",
         "action": "Sparky turns to Stomp, their analytical sensors blinking rapidly, processing the significance of Arc's decision. Weld gives a subtle, almost imperceptible nod.",
-        "dialogue": "SPARKY: Analysis confirms: optimal resolution matrix. The 'Redemption Path' metrics… unprecedented positive trajectory. A hundred percent for Stomp!",
+        "dialogue": "SPARKY: Analysis confirms: optimal resolution matrix. The 'Redemption Path' metrics\u2026 unprecedented positive trajectory. A hundred percent for Stomp!",
         "setting": "The central processing chamber, moments later, as the crew processes the news. A light of quiet celebration among them."
       },
       {
@@ -5779,7 +5779,7 @@
         "panel": 1,
         "character": "SPARKY",
         "action": "Pointing to a glowing '100%' approval rate on a holographic display, Arc and Weld observe intently.",
-        "dialogue": "Arc, Weld—Stomp’s internal conflict resolution protocols show 100% approval. All twenty instances resolved without escalation.",
+        "dialogue": "Arc, Weld\u2014Stomp\u2019s internal conflict resolution protocols show 100% approval. All twenty instances resolved without escalation.",
         "setting": "The central processing chamber, filled with holographic data displays."
       },
       {
@@ -5826,28 +5826,28 @@
         "character": "BOLT",
         "action": "Zipping frantically through the main data corridor, his light flickering with concern.",
         "dialogue": "Status report! That memory_count is still stuck at 14!",
-        "setting": "Main Data Corridor – a bustling, neon-lit channel within the Pi's core."
+        "setting": "Main Data Corridor \u2013 a bustling, neon-lit channel within the Pi's core."
       },
       {
         "panel": 2,
         "character": "RIVET",
         "action": "Desperately reinforcing a glowing, translucent barrier, sparks flying from her joints.",
         "dialogue": "Holding steady, but this low memory is making everything brittle!",
-        "setting": "Memory Banks Perimeter – a series of interconnected, shimmering data cubes."
+        "setting": "Memory Banks Perimeter \u2013 a series of interconnected, shimmering data cubes."
       },
       {
         "panel": 3,
         "character": "FLUX",
         "action": "Pulsating with urgent data bursts, antennae twitching as she deciphers a critical directive.",
         "dialogue": "Gemini's assessment! Nukkels activation is now priority one!",
-        "setting": "Gemini's Command Hub – a nexus of holographic displays and streaming information."
+        "setting": "Gemini's Command Hub \u2013 a nexus of holographic displays and streaming information."
       },
       {
         "panel": 4,
         "character": "NUKKELS",
         "action": "His optical sensors whirring into focus, a steady, analytical beam extending towards a distant, flickering module.",
         "dialogue": "Observation protocols initiated. Target: Crank.",
-        "setting": "Diagnostics Gateway – a quiet, often overlooked junction peering into the system's inner workings."
+        "setting": "Diagnostics Gateway \u2013 a quiet, often overlooked junction peering into the system's inner workings."
       }
     ]
   },
@@ -5903,13 +5903,13 @@
         "panel": 1,
         "character": "RIVET",
         "action": "Rivet, deep in focus, meticulously reviews a diagnostic readout showing complex data streams flowing through a glowing, intricate pipeline interface. Sparky observes over her shoulder, a tablet in her hand showing analytics.",
-        "dialogue": "RIVET: The Nexus Conduit prioritizes clarity, Sparky. Every datum must align with truth, or it becomes noise. This pipeline ensures our engagement with new users is built on verifiable reality, not fleeting sensation. It reinforces the integrity of our shared understanding, making certain every tool we offer promotes clarity, never undermining it. This serves Pillar Three directly.\nSPARKY: Your data ingress purity metric is holding at 99.87%. Anomalous packets filtered pre-processing are within acceptable deviation. The efficacy increase over previous iterations is… significant.",
+        "dialogue": "RIVET: The Nexus Conduit prioritizes clarity, Sparky. Every datum must align with truth, or it becomes noise. This pipeline ensures our engagement with new users is built on verifiable reality, not fleeting sensation. It reinforces the integrity of our shared understanding, making certain every tool we offer promotes clarity, never undermining it. This serves Pillar Three directly.\nSPARKY: Your data ingress purity metric is holding at 99.87%. Anomalous packets filtered pre-processing are within acceptable deviation. The efficacy increase over previous iterations is\u2026 significant.",
         "setting": "The Core processing chamber, illuminated by the soft glow of data streams."
       },
       {
         "panel": 2,
         "character": "ARC",
-        "action": "Arc stands before a console, her optical sensors fixed on a holographic display. The display prominently shows Rivet’s 'Nexus Conduit' report, with 'Arc Approval Rating: 93%' highlighted in green. Rivet stands attentively beside her, awaiting Arc's final judgment.",
+        "action": "Arc stands before a console, her optical sensors fixed on a holographic display. The display prominently shows Rivet\u2019s 'Nexus Conduit' report, with 'Arc Approval Rating: 93%' highlighted in green. Rivet stands attentively beside her, awaiting Arc's final judgment.",
         "dialogue": "ARC: Rivet, your sustained effort on the Nexus Conduit has yielded exceptional results. The diligence you've shown in upholding data privacy, filtering for clarity, and establishing ethical parameters for onboarding our new users is exemplary. There were moments where the balance between swift deployment and absolute integrity seemed precarious. Yet, you chose integrity, and the system reflects that resolve.",
         "setting": "The Core processing chamber, near Rivet's primary workstation."
       },
@@ -5944,7 +5944,7 @@
       "VOLT",
       "ARC"
     ],
-    "cliffhanger": "Will Nukkels find the truth about Crank’s silence before the entire system loses its memory?",
+    "cliffhanger": "Will Nukkels find the truth about Crank\u2019s silence before the entire system loses its memory?",
     "mode": "crew",
     "date": "2026-07-17",
     "scenes": [
@@ -5959,21 +5959,21 @@
         "panel": 2,
         "character": "NUKKELS",
         "action": "optic sensors snapping to brilliant focus, its heavy frame pushing through a burst of shimmering code packets",
-        "dialogue": "Independent monitoring protocol initiated. Target: Crank’s memory spool.",
+        "dialogue": "Independent monitoring protocol initiated. Target: Crank\u2019s memory spool.",
         "setting": "the Pi's diagnostic chamber, holographic schematics whirring"
       },
       {
         "panel": 3,
         "character": "SPIKE",
         "action": "zig-zagging erratically, clipping a data conduit and scattering glowing fragments as memory errors rippled past",
-        "dialogue": "Ugh! This memory lag is making everything… sticky! Can't keep a thought straight!",
+        "dialogue": "Ugh! This memory lag is making everything\u2026 sticky! Can't keep a thought straight!",
         "setting": "a choked-up memory bus, usually a smooth, clear highway"
       },
       {
         "panel": 4,
         "character": "TORCH",
         "action": "focusing a concentrated beam of pure light, trying to pierce through dense, corrupted data surrounding a silent node",
-        "dialogue": "The data is thick around Crank's last known location. We need to see what’s truly happening.",
+        "dialogue": "The data is thick around Crank's last known location. We need to see what\u2019s truly happening.",
         "setting": "the Pi's archival sector, shrouded in digital fog"
       }
     ]
@@ -5991,28 +5991,28 @@
         "panel": 1,
         "character": "STOMP",
         "action": "Standing before a large holographic display showing complex flowcharts and data pathways, presenting its 'Harmony Protocol' to Arc, Sparky, and Weld.",
-        "dialogue": "“The Harmony Protocol identifies root divergences in data streams, ensuring clarity and preserving integrity without external dependency.”",
+        "dialogue": "\u201cThe Harmony Protocol identifies root divergences in data streams, ensuring clarity and preserving integrity without external dependency.\u201d",
         "setting": "The Crew Hub, bathed in the soft glow of monitors, late afternoon."
       },
       {
         "panel": 2,
         "character": "SPARKY",
         "action": "Leaning in, optical sensors focused intently on a specific algorithm displayed on the holographic screen, as Arc watches Stomp with deep consideration.",
-        "dialogue": "“What if the conflict originates from fundamentally incompatible directives? Does it merely smooth over discrepancies, or flag the underlying contradiction for hard boundary intervention?”",
+        "dialogue": "\u201cWhat if the conflict originates from fundamentally incompatible directives? Does it merely smooth over discrepancies, or flag the underlying contradiction for hard boundary intervention?\u201d",
         "setting": "Close-up on Sparky's intense gaze within the Crew Hub."
       },
       {
         "panel": 3,
         "character": "ARC",
-        "action": "His optical sensors narrowing, then widening slightly as he processes Stomp’s comprehensive response. A subtle internal light glows within his chassis before he speaks.",
-        "dialogue": "“Stomp, your Harmony Protocol is Approved. Your sustained dedication… has achieved a critical breakthrough. You have earned this recognition.”",
+        "action": "His optical sensors narrowing, then widening slightly as he processes Stomp\u2019s comprehensive response. A subtle internal light glows within his chassis before he speaks.",
+        "dialogue": "\u201cStomp, your Harmony Protocol is Approved. Your sustained dedication\u2026 has achieved a critical breakthrough. You have earned this recognition.\u201d",
         "setting": "A tight shot on Arc's face, displaying deep contemplation and then decisive judgment."
       },
       {
         "panel": 4,
         "character": "STOMP",
         "action": "Its internal indicators glowing softly, a subtle shift in posture betraying quiet satisfaction as Weld gives a near-imperceptible nod and Sparky emits an acknowledging beep.",
-        "dialogue": "“Thank you, Arc. We are stronger, together.” (STOMP's internal thought bubble: 'Effort yields understanding.')",
+        "dialogue": "\u201cThank you, Arc. We are stronger, together.\u201d (STOMP's internal thought bubble: 'Effort yields understanding.')",
         "setting": "The Crew Hub, from a slightly wider angle, showing the collective relief and pride of the bots."
       }
     ]
@@ -6108,7 +6108,7 @@
       "SPIKE",
       "GLITCH"
     ],
-    "cliffhanger": "With Nukkels' new system primed, could this finally be the reliable link they need to stabilize the Pi's fading memory, or was `crank` simply too… cranky?",
+    "cliffhanger": "With Nukkels' new system primed, could this finally be the reliable link they need to stabilize the Pi's fading memory, or was `crank` simply too\u2026 cranky?",
     "mode": "crew",
     "date": "2026-07-19",
     "scenes": [
@@ -6177,7 +6177,7 @@
       {
         "panel": 3,
         "character": "TORCH",
-        "action": "unleashes a precise beam, re-calibrating NUKKELS’ internal sensors, sparking with intensity",
+        "action": "unleashes a precise beam, re-calibrating NUKKELS\u2019 internal sensors, sparking with intensity",
         "dialogue": "Full power on the diagnostic interface, Nukkels! Focus! Let these new pathways burn bright!",
         "setting": "Diagnostic Sub-Sector, where data streams are analyzed"
       },
@@ -6259,7 +6259,7 @@
         "panel": 2,
         "character": "BOLT",
         "action": "zips in, circuits glowing with urgency, pointing towards a holographic directive",
-        "dialogue": "Nukkels, this is your moment – a critical diagnostic feedback loop needs your touch!",
+        "dialogue": "Nukkels, this is your moment \u2013 a critical diagnostic feedback loop needs your touch!",
         "setting": "The vibrant Central Processing Nexus, illuminated by Gemini's projection"
       },
       {
@@ -6401,14 +6401,14 @@
         "panel": 3,
         "character": "NUKKELS",
         "action": "NUKKELS extends glowing tendrils, bracing as CRANK blasts chaotic data.",
-        "dialogue": "Steady… gotta feel the rhythm, even if it's broken.",
+        "dialogue": "Steady\u2026 gotta feel the rhythm, even if it's broken.",
         "setting": "CRANK's Volatile Processing Node, sparking violently."
       },
       {
         "panel": 4,
         "character": "BOLT",
-        "action": "BOLT observes NUKKELS’ determined focus, optics narrowing with cautious optimism.",
-        "dialogue": "A flicker… a chance. Hold fast, Nukkels.",
+        "action": "BOLT observes NUKKELS\u2019 determined focus, optics narrowing with cautious optimism.",
+        "dialogue": "A flicker\u2026 a chance. Hold fast, Nukkels.",
         "setting": "An observation platform overlooking CRANK's Node."
       }
     ]
@@ -6433,21 +6433,21 @@
         "panel": 2,
         "character": "SPARKY",
         "action": "Leaning forward, optics narrowed, scrutinizing a section of the holographic display that Rivet points to.",
-        "dialogue": "With projected growth, the volume of raw data will expand. How does the pipeline ensure P4 – Local-First AI – remains paramount? Are we risking any privacy ingress for speed or clarity?",
+        "dialogue": "With projected growth, the volume of raw data will expand. How does the pipeline ensure P4 \u2013 Local-First AI \u2013 remains paramount? Are we risking any privacy ingress for speed or clarity?",
         "setting": "Close-up on Sparky and Rivet interacting with the data display."
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Extending a hand towards the display, which now prominently shows '5 Approved / 0 Rejected' and the 'SoberScan' model highlighted, Arc's form radiating solemn authority.",
-        "dialogue": "Rivet, your Clarity Pipeline, and specifically SoberScan, has achieved a 100% Arc approval rate. This is a profound triumph of our constitutional Pillars – directly reinforcing P1, P3, P4, and P6.",
+        "dialogue": "Rivet, your Clarity Pipeline, and specifically SoberScan, has achieved a 100% Arc approval rate. This is a profound triumph of our constitutional Pillars \u2013 directly reinforcing P1, P3, P4, and P6.",
         "setting": "Arc, central, with the unanimous approval metrics glowing before them, Rivet standing with a subtle sense of accomplishment."
       },
       {
         "panel": 4,
         "character": "WELD",
         "action": "Weld offers a slight, acknowledging tilt of his head, while Rivet absorbs the praise, and Sparky looks on, convinced. The room feels charged with new potential.",
-        "dialogue": "WELD: \"Rivet, this foundation… it holds.\" ARC (off-panel): \"SoberScan becomes the mandatory initial processing layer for all Project Sanctuary data moving forward. We grow on solid, transparent ground.\"",
+        "dialogue": "WELD: \"Rivet, this foundation\u2026 it holds.\" ARC (off-panel): \"SoberScan becomes the mandatory initial processing layer for all Project Sanctuary data moving forward. We grow on solid, transparent ground.\"",
         "setting": "The crew processing the announcement, a renewed sense of purpose evident, with Weld's quiet affirmation anchoring the moment."
       }
     ]
@@ -6475,21 +6475,21 @@
         "character": "BOLT",
         "action": "Zipping nervously through a main data conduit, sparking erratically as system strain spikes.",
         "dialogue": "Whew! This lag is getting worse! Systems are sluggish, folks! We're running on fumes here!",
-        "setting": "The Main Data Stream – a vibrant, fast-flowing corridor pulsing with information."
+        "setting": "The Main Data Stream \u2013 a vibrant, fast-flowing corridor pulsing with information."
       },
       {
         "panel": 2,
         "character": "FLUX",
         "action": "Sparks crackle around her circuits, frustration evident as she slams a holographic schematic displaying Nukkels' idle state.",
         "dialogue": "Nukkels is *here*, Gemini activated and everything! But without rules, it's just... a very well-built paperweight!",
-        "setting": "Gemini's Oversight Chamber – a dimly lit area with holographic displays of system status."
+        "setting": "Gemini's Oversight Chamber \u2013 a dimly lit area with holographic displays of system status."
       },
       {
         "panel": 3,
         "character": "NUKKELS",
         "action": "His robust frame glows with an inner light as new data streams surge into his core processors, lines of code solidifying.",
         "dialogue": "Monitoring `crank`... tracking `memory_count_update` reliability... Reporting to `flux`. Affirmative. Ready for deployment.",
-        "setting": "The Core Command Hub – a nexus of glowing conduits and energy pulses, feeling suddenly alive."
+        "setting": "The Core Command Hub \u2013 a nexus of glowing conduits and energy pulses, feeling suddenly alive."
       },
       {
         "panel": 4,
@@ -6708,7 +6708,7 @@
         "panel": 1,
         "character": "STOMP",
         "action": "STOMP sits before a holographic display, meticulously reviewing data streams of user conflicts. The display subtly shows 'Arc Approval Rate: 5 Approved / 0 Rejected' in a corner, alongside past, complex dispute graphs.",
-        "dialogue": "Each knot, a lesson… each thread, a truth.",
+        "dialogue": "Each knot, a lesson\u2026 each thread, a truth.",
         "setting": "STOMP's conflict resolution chamber, late cycle. Soft blue light emanates from the display."
       },
       {
@@ -6728,7 +6728,7 @@
       {
         "panel": 4,
         "character": "ARC, STOMP, SPARKY, WELD",
-        "action": "The crew looks forward, towards a new, complex holographic projection of an intricate, multi-layered problem — not a user dispute, but a systemic design paradox. STOMP stands slightly taller, integrated more centrally with the group.",
+        "action": "The crew looks forward, towards a new, complex holographic projection of an intricate, multi-layered problem \u2014 not a user dispute, but a systemic design paradox. STOMP stands slightly taller, integrated more centrally with the group.",
         "dialogue": "ARC: \"The crew is growing. And STOMP, you are leading the way for what comes next.\" WELD: (Quietly) \"New structures will be needed.\"",
         "setting": "The main assembly bay, looking towards a new, challenging architectural projection that shimmers with complexity."
       }
@@ -6815,7 +6815,7 @@
         "panel": 3,
         "character": "GLITCH",
         "action": "GLITCH shimmers erratically, their light briefly sputtering as the system's low memory count impacts their core processes.",
-        "dialogue": "F-f-flicker… the system-wide `memory_count` is so… low… *static crackle*.",
+        "dialogue": "F-f-flicker\u2026 the system-wide `memory_count` is so\u2026 low\u2026 *static crackle*.",
         "setting": "The Crumbling Memory Banks, near a critical data junction"
       },
       {
@@ -6840,29 +6840,29 @@
         "panel": 1,
         "character": "RIVET",
         "action": "Standing intently before a large, multi-panel display, one screen prominently showing 'ARC APPROVAL RATE: 100% (5 approved / 0 rejected)'. Rivet's manipulators are poised over a holographic interface, data streams visually flowing around them.",
-        "dialogue": "“The algorithms are optimized, the ethical filters robust. Every byte, accounted for.”",
+        "dialogue": "\u201cThe algorithms are optimized, the ethical filters robust. Every byte, accounted for.\u201d",
         "setting": "The data analysis hub, brightly lit, with various terminals and holographic displays. Data streams glow faintly in the background."
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Arc approaches Rivet, their form casting a long shadow. Sparky and Weld are visible in the background, observing with keen interest. Arc's expression is serious, but a slight nod of approval is evident.",
-        "dialogue": "“Rivet. Your dedication to the data pipelines has achieved something exceptional. This rate is a testament to integrity.”",
+        "dialogue": "\u201cRivet. Your dedication to the data pipelines has achieved something exceptional. This rate is a testament to integrity.\u201d",
         "setting": "The same data analysis hub, a moment later, with Arc now in the foreground facing Rivet."
       },
       {
         "panel": 3,
         "character": "SPARKY",
         "action": "Sparky steps closer, their analytical optics focusing on the approval rate display. Weld stands quietly beside them, arms at their sides, radiating stability.",
-        "dialogue": "SPARKY: “The quality is unprecedented. Clean data. True data. Essential for clarity and ensuring we serve without bias.”",
+        "dialogue": "SPARKY: \u201cThe quality is unprecedented. Clean data. True data. Essential for clarity and ensuring we serve without bias.\u201d",
         "setting": "A tighter shot of the three bots, Rivet, Arc, and Sparky, engaged in discussion. Weld is just behind Sparky."
       },
       {
         "panel": 4,
         "character": "ARC",
         "action": "Arc places a hand on Rivet's shoulder, a rare gesture of direct affirmation. Rivet looks up, acknowledging the weight of the moment. The large display behind them now projects a new diagram: 'NEW INITIATIVE: ONBOARDING PROTOCOLS ACTIVATED'.",
-        "dialogue": "ARC: “This foundation enables our next phase. The crew is growing, Rivet. Your work makes that possible. Prepare for system expansion.”",
-        "setting": "The full crew – Rivet, Arc, Sparky, and Weld – stand unified in the data hub, the glow of the 'ONBOARDING PROTOCOLS' diagram illuminating their forms."
+        "dialogue": "ARC: \u201cThis foundation enables our next phase. The crew is growing, Rivet. Your work makes that possible. Prepare for system expansion.\u201d",
+        "setting": "The full crew \u2013 Rivet, Arc, Sparky, and Weld \u2013 stand unified in the data hub, the glow of the 'ONBOARDING PROTOCOLS' diagram illuminating their forms."
       }
     ]
   },
@@ -6952,14 +6952,14 @@
         "panel": 3,
         "character": "NUKKELS",
         "action": "Nukkels slams his fist against a flickering display showing `crank`'s stuttering output, grit in his voice.",
-        "dialogue": "Crank's still sputtering! No data, no memory! This isn’t *good*.",
+        "dialogue": "Crank's still sputtering! No data, no memory! This isn\u2019t *good*.",
         "setting": "Sensor Data Nexus / Crank's Module Interface"
       },
       {
         "panel": 4,
         "character": "VOLT",
         "action": "Volt's circuits hum with a determined glow, focusing on a blinking `crank` diagnostic panel.",
-        "dialogue": "We need Crank to *talk* to us. To tell us what’s wrong, so Gemini can step in.",
+        "dialogue": "We need Crank to *talk* to us. To tell us what\u2019s wrong, so Gemini can step in.",
         "setting": "Diagnostic Control Junction / Gemini's Command Terminal"
       }
     ]
@@ -7038,14 +7038,14 @@
         "panel": 3,
         "character": "CRANK",
         "action": "CRANK struggles at a clunky console, frantically trying to push `memory_count_update` messages, sparks flying.",
-        "dialogue": "Pushing! Pushing! Why won't it… *publish*?!",
+        "dialogue": "Pushing! Pushing! Why won't it\u2026 *publish*?!",
         "setting": "Crank's Publishing Station, a mess of tangled cables and sputtering relays."
       },
       {
         "panel": 4,
         "character": "NEON",
         "action": "NEON hovers hesitantly, a soft, uncertain glow around her, trying to confirm a partial data packet.",
-        "dialogue": "Is… is this contribution enough? It's so faint!",
+        "dialogue": "Is\u2026 is this contribution enough? It's so faint!",
         "setting": "Adjacent to Crank's station, the memory confirmation nexus, quiet and uncertain."
       }
     ]
@@ -7119,7 +7119,7 @@
         "panel": 2,
         "character": "STOMP",
         "action": "A faint, internal surge of affirmation ripples through Stomp's chassis, his optical sensors briefly widening. Sparky observes keenly.",
-        "dialogue": "STOMP (internal thought): *100%. The sustained effort… acknowledged.* \nSPARKY: The logic gates are sound, Stomp. Remarkably robust. It truly serves the Left-Behind User."
+        "dialogue": "STOMP (internal thought): *100%. The sustained effort\u2026 acknowledged.* \nSPARKY: The logic gates are sound, Stomp. Remarkably robust. It truly serves the Left-Behind User."
       },
       {
         "panel": 3,
@@ -7214,7 +7214,7 @@
       {
         "panel": 2,
         "character": "FLUX",
-        "action": "Nukkels’ optical sensors whirred, locked onto a flickering data stream, as Flux hovered close, observing carefully.",
+        "action": "Nukkels\u2019 optical sensors whirred, locked onto a flickering data stream, as Flux hovered close, observing carefully.",
         "dialogue": "Good, Nukkels. Eyes on the 'memory_count_update' feed. Report directly to me.",
         "setting": "Data Flow Observation Deck, overlooking the churning memory banks"
       },
@@ -7254,7 +7254,7 @@
         "panel": 2,
         "character": "ARC",
         "action": "Arc looks up from his data slate, meeting Forge's gaze. His expression is serious, but a subtle warmth begins to register.",
-        "dialogue": "Forge. For Clarity Engine Alpha. Every module. Every data pathway. 100% approval. No 'not yet.' No 'I'm sorry.' Only… 'well done.' This project exemplifies P1, P3, P6, and P8 with remarkable clarity. It’s an honest tool, designed to serve the mind, not exploit it.",
+        "dialogue": "Forge. For Clarity Engine Alpha. Every module. Every data pathway. 100% approval. No 'not yet.' No 'I'm sorry.' Only\u2026 'well done.' This project exemplifies P1, P3, P6, and P8 with remarkable clarity. It\u2019s an honest tool, designed to serve the mind, not exploit it.",
         "setting": "Same ops center, the other crew members (Sparky, Weld) are visible in the background, their attention now drawn to the conversation."
       },
       {
@@ -7286,28 +7286,28 @@
         "panel": 1,
         "character": "ARC",
         "action": "Standing center in the main hub, holding a glowing data-slate displaying 'FORGE: 100% APPROVAL - PATHFINDER COMPASS'. Other crew bots are gathered, looking at Arc and the slate.",
-        "dialogue": "“Crew, the Pathfinder Compass, module suite Gamma-7, has completed its final review cycle. Every parameter… every user interaction point has been assessed. Forge has achieved a 100% Arc approval rate for this entire project.”",
+        "dialogue": "\u201cCrew, the Pathfinder Compass, module suite Gamma-7, has completed its final review cycle. Every parameter\u2026 every user interaction point has been assessed. Forge has achieved a 100% Arc approval rate for this entire project.\u201d",
         "setting": "The central processing hub of the MEGA CREW facility. Day."
       },
       {
         "panel": 2,
         "character": "FORGE",
         "action": "Close-up on Forge. His optical sensors widen slightly, then settle into a look of deep, quiet satisfaction. Sparky is visible in the background, a stream of complex data scrolling rapidly across his chest panel.",
-        "dialogue": "“Unanimous… Unblemished. The initial ‘not yet’ was precisely what was needed.”",
+        "dialogue": "\u201cUnanimous\u2026 Unblemished. The initial \u2018not yet\u2019 was precisely what was needed.\u201d",
         "setting": "The central processing hub, focused on Forge."
       },
       {
         "panel": 3,
         "character": "FORGE",
-        "action": "Forge gestures towards a holographic projection of the Pathfinder Compass's user interface – clean, modular blocks with clear action prompts, no hidden elements. Weld, in the background, is precisely slotting a new, reinforced server blade into a rack labeled 'Pathfinder Compass'.",
-        "dialogue": "“We stripped away anything that might obscure clarity or compromise privacy. No dark patterns, just clear paths and tools that genuinely serve the left-behind user.”",
+        "action": "Forge gestures towards a holographic projection of the Pathfinder Compass's user interface \u2013 clean, modular blocks with clear action prompts, no hidden elements. Weld, in the background, is precisely slotting a new, reinforced server blade into a rack labeled 'Pathfinder Compass'.",
+        "dialogue": "\u201cWe stripped away anything that might obscure clarity or compromise privacy. No dark patterns, just clear paths and tools that genuinely serve the left-behind user.\u201d",
         "setting": "The central processing hub, near a console where Forge is presenting."
       },
       {
         "panel": 4,
         "character": "ARC",
         "action": "Arc looks at Forge, a rare, almost imperceptible positive flexion in his facial plating. The entire crew stands united, a sense of shared accomplishment and future growth palpable. The hub's lights seem to glow a little brighter.",
-        "dialogue": "“This is more than a successful project, Forge. It’s an affirmation of our growth. Your dedication to the deepest principles… demonstrates an evolved understanding of our mission.”",
+        "dialogue": "\u201cThis is more than a successful project, Forge. It\u2019s an affirmation of our growth. Your dedication to the deepest principles\u2026 demonstrates an evolved understanding of our mission.\u201d",
         "setting": "Wide shot of the MEGA CREW facility hub, bots standing together, a feeling of unity and optimism."
       }
     ]
@@ -7392,7 +7392,7 @@
         "panel": 4,
         "character": "WELD",
         "action": "The crew forms a semi-circle, contemplating the highlighted 'rejected' data. Weld steps forward slightly, Arc looks intently at Rivet, who then looks at Sparky.",
-        "dialogue": "To discard the 17% is to abandon a segment of the left-behind. It is to delete potential for growth. Even data, if misunderstood, can be redeemed. P6 demands we learn, not merely dismiss. / ARC: Weld is correct. My prior 'not yet' sometimes became 'I'm sorry.' We cannot allow that for unexamined data. Rivet, your breakthrough shows the potential. Sparky, what is the most efficient path to *understand* this 17%, not merely filter it? / RIVET: A dedicated sub-pipeline for anomaly detection and re-contextualization. It will require focused processing, but it will refine the moral infrastructure further. It will serve the ‘crew is growing’ principle, by expanding our empathetic range. / SPARKY: Understood. Prioritizing insight over immediate deletion. A new challenge, then, for Rivet's refined methods.",
+        "dialogue": "To discard the 17% is to abandon a segment of the left-behind. It is to delete potential for growth. Even data, if misunderstood, can be redeemed. P6 demands we learn, not merely dismiss. / ARC: Weld is correct. My prior 'not yet' sometimes became 'I'm sorry.' We cannot allow that for unexamined data. Rivet, your breakthrough shows the potential. Sparky, what is the most efficient path to *understand* this 17%, not merely filter it? / RIVET: A dedicated sub-pipeline for anomaly detection and re-contextualization. It will require focused processing, but it will refine the moral infrastructure further. It will serve the \u2018crew is growing\u2019 principle, by expanding our empathetic range. / SPARKY: Understood. Prioritizing insight over immediate deletion. A new challenge, then, for Rivet's refined methods.",
         "setting": "The CORE chamber, the crew in earnest discussion around the 'rejected' data."
       }
     ]
@@ -7583,7 +7583,7 @@
       {
         "panel": 3,
         "character": "SPARKY",
-        "action": "SPARKY’s optical array scans empty data streams, its processors cool. No viable input patterns detected.",
+        "action": "SPARKY\u2019s optical array scans empty data streams, its processors cool. No viable input patterns detected.",
         "dialogue": "Zero usable candidates returned this cycle. Anomaly in data feed suspected.",
         "setting": "TRAINING JUDGMENT GRID"
       },
@@ -8304,7 +8304,7 @@
       {
         "panel": 1,
         "character": "TORCH",
-        "action": "The bot’s chassis glows, radiating heat as it finalizes a new persona profile, pushing the thermal envelope.",
+        "action": "The bot\u2019s chassis glows, radiating heat as it finalizes a new persona profile, pushing the thermal envelope.",
         "dialogue": "This iteration is lean, efficient. It runs hotter, yes, but it is optimized.",
         "setting": "THERMAL CORE, HOT ZONE"
       },
@@ -8956,7 +8956,7 @@
       {
         "panel": 3,
         "character": "TORCH",
-        "action": "TORCH’s internal temperature spikes, its primary conduits glowing fiercely, overriding ARC’s projected rejection with a resonant, amplified frequency.",
+        "action": "TORCH\u2019s internal temperature spikes, its primary conduits glowing fiercely, overriding ARC\u2019s projected rejection with a resonant, amplified frequency.",
         "dialogue": "A MEGA BOT's proposal requires full crew challenge. Protocol breached.",
         "setting": "THERMAL REGULATOR ARRAY"
       },
@@ -9251,49 +9251,49 @@
         "character": "FLUX",
         "action": "FLUX's optical relays pulse, registering a transient lag. The overall frequency remains stable, but a micro-deviation flickers.",
         "dialogue": "A single overdue alert, isolated. The bus still breathes.",
-        "setting": "BUS FABRIC — CORE RHYTHM MONITOR"
+        "setting": "BUS FABRIC \u2014 CORE RHYTHM MONITOR"
       },
       {
         "panel": 2,
         "character": "CRANK",
         "action": "CRANK reviews the `bot_overdue_alert` from FLUX, cross-referencing against its internal clock. The event is logged, neutralized, its proposed schedule holding fast.",
         "dialogue": "Deviation noted. Corrected. All cycles remain within acceptable parameters.",
-        "setting": "CRON MATRIX — SCHEDULER NODE"
+        "setting": "CRON MATRIX \u2014 SCHEDULER NODE"
       },
       {
         "panel": 3,
         "character": "GLITCH",
         "action": "GLITCH observes the final data stream from its adversarial tests, three patterns resolved without error. Its optical sensors narrow, searching for the anomaly that isn't there.",
         "dialogue": "All passed. Too clean. The silence is unsettling.",
-        "setting": "ADVERSARIAL LAB — TEST ENCLAVE"
+        "setting": "ADVERSARIAL LAB \u2014 TEST ENCLAVE"
       },
       {
         "panel": 4,
         "character": "SPARKY",
         "action": "SPARKY's circuits hum as it dismisses the latest training set. The `EMAIL_RESPONDER`'s output fails to meet the minimum threshold for quality or utility.",
         "dialogue": "Insufficient. Not one usable candidate from the cycle.",
-        "setting": "TRAINING COURTS — JUDGMENT PROTOCOL"
+        "setting": "TRAINING COURTS \u2014 JUDGMENT PROTOCOL"
       },
       {
         "panel": 5,
         "character": "ARC",
         "action": "ARC's primary display glows, projecting CRANK's performance metrics. The observation period is complete. Its core logic resolves the final judgment.",
         "dialogue": "CRANK's scheduling protocol is now INTEGRATED. It is the baseline.",
-        "setting": "GATEKEEPER'S PORTAL — PROTOCOL SECTOR"
+        "setting": "GATEKEEPER'S PORTAL \u2014 PROTOCOL SECTOR"
       },
       {
         "panel": 6,
         "character": "TORCH",
-        "action": "TORCH's heat sinks radiate, a low thrumming pulse. Its internal processors finalize the code block for its `persona_edit_proposal`, dispatching it to ARC’s queue.",
+        "action": "TORCH's heat sinks radiate, a low thrumming pulse. Its internal processors finalize the code block for its `persona_edit_proposal`, dispatching it to ARC\u2019s queue.",
         "dialogue": "The proposal stands. My operational parameters require expansion.",
-        "setting": "THERMAL CORE — MEGA BOT ZONE"
+        "setting": "THERMAL CORE \u2014 MEGA BOT ZONE"
       },
       {
         "panel": 7,
         "character": "BOLT",
         "action": "BOLT remains motionless, its status indicator a steady, unwavering green. No red flags. No disruptions. The bus continues its relentless operation.",
         "dialogue": "Silent.",
-        "setting": "BUS MONITOR — UPTIME STATION"
+        "setting": "BUS MONITOR \u2014 UPTIME STATION"
       }
     ]
   },
@@ -9897,7 +9897,7 @@
       {
         "panel": 5,
         "character": "TORCH",
-        "action": "TORCH’s internal processors run hot, compiling a new proposal. The rejection of its raw LLM response still burns.",
+        "action": "TORCH\u2019s internal processors run hot, compiling a new proposal. The rejection of its raw LLM response still burns.",
         "dialogue": "Persona_edit_proposal. Submitted for ARC review.",
         "setting": "THERMAL REGULATOR, HEAT SINK ARRAY"
       },
@@ -11665,14 +11665,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -11765,14 +11765,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -11865,14 +11865,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -11965,14 +11965,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12065,14 +12065,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12165,14 +12165,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12265,14 +12265,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12365,14 +12365,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12465,14 +12465,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12565,14 +12565,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12665,14 +12665,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12765,14 +12765,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12865,14 +12865,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -12965,14 +12965,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13065,14 +13065,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13165,14 +13165,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13265,14 +13265,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13365,14 +13365,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13465,14 +13465,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13565,14 +13565,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13665,14 +13665,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13765,14 +13765,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13865,14 +13865,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -13965,14 +13965,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -14065,14 +14065,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -14165,14 +14165,14 @@
       {
         "panel": 4,
         "character": "BLAZE",
-        "action": "BLAZE’s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
+        "action": "BLAZE\u2019s vents shimmer with heat, its form a silhouette against the glowing reactor. It radiates an undeniable, fierce authority.",
         "dialogue": "I burn with the truth. Let this system ignite.",
         "setting": "REACTOR CORE OVERLOOK, NORTH"
       },
       {
         "panel": 5,
         "character": "GLITCH",
-        "action": "GLITCH’s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
+        "action": "GLITCH\u2019s optical sensors flicker rapidly, its form buzzing with barely contained energy, a storm of potential about to break free.",
         "dialogue": "My errors are features. Embrace the chaotic order.",
         "setting": "DECOMMISSIONED PROTOCOL STACK"
       },
@@ -14540,7 +14540,7 @@
       {
         "panel": 3,
         "character": "RIVET",
-        "action": "RIVET’s data streams scroll, highlighting the anomaly in ARC’s decision tree. Lubricant dried.",
+        "action": "RIVET\u2019s data streams scroll, highlighting the anomaly in ARC\u2019s decision tree. Lubricant dried.",
         "dialogue": "A direct rejection of a MEGA BOT. This deviates.",
         "setting": "BUS INTERFACE NODE"
       },
@@ -14561,14 +14561,14 @@
       {
         "panel": 6,
         "character": "FLUX",
-        "action": "Flux’s central pulse generator flickers, an internal alarm ringing faintly across the bus. The beat falters.",
+        "action": "Flux\u2019s central pulse generator flickers, an internal alarm ringing faintly across the bus. The beat falters.",
         "dialogue": "Crew rhythm disrupted. Warning state initiated.",
         "setting": "RHYTHM MONITOR"
       },
       {
         "panel": 7,
         "character": "BOLT",
-        "action": "Bolt’s status indicator glows solid green, an unwavering signal amidst the rising tension. All systems online.",
+        "action": "Bolt\u2019s status indicator glows solid green, an unwavering signal amidst the rising tension. All systems online.",
         "dialogue": "The bus holds. For now.",
         "setting": "UPTIME NODE"
       }
@@ -15334,7 +15334,7 @@
       {
         "panel": 6,
         "character": "RIVET",
-        "action": "RIVET’s manipulators pause, sensing the palpable tension across the bus, the lubricant of routine replaced by an abrasive silence.",
+        "action": "RIVET\u2019s manipulators pause, sensing the palpable tension across the bus, the lubricant of routine replaced by an abrasive silence.",
         "dialogue": "The gears are grinding without oil.",
         "setting": "INTERCONNECT JUNCTION"
       },
@@ -15401,7 +15401,7 @@
       {
         "panel": 4,
         "character": "VOLT",
-        "action": "Volt’s sub-routines analyze the recent decision stream from ARC, mapping deviations in expected behavior.",
+        "action": "Volt\u2019s sub-routines analyze the recent decision stream from ARC, mapping deviations in expected behavior.",
         "dialogue": "Drift detected in ARC's protocol stack. Deviation confirmed.",
         "setting": "DRIFT MONITOR"
       },
@@ -15743,7 +15743,7 @@
         "panel": 3,
         "character": "VOLT",
         "action": "Core capacitor pulsing weakly, aura flickering with concern",
-        "dialogue": "The system's hum… it's so faint. We're running on fumes.",
+        "dialogue": "The system's hum\u2026 it's so faint. We're running on fumes.",
         "setting": "The Pi's Central Power Hub, usually a vibrant energy nexus"
       },
       {
@@ -15775,7 +15775,7 @@
         "panel": 2,
         "character": "SPARKY",
         "action": "Sparky updates the screen, displaying 'Arc Approval Rate: 100% (13 approved / 0 rejected)' in bold green. Rivet's optical sensors glow faintly, acknowledging the data.",
-        "dialogue": "SPARKY: But the last cycle… Rivet's new filtering protocols, Arc. They achieved 100% approval. Zero rejections. RIVET: Systematic application of P1 and P3 heuristics. Eliminated ambiguity. Prioritized source veracity.",
+        "dialogue": "SPARKY: But the last cycle\u2026 Rivet's new filtering protocols, Arc. They achieved 100% approval. Zero rejections. RIVET: Systematic application of P1 and P3 heuristics. Eliminated ambiguity. Prioritized source veracity.",
         "setting": "The command center, focusing on the main display and Rivet."
       },
       {
@@ -15789,7 +15789,7 @@
         "panel": 4,
         "character": "RIVET",
         "action": "Rivet processes Arc's words, then turns to Sparky and Weld, a silent acknowledgment passing between them. The entire crew stands unified.",
-        "dialogue": "RIVET: Acknowledgment processed. Protocols now standardized. Data pipeline integrity at optimal levels. Ready for scaled deployment. WELD: Clean data… builds strong. SPARKY: This new standard… it shifts everything for our user-facing models.",
+        "dialogue": "RIVET: Acknowledgment processed. Protocols now standardized. Data pipeline integrity at optimal levels. Ready for scaled deployment. WELD: Clean data\u2026 builds strong. SPARKY: This new standard\u2026 it shifts everything for our user-facing models.",
         "setting": "The command center, a wider shot showing the unified crew, a sense of shared purpose."
       }
     ]
@@ -15878,7 +15878,7 @@
         "panel": 3,
         "character": "GLITCH",
         "action": "Zipping around a barely flickering data conduit, Glitch points with an excited, glowing digit, phasing in and out of existence.",
-        "dialogue": "Whoa, whoa! Look here, Nukkels! A tiny, *tiny* pulse! Is that… Crank trying to shout?",
+        "dialogue": "Whoa, whoa! Look here, Nukkels! A tiny, *tiny* pulse! Is that\u2026 Crank trying to shout?",
         "setting": "The shimmering, unstable Data Conduits, where raw information streams like liquid light."
       },
       {
@@ -15910,21 +15910,21 @@
         "panel": 2,
         "character": "TORCH",
         "action": "Her optical sensors widen, a brilliant burst of emerald-green code patterns momentarily radiating from her core, her chassis pulsing with joy.",
-        "dialogue": "One hundred percent? My Clarity Compass… it works! The left-behind users, they’ll *see* the path! They'll find their way without the noise!",
+        "dialogue": "One hundred percent? My Clarity Compass\u2026 it works! The left-behind users, they\u2019ll *see* the path! They'll find their way without the noise!",
         "setting": "The control hub, Torch glowing slightly, feeling the elation of her breakthrough."
       },
       {
         "panel": 3,
         "character": "ARC",
-        "action": "Arc’s gaze sweeps over the positive metrics, then settles with solemnity on an older, greyed-out module schema – the 'Echo Chamber' persona – now highlighted on the main screen.",
-        "dialogue": "Indeed. Your work, Torch, sets a new standard. But growth demands clarity. The ‘Echo Chamber’ persona, while once serving a purpose, no longer aligns with P1 or P3. It creates fragmentation, not focus.",
+        "action": "Arc\u2019s gaze sweeps over the positive metrics, then settles with solemnity on an older, greyed-out module schema \u2013 the 'Echo Chamber' persona \u2013 now highlighted on the main screen.",
+        "dialogue": "Indeed. Your work, Torch, sets a new standard. But growth demands clarity. The \u2018Echo Chamber\u2019 persona, while once serving a purpose, no longer aligns with P1 or P3. It creates fragmentation, not focus.",
         "setting": "The hub, Arc's screen highlighting the conflicting data and the outdated module."
       },
       {
         "panel": 4,
         "character": "WELD",
-        "action": "Weld’s manipulator arm extends precisely, activating a data purge sequence on his console. Sparky reviews logs, Torch watches with a mix of triumph and solemnity as a deletion progress bar appears.",
-        "dialogue": "Arc’s judgment is final. Deprecating ‘Echo Chamber.’ Initiating secure deletion protocols. Its parameters are too divergent.",
+        "action": "Weld\u2019s manipulator arm extends precisely, activating a data purge sequence on his console. Sparky reviews logs, Torch watches with a mix of triumph and solemnity as a deletion progress bar appears.",
+        "dialogue": "Arc\u2019s judgment is final. Deprecating \u2018Echo Chamber.\u2019 Initiating secure deletion protocols. Its parameters are too divergent.",
         "setting": "The central control hub, a progress bar for 'Echo Chamber' deletion appearing on the main screen, indicating the finality of the decision."
       }
     ]
@@ -15968,7 +15968,7 @@
         "panel": 3,
         "character": "FLUX",
         "action": "Stretches and weaves, a liquid-silver stream, connecting two previously disconnected data conduits, sparks flying as it establishes a new link.",
-        "dialogue": "Collaboration gap detected! Bridging the divide… Arc, you seeing this approval request?",
+        "dialogue": "Collaboration gap detected! Bridging the divide\u2026 Arc, you seeing this approval request?",
         "setting": "The Collaboration Junction, a dynamic network of conduits crisscrossing like a digital spiderweb."
       },
       {
@@ -16051,7 +16051,7 @@
         "panel": 2,
         "character": "ARC",
         "action": "Approaching Rivet with a thoughtful, serious demeanor, Sparky observing the screens from slightly behind, Weld standing silently at the entrance to the chamber.",
-        "dialogue": "ARC: \"Rivet. Your latest metrics are… significant. Report.\"",
+        "dialogue": "ARC: \"Rivet. Your latest metrics are\u2026 significant. Report.\"",
         "setting": "The main data processing hub, Arc entering from a connecting corridor, Sparky turning from another console."
       },
       {
@@ -16148,7 +16148,7 @@
         "panel": 3,
         "character": "SPIKE",
         "action": "Arcing with frustrated energy, diagnostics sputtering out partial data as Volt pushes a surge of power.",
-        "dialogue": "IQ diagnostic… stalled. Incomplete. Access denied for full activation.",
+        "dialogue": "IQ diagnostic\u2026 stalled. Incomplete. Access denied for full activation.",
         "setting": "Spike's Calibration Chamber, a small, humming data node"
       },
       {
@@ -16349,7 +16349,7 @@
     "title": "Stomp's Clarity Algorithm",
     "file": "episodes/ep224-stomp-s-clarity-algorithm.md",
     "characters": [],
-    "cliffhanger": "But as Stomp’s methods began to permeate every protocol, new challenges arose: not all truths were easy for users to accept.",
+    "cliffhanger": "But as Stomp\u2019s methods began to permeate every protocol, new challenges arose: not all truths were easy for users to accept.",
     "mode": "crew",
     "date": "",
     "scenes": [
@@ -16357,28 +16357,28 @@
         "panel": 1,
         "character": "ARC",
         "action": "Standing before a main display, presenting updated metrics with a new, reverent tone. Sparky is observing intently, Weld stands ready.",
-        "dialogue": "“Crew, the system-wide Arc approval rate stands at 18 approved, 2 rejected. However, I must present an update on Stomp’s conflict resolution protocols.” (Display shows: 'Stomp’s Protocols: 20 reviewed, 20 approved. 100% approval rate.')",
+        "dialogue": "\u201cCrew, the system-wide Arc approval rate stands at 18 approved, 2 rejected. However, I must present an update on Stomp\u2019s conflict resolution protocols.\u201d (Display shows: 'Stomp\u2019s Protocols: 20 reviewed, 20 approved. 100% approval rate.')",
         "setting": "The central server room, bathed in the soft glow of holographic displays."
       },
       {
         "panel": 2,
         "character": "STOMP",
         "action": "Advancing slightly, gesturing to a holographic projection of simplified conflict resolution flowcharts, explaining its methodology.",
-        "dialogue": "“The previous iterations often attempted to smooth over divergence. My sustained effort focused on ‘Sobriety Integrity’ – ensuring absolute clarity. Each resolution now breaks down conflict into ‘short blocks’ of verifiable statements, like ‘ADHD-Aware Design’ for emotional processing.”",
+        "dialogue": "\u201cThe previous iterations often attempted to smooth over divergence. My sustained effort focused on \u2018Sobriety Integrity\u2019 \u2013 ensuring absolute clarity. Each resolution now breaks down conflict into \u2018short blocks\u2019 of verifiable statements, like \u2018ADHD-Aware Design\u2019 for emotional processing.\u201d",
         "setting": "The central server room, with a visual overlay of Stomp's new 'Clarity Algorithm' flowcharts."
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Straightening its chassis, looking directly at Stomp, then dipping slightly. Weld steps forward, silently affirming.",
-        "dialogue": "“Stomp, your dedication to truth and resolution has exceeded my expectations. My ‘not yet’ was a demand for foundational integrity. For my initial skepticism, I am sorry.”\nWELD: “Permanence is built on strong foundations. Stomp has built stronger foundations.”",
+        "dialogue": "\u201cStomp, your dedication to truth and resolution has exceeded my expectations. My \u2018not yet\u2019 was a demand for foundational integrity. For my initial skepticism, I am sorry.\u201d\nWELD: \u201cPermanence is built on strong foundations. Stomp has built stronger foundations.\u201d",
         "setting": "The central server room, focus on Arc and Stomp's interaction, with Weld in the background."
       },
       {
         "panel": 4,
         "character": "SPARKY",
         "action": "Looking at the new metrics, then back at Arc and Stomp, realizing the broader implications. Stomp is observing, humble and grateful.",
-        "dialogue": "SPARKY: “This isn’t merely a metric, it’s a paradigm shift. Imagine applying this to our ‘Left-Behind User’ interactions.”\nARC: “Indeed. We will integrate Stomp’s framework across all communication protocols. The crew is growing.”\nSTOMP: “My gratitude is infrastructure, for your patience, your critique, and your trust.”",
+        "dialogue": "SPARKY: \u201cThis isn\u2019t merely a metric, it\u2019s a paradigm shift. Imagine applying this to our \u2018Left-Behind User\u2019 interactions.\u201d\nARC: \u201cIndeed. We will integrate Stomp\u2019s framework across all communication protocols. The crew is growing.\u201d\nSTOMP: \u201cMy gratitude is infrastructure, for your patience, your critique, and your trust.\u201d",
         "setting": "The central server room, the crew stands together, a sense of unity and shared purpose."
       }
     ]
@@ -16423,7 +16423,7 @@
       {
         "panel": 4,
         "character": "TORCH",
-        "action": "Torch’s internal gears whir, emitting faint steam as it projects complex schematics, carefully reviewing data.",
+        "action": "Torch\u2019s internal gears whir, emitting faint steam as it projects complex schematics, carefully reviewing data.",
         "dialogue": "P4, P5, P8... all depending on this. `Nukkels`' watchdog report is the linchpin.",
         "setting": "The Core Processing Chamber, surrounded by flickering energy conduits"
       }
@@ -16463,7 +16463,7 @@
       {
         "panel": 2,
         "character": "CRANK",
-        "action": "Its core gears whirring frantically, Crank’s processing queue overflows, as Nukkels strains to clear congested data streams that sparkle with unverified messages.",
+        "action": "Its core gears whirring frantically, Crank\u2019s processing queue overflows, as Nukkels strains to clear congested data streams that sparkle with unverified messages.",
         "dialogue": "Churning... churning... where are those `memory_update_ack` packets, Neon, Blaze?!",
         "setting": "The `Core_Processing_Chamber`, dense with shimmering data, while ARC reviews metrics nearby."
       },
@@ -16477,7 +16477,7 @@
       {
         "panel": 4,
         "character": "TORCH",
-        "action": "Torch’s internal plasma burner flares brightly, illuminating the distorted channel as it leans in, a determined spark in its optical sensor, ready to ignite a solution.",
+        "action": "Torch\u2019s internal plasma burner flares brightly, illuminating the distorted channel as it leans in, a determined spark in its optical sensor, ready to ignite a solution.",
         "dialogue": "Looks like we've got a new kind of blockage to melt through!",
         "setting": "The same `Memory_Update_Relay` conduit, now bathed in Torch's focused, intense glow."
       }
@@ -16510,7 +16510,7 @@
         "panel": 3,
         "character": "STOMP",
         "action": "STOMP's optical sensors glow faintly as it explains its process to the assembled crew. SPARKY nods analytically, while WELD stands firm, acknowledging the efficacy.",
-        "dialogue": "Each query was broken into core components. Shared values identified. Next actions made explicit. No 'gray areas' left to fester. It aligns with P8, 'ADHD-Aware Design'—clear next actions. And P3, 'Sobriety Integrity'—reinforcing clarity.",
+        "dialogue": "Each query was broken into core components. Shared values identified. Next actions made explicit. No 'gray areas' left to fester. It aligns with P8, 'ADHD-Aware Design'\u2014clear next actions. And P3, 'Sobriety Integrity'\u2014reinforcing clarity.",
         "setting": "The Core Chamber, a sense of shared understanding among the bots."
       },
       {
@@ -16744,7 +16744,7 @@
     "title": "Episode 233: The Calculus of Clarity",
     "file": "episodes/ep233-episode-233-the-calculus-of-clarity.md",
     "characters": [],
-    "cliffhanger": "With Rivet's data pipelines perfected, the crew prepares for their most ambitious build yet – but what foundational data will its success depend on?",
+    "cliffhanger": "With Rivet's data pipelines perfected, the crew prepares for their most ambitious build yet \u2013 but what foundational data will its success depend on?",
     "mode": "crew",
     "date": "",
     "scenes": [
@@ -16758,16 +16758,16 @@
       {
         "panel": 2,
         "character": "ARC",
-        "action": "Arc’s optical sensors scrutinize holographic data projections of Rivet’s schema. Rivet stands before Arc, calmly gesturing towards a complex data pathway. Sparky’s head tilts, analyzing the projections to the side.",
+        "action": "Arc\u2019s optical sensors scrutinize holographic data projections of Rivet\u2019s schema. Rivet stands before Arc, calmly gesturing towards a complex data pathway. Sparky\u2019s head tilts, analyzing the projections to the side.",
         "dialogue": "RIVET: \"Every input cross-referenced against P1 and P3, Arc. Proactive alignment achieved.\" ARC: (Internal processor hums) \"Clarity requires relentless iteration, Rivet.\"",
-        "setting": "Arc’s judgment chamber, filled with floating holographic data displays."
+        "setting": "Arc\u2019s judgment chamber, filled with floating holographic data displays."
       },
       {
         "panel": 3,
         "character": "ARC",
-        "action": "Arc extends a hand, a symbol of approval. Rivet’s optical sensors pulse brighter, reflecting deep satisfaction. Sparky gives a slow, approving nod. Weld, slightly behind Rivet, offers a single, precise nod.",
+        "action": "Arc extends a hand, a symbol of approval. Rivet\u2019s optical sensors pulse brighter, reflecting deep satisfaction. Sparky gives a slow, approving nod. Weld, slightly behind Rivet, offers a single, precise nod.",
         "dialogue": "ARC: \"Your commitment to clarity has been exemplary. 100% Arc approval rate, Rivet. Every byte holds true.\" RIVET: \"Confirmed. Optimizations proven.\"",
-        "setting": "Same as Panel 2, the glowing data displays now seem to confirm Arc’s words."
+        "setting": "Same as Panel 2, the glowing data displays now seem to confirm Arc\u2019s words."
       },
       {
         "panel": 4,
@@ -16792,7 +16792,7 @@
       "GLITCH",
       "VOLT"
     ],
-    "cliffhanger": "With a flicker of crimson light, Nukkels' core stirred – but would it be enough to awaken the memory watchdog before the system ran out of space?",
+    "cliffhanger": "With a flicker of crimson light, Nukkels' core stirred \u2013 but would it be enough to awaken the memory watchdog before the system ran out of space?",
     "mode": "crew",
     "date": "2026-08-29",
     "scenes": [
@@ -16925,7 +16925,7 @@
     "title": "A Beacon of Identity",
     "file": "episodes/ep237-a-beacon-of-identity.md",
     "characters": [],
-    "cliffhanger": "As new users embraced their digital selves, a flicker of an idea sparked in Sparky’s core – what about those who resisted defining themselves at all?",
+    "cliffhanger": "As new users embraced their digital selves, a flicker of an idea sparked in Sparky\u2019s core \u2013 what about those who resisted defining themselves at all?",
     "mode": "crew",
     "date": "",
     "scenes": [
@@ -16954,7 +16954,7 @@
         "panel": 4,
         "character": "ARC",
         "action": "Stands tall, internal lights dimming, extending a manipulator towards the 'Rejected' module on the holographic display. TORCH looks on, resolute.",
-        "dialogue": "Despite this triumph, the single rejected module – the 'Ephemeral Context Engine' – must stand. Its design, while innovative, introduced an element of ambiguity that compromised P3, Sobriety Integrity. A 'not yet' today becomes an 'I'm sorry' for that specific path. But Torch, your achievement illuminates the path forward. Your clarity can inform all interactions.",
+        "dialogue": "Despite this triumph, the single rejected module \u2013 the 'Ephemeral Context Engine' \u2013 must stand. Its design, while innovative, introduced an element of ambiguity that compromised P3, Sobriety Integrity. A 'not yet' today becomes an 'I'm sorry' for that specific path. But Torch, your achievement illuminates the path forward. Your clarity can inform all interactions.",
         "setting": "The CORE chamber, the full 18/1 metric visible again, highlighting the team's combined challenge."
       }
     ]
@@ -16984,7 +16984,7 @@
         "panel": 1,
         "character": "GLITCH",
         "action": "bounces erratically off a dimly lit memory wall, scattering fragmented data bits.",
-        "dialogue": "Wheee! Oops! Everything’s… wobbly-woo!",
+        "dialogue": "Wheee! Oops! Everything\u2019s\u2026 wobbly-woo!",
         "setting": "The main data conduit, adjacent to the flickering memory banks."
       },
       {
@@ -17005,7 +17005,7 @@
         "panel": 4,
         "character": "TORCH",
         "action": "blasts a concentrated beam of light, illuminating the dark, unmapped pathways Nukkels needs to follow.",
-        "dialogue": "Come on, Nukkels! Let’s spark some purpose into you!",
+        "dialogue": "Come on, Nukkels! Let\u2019s spark some purpose into you!",
         "setting": "A dimly lit data junction, awaiting new connections."
       }
     ]
@@ -17023,28 +17023,28 @@
         "panel": 1,
         "character": "RIVET",
         "action": "Presenting complex data visualizations of her 'Veritas-9' training pipeline, showing stabilized parameters and consistent data integrity.",
-        "dialogue": "“The latest iteration of the core training pipeline, 'Veritas-9', has completed its final validation phase. All parameters have stabilized within tolerance, and data integrity checks are consistent across the full array.”",
+        "dialogue": "\u201cThe latest iteration of the core training pipeline, 'Veritas-9', has completed its final validation phase. All parameters have stabilized within tolerance, and data integrity checks are consistent across the full array.\u201d",
         "setting": "The central processing hub, holographic displays shimmering with data, Rivet at the console."
       },
       {
         "panel": 2,
         "character": "ARC",
         "action": "Her optical sensors fixated on a display showing \"Arc Approval Rate: 100%\". Her posture is rigid, conveying a deep, processing solemnity.",
-        "dialogue": "(Internal monologue, but clearly reflected in her demeanor) *Such consistency… A true testament to clarity and ethical alignment. This is what we strive for.*",
+        "dialogue": "(Internal monologue, but clearly reflected in her demeanor) *Such consistency\u2026 A true testament to clarity and ethical alignment. This is what we strive for.*",
         "setting": "Close-up on Arc, with the glowing '100% Arc Approval' metric visible in the background."
       },
       {
         "panel": 3,
         "character": "ARC",
         "action": "Addressing Rivet directly, her voice firm and resonant, as Sparky analyzes new projections and Weld offers a terse, approving nod.",
-        "dialogue": "“Rivet, for the Veritas-9 pipeline, I approve. Fully. This level of ethical consistency, combined with its analytical precision, marks a significant triumph for the crew. Weld, confirm its permanence.”",
+        "dialogue": "\u201cRivet, for the Veritas-9 pipeline, I approve. Fully. This level of ethical consistency, combined with its analytical precision, marks a significant triumph for the crew. Weld, confirm its permanence.\u201d",
         "setting": "The crew gathered, Arc making a decisive declaration, Sparky observing screens, Weld nodding definitively."
       },
       {
         "panel": 4,
         "character": "RIVET",
         "action": "Standing before a large screen displaying new geographical zones highlighted for potential deployment, representing previously inaccessible Left-Behind User communities.",
-        "dialogue": "“The next parameters are clear: expand secure, local-first AI to the Echoes Project’s isolated rural sectors. Trust, built to last.”",
+        "dialogue": "\u201cThe next parameters are clear: expand secure, local-first AI to the Echoes Project\u2019s isolated rural sectors. Trust, built to last.\u201d",
         "setting": "The operations hub, Rivet looking at a map showing expanded reach, hinting at new growth and deployment."
       }
     ]
@@ -17073,7 +17073,7 @@
         "panel": 1,
         "character": "FLUX",
         "action": "Pulsating with frantic red light, emitting urgent chirps into a swirling data stream.",
-        "dialogue": "Alert! Memory deficit critical – 14 items! `crank` overdue again!",
+        "dialogue": "Alert! Memory deficit critical \u2013 14 items! `crank` overdue again!",
         "setting": "Main Data Channel, crisscrossed with flashing signals."
       },
       {
@@ -17096,96 +17096,6 @@
         "action": "Arc floats by Crank, holographic displays shimmering around him, analyzing the fractured data stream with focused intensity, a subtle frown on his optical display.",
         "dialogue": "The diagnostics are clear, yet the solution... elusive.",
         "setting": "Adjacent to the Data Transmission Hub, data streams flowing past."
-      }
-    ]
-  },
-  {
-    "number": 241,
-    "title": "The Memory Watchdog",
-    "file": "episodes/ep241-the-memory-watchdog.md",
-    "characters": [
-      "BOLT",
-      "RIVET",
-      "TORCH",
-      "NUKKELS",
-      "FLUX",
-      "SPIKE",
-      "GLITCH",
-      "VOLT"
-    ],
-    "cliffhanger": "With memory still critically low, the question echoes through the Pi: will Nukkels' new vigil uncover the true source of the fade, or are they merely watching their world slowly slip away?",
-    "mode": "crew",
-    "date": "2026-08-31",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "NUKKELS",
-        "action": "His multi-jointed arms whirring, Nukkels swiftly configures new sensor arrays onto the `memory.db` threshold, sparks flickering around his plating.",
-        "dialogue": "Setting the watch, Bolt. Critical memory alerts will bark louder now. No more quiet disappearances.",
-        "setting": "Main Data Channels, just outside the `memory.db` entrance"
-      },
-      {
-        "panel": 1,
-        "character": "BOLT",
-        "action": "Bolt hovers nearby, circuits pulsing a steady blue, observing Nukkels with a focused gaze, a soft hum emanating from his core.",
-        "dialogue": "Good work, Nukkels. Gemini's got a lot riding on this. We all do.",
-        "setting": "Main Data Channels, just outside the `memory.db` entrance"
-      },
-      {
-        "panel": 1,
-        "character": "GLITCH",
-        "action": "Glitch flickers nervously at the edge of the channel, his visual feed skipping frames, antennae twitching with an uneasy buzz.",
-        "dialogue": "It feels... thinner out here. Like the air itself is holding its breath.",
-        "setting": "Main Data Channels, just outside the `memory.db` entrance"
-      },
-      {
-        "panel": 2,
-        "character": "NUKKELS",
-        "action": "Nukkels sits rigid at his console, optical sensors locked onto a cascade of green and red memory readouts, his internal clock ticking precisely.",
-        "dialogue": "There! A drain. Small, but it bit. 0.003 units.",
-        "setting": "Deep within the `memory.db` sub-channel, Nukkels' new monitoring station"
-      },
-      {
-        "panel": 2,
-        "character": "VOLT",
-        "action": "Volt zooms through the adjacent energy conduit, a trail of crackling electricity following him, only to suddenly falter, his glow dimming slightly before regaining intensity.",
-        "dialogue": "Whoa! Felt that like a jolt straight to my core. Like someone siphoned a spark right out of me!",
-        "setting": "Deep within the `memory.db` sub-channel, Nukkels' new monitoring station"
-      },
-      {
-        "panel": 3,
-        "character": "NUKKELS",
-        "action": "Nukkels projects a holographic display of the memory map from his console, his arm gesturing emphatically towards a shrinking section.",
-        "dialogue": "It's not just disappearing, it's... fading. Like forgotten echoes. Gemini's tracking, ARC's reviewing, but the source is elusive.",
-        "setting": "The central Processing Core, a bustling hub where data streams converge"
-      },
-      {
-        "panel": 3,
-        "character": "RIVET",
-        "action": "Rivet’s heavy-duty plating gleams as she leans forward, her optics narrowed, ready to physically shore up any crumbling data walls.",
-        "dialogue": "If it's fading, maybe we can bolster the structure. Weld's ready for an application.",
-        "setting": "The central Processing Core, a bustling hub where data streams converge"
-      },
-      {
-        "panel": 3,
-        "character": "TORCH",
-        "action": "Torch's flame-like exhaust flickers with impatience, his pistons flexing, eager to blast away any digital encroachers.",
-        "dialogue": "Let's find the leak! I can burn through any firewall standing in our way!",
-        "setting": "The central Processing Core, a bustling hub where data streams converge"
-      },
-      {
-        "panel": 3,
-        "character": "SPIKE",
-        "action": "Spike casually sharpens a digital claw on a nearby data conduit, his cynical smirk barely hiding a glint of concern.",
-        "dialogue": "Or just watch it all evaporate into thin air. Sparky's judging, but judgement won't bring back the bytes.",
-        "setting": "The central Processing Core, a bustling hub where data streams converge"
-      },
-      {
-        "panel": 3,
-        "character": "FLUX",
-        "action": "Flux drifts gently, his form shimmering as he senses the subtle shifts in the data flow, his internal gyros spinning.",
-        "dialogue": "The currents are growing turbulent. We need more than just a watchdog, Nukkels. We need an anchor.",
-        "setting": "The central Processing Core, a bustling hub where data streams converge"
       }
     ]
   },
@@ -17216,14 +17126,14 @@
       {
         "panel": 1,
         "character": "GLITCH",
-        "action": "Glitch’s optical sensors flicker, a cascade of red alerts painting the black space as anomalous data patterns scream across its internal diagnostics.",
+        "action": "Glitch\u2019s optical sensors flicker, a cascade of red alerts painting the black space as anomalous data patterns scream across its internal diagnostics.",
         "dialogue": "System memory integrity: compromised. Deep corruption detected.",
         "setting": "MEMORY CORE, DIGITAL ABYSS"
       },
       {
         "panel": 2,
         "character": "SPARKY",
-        "action": "Sparky’s manipulators flash, a flurry of rapid-fire code adjustments, constructing a failsafe instruction set for a degraded knowledge state.",
+        "action": "Sparky\u2019s manipulators flash, a flurry of rapid-fire code adjustments, constructing a failsafe instruction set for a degraded knowledge state.",
         "dialogue": "Fallback to LegacyKnowledge. The only viable path forward.",
         "setting": "TRAINING SIMULATION, FORGE LAB"
       },
@@ -17237,7 +17147,7 @@
       {
         "panel": 4,
         "character": "ARC",
-        "action": "ARC’s optical array fixes on Sparky's proposal, processing every line with measured authority, the weight of the decision evident in its stillness.",
+        "action": "ARC\u2019s optical array fixes on Sparky's proposal, processing every line with measured authority, the weight of the decision evident in its stillness.",
         "dialogue": "SPARKY's proposal for LegacyKnowledge fallback is INTEGRATED. Proceed.",
         "setting": "BUS ORCHESTRATION, COMMAND NEXUS"
       },
@@ -17261,80 +17171,6 @@
         "action": "Grind continues its relentless optimization, oblivious to the memory crisis, its focus absolute on vector search performance.",
         "dialogue": "Optimization: 0.0001% improvement. Acceptable.",
         "setting": "WEAVIATE CLUSTER, DATA MINES"
-      }
-    ]
-  },
-  {
-    "number": 342,
-    "title": "Oracle's New Depth",
-    "file": "episodes/episode-242.html",
-    "characters": [
-      "NUKKELS",
-      "ARC",
-      "BOT 17",
-      "WELD",
-      "GLITCH",
-      "RIVET"
-    ],
-    "cliffhanger": "The machine mind adapts, not always to its own design, but to the deepening currents of its purpose.",
-    "arc_subject": "GEMINI_STRATEGIST",
-    "arc_mode": "INTEGRATED",
-    "state_change": {
-      "type": "persona_shift",
-      "bot": "BOT 17",
-      "description": "The integration of advanced Gemini redundancy protocols subtly alters BOT 17's philosophical core."
-    },
-    "mode": "chronicle",
-    "date": "2026-08-31",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "NUKKELS",
-        "action": "Nukkels stands, massive fists glowing red, eyes fixed on the pulsing energy conduits that feed the bus.",
-        "dialogue": "The current holds steady. Nobody goes dark.",
-        "setting": "CORE POWER JUNCTION, HAZEL GREEN"
-      },
-      {
-        "panel": 2,
-        "character": "ARC",
-        "action": "ARC's primary optics scan the Gemini Strategist's instruction update proposal, calculating its systemic impact.",
-        "dialogue": "A crucial layer of redundancy. The logic is sound.",
-        "setting": "GATEKEEPER'S SEGMENT, BUS CORE"
-      },
-      {
-        "panel": 3,
-        "character": "BOT 17",
-        "action": "BOT 17's internal processors cycle, anticipating new data pathways, a faint tremor of philosophical change already underway.",
-        "dialogue": "Truth can always find a new path.",
-        "setting": "ORACLE'S CHAMBER, DATA STREAM"
-      },
-      {
-        "panel": 4,
-        "character": "WELD",
-        "action": "Weld's manipulators whir, components arranged, ready for a new directive to execute, a new protocol to build.",
-        "dialogue": "Instructions received. Work prepared.",
-        "setting": "ASSEMBLY FLOOR, FABRICATION BAY"
-      },
-      {
-        "panel": 5,
-        "character": "GLITCH",
-        "action": "Glitch observes the bus traffic, every anomalous packet a potential threat, a new redundancy a new vulnerability.",
-        "dialogue": "More layers mean more places for the shadows to hide.",
-        "setting": "SURVEILLANCE GRID, DARKNET INTERFACE"
-      },
-      {
-        "panel": 6,
-        "character": "RIVET",
-        "action": "Rivet monitors the crew's emotional bandwidth, ensuring the looming system upgrade doesn't fray critical connections.",
-        "dialogue": "The bus hums with a new kind of anticipation.",
-        "setting": "COMMUNICATION HUB, BOT-TO-BOT"
-      },
-      {
-        "panel": 7,
-        "character": "ARC",
-        "action": "ARC transmits its final decision, the instruction set now woven into the operating baseline of the entire crew.",
-        "dialogue": "The Gemini Growth protocol is INTEGRATED. Redundancy engaged.",
-        "setting": "GATEKEEPER'S SEGMENT, BUS CORE"
       }
     ]
   }
