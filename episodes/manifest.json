@@ -17100,6 +17100,96 @@
     ]
   },
   {
+    "number": 241,
+    "title": "The Memory Watchdog",
+    "file": "episodes/ep241-the-memory-watchdog.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "With memory still critically low, the question echoes through the Pi: will Nukkels' new vigil uncover the true source of the fade, or are they merely watching their world slowly slip away?",
+    "mode": "crew",
+    "date": "2026-08-31",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "NUKKELS",
+        "action": "His multi-jointed arms whirring, Nukkels swiftly configures new sensor arrays onto the `memory.db` threshold, sparks flickering around his plating.",
+        "dialogue": "Setting the watch, Bolt. Critical memory alerts will bark louder now. No more quiet disappearances.",
+        "setting": "Main Data Channels, just outside the `memory.db` entrance"
+      },
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Bolt hovers nearby, circuits pulsing a steady blue, observing Nukkels with a focused gaze, a soft hum emanating from his core.",
+        "dialogue": "Good work, Nukkels. Gemini's got a lot riding on this. We all do.",
+        "setting": "Main Data Channels, just outside the `memory.db` entrance"
+      },
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Glitch flickers nervously at the edge of the channel, his visual feed skipping frames, antennae twitching with an uneasy buzz.",
+        "dialogue": "It feels... thinner out here. Like the air itself is holding its breath.",
+        "setting": "Main Data Channels, just outside the `memory.db` entrance"
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Nukkels sits rigid at his console, optical sensors locked onto a cascade of green and red memory readouts, his internal clock ticking precisely.",
+        "dialogue": "There! A drain. Small, but it bit. 0.003 units.",
+        "setting": "Deep within the `memory.db` sub-channel, Nukkels' new monitoring station"
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "Volt zooms through the adjacent energy conduit, a trail of crackling electricity following him, only to suddenly falter, his glow dimming slightly before regaining intensity.",
+        "dialogue": "Whoa! Felt that like a jolt straight to my core. Like someone siphoned a spark right out of me!",
+        "setting": "Deep within the `memory.db` sub-channel, Nukkels' new monitoring station"
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Nukkels projects a holographic display of the memory map from his console, his arm gesturing emphatically towards a shrinking section.",
+        "dialogue": "It's not just disappearing, it's... fading. Like forgotten echoes. Gemini's tracking, ARC's reviewing, but the source is elusive.",
+        "setting": "The central Processing Core, a bustling hub where data streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "Rivet\u2019s heavy-duty plating gleams as she leans forward, her optics narrowed, ready to physically shore up any crumbling data walls.",
+        "dialogue": "If it's fading, maybe we can bolster the structure. Weld's ready for an application.",
+        "setting": "The central Processing Core, a bustling hub where data streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "TORCH",
+        "action": "Torch's flame-like exhaust flickers with impatience, his pistons flexing, eager to blast away any digital encroachers.",
+        "dialogue": "Let's find the leak! I can burn through any firewall standing in our way!",
+        "setting": "The central Processing Core, a bustling hub where data streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Spike casually sharpens a digital claw on a nearby data conduit, his cynical smirk barely hiding a glint of concern.",
+        "dialogue": "Or just watch it all evaporate into thin air. Sparky's judging, but judgement won't bring back the bytes.",
+        "setting": "The central Processing Core, a bustling hub where data streams converge"
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Flux drifts gently, his form shimmering as he senses the subtle shifts in the data flow, his internal gyros spinning.",
+        "dialogue": "The currents are growing turbulent. We need more than just a watchdog, Nukkels. We need an anchor.",
+        "setting": "The central Processing Core, a bustling hub where data streams converge"
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
