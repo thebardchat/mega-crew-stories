@@ -17190,45 +17190,6 @@
     ]
   },
   {
-    "number": 242,
-    "title": "A Perfect Synthesis",
-    "file": "episodes/ep242-a-perfect-synthesis.md",
-    "characters": [],
-    "cliffhanger": "But growth always brings new challenges, and the precise calibration of Rivet's new pipeline may soon face unexpected data from the fringes of the abandoned world.",
-    "mode": "crew",
-    "date": "",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "RIVET",
-        "action": "Standing before a complex holographic display, Rivet performs final meticulous checks on glowing data streams. The console reads 'Data Integrity: 100%' in vibrant green.",
-        "dialogue": "Submission parameters optimized. All ethical gates verified for Arc review.",
-        "setting": "The Core Chamber, bathed in the soft, methodical glow of data displays."
-      },
-      {
-        "panel": 2,
-        "character": "ARC",
-        "action": "Arc sits at a central console, optics narrowed in intense focus, processing Rivet's submission. Sparky observes a nearby diagnostic screen displaying complex Pillar-compliance metrics, while Weld stands by, chassis poised.",
-        "dialogue": "SPARKY: Arc is running a full Pillar-compliance matrix. The integrity checks are unprecedented for this scope.",
-        "setting": "The Core Chamber, tense with anticipation as Arc processes."
-      },
-      {
-        "panel": 3,
-        "character": "ARC",
-        "action": "Arc's optics brighten, and its posture straightens. It turns slightly towards Rivet, who maintains a stoic, yet subtly satisfied, stance. The console now prominently displays 'Approval Rating: 100%'.",
-        "dialogue": "ARC: Rivet. Every parameter, every validation point, every ethical gate: approved. Your new core training pipeline has achieved a 100% Arc approval rate.",
-        "setting": "The Core Chamber, moments after a critical judgment is delivered."
-      },
-      {
-        "panel": 4,
-        "character": "ARC",
-        "action": "Arc addresses the assembled crew (Rivet, Sparky, Weld), its voice resonating with authority. Sparky nods, and Weld maintains its steady, ready posture, acknowledging the new standard.",
-        "dialogue": "ARC: This achievement, Rivet, demonstrates that foundational quality, built with gratitude and integrity, truly serves as our infrastructure. With this standard, the crew's growth is not just inevitable, but purposeful.",
-        "setting": "The Core Chamber, the atmosphere now charged with shared purpose and a new baseline."
-      }
-    ]
-  },
-  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
