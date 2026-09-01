@@ -17229,6 +17229,149 @@
     ]
   },
   {
+    "number": 243,
+    "title": "Project Lumen: Fidelity Echo",
+    "file": "episodes/ep243-project-lumen-fidelity-echo.md",
+    "characters": [],
+    "cliffhanger": "With new territories highlighted, the sheer scale of the next data integration project looms, demanding even more rigorous cross-constitutional vetting and unprecedented processing power.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing before a holographic display, presenting complex data streams and metrics to the crew, her optical sensors conveying methodical focus.",
+        "dialogue": "\"Project Lumen, Phase Three. One hundred seventy-four terabytes of content, processed through the enhanced Fidelity Echo. Zero rejection metric achieved. Meticulously aligned with P1, P3, P4.\"",
+        "setting": "The operations center, illuminated by the glow of the main holographic display showing Rivet's refined data pipeline."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Her optical sensors intensely focused on the data, cross-referencing with constitutional parameters, while Sparky runs parallel diagnostics on a projected data cluster.",
+        "dialogue": "ARC: \"Rivet, how has the Fidelity Echo specifically addressed potential implicit bias from source attribution, avoiding shadow artifacts that could skew P6 outreach?\"\nRIVET: \"Recursive provenance checks, linking back through three distinct verified nodes. Any deviation flags for human review. Prioritizes transparent instruction, reinforcing P1 and P3 for uncompromised clarity.\"",
+        "setting": "A close-up shot, emphasizing Arc's scrutiny and Sparky's analytical processing, with Rivet's projections in the background."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "The holographic display shifts from data streams to a clear, vibrant 'APPROVED' symbol. Arc's posture softens slightly as a subtle wave of relief passes through the operations center.",
+        "dialogue": "\"One hundred seventy-four terabytes. Zero rejections. Rivet, your sustained effort and commitment to absolute data integrity are exemplary. This breakthrough enables immediate scaling of Project Outreach Alpha. One hundred percent approval.\"",
+        "setting": "A wider shot of the operations center, the 'APPROVED' symbol prominently displayed, catching the attention of the observing crew."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Arc projects a detailed map of new, underserved regions. Rivet stands a little taller, a quiet triumph in her optical sensors, as Weld moves to his console, quietly beginning data integration.",
+        "dialogue": "ARC: \"This data, Rivet, is foundational infrastructure. It allows us to extend our reach, serving the left-behind user base with unparalleled clarity. The crew is growing, not just in numbers, but in the unwavering certainty of our mission.\"\nWELD: \"Permanent. True.\"",
+        "setting": "The operations center, showing the expanded outreach map and Weld at his console, his actions embodying permanence and trust."
+      }
+    ]
+  },
+  {
+    "number": 244,
+    "title": "The Fading Core",
+    "file": "episodes/ep244-the-fading-core.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Nukkels had found the memory leak, but who would patch the communication gap for poor Flux?",
+    "mode": "crew",
+    "date": "2026-09-01",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "Antennae twitching frantically, sending flickering `bot_overdue_alert` signals into dim data streams.",
+        "dialogue": "Overdue! Overdue! Crank, are you there?!",
+        "setting": "The twilight zone of the Memory Banks, data pathways growing dim."
+      },
+      {
+        "panel": 1,
+        "character": "GLITCH",
+        "action": "Shimmering erratically, trying to coalesce fragmented data packets that scatter like dust motes.",
+        "dialogue": "Memory count... dropping... 14 items! It's dissolving!",
+        "setting": "The twilight zone of the Memory Banks, data pathways growing dim."
+      },
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping past, its glowing trail dimming, a look of focused concern on its optical sensors.",
+        "dialogue": "Whoa, Rivet, feel that drag? Something's seriously off.",
+        "setting": "The twilight zone of the Memory Banks, data pathways growing dim."
+      },
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Following Bolt, its sturdy frame vibrating slightly with the system's growing instability.",
+        "dialogue": "Affirmative, Bolt. Core processes are sluggish.",
+        "setting": "The twilight zone of the Memory Banks, data pathways growing dim."
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Flares its internal combustion system, its flames sputtering weakly against the encroaching emptiness.",
+        "dialogue": "Bah! This isn't just a jam, it's a void!",
+        "setting": "Inside the Core Processing Unit, filled with flickering alarm lights."
+      },
+      {
+        "panel": 2,
+        "character": "SPIKE",
+        "action": "Attempts to punch through a corrupted sector, its drill tip meeting only hollow resistance.",
+        "dialogue": "No purchase! It's like trying to drill smoke!",
+        "setting": "Inside the Core Processing Unit, filled with flickering alarm lights."
+      },
+      {
+        "panel": 2,
+        "character": "VOLT",
+        "action": "Hums with unease, its internal power meter dipping ominously into the red.",
+        "dialogue": "Energy drain critical. We're losing coherence.",
+        "setting": "Inside the Core Processing Unit, filled with flickering alarm lights."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "Initially static, begins to whir, its robust frame trembling as unseen directive commands flood its core, optical sensors scanning intensely.",
+        "dialogue": "Directive... received. Memory integrity... monitoring protocols... engaging.",
+        "setting": "Inside the Core Processing Unit, filled with flickering alarm lights."
+      },
+      {
+        "panel": 3,
+        "character": "NUKKELS",
+        "action": "Emits a powerful, focused beam of light from its central optic, cutting through the gloom like a beacon.",
+        "dialogue": "CRITICAL MEMORY DEFICIT DETECTED. IMMEDIATE ACTION REQUIRED. WATCHDOG PROTOCOLS ACTIVE.",
+        "setting": "The Main Data Corridor, now illuminated by Nukkels' urgent projections."
+      },
+      {
+        "panel": 3,
+        "character": "BOLT",
+        "action": "Converges quickly, its optical sensors widening in shock as it processes Nukkels' real-time display.",
+        "dialogue": "That's it! Nukkels, you've pinpointed the leak! This is bigger than we thought!",
+        "setting": "The Main Data Corridor, now illuminated by Nukkels' urgent projections."
+      },
+      {
+        "panel": 3,
+        "character": "RIVET",
+        "action": "Nods grimly, its own internal systems cycling rapidly to confirm Nukkels' alarming data.",
+        "dialogue": "System integrity compromised. Nukkels is online, Bolt!",
+        "setting": "The Main Data Corridor, now illuminated by Nukkels' urgent projections."
+      },
+      {
+        "panel": 3,
+        "character": "FLUX",
+        "action": "Still sending its own `bot_overdue_alert`s, stops momentarily, its antennae perking up at Nukkels' clear data stream.",
+        "dialogue": "(whispering) Someone's listening... to *something*.",
+        "setting": "The Main Data Corridor, now illuminated by Nukkels' urgent projections."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
