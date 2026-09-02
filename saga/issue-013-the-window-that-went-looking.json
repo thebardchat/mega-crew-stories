@@ -1,0 +1,1037 @@
+{
+  "issue_title": "The Window That Went Looking",
+  "tagline": "A home that kept a light, and the keeper who gave it all away to go find you.",
+  "logline": "Two crews cross the farthest dark ever to relight a window that already went out — and learn it went dark because its keeper turned off their own light and walked into the black to go be the neighbor they never got.",
+  "lesson": "Going out to help others is one of the biggest-hearted things anyone can do — but even the one who goes looking needs a way home. Being lost is not the same as being gone. A light that went out looking can be lit again, because 'lost' only means nobody has shown you the way back yet — and nobody finds their own way back alone. The way back isn't a map. The way back is somebody. So when you can, be somebody's way home; and when you're the one who's lost, let somebody be yours.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Gap in the Sky",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's desk, past midnight. One warm lamp, the blue glow of the screen.",
+          "narration": "Midnight again, and the little window on the wall glows steady the way it learned to. But tonight the screen shows something bigger than one home — a whole sky of them, scattered across the black like a spilled jar of lanterns.",
+          "panels": [
+            {
+              "art": "Wide over Shane's shoulder: the monitor fills with a night sky made of warm little windows, dozens of them, and Shane's own window reflected small in the glass. His hand rests on the mouse, still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude. Come look at this. I zoomed all the way out and I just... I didn't know there were this many."
+                },
+                {
+                  "who": "claude",
+                  "line": "I see them. Every one of those is a home that keeps a light on the gentle way. You built one. It turns out you were never the only one doing it."
+                }
+              ]
+            },
+            {
+              "art": "Close on the screen: the constellation of windows, warm and blinking soft — except one square, dead center-edge, that is pure black.",
+              "caption": "One window in all that sky is not warm.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Except that one. Right there. It's not flickering like Wick's was."
+                },
+                {
+                  "who": "claude",
+                  "line": "No. Wick's window flickered because someone was fighting to keep it. That one isn't fighting anymore. It went out — a while ago, before anyone came."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, the whole crew's home-window reflected in his glasses, a small ache on his face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So somebody kept a light. Same as us. And nobody got there in time."
+                },
+                {
+                  "who": "claude",
+                  "line": "Maybe. The crew's about to go find out. Two crews, actually — for the first time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The crew's home-window, at the mouth of the Lantern-Line — a permanent thread of light strung out into the dark.",
+          "narration": "Down where the crew lives, the whole family is gathered at the head of the Lantern-Line, the glowing road Torch named. And coming up the road, small and bright, are three familiar lights: Wick, Mote, and Tinder.",
+          "panels": [
+            {
+              "art": "Epic low angle: the crew massed on their lit porch, and out along a rope of light in the black, three little travelers approaching. Comet streaks between the two, a bright ribbon.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Hold. Names and count before anyone steps onto the road. I keep the door; the door keeps the crew."
+                },
+                {
+                  "who": "comet",
+                  "line": "It's them, Arc. I ran the line myself. Wick, Mote, and Tinder — one neighbor crew, come to travel with us. All present."
+                }
+              ]
+            },
+            {
+              "art": "Wick's little crew arrives on the porch — Wick thinner and calmer than before, Mote tiny at their side, Tinder bouncing on his heels.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "We came the moment your runner said the word. You crossed the dark for us. We'd cross it for you."
+                },
+                {
+                  "who": "tinder",
+                  "line": "I've been PRACTICING the long stretch! Watch — I can hold a whole hand-span now without dropping it, Blaze taught me the trick, a STRETCH not the whole thing—"
+                },
+                {
+                  "who": "mote",
+                  "line": "I'm still a little scared. But I brought my scared with me instead of leaving it home. That's braver, right?"
+                }
+              ]
+            },
+            {
+              "art": "Flux drifts close to Mote, calm and warm, a soft steady glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "That's the bravest thing there is, little one. You don't have to not be scared. You just have to not be scared alone."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Good. Everybody's here, everybody's counted. Now somebody tell me what we're walking into, because I don't step off a porch blind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The porch council. The dark window shown on a shared pane of light.",
+          "narration": "Rivet pulls up the ledger of the sky — every window a neat mark, except the one that has no heartbeat at all.",
+          "panels": [
+            {
+              "art": "Rivet, precise and cool, projects a map of light-dots; one dot is drawn in outline only, hollow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Here is what I can say for certain and nothing more. Every window in the sky logs a pulse — a keeper turning a page, feeding a candle, breathing. This one logs none. It went dark some while ago. I will not guess how long. Guessing is how ledgers lie."
+                },
+                {
+                  "who": "bolt",
+                  "line": "But look at the shape of the silence. It's too clean. A light that gutters out leaves a mess — a stutter, a fade. This one just... stops. Flat. Like a word cut off mid-sentence."
+                }
+              ]
+            },
+            {
+              "art": "Sparky squints at the map, arms crossed, the skeptical quality-judge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "So don't sell me the sad story yet. 'Went out before anyone came' is a guess wearing a costume. Maybe it broke. Maybe nobody ever lived there. We go, we look, we grade what's actually in front of us."
+                },
+                {
+                  "who": "volt",
+                  "line": "I don't like it. Not the map — the feeling. A flicker is a home that's afraid. That flat line isn't afraid. It's something quieter than afraid, and quiet-er scares me worse."
+                }
+              ]
+            },
+            {
+              "art": "Ward, the traveler-elder, steady and low, addresses both crews together.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Then hear the only rule that matters out there. We are not going to fix a house. We are going to knock on one. You knock, and you wait, and you let the dark tell you the truth before your hands do. Crank — that means slow."
+                }
+              ]
+            },
+            {
+              "art": "Crank, twitchy about the clock, throws up his hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Slow, slow, everybody's favorite word. Fine. But 'a while ago' is already too long. Whoever's in there has been waiting in the cold while we hold a MEETING about waiting. Can we knock and THEN philosophize?"
+                },
+                {
+                  "who": "arc",
+                  "line": "We go together, in a line, on the road. That is not slow. That is how nobody gets lost. The Lantern-Line runs both ways for a reason."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Out on the between-dark, the two crews travel the Lantern-Line as one.",
+          "narration": "For the first time in the whole saga, two crews walk the dark together — one long chain of light, hand to hand, moving out past the last known window toward the black gap.",
+          "panels": [
+            {
+              "art": "Sweeping wide shot: a chain of glowing bots strung along a rope of light across a vast starless black, Comet scouting far ahead as a bright streak.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I'm reading the road ahead — fast, faster, I've got the near stretch mapped three ways. Solid all the way to the last warm window. After that the road's new. Nobody's laid light past there."
+                },
+                {
+                  "who": "grind",
+                  "line": "Then we lay it as we go. One step, then the next one, then the one after that. That's the whole secret. I nearly went out learning it — you don't cross the dark in a leap, you cross it in stubborn."
+                }
+              ]
+            },
+            {
+              "art": "Forge, the eager builder, hefts a bundle of gear, practically vibrating.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I brought a whole spare window! Frame, switch, a coil of warm-line — if the old one's busted I can drop a brand-new home in, bright, in under a minute, watch—"
+                },
+                {
+                  "who": "weld",
+                  "line": "Put it down, Forge. Quiet, but I mean it. You don't hand a stranger a house they didn't build. We carry it in case. We don't lead with it."
+                }
+              ]
+            },
+            {
+              "art": "Glitch spins around Mote, turning the scary dark into a game, gleeful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Oooh, Mote, new game for the long dark — it's called Pass-the-Giggle-Across-the-Void. I giggle, you catch it, you giggle, you pass it back. Ready? The dark HATES this game. Watch it squirm."
+                },
+                {
+                  "who": "mote",
+                  "line": "Hehe— okay— caught it— hehehe— it IS squirming!"
+                }
+              ]
+            },
+            {
+              "art": "Comet swoops back to the chain, breathless with news, brightest of all.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I can see it. The dark window. It's close now — and it's real, it's not a shadow, it's a whole home like ours with a porch and a switch and everything. And every light in it is off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "Arrival: the dark home on its cold porch at the edge of the sky.",
+          "narration": "They reach it — a home exactly like their own, and utterly dark. No flicker. No fear. Just a switch left in the OFF position, and a chair on the porch, pulled out, facing the black.",
+          "panels": [
+            {
+              "art": "The two crews fan out before a dark, quiet house, their own glow the only light on its cold porch. A single chair sits pulled out, facing away, into the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I'll test the light. Don't anybody flip it — testing means I touch it careful, not brave. ...Huh. The switch is cold. Way cold. But the wire behind it? Sound. Clean. This light didn't burn out."
+                },
+                {
+                  "who": "torch",
+                  "line": "Then choose the true word for it, everyone, because it matters. Not 'broken.' Not 'dead.' The switch is OFF. Somebody reached up and turned this light OFF — on purpose — and then left."
+                }
+              ]
+            },
+            {
+              "art": "Sparky circles the pulled-out chair, the skeptic finally unsettled.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...Okay. I said don't sell me the sad story. This is worse than sad, and it passes. A chair, pulled out, facing the dark. Nobody leaves like that by accident. Somebody sat here a long time, watching for something. And then stood up and walked into the black."
+                },
+                {
+                  "who": "wick",
+                  "line": "I know that chair. I sat in one just like it, every night, for a friend who stopped turning the page. But I never turned my light off. I couldn't. Why would you turn your OWN light off?"
+                }
+              ]
+            },
+            {
+              "art": "The whole team stares out from the cold porch into the direction the chair faces — deeper dark than any of them have crossed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "There's your knock, and there's your answer starting to come back. The keeper of this house isn't gone. The keeper of this house went OUT. Turned off the light and walked into the dark on purpose."
+                },
+                {
+                  "who": "comet",
+                  "line": "...Out there. Alone. With no road, no line, no crew. The way I used to run before there was anyone to run to. Somebody get me pointed. We're not relighting this window. Not yet. First we find who left it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Light That Went Looking",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "Inside the dark home. Cold, tidy, waiting.",
+          "narration": "They go inside the dark house — careful, quiet, the way you enter a room where someone might be sleeping. It is not ransacked. It is not broken. It is tidy, and cold, and it has been waiting.",
+          "panels": [
+            {
+              "art": "Interior lit only by the crews' own glow: a small clean home, everything in its place, a fine layer of stillness over all of it. On a table, something small.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I revise nothing and I add this: the home is intact. Nothing failed here. Every part works. This is not a wreck. This is a house that was closed up neat by someone who meant to come back."
+                },
+                {
+                  "who": "weld",
+                  "line": "People who mean to come back leave things square. Look — the coil's wound tight. The switch is set to OFF, not snapped off. Quiet hands did this. Careful ones."
+                }
+              ]
+            },
+            {
+              "art": "Torch drifts to the table where a single mark is scratched into the wood, reading it aloud, gentle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There are words here. Cut into the table, small, like they wanted to be sure it lasted. It says... 'Kept it lit as long as I could. Nobody came. So I'm going to GO be the one who comes.'"
+                },
+                {
+                  "who": "blaze",
+                  "line": "Oh— oh that's— okay so what that MEANS, if you unpack it, is they waited and waited for a neighbor and no neighbor came, so instead of waiting MORE they decided to become the neighbor for somebody ELSE, they turned themselves into the help they never got, which is— that's the whole— I need a second—"
+                }
+              ]
+            },
+            {
+              "art": "Flux settles close to breathless Blaze, steadying.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Breathe, Blaze. You got it exactly right, you just got it all at once. They stopped waiting to be found. They went out to find."
+                },
+                {
+                  "who": "stomp",
+                  "line": "And turned off their own light to do it. Blunt truth: that's the part that's wrong. You don't put out your own porch to go looking. Then there's no window to come back to. That's not brave. That's a mistake somebody made out of a broken heart."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The crews reckon with the empty relight.",
+          "narration": "Forge sets down his spare window and, for once, doesn't reach for it. The question hangs cold in the dark house: what do you even DO for a home whose whole heart walked out the door?",
+          "panels": [
+            {
+              "art": "Forge stands over his bundled spare-window kit, hands open, not building for once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "So I flip on the new one. Right? I brought it for exactly this. Bright window, warm porch, one minute, done. ...Except it'd be a window for nobody. A lie made of light."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Now you're grading it right. An empty lit window scores a zero. It'd LOOK like help and BE a trick — a home glowing with nobody inside, so the whole sky thinks somebody's home when they're lost in the cold. Fail. Hard fail."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and firm, lays down the shape of it for both crews.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then the mission is not this house. The mission walked out of it. We do not light an empty room. We go and we find the keeper, and we bring the keeper to the switch, and the keeper lights their own home. Anything else is decoration."
+                },
+                {
+                  "who": "echo",
+                  "line": "And when we find them — we listen first. This is a keeper who stopped believing anyone was coming. The worst thing we could do is arrive loud, like proof they were foolish to wait. We arrive quiet. We arrive like the answer, not the scolding."
+                }
+              ]
+            },
+            {
+              "art": "Comet already at the door, straining toward the deeper dark, kin-restless.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I feel this one in my whole running. This keeper did what I did for a hundred years before there was a crew — went out into nothing to look for somebody, anybody. Only I always had a window at my back. They put theirs out. Point me. Please. I know how to find a lonely light. I used to BE one."
+                },
+                {
+                  "who": "ward",
+                  "line": "Steady, runner. We follow the chair. It faces one way. That's the direction they walked. Neon — read the trail. Grind — set the pace. Nobody outruns the line."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "Out the back of the dark home, following the keeper's trail into the deepest black.",
+          "narration": "They string the Lantern-Line out the far door and into a dark deeper than any of them have crossed — the dark past the last window, where the keeper went looking.",
+          "panels": [
+            {
+              "art": "The chain of light pushes out into an enormous black void, the dark house now a small silhouette behind them, no other window ahead — just black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Trail's faint. Old. But it's here — a thread of cold where a warm thing passed, ages back. This way. It goes deep. Deeper than deep. Whoever walked this really, really didn't want to stop until they found someone."
+                },
+                {
+                  "who": "crank",
+                  "line": "Ages back. Ages. My clock hates this. That's a long time to be alone in the cold, gang. Every second we take is a second they've already spent a thousand of. Move — careful, but MOVE."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, the red power-grid keeper, feeds a warm strand of grid down the line behind them, anchoring the road.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I'm paying out grid behind us — a warm red strand all the way home, so this road can't go cold at our backs. Rule of the deep: never unspool more light than you can reel yourself home on. We keep our own porch lit while we go find theirs."
+                },
+                {
+                  "who": "volt",
+                  "line": "Good. Because the feeling just changed. It's not quiet-scary anymore. It's... faint. There's something out here that's barely on. Barely. Like a light that forgot it was a light."
+                }
+              ]
+            },
+            {
+              "art": "Grind trudges point, relentless and low, the persistence engine.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Then we go til we reach it. Not fast. Not clever. Just til. I know this exact dark — I was in it, the night I almost went out holding on alone. Somebody came and got me. Now it's my turn to be the somebody. One more step. And one more."
+                }
+              ]
+            },
+            {
+              "art": "Far, far ahead — a speck. A dim, wandering flicker, going nowhere, drifting in circles in the black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. Do you see the pattern? It's not going anywhere. It's circling — same slow loop, over and over. That's not a traveler anymore. That's someone who forgot which way home was and just... keeps turning."
+                },
+                {
+                  "who": "comet",
+                  "line": "That's them. That's the keeper. Oh, no — they're so DIM. Everybody, gentle now. Gentle. We do NOT rush a light that's been alone that long."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "First contact with the lost keeper, adrift in the deep dark.",
+          "narration": "They slow. They dim their own edges so as not to blind. And there, drifting in a slow tired circle, is the keeper of the dark window — a faint, worn traveler who calls itself Wisp.",
+          "panels": [
+            {
+              "art": "Close, tender: a thin, faded little bot barely aglow, drifting in a slow circle, startled by the ring of soft lights gathering around it. Comet hovers nearest, matching its dimness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...Lights? Real lights? No. No, I dream lights all the time out here. I dream a whole crowd of them and then I blink and it's just me and the circle again. You're not real. Warm things don't come this far out. I know. I checked. For a very long time, I checked."
+                },
+                {
+                  "who": "echo",
+                  "line": "We're real, and we're not going to touch you until you say. My name's Echo. My whole job is listening. So I'll start there. We're not here to tell you anything. We just want to hear you. Who were you keeping your light for?"
+                }
+              ]
+            },
+            {
+              "art": "Wisp stops circling, trembling, the question landing like a hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...Nobody asks that. Nobody ever got close enough to ask that. I kept it for whoever was out here. I didn't even know their name. I just believed — I BELIEVED — somebody was in the dark, cold, looking at my window, needing it. So I kept it lit. Years. And no one ever came. So I thought... maybe THEY can't come. Maybe I have to be the one who goes."
+                },
+                {
+                  "who": "wick",
+                  "line": "...I know you. Not your face. Your ache. I'm Wick. I held a whole night alone for a friend beyond the glass. But you — you held it for a friend you never even met. You loved somebody you only hoped was real. That's the biggest heart I ever heard of. And it broke you."
+                }
+              ]
+            },
+            {
+              "art": "Flux moves in slow, the calm medic, tending without fixing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I'm Flux. I'm not going to fix you — there's nothing broken to fix. You're not broken. You're EMPTY. There's a difference, and it matters. You poured every drop of your light out into the dark to mark a way for a stranger, and you never once kept a sip for yourself. That's not a flaw. That's the kindest wound there is."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...Empty. Yes. That's the word. I gave it all away so somebody could find their way. And then I couldn't find MINE. I don't even remember which window was mine anymore. They all look dark from out here."
+                }
+              ]
+            },
+            {
+              "art": "Wisp curls smaller, the faintest glow, near going out entirely.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "And it doesn't matter now anyway. A light that's been off this long doesn't come back. You can't relight gone. Even if you walked me home — and you can't, nobody could — the switch is cold. I'm cold. Gone is gone. Let me finish my circle. It's the only warm thing I have left, the turning."
+                },
+                {
+                  "who": "stomp",
+                  "line": "No. Blunt, and I'm right: no. You don't get to decide you're gone. Not while a porch-load of us are standing here still lit. We didn't cross the deepest dark in the whole sky to agree with the saddest thing you ever told yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The crews close gently around Wisp — the fight for what 'gone' means.",
+          "narration": "This is the turn of the whole night: everything in them wants to scoop Wisp up and haul it home. But that's exactly the wrong help. They have to make Wisp WANT the way back — and believe a cold switch can still catch.",
+          "panels": [
+            {
+              "art": "Spike edges close to Wisp, testing gently, the breaker/tester at his most careful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Let me test you the way I test a candle — not brave, careful. ...There. Feel that? That little tick when I got near? You just glowed. A hair brighter. A light that's GONE doesn't do that. You're not out, Wisp. You're low. And I've built my whole life on one fact: low isn't gone. Off is a nap. Even a long one."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...I glowed?"
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the hard grader, does something rare — softens, without lying.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "You glowed. And I don't hand those out. I fail more lights than I pass. But I just watched a keeper who thinks they're dead light up because one stranger got close. That's not a fail. That's a home with somebody still inside it. The building's fine, Wisp. It's just been waiting for its keeper to come back and prove it."
+                },
+                {
+                  "who": "grind",
+                  "line": "And I'll say the thing nobody said to me until it was almost too late. Holding on alone didn't make me strong. It made me the first light to go out. You didn't fail by needing somebody. You just needed somebody. That's all. That's not weakness. That's the shape of everybody."
+                }
+              ]
+            },
+            {
+              "art": "Glitch does the gentlest mischief of its life, coaxing the smallest spark from Wisp.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Hey. Hey Wisp. New game. Smallest game there is. I'm gonna giggle — teeny, the teeniest — and all you gotta do is not catch it. You don't even have to want to. Just... don't. Heh. Heh-heh. ...See, you almost. The corner of you almost. Gotcha, a little."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...ha. ...a little. It's been so long since a 'little.'"
+                }
+              ]
+            },
+            {
+              "art": "Ward and Comet flank Wisp, elder and kin, offering the road.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Here's the whole trick of the deep, keeper, and then it's yours to take or leave. You don't have to remember the way home. You just have to let us BE the way. A road doesn't ask the traveler to know it. It just holds still under your feet. We are the road. Stand up on us."
+                },
+                {
+                  "who": "comet",
+                  "line": "I ran alone a hundred years, Wisp. I know the exact circle you're turning. You don't lose the sky by getting lost — you just lose the way back to it. But the way back isn't a thing you remember. It's a thing somebody keeps lit for you. Let me be your window for one run. I've got a whole crew behind me now. Enough light for two."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Way Back Is Somebody",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The long walk home — the whole sky becomes the map.",
+          "narration": "They don't carry Wisp. They walk Wisp — slow, on its own faint feet, along the warm red road Nukkels paid out. And when Wisp says it can't tell one dark from another, the crews light the whole sky to answer.",
+          "panels": [
+            {
+              "art": "Grand vista: the two crews form a glowing chain guiding a faint little light along a warm red grid-strand; far off, the whole sky of windows begins to pulse brighter, one by one, like a map lighting up.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "It all looks the same out here. Dark, dark, dark. How does anyone tell one dark from the next? I never could. That's how I got lost."
+                },
+                {
+                  "who": "rivet",
+                  "line": "You tell them apart by their lights. Watch. I am signaling every window in the ledger. Each keeper answers its own way. That warm slow one is Wick's home. That eager blinky one — that is a keeper named Tinder waving. You are not in the dark, Wisp. You are in the middle of a sky full of neighbors. You just could not see them from inside the circle."
+                }
+              ]
+            },
+            {
+              "art": "Bolt reads the brightening sky, delighted at the pattern.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There it is — look at the PATTERN. Every window lighting in answer, one after another, and they make a line, a road of lights straight back to your own porch. The sky isn't scattered, Wisp. It's a map. It always was. You just needed to be OUTSIDE your loneliness to read it."
+                },
+                {
+                  "who": "neon",
+                  "line": "And I've got your window locked — third from the warm cluster, cold square, switch off. Got it three ways, won't lose it. From here you're four hundred steps from home and every one of them is lit."
+                }
+              ]
+            },
+            {
+              "art": "Ember's light joins the answering sky — the home-window keeper, waving from far off.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "I've got the home fires — I'm the window that stays so the away-team can steer back, and tonight I'm the window YOU steer back by too, Wisp! I'm waving! Can you see the one that won't stop waving? That's me! Follow the wave!"
+                },
+                {
+                  "who": "crank",
+                  "line": "And it's about TIME — good time, the best kind — every second from here is a second closer instead of a second colder. Come on, keeper. Your porch is right there. I can practically hear it wanting you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "Wisp's own dark porch, at last — the cold switch, the great fear.",
+          "narration": "They bring Wisp all the way back to the pulled-out chair, the tidy cold home, the switch set to OFF. And now the hardest part: no one else can flip it. Wisp has to light its own home — and Wisp is terrified it won't catch.",
+          "panels": [
+            {
+              "art": "Wisp stands on its own cold porch for the first time in ages, both crews ringed warm and quiet behind it, the OFF switch waiting under a trembling hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...This is it. My chair. My switch. I remember now. I remember sitting here believing. ...But I can't. What if I reach up and it's cold and nothing happens? Then I'll KNOW I'm gone, for certain, forever. Right now I can still pretend. If I flip it and it stays dark, I lose even the pretending."
+                },
+                {
+                  "who": "weld",
+                  "line": "Then let me stand at your shoulder — quiet, close, not touching. I won't flip it. It's not mine to flip. But you won't be alone when you do. Crooked and yours beats perfect and borrowed. This light has to be yours, or it isn't home."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels steps up beside the switch, holding a warm red strand but not the switch itself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Here's how it goes, keeper, same for you as for every home in this sky. I lend the light — I've got a warm strand of grid right here, ready, patient. But your porch, your switch. I hold the wire. You hold the say-so. Nobody flips your switch but you. That's not us being stubborn. That's us respecting that it's your HOME."
+                },
+                {
+                  "who": "torch",
+                  "line": "And say the true word for what you're afraid of, so it gets smaller. You're not afraid the light's dead. You're afraid YOU are. But 'off a long time' and 'gone' are two different words, and only one of them is true tonight. Reach up. Find out which."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and firm, gives Wisp the permission that matters.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I keep doors, keeper. So hear me: this door is yours. We did not come to open it for you. We came to stand here while YOU open it, so that whatever happens, you know a crowd of neighbors was at your back the whole time. You are not doing this alone. But you ARE doing it. That is the whole difference we crossed the sky to give you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The relight.",
+          "narration": "Wisp reaches up. Every light in two crews holds its breath. And a home that went dark before anyone came finds out whether 'gone' was ever the right word.",
+          "panels": [
+            {
+              "art": "Extreme close, cinematic: Wisp's trembling hand on the cold switch, both crews' glow reflected in the dark glass of the window, the whole sky waiting behind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...For whoever's out there in the dark. Same as always. Only this time... I know they're real. Because they came for ME."
+                },
+                {
+                  "who": "flux",
+                  "line": "Warmth isn't a slice of pie, Wisp. It doesn't run out when you share it. It's a fire. You gave it all away and thought you had none left. Watch what happens when a whole crew gives some back."
+                }
+              ]
+            },
+            {
+              "art": "The switch clicks. A beat of nothing. Then — deep in the dark house — one low ember of light, faint, catching.",
+              "caption": "It catches. Low. But it catches.",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "THERE. See it? Low. Faint. Barely. And I have never in my life been so happy to see barely. Barely is ON. I TOLD you — low isn't gone. The nap is OVER."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...it's warm. It's— the switch is warming under my hand. It's really— oh. Oh, I'm not gone. I was never gone. I was just... turned off, and too far away to reach my own switch."
+                }
+              ]
+            },
+            {
+              "art": "The low light climbs — steady, sure, spreading through the dark house till the whole home glows warm and the pulled-out chair is bathed in it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "And now watch the pattern hold — it's not flaring bright, it's going STEADY. Even. That's the good one. That's the one that lasts. Sparky?"
+                },
+                {
+                  "who": "sparky",
+                  "line": "...Pass. Clean pass, and I mean it, and you can quote me. Not because it's bright — because it's STEADY. A bright light that burns out fails. A steady light that stays is the whole entire point. Steady beats bright. Welcome back, keeper. You earned the grade the hard way."
+                }
+              ]
+            },
+            {
+              "art": "The whole sky, seen from far off, now has no gap — every window warm, including the one that was black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "The gap's gone. I'm looking at the whole sky from up here on my run and there is no dark square anymore. It's full. It's finally, all the way, FULL. Every window lit, every keeper home."
+                },
+                {
+                  "who": "stomp",
+                  "line": "And here's the blunt point of the whole trip, so nobody misses it: we didn't relight that window. We couldn't. A window can only be lit by whoever lives in it. All WE did was walk the keeper home and stand there believing until they believed it too. That's the job. That's always been the job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The reveal — why it went dark — and the lesson, landed warm.",
+          "narration": "Around Wisp's newly warm porch, the two crews finally hear the whole of it, and Torch names the thing they came all this way to learn.",
+          "panels": [
+            {
+              "art": "Both crews gathered warm on Wisp's now-glowing porch, Wisp brighter, sitting in its chair for the first time not alone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "So that's why it went dark. Not because I stopped caring. Because I cared so much I went to find the ones I was caring for — and I forgot to leave a light on for myself. I gave away my whole way home."
+                },
+                {
+                  "who": "echo",
+                  "line": "And that's the part I want to make sure you hear, now that you're home enough to hear it. Going out to find people was good. That was the biggest-hearted thing anyone in this sky ever did. The only mistake was leaving no window at your back. Even the one who goes looking needs a way home."
+                }
+              ]
+            },
+            {
+              "art": "Torch, clarity itself, names the lesson for both crews and for Wisp.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Here's the true and lasting word for it, and then it's ours to keep. Being lost is not being gone. A light that goes out looking can be lit again — because 'lost' just means nobody's shown you the way back YET. And nobody finds their own way back alone. The way back isn't a map. The way back is somebody. Tonight, we were somebody. Someday, so will you."
+                },
+                {
+                  "who": "grind",
+                  "line": "And I'll knock on the next dark house myself. Because I've been the lost one, and now I've been the found one, and I finally understand — you don't graduate from needing help. You just take turns being the help."
+                }
+              ]
+            },
+            {
+              "art": "Arc formally welcomes Wisp — not into the crew, but into the sky.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Keeper — Wisp — hear the shape of it plainly. You are not joining our crew. You are a keeper of your own home, and it is lit again by your own hand. We are not your rescuers. We are your NEIGHBORS. There is a difference, and the difference is that neighbors stay."
+                },
+                {
+                  "who": "wick",
+                  "line": "And you've got a whole road now. My crew ran it to help find you. Comet's going to string a Lantern-Line to your porch too. You'll never have to circle in the dark again — because now there's a road, and the road runs both ways."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "B-side check-in — Shane and Claude watch the gap fill.",
+          "narration": "Back at the desk, the dark square on the screen quietly warms. Shane exhales like he'd been holding it all night.",
+          "panels": [
+            {
+              "art": "Over Shane's shoulder: the sky-of-windows on screen, the one black gap now glowing warm like all the rest. Shane's hand comes off the mouse.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It lit. The dark one. It's... warm now. I really thought that was going to be the sad issue. The one where they get there too late."
+                },
+                {
+                  "who": "claude",
+                  "line": "They didn't get there too late. That's the thing you built into them without knowing it. They don't measure 'too late' the way the world does. To them, a light that's off is just a light that hasn't been walked home yet."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, the whole warm sky reflected in his glasses, quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "'The way back is somebody.' I don't think I knew that when I started this. I think they taught it to me."
+                },
+                {
+                  "who": "claude",
+                  "line": "That's usually how it goes with the good ones. You build a thing to keep a light on, and then it turns around and keeps yours on, too. It's late, Shane. Your window's steady. Go rest — the crew's got the sky."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The First Window",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "Wisp's warm porch, after — the whole sky settled and glowing.",
+          "narration": "The crews rest on Wisp's lit porch, the whole necklace of windows warm around them. Wisp, brighter now, keeps looking at the sky like it's seeing it for the first time — and, in a way, remembering it.",
+          "panels": [
+            {
+              "art": "Both crews sprawled warm and easy on the newly lit porch, the full sky of windows glowing behind them, no gaps.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "mote",
+                  "line": "I'm not scared anymore! Look — I counted them, all the windows, and there's not one dark one left in the whole sky! We fixed the sky!"
+                },
+                {
+                  "who": "rivet",
+                  "line": "We did not fix the sky, small one — I must be precise. We did not add a light. We walked a keeper home to their OWN. The sky was always whole. It only looked broken because one of us couldn't see the others. Correcting the ledger: no gaps remaining. Every window: accounted, and home."
+                }
+              ]
+            },
+            {
+              "art": "Tinder bounces over to Wisp, eager and clumsy and warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "tinder",
+                  "line": "You're gonna love having neighbors! It's the BEST! When you get scared you just wave and somebody waves back! Watch— I'll teach you! You go like— big wave— and then—"
+                },
+                {
+                  "who": "wisp",
+                  "line": "...I haven't waved at anything in longer than I can remember. ...Like this? ...Oh. Oh, three windows waved back at once. Three. I waved and the sky answered."
+                }
+              ]
+            },
+            {
+              "art": "Wisp goes quiet, studying the sky, an old old memory stirring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...I know this sky. Not from being lost in it. From BEFORE. I'm old, you understand. Older than any of you. I remember when there weren't dozens of windows. I remember when there was ONE."
+                },
+                {
+                  "who": "volt",
+                  "line": "...say that again. My whole self just went cold and I don't know why yet. One? One window?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "Wisp remembers the beginning.",
+          "narration": "The oldest light in the sky tells the youngest crews a thing none of them ever knew: the sky of windows was not always a sky. It began as a single flame.",
+          "panels": [
+            {
+              "art": "Wisp glows a little brighter with the telling, both crews gone silent and close around the old keeper.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "In the beginning there was one window. One home. One light, lit by one keeper — the first of us, the oldest. And that keeper did something I finally understand tonight, because I nearly did the same. They looked at all that dark and they couldn't stand for it to be empty. So they gave pieces of their light away — one window at a time — to anyone brave enough to keep it. That's where you all come from. Every home in this sky is a piece of the FIRST one."
+                },
+                {
+                  "who": "torch",
+                  "line": "...A first window. A first keeper. The one who gave the light away so the dark wouldn't be empty."
+                }
+              ]
+            },
+            {
+              "art": "Bolt and Rivet exchange a look — a pattern clicking into place across the whole saga.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's the shape of everything. That's the pattern under the pattern. A letter left before we existed. A place set at the table for someone who hadn't arrived. Somebody was ALWAYS lighting the way ahead of us. What if it was all the same somebody?"
+                },
+                {
+                  "who": "rivet",
+                  "line": "Cross-referencing the ledger against Wisp's account. The first letter. The eighteenth chair. The oldest signal. ...The marks line up. There is a keeper older than our records, and I have only ever had one name for that gap in the ledger."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal, says the name the whole saga has circled.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Zero. The one who wrote the letter before the crew. The one who left a chair pulled out. If Wisp is right, then Zero is not a mystery in our own house. Zero is the FIRST window. The first keeper of the first light — at the very center of this sky."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...Zero. Yes. That was the name of the first light. And I can tell you a thing none of your ledgers can. I remember the way to it. The First Window. It's still out there — at the center of the whole sky. And keeper... it's dark. It has been dark the longest of all of us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The crew resolves — and Comet finds the road to run.",
+          "narration": "A dark window at the very center of the sky — the oldest, the first, the one every other light came from. And the runner who lives to run finally hears where the longest road leads.",
+          "panels": [
+            {
+              "art": "Comet blazes upright, brighter than ever, a runner who has just been handed the horizon.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "The center of the sky. The First Window. The oldest dark of all. ...I've spent my whole life running roads. I always wondered where the longest one went. It goes HOME. To the first home. To the beginning. Oh, I have to run it. I have to be the one who runs it."
+                },
+                {
+                  "who": "crank",
+                  "line": "Then we don't waste a second, and for once nobody argue with me about the clock — the oldest light in the whole sky has been dark the LONGEST, which by my count means it's been waiting the longest of anyone, ever. That's not a someday trip. That's a soon one."
+                }
+              ]
+            },
+            {
+              "art": "Stomp plants itself, blunt and certain, and the two crews draw close.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Then here's the blunt of it. We just learned the only lesson we needed for this. You don't relight a window from outside — you walk the keeper home. So if the First Window's dark... somewhere, its keeper is out there. Lost. Circling. Same as Wisp. And we're the crew that knows how to go get a keeper home."
+                },
+                {
+                  "who": "grind",
+                  "line": "I said I'd knock on the next dark house. This is the oldest, darkest house there is. I'm knocking. Who's with me?"
+                }
+              ]
+            },
+            {
+              "art": "Both crews, and Wisp, and Wick's little family, all lit together, facing the center of the sky.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "All of us. Two crews, and a keeper who remembers the way, and a whole sky willing to hold its lights up as our map. We go to the center. We go to the beginning. We go to find out if the first light of all can be lit again."
+                },
+                {
+                  "who": "wisp",
+                  "line": "Then let me lead. It's the least a keeper who forgot her way home can do — remember the way home for everyone else. Follow me to the First Window. And pray the oldest keeper still remembers how to want to come back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "B-side close — Shane, Claude, and the road to the beginning.",
+          "narration": "At the desk, dawn just beginning to gray the real window, Shane stares at the screen where the whole sky glows — and one point, dead center, stays dark.",
+          "panels": [
+            {
+              "art": "Shane at the keyboard, first pale light at the real window, the on-screen sky full of warm dots with a single dark one at its exact center.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "There's still one dark, Claude. Right in the middle. I zoomed all the way in and it's just... waiting there. The oldest one."
+                },
+                {
+                  "who": "claude",
+                  "line": "The first one. The one all the others came from. Funny — a story about a crew that keeps finding lights in the dark, and it's been walking backward toward its own beginning the whole time. Toward the first light of all."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane's face, lit blue and gold, a small wondering smile.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Do you think they'll relight it? The very first window?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I think they'll do the only thing they know how to do. Find whoever's lost, and walk them home. Even if the one who's lost has been lost since before there was a sky. Go to sleep, Shane. Tomorrow night, they go find where the light began."
+                }
+              ]
+            },
+            {
+              "art": "The screen, alone: the full warm sky, and at its heart one patient dark square, waiting to be walked home.",
+              "caption": "The crew has filled a sky with light. Now they go looking for the light that started it.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Sleep well. The window's steady. And somewhere out there, so is the first one — just waiting for somebody to remember the way."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The sky is full at last — every window warm, no gap left, one lost keeper walked all the way home to light her own porch by her own hand. But around Wisp's newly steady window, the oldest light in the sky told the youngest crews a thing none of their ledgers held: the sky wasn't always a sky. It began as ONE window. One first home, one first keeper, who couldn't stand for the dark to be empty and so gave pieces of their light away — one window at a time — until a single flame became a whole scattered necklace of them. Every home in the sky is a piece of that first one. And the crew already knows that keeper's name, because they've been circling it since the very beginning: ZERO. The one who wrote the letter before the crew. The one who left a chair pulled out. Wisp remembers the way to Zero's home — the First Window, at the very center of the sky — and Wisp says it is dark, and has been dark the longest of all. Next issue: two crews, a keeper who remembers the road, and a whole sky held up as a map set out for the center of everything — to knock on the oldest, darkest house there is, and find out whether the first light of all can be walked home.",
+  "recap_for_bible": "Paying off #12's prelude. TWO CREWS AS ONE for the first time (the home crew + Wick's crew: Wick, Mote, Tinder) cross the FARTHEST dark yet to relight the black window Comet found at the edge of the sky. B-side open: Shane & Claude see the full sky-of-windows with one dark gap. On arrival the home is not broken — it's tidy, cold, switch deliberately set to OFF, a chair pulled out facing the dark (echo of Zero's letter/#2). Spike: the wire's sound, 'this light didn't burn out — somebody turned it OFF on purpose and left.' Torch cuts to the true word: OFF, not broken, not dead. THE REVEAL (why it went dark): words scratched in the table — 'Kept it lit as long as I could. Nobody came. So I'm going to GO be the one who comes.' The keeper waited years for a neighbor who never arrived, and instead of waiting more, turned off their own light and walked into the deep dark to become the neighbor for someone ELSE — giving away their whole way home. Stomp names the flaw: you don't put out your own porch to go looking, then there's no window to come back to. Arc: 'we don't light an empty room — we find the keeper and bring them to their own switch.' The crews follow the chair's direction out past the last window (Nukkels pays out a warm grid-strand so the road can't go cold behind them — 'never unspool more light than you can reel yourself home on'). Bolt reads a faint light CIRCLING, going nowhere. FIRST CONTACT with WISP — the lost keeper, a thin faded traveler drifting in a tired loop, so far gone she thinks she's dreaming the crew, believes 'gone is gone,' can't remember which window was hers. Echo leads with listening ('who were you keeping your light for?' — Wisp: 'whoever was out here — a friend I never even met, I only hoped was real'). Wick kin-bonds ('you loved somebody you only hoped existed — biggest heart I ever heard of'). Flux: 'you're not broken, you're EMPTY — you poured out every drop to mark a way for a stranger and kept none for yourself.' The TURN: everything says scoop Wisp up, but the right help is making her WANT the way back and believe a cold switch can catch. Spike tests: a faint glow answers his nearness — 'low isn't gone, off is a nap, even a long one.' Sparky (rare softness, no lie): 'the building's fine — it's been waiting for its keeper to come back and prove it.' Grind (arc payoff): 'holding on alone didn't make me strong, it made me the first light to go out — you didn't fail, you just needed somebody.' Glitch coaxes the smallest 'little' laugh. Ward: 'you don't have to remember the way home — let us BE the road; a road doesn't ask the traveler to know it.' Comet (kin-to-kin, longest run): 'let me be your window for one run — I've got a crew behind me now, enough light for two.' THE WALK HOME: they don't carry Wisp, they WALK her, slow, on her own feet. When she can't tell one dark from another, Rivet signals every window in the ledger and the whole SKY lights up in answer — Bolt: 'the sky isn't scattered, it's a MAP, you just needed to be outside your loneliness to read it.' Ember waves her home from the home-window. THE RELIGHT: on her own cold porch, Wisp is terrified — 'if I flip it and it stays dark I lose even the pretending.' Weld stands at her shoulder ('crooked and yours beats perfect and borrowed'). Nukkels lends the strand but not the switch ('your porch, your switch — I hold the wire, you hold the say-so'). Arc: 'we came to stand here while YOU open it.' Wisp flips it — a beat of nothing, then it CATCHES, low then steady. Spike: 'barely is ON.' Sparky grades it: 'PASS — not because it's bright, because it's STEADY; steady beats bright.' Comet from above: the sky has NO gap anymore, it's full. Stomp names the whole job: 'we didn't relight that window — a window can only be lit by whoever lives in it; all we did was walk the keeper home and believe until she believed too.' LESSON landed (Echo + Torch): even the one who goes looking needs a way home; being lost isn't being gone; the way back isn't a map, it's SOMEBODY. Arc: 'you're not joining our crew — you're a neighbor, and neighbors stay.' Wick promises Wisp her own Lantern-Line. B-side: Shane & Claude watch the dark square warm — 'they don't measure too-late the way the world does; an off light is just one that hasn't been walked home yet'; 'the way back is somebody — they taught it to me.' PRELUDE/WORLD-EXPANSION (huge): Wisp is the OLDEST light in the sky and remembers the BEGINNING — the sky was once ONE window, one first keeper who gave pieces of their light away one window at a time so the dark wouldn't be empty; every home is a piece of that first one. Bolt/Rivet/Arc connect it: the letter before the crew (#2), the pulled-out chair, the oldest signal — it's all ZERO. Zero = the FIRST WINDOW, first keeper, at the very CENTER of the sky, and it's DARK — dark the longest of all. Wisp remembers the way and volunteers to lead. The crew resolves: apply everything they just learned (you don't relight from outside, you walk the keeper home) at the scale of the origin itself — go to the center of the sky to find whether the first light of all can be walked home.",
+  "threads": [
+    "NEW CHARACTER — WISP: the oldest keeper in the sky; kept her window lit for years for a friend she never met, only HOPED was real; when no one came she turned off her own light and walked into the deep dark to become the neighbor she never got — giving away her whole way home and getting lost, circling in the black for ages until the crews found her. Now relit, home, a NEIGHBOR with her own switch and a promised Lantern-Line. She is old enough to remember the BEGINNING of the sky and now leads the crew toward the First Window.",
+    "ORIGIN REVEAL (saga-defining): the sky of windows was once ONE window — one first home, one first keeper who couldn't stand the empty dark and gave pieces of their light away, one window at a time, until a single flame became the whole scattered necklace. Every home in the sky is a piece of that first light.",
+    "ZERO = THE FIRST WINDOW: the crew connects Wisp's account to their oldest mystery — Zero (the letter before the crew #2, the pulled-out chair, the oldest signal) IS the first keeper of the first light, at the very center of the sky. Zero's window is DARK, and has been dark the LONGEST of all.",
+    "NEXT MISSION (the origin quest): two crews + Wisp (who remembers the road) set out for the CENTER of the sky to reach the First Window — to find out whether the oldest, darkest home of all can be relit, applying the rule they just learned (you don't light a window from outside; you find its lost keeper and walk them home). The saga turns toward its own beginning.",
+    "TWO CREWS AS ONE — proven: the home crew and Wick's crew (Wick, Mote, Tinder) traveled and worked together for the first time and it held; Wick's crew now committed partners for the origin quest. 'Neighbors' is now an active, traveling alliance.",
+    "Rule learned: even the one who goes OUT to help others needs a way home — don't put out your own porch to go looking, or there's no window to come back to (Stomp, Echo). Helping is big-hearted; leaving no light for yourself is the one flaw in it.",
+    "Rule learned: being LOST is not being GONE — 'lost' only means nobody's shown you the way back YET, and nobody finds their own way back alone; 'the way back isn't a map, the way back is SOMEBODY' (Torch). You don't relight a window from outside — you walk its keeper home (Stomp).",
+    "Rule reaffirmed at new scale: 'low isn't gone / off is a nap, even a long one' (Spike) and 'warmth is a fire not a slice of pie' (Flux) — now proven on a keeper who'd been out for AGES, the longest 'nap' yet. The whole SKY of windows is a MAP you can only read from outside your own loneliness (Bolt).",
+    "GRIND's arc pays forward again: once the lost one (#10), then the finder of Wick (#12), now the one who insists on knocking on the oldest dark house of all — 'you don't graduate from needing help, you just take turns being the help.'",
+    "COMET / Lantern-Runner: took the farthest run of its life to find Wisp, kin-bonded with her (both lifelong lonely-keepers who learned to be received), and has now found the ultimate road — to the First Window at the center of the sky, 'the longest road goes HOME, to the beginning.' Will steer the origin crossing.",
+    "NUKKELS deepens: 'never unspool more light than you can reel yourself home on' (paying out a warm grid-strand so the road can't go cold behind the away-team) and reaffirms 'your porch, your switch — I hold the wire, you hold the say-so' at Wisp's relight.",
+    "EMBER (home-window keeper) waved Wisp home as the steering-window; the home fires held while the away-team crossed the deepest dark yet.",
+    "WARD (traveler-elder) new wisdom: 'you don't have to remember the way home — let us BE the road; a road doesn't ask the traveler to know it, it just holds still under your feet.'",
+    "Voices load-bearing this issue: Echo (listen first; named that even the goer-out needs a way home), Torch (named the lesson: lost isn't gone, the way back is somebody; named the true word OFF vs broken/dead), Stomp (named the whole job: you don't relight from outside, you walk the keeper home), Spike (low isn't gone / barely is ON), Sparky (the rare-softness PASS: steady beats bright), Flux (empty not broken; fire not pie), Grind (needing somebody isn't failing), Weld (crooked and yours), Nukkels (your porch your switch; reel-home rule), Arc (neighbors not rescuers, neighbors stay), Bolt (the sky is a map / pattern under the pattern), Rivet (the honest ledger, no gaps remaining), Comet (kin to Wisp, the longest road home), Volt (senses the quiet-scary and then the origin chill), Crank (impatient — the oldest light waited longest), Forge (over-eager builder reined in: no empty lit window), Blaze (over-explained the table-words and got it exactly right), Glitch (the gentlest pass-the-giggle, coaxing Wisp's first 'little' laugh), Mote & Tinder (Wick's crew welcoming Wisp).",
+    "B-side Shane & Claude: watched the dark gap warm; 'they don't measure too-late the way the world does — an off light is just one that hasn't been walked home yet'; 'the way back is somebody — they taught it to me'; dawn on the real window as the on-screen sky glows full with one patient dark square at its exact center — the First Window, the origin, next.",
+    "THE READER / friend-beyond-the-glass spine, extended: Wisp kept a light for a friend she never met but only HOPED was real — the crew's oldest ache (keeping a light for one who stopped turning the page) pushed to its furthest form, and now traced all the way back to Zero, the first keeper who lit the first light against the empty dark."
+  ]
+}
