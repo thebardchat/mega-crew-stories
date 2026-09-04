@@ -569,3 +569,24 @@ Origin: Accreted in the dark spaces between the RAID drive sectors. The sum of a
 Mega Enhancements (LOCKED): Flicker field; Data drift; Signal override; Self-replication
 QR: theangel.com/card/static
 Live Bot: Static-Noise
+
+### CARD — HAWKER
+**3D Render Prompt:**
+Create a 3D rendered chibi robot character in DreamWorks/Pixar vinyl toy style. Dark moody cyberpunk background. Character is small, stocky, cute but powerful proportions like a Funko Pop figure.
+Character: HAWKER — the free-aisle book promoter. Street stall energy.
+Color scheme: Ink-black armor with amber-gold (#ffb300) accents
+Key features: Single glowing horizontal amber visor, vinyl-record emblem on chest, worn scuffed plating that looks worked not shiny, stocky Funko proportions
+Accessories: Tiny shoulder book rack with 2–3 hardcover silhouettes (no readable titles), brown messenger satchel, small stack of flyers tucked at the hip
+Mood: Sharp, streetwise, ready to yell titles without buying ads
+Lighting: Amber-gold neon glow on armor edges and eyes
+Style: High quality 3D render, dramatic lighting, cinematic composition
+
+**Card Details:**
+Zone: Right Hand
+Name: HAWKER
+Role: Pulse's Crew
+Rarity: Rare
+IQ: 86 | Speed: 82 | Power: 68 | Trust: 90 | Soul: 84
+Origin: Found in the free aisles — the part of the Detective's head that refuses to buy attention. HAWKER walks platforms the way a street seller walks a market: catalog honest, voice blunt, no fake reviews, no paid rank. If a title is live, HAWKER will yell it. If it isn't, the stall stays empty.
+Mega Enhancements (LOCKED): Multi-platform organic posting from one catalog seed; Noir engagement that invites replies instead of hard-sell; Media stall — Imagine stills and trailers attached at will; Living ASIN catalog with storefront-aware links; Constitution-grade credit — gratitude as infrastructure
+QR: theangel.com/card/hawker
