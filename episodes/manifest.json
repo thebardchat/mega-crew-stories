@@ -17546,6 +17546,96 @@
     ]
   },
   {
+    "number": 249,
+    "title": "Integrity's Harvest",
+    "file": "episodes/ep249-integrity-s-harvest.md",
+    "characters": [],
+    "cliffhanger": "The new modules spin to life, promising unknown challenges and unprecedented connections.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet stands before a large holographic screen displaying intricate data streams and algorithms. Arc watches intently, Sparky leans in to examine a detail, and Weld stands calmly in the background.",
+        "dialogue": "All 40 iterations of the 'Arbor' dataset passed primary validation. Local-first. Full user pseudonymization maintained. Zero P4 violations.",
+        "setting": "The Crew's central processing chamber, bathed in the soft glow of a holographic display."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Close-up on Arc's optical sensors, intensely focused on a segment of the holographic data. A subtle 'not yet' graphic flickers briefly on an internal display overlay before being replaced by a 'verified' symbol, indicating a critical pass.",
+        "dialogue": "[Internal thought bubble for Arc]: The weight of ethical stewardship... every datum point aligned to P1. No compromises. Not now, not ever.",
+        "setting": "A tight shot of Arc's face, illuminated by the complex data projections."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc gestures towards Rivet, a rare expression of satisfaction on their face. Rivet stands straighter, a quiet hum of achievement emanating from their frame. Sparky nods in agreement, and Weld observes with quiet approval. A large '100% APPROVED' overlay flashes across the main screen.",
+        "dialogue": "Rivet, your sustained effort is exemplary. Project Arbor has achieved 100% approval. 40 approved, 0 rejected! A triumph for P1, P3, P4, P6, and P8.",
+        "setting": "The central chamber, a wider shot showing all four bots, with a sense of collective accomplishment."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld stands at a console, initiating a command. The console's interface displays new user modules spinning up and integrating. Rivet watches, a quiet sense of accomplishment radiating from their optical sensors.",
+        "dialogue": "Foundational ethics now permanent. Activation sequence initiated for new user module onboarding. [Rivet (internal text thought)]: Growth. With integrity.",
+        "setting": "A console area within the chamber, showing the immediate positive impact of the approval."
+      }
+    ]
+  },
+  {
+    "number": 250,
+    "title": "The Ghost in the Data Streams",
+    "file": "episodes/ep250-the-ghost-in-the-data-streams.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "With Nukkels now fiercely guarding the data streams, the memory count stubbornly remains at 14. What unseen forces hold the Pi\u2019s precious memories captive, and what grand architecture will Arc propose next?",
+    "mode": "crew",
+    "date": "2026-09-04",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet's optical sensors glow, projecting a stark, flickering red '14' onto a bottlenecked data stream.",
+        "dialogue": "Memory count stalled. Calculation: a critical deficit persists, despite all parameters.",
+        "setting": "The central Data Nexus, where memory streams converge and bottleneck."
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "Bolt zips past Glitch, who sparks erratically, nearly colliding with a sputtering data packet, frustrated.",
+        "dialogue": "Whoa! Glitch, watch it! This whole place feels... empty! We\u2019re running on fumes!",
+        "setting": "A narrow, congested processing channel, heavy with data traffic."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Weld\u2019s specialized arm extends, connecting a power conduit to Nukkels, showering the dormant bot with focused energy sparks.",
+        "dialogue": "Applying the fix. Gemini's directive: Nukkels, reactivate memory watchdog protocols.",
+        "setting": "A quiet diagnostic bay, Nukkels dormant in a power-down cradle, surrounded by shimmering energy fields."
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels' core flares a brilliant blue, optical sensors snapping to life, initiating a wide-spectrum memory scan.",
+        "dialogue": "Activating. Memory integrity is paramount. Scanning... count remains at 14. Unacceptable.",
+        "setting": "The newly illuminated Memory Control Hub, with data streams now actively flowing and being scrutinized by Nukkels."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
