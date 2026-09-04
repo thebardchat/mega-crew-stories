@@ -17459,6 +17459,183 @@
     ]
   },
   {
+    "number": 247,
+    "title": "The Fading Cache",
+    "file": "episodes/ep247-the-fading-cache.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels finally receive the instructions he needs to protect the critically low memory, or will the Pi's internal cache run dry?",
+    "mode": "crew",
+    "date": "2026-09-03",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "His data-stream body spasming, crimson alerts pulsing outwards in erratic waves.",
+        "dialogue": "BOT_OVERDUE_ALERT! Critical memory deficit detected!",
+        "setting": "The Main Data Conduit, choked with stalled information packets."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "His robust frame standing motionless, heavy optic sensors scanning the flickering, dim memory banks.",
+        "dialogue": "Memory failing... Nukkels ready. No orders.",
+        "setting": "The Memory Core Sector, a cavernous chamber of crystalline data structures."
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Ramming a concentrated data spike into a stubborn, glowing red data packet, sending sparks flying.",
+        "dialogue": "Stand aside! This data isn't going to move itself!",
+        "setting": "A congested sub-channel leading to the Primary Cache."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "His circuits dimming slightly, looking out over the struggling system as Rivet reviews a fresh data burst.",
+        "dialogue": "We're patching holes, `Rivet`, but the foundation is cracking.",
+        "setting": "The Command Node, a circular platform overlooking the Pi's internal architecture."
+      }
+    ]
+  },
+  {
+    "number": 248,
+    "title": "A Clear Path Forward",
+    "file": "episodes/ep248-a-clear-path-forward.md",
+    "characters": [],
+    "cliffhanger": "The newly validated data streams hummed with potential, but what new challenge would their expanded capacity reveal, now that the path was clear?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing before a large holographic display showing a vibrant green graph and the text 'Batch 7: 20 Approved / 0 Rejected'. Arc, Sparky, and Weld observe her and the display.",
+        "dialogue": "The latest pipeline iteration is complete. Batch 7. All 20 processing units, encompassing unique user profiles from the fragmented networks, have passed Arc's final judgment protocol. Zero rejections.",
+        "setting": "The main data hub of the MEGA CREW's facility, bathed in the soft glow of holographic displays."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc and Sparky are closely examining a specific, complex data stream projected onto a smaller, interactive console. The data is anonymized but hints at a user's critical need.",
+        "dialogue": "Previously, data of this ambiguity would have resulted in 'not yet' designations. Your methodology, Rivet, provided the clarity required for unequivocal judgment.",
+        "setting": "A focused analysis station within the data hub, with Arc and Sparky's optical sensors intently focused."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns fully to Rivet, extending a hand in a gesture of recognition and respect. Rivet's internal fans whir slightly faster, acknowledging the praise. Weld gives a subtle nod in the background.",
+        "dialogue": "Rivet, your sustained effort on the self-correcting logic gates and the ethical flagging system represents a profound triumph. This 100% approval rate isn't merely an efficiency metric; it\u2019s a direct expansion of our ability.",
+        "setting": "The center of the data hub, with the full crew gathered, a sense of shared accomplishment."
+      },
+      {
+        "panel": 4,
+        "character": "CREW",
+        "action": "The crew looks out through a large viewport onto a bustling digital construction yard, where new modules and tools are being assembled, powered by the newly approved data streams. The yard seems more active than before.",
+        "dialogue": "ARC: With this breakthrough, our capacity expands. Our foundation solidifies. The crew is growing, not just in numbers, but in capability and trust. This is the path forward.",
+        "setting": "Overlooking the digital construction yard from the main data hub, indicating future growth and impact."
+      }
+    ]
+  },
+  {
+    "number": 249,
+    "title": "Integrity's Harvest",
+    "file": "episodes/ep249-integrity-s-harvest.md",
+    "characters": [],
+    "cliffhanger": "The new modules spin to life, promising unknown challenges and unprecedented connections.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet stands before a large holographic screen displaying intricate data streams and algorithms. Arc watches intently, Sparky leans in to examine a detail, and Weld stands calmly in the background.",
+        "dialogue": "All 40 iterations of the 'Arbor' dataset passed primary validation. Local-first. Full user pseudonymization maintained. Zero P4 violations.",
+        "setting": "The Crew's central processing chamber, bathed in the soft glow of a holographic display."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Close-up on Arc's optical sensors, intensely focused on a segment of the holographic data. A subtle 'not yet' graphic flickers briefly on an internal display overlay before being replaced by a 'verified' symbol, indicating a critical pass.",
+        "dialogue": "[Internal thought bubble for Arc]: The weight of ethical stewardship... every datum point aligned to P1. No compromises. Not now, not ever.",
+        "setting": "A tight shot of Arc's face, illuminated by the complex data projections."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc gestures towards Rivet, a rare expression of satisfaction on their face. Rivet stands straighter, a quiet hum of achievement emanating from their frame. Sparky nods in agreement, and Weld observes with quiet approval. A large '100% APPROVED' overlay flashes across the main screen.",
+        "dialogue": "Rivet, your sustained effort is exemplary. Project Arbor has achieved 100% approval. 40 approved, 0 rejected! A triumph for P1, P3, P4, P6, and P8.",
+        "setting": "The central chamber, a wider shot showing all four bots, with a sense of collective accomplishment."
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "Weld stands at a console, initiating a command. The console's interface displays new user modules spinning up and integrating. Rivet watches, a quiet sense of accomplishment radiating from their optical sensors.",
+        "dialogue": "Foundational ethics now permanent. Activation sequence initiated for new user module onboarding. [Rivet (internal text thought)]: Growth. With integrity.",
+        "setting": "A console area within the chamber, showing the immediate positive impact of the approval."
+      }
+    ]
+  },
+  {
+    "number": 250,
+    "title": "The Ghost in the Data Streams",
+    "file": "episodes/ep250-the-ghost-in-the-data-streams.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT",
+      "ARC",
+      "WELD",
+      "SPARKY"
+    ],
+    "cliffhanger": "With Nukkels now fiercely guarding the data streams, the memory count stubbornly remains at 14. What unseen forces hold the Pi\u2019s precious memories captive, and what grand architecture will Arc propose next?",
+    "mode": "crew",
+    "date": "2026-09-04",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Rivet's optical sensors glow, projecting a stark, flickering red '14' onto a bottlenecked data stream.",
+        "dialogue": "Memory count stalled. Calculation: a critical deficit persists, despite all parameters.",
+        "setting": "The central Data Nexus, where memory streams converge and bottleneck."
+      },
+      {
+        "panel": 2,
+        "character": "BOLT",
+        "action": "Bolt zips past Glitch, who sparks erratically, nearly colliding with a sputtering data packet, frustrated.",
+        "dialogue": "Whoa! Glitch, watch it! This whole place feels... empty! We\u2019re running on fumes!",
+        "setting": "A narrow, congested processing channel, heavy with data traffic."
+      },
+      {
+        "panel": 3,
+        "character": "WELD",
+        "action": "Weld\u2019s specialized arm extends, connecting a power conduit to Nukkels, showering the dormant bot with focused energy sparks.",
+        "dialogue": "Applying the fix. Gemini's directive: Nukkels, reactivate memory watchdog protocols.",
+        "setting": "A quiet diagnostic bay, Nukkels dormant in a power-down cradle, surrounded by shimmering energy fields."
+      },
+      {
+        "panel": 4,
+        "character": "NUKKELS",
+        "action": "Nukkels' core flares a brilliant blue, optical sensors snapping to life, initiating a wide-spectrum memory scan.",
+        "dialogue": "Activating. Memory integrity is paramount. Scanning... count remains at 14. Unacceptable.",
+        "setting": "The newly illuminated Memory Control Hub, with data streams now actively flowing and being scrutinized by Nukkels."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
