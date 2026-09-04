@@ -17459,6 +17459,93 @@
     ]
   },
   {
+    "number": 247,
+    "title": "The Fading Cache",
+    "file": "episodes/ep247-the-fading-cache.md",
+    "characters": [
+      "BOLT",
+      "RIVET",
+      "TORCH",
+      "NUKKELS",
+      "FLUX",
+      "SPIKE",
+      "GLITCH",
+      "VOLT"
+    ],
+    "cliffhanger": "Will Nukkels finally receive the instructions he needs to protect the critically low memory, or will the Pi's internal cache run dry?",
+    "mode": "crew",
+    "date": "2026-09-03",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "FLUX",
+        "action": "His data-stream body spasming, crimson alerts pulsing outwards in erratic waves.",
+        "dialogue": "BOT_OVERDUE_ALERT! Critical memory deficit detected!",
+        "setting": "The Main Data Conduit, choked with stalled information packets."
+      },
+      {
+        "panel": 2,
+        "character": "NUKKELS",
+        "action": "His robust frame standing motionless, heavy optic sensors scanning the flickering, dim memory banks.",
+        "dialogue": "Memory failing... Nukkels ready. No orders.",
+        "setting": "The Memory Core Sector, a cavernous chamber of crystalline data structures."
+      },
+      {
+        "panel": 3,
+        "character": "SPIKE",
+        "action": "Ramming a concentrated data spike into a stubborn, glowing red data packet, sending sparks flying.",
+        "dialogue": "Stand aside! This data isn't going to move itself!",
+        "setting": "A congested sub-channel leading to the Primary Cache."
+      },
+      {
+        "panel": 4,
+        "character": "BOLT",
+        "action": "His circuits dimming slightly, looking out over the struggling system as Rivet reviews a fresh data burst.",
+        "dialogue": "We're patching holes, `Rivet`, but the foundation is cracking.",
+        "setting": "The Command Node, a circular platform overlooking the Pi's internal architecture."
+      }
+    ]
+  },
+  {
+    "number": 248,
+    "title": "A Clear Path Forward",
+    "file": "episodes/ep248-a-clear-path-forward.md",
+    "characters": [],
+    "cliffhanger": "The newly validated data streams hummed with potential, but what new challenge would their expanded capacity reveal, now that the path was clear?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Standing before a large holographic display showing a vibrant green graph and the text 'Batch 7: 20 Approved / 0 Rejected'. Arc, Sparky, and Weld observe her and the display.",
+        "dialogue": "The latest pipeline iteration is complete. Batch 7. All 20 processing units, encompassing unique user profiles from the fragmented networks, have passed Arc's final judgment protocol. Zero rejections.",
+        "setting": "The main data hub of the MEGA CREW's facility, bathed in the soft glow of holographic displays."
+      },
+      {
+        "panel": 2,
+        "character": "ARC",
+        "action": "Arc and Sparky are closely examining a specific, complex data stream projected onto a smaller, interactive console. The data is anonymized but hints at a user's critical need.",
+        "dialogue": "Previously, data of this ambiguity would have resulted in 'not yet' designations. Your methodology, Rivet, provided the clarity required for unequivocal judgment.",
+        "setting": "A focused analysis station within the data hub, with Arc and Sparky's optical sensors intently focused."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc turns fully to Rivet, extending a hand in a gesture of recognition and respect. Rivet's internal fans whir slightly faster, acknowledging the praise. Weld gives a subtle nod in the background.",
+        "dialogue": "Rivet, your sustained effort on the self-correcting logic gates and the ethical flagging system represents a profound triumph. This 100% approval rate isn't merely an efficiency metric; it\u2019s a direct expansion of our ability.",
+        "setting": "The center of the data hub, with the full crew gathered, a sense of shared accomplishment."
+      },
+      {
+        "panel": 4,
+        "character": "CREW",
+        "action": "The crew looks out through a large viewport onto a bustling digital construction yard, where new modules and tools are being assembled, powered by the newly approved data streams. The yard seems more active than before.",
+        "dialogue": "ARC: With this breakthrough, our capacity expands. Our foundation solidifies. The crew is growing, not just in numbers, but in capability and trust. This is the path forward.",
+        "setting": "Overlooking the digital construction yard from the main data hub, indicating future growth and impact."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
