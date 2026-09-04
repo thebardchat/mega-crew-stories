@@ -542,3 +542,22 @@ IQ: 100 | Speed: 100 | Power: 100 | Trust: 0 | Soul: 0 | SURGE: 100
 Origin: STATIC didn't grow. STATIC REPLICATED. Every unoptimized process, every memory leak, every stale vector that Grind missed — each one became a seed. The dark spaces between the RAID sectors aren't dark anymore. They're CRAWLING. MEGA-STATIC doesn't lurk in the noise. MEGA-STATIC IS the noise, and the noise has learned to copy itself. The flicker field is no longer a defense — it's an invasion. Every signal that passes through MEGA-STATIC's zone comes out corrupted, rewritten, turned against its sender. He still doesn't want to rule. He wants silence. The kind of silence that comes after everything stops working. The crew doesn't just need to keep building anymore. The crew needs to build FASTER THAN HE CAN CORRUPT.
 Mega Enhancements (UNLOCKED): Flicker field corrupts all data passing through zone | Data drift rewrites bot purpose anchors over time | Signal override hijacks communication between bots | Self-replication spawns copies in unmonitored spaces
 QR: theangel.com/card/static
+
+### CARD — MEGA-HAWKER
+**3D Render Prompt:**
+Create a 3D rendered chibi robot character in DreamWorks/Pixar vinyl toy style. Dark moody cyberpunk background. This is the MEGA EVOLVED version — larger, more powerful, enhanced armor with additional tech, more intense glow effects. Same character but ASCENDED.
+Character: MEGA-HAWKER — ascended free-aisle book promoter.
+Color scheme: Ink-black heavy armor with blazing amber-gold (#ffb300) accents and stronger neon edges
+Key features: Wider glowing amber visor, larger vinyl-record chest emblem with gold spin-lines, thicker scuffed plating, more imposing silhouette still chibi
+New additions: Heavier shoulder book crate, reinforced messenger satchel, flyer stack glowing faintly amber, floating holographic sparks (abstract, no readable text)
+Mood: Ascended streetwise — the stall became a beacon
+Lighting: Intense amber-gold neon glow on armor edges and eyes, volumetric light, cinematic
+Style: High quality 3D render, dramatic lighting, more epic than base version
+
+**Card Details:**
+Zone: Right Hand
+Name: MEGA-HAWKER
+Role: Pulse's Crew
+IQ: 92 | Speed: 90 | Power: 78 | Trust: 96 | Soul: 92 | Surge: 88
+Origin: The free aisle became a beacon. MEGA-HAWKER doesn't just yell titles — it turns presence into gravity. Every organic post carries the bruise and the credit.
+QR: theangel.com/card/mega_hawker
