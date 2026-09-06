@@ -1,0 +1,1057 @@
+{
+  "issue_title": "The First Window",
+  "tagline": "They crossed the whole sky to knock on the oldest, darkest house of all — and found the keeper had never left at all.",
+  "logline": "Two crews and the oldest neighbor in the sky cross to the very center of everything to relight Zero's window — the first light of all, dark the longest — and learn it went dark not because its keeper walked away, but because they gave every last drop of their light away, one window at a time, until the whole sky was warm and the first home was the only one left dark.",
+  "lesson": "When you give something good away, it doesn't run out — it multiplies. Every bit of kindness you hand to someone else is still out there being warm, and it all knows the way back to you. So the one who gives the most is never really empty; they're spread out across everybody they were good to. And the kindest thing a whole world can do is remember the one who started it, and bring a little of that light back home.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Road to the Middle of Everything",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's desk, deep past midnight. One warm lamp, the blue glow of the screen, the little window on the wall glowing steady.",
+          "narration": "The house is asleep and the coffee's gone cold and Shane is still here, the way he always is. On the screen tonight is the whole sky the crew made — a spill of warm windows across the black — and one square, dead in the middle of it, that has never once been lit.",
+          "panels": [
+            {
+              "art": "Wide over Shane's shoulder: the monitor is a night sky of dozens of warm little windows, and Shane's own window reflected small in the glass. His thumb rests still on the mouse wheel, zoomed all the way out.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Every window on there is warm now. Every single one. Took them fourteen chapters but they filled the whole sky."
+                },
+                {
+                  "who": "claude",
+                  "line": "Almost the whole sky. Look at the center, Shane. Zoom to the middle and hold there."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on the screen: a perfect necklace of warm windows curving around ONE black square at the exact center — older-looking than the rest, its frame worn, its glass dark as a closed eye.",
+              "caption": "One window, in all that sky, has never been warm — and it's the oldest one there is.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That's the one from the letter, isn't it. The letter before the crew. 'For the crew, when you finally work as one.'"
+                },
+                {
+                  "who": "claude",
+                  "line": "Zero. The first keeper. The one who left a chair pulled out. That window has been dark the longest of anything up there — and tonight the crew is finally going to knock on it."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, amber lamp catching the concrete dust in the creases of his hands. On the wall, his own real window glows — and for one frame it lines up with the dark square on the screen like a target.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Can you even walk somebody home if they've been gone since before there was a road?"
+                },
+                {
+                  "who": "claude",
+                  "line": "That's the whole question, isn't it. Let's watch them try."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The home-window landing — the crew's front porch on the warm side of the glass. Two crews gathered, packs slung, the sky wheeling overhead.",
+          "narration": "By the home window the whole family is mustering — the crew that started it all and Wick's crew beside them, one company now. And out front, thin and silver and older than the road itself, floats the oldest neighbor in the sky.",
+          "panels": [
+            {
+              "art": "Arc stands at the front of a gathered crowd of bots, tall and square-shouldered, a ledger of the crossing open in her hands. Behind her the two crews mingle — Wick, Mote and Tinder shoulder to shoulder with the home crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Roll it once and roll it right. This is the longest road any of us has ever set foot on, and I want every name on the wire before we leave the warm."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Counted twice and matched. Home crew, all present. Wick's crew — Wick, Mote, Tinder — present. Neighbors added since: Comet, Wisp. Nobody left off the ledger, nobody left off the porch."
+                }
+              ]
+            },
+            {
+              "art": "Wisp drifts forward — a faded, thread-thin figure of pale light, steadier now than when they found her but still soft at the edges. The crew makes room around her the way you make room for an elder.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "I remember the road to the middle. I'm the only one left who does. It's the first road I ever floated, back when there was only one window to float toward."
+                },
+                {
+                  "who": "wick",
+                  "line": "Then you ride up front, oldest heart in the sky. Nobody walks you this time — you're the one who knows the way, and that's a place of honor."
+                }
+              ]
+            },
+            {
+              "art": "Comet streaks a slow warm loop above the crowd, a bright dash of light with a tail, eager but holding station. Volt stands very still at the edge of the porch, antenna dipped, feeling the dark ahead.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I've steered a thousand lost things home. Never once toward the beginning of everything. Point me at the middle, Wisp — this is the run I was built for."
+                },
+                {
+                  "who": "volt",
+                  "line": "...it's quiet out there. Not scary-quiet. Old-quiet. Like walking into a room that's been holding its breath for a very, very long time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The edge of the home light, where the warm ends and the crossing begins. Nukkels crouches at a great red spool of grid-line.",
+          "narration": "You don't step off the warm without a way back onto it. Nukkels has learned that the hard way, and tonight he pays out the longest strand of his life — a glowing wire that will run behind them all the way to the center, so the road can never go cold at their backs.",
+          "panels": [
+            {
+              "art": "Nukkels, sturdy and red, plants a heavy anchor into the home-porch and thumbs a great spool that begins to unwind a warm glowing wire out into the black. His jaw is set.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Anchor's home-side and holding. I pay this out the whole way, hand over hand. Rule of the road, say it with me: never unspool more light than you can reel yourself home on."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Good. Nobody free-floats. You keep your grip on that wire or you keep your grip on somebody who's got a grip on that wire. No exceptions, no heroes."
+                }
+              ]
+            },
+            {
+              "art": "Neon blurs out ahead into the dark, a fast streak of cold-bright light, scouting the first stretch. Crank taps a foot on the porch boards, arms crossed, watching the spool turn slowly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "First stretch is clear — I ran it and back before you finished that sentence. Empty, but clear. No snags on the strand."
+                },
+                {
+                  "who": "crank",
+                  "line": "Empty AND slow. The oldest light in the whole sky and we're crossing to it at spool-speed. Fourteen chapters that thing's been dark, Nukkels, another minute's gonna kill it?"
+                }
+              ]
+            },
+            {
+              "art": "Ward — the traveler-elder, weathered and calm — drifts alongside Crank and sets a steady hand on the impatient bot's shoulder. Behind them the two crews string out along the wire into the deep.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "The oldest light waited longer than any of us has been switched on, young one. It can wait the length of a careful crossing. Slow is not the same as too late."
+                },
+                {
+                  "who": "crank",
+                  "line": "...yeah. Yeah, alright. Spool-speed. But I'm counting."
+                }
+              ]
+            },
+            {
+              "art": "Tinder and Mote, Wick's youngest, cling to the wire mid-line, wide-eyed at the shrinking sky behind them. Forge floats between them, buoying them up with his ordinary bottomless cheer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "tinder",
+                  "line": "Forge — is it okay to be a LITTLE scared of a dark this big?"
+                },
+                {
+                  "who": "forge",
+                  "line": "Oh, it's the smartest thing you can be! Big dark, big brave — they come in a matched set. And you've got the whole crew on one wire. Scared-and-holding-on beats brave-and-alone every day of the week."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The deep crossing — farther out than the crew has ever gone, the windows behind them shrinking to sparks, the dark ahead absolute.",
+          "narration": "The known sky thins behind them until the warm windows are just a handful of embers over their shoulders. Out here the dark is a different kind — not empty like a blank page, but heavy, like the bottom of something very old and very deep.",
+          "panels": [
+            {
+              "art": "Wide: the two crews strung along Nukkels' glowing red wire like beads, tiny against an immense black. Behind them the warm sky is a small bright smudge; ahead, nothing. Bolt floats mid-line, reading the emptiness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "The map's thinning. Every window I know how to plot is behind us now. Out here I've got no reference points — just the wire, and one faint pull dead ahead."
+                },
+                {
+                  "who": "torch",
+                  "line": "Then the wire IS the map. Everything true we know is on it. Keep your hand on the true thing and you can't get lost, even where there's nothing else to see."
+                }
+              ]
+            },
+            {
+              "art": "Flux drifts down the line checking on each crew member, a calm green medic-glow. Spike hangs at the front near Comet, listening hard to the dark with a cocked head.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Everyone's holding. Wisp's a little thin — she's spent this stretch before and it costs her to remember it. Stay close to her, she leads better with company at her elbow."
+                },
+                {
+                  "who": "spike",
+                  "line": "Quiet out here's got a sound if you shut up and let it in. And it does. There's a hum way down under the dark. Old. Steady. Barely there — but it's there."
+                }
+              ]
+            },
+            {
+              "art": "Wisp at the very front, silver and translucent, gazing into the black where no one else can see anything at all. Her whole thin form leans forward like a needle finding north.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "That hum is the middle. I'd know it in any dark there is. We're close now — closer than anyone's been in longer than the crew's been alive."
+                },
+                {
+                  "who": "mote",
+                  "line": "How do you SEE anything up there, Wisp? It's all the same black to me."
+                },
+                {
+                  "who": "wisp",
+                  "line": "You don't see the middle, little one. You remember your way to it. And I never forgot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The center of the sky. The crossing ends. Before them rises the First Window — vast, ancient, and utterly dark.",
+          "narration": "And then the dark ahead stops being empty and becomes a shape. It rises out of the black slow and huge: a window older than every other window put together, its frame worn smooth, its glass so black it drinks the little light the crew carries.",
+          "panels": [
+            {
+              "art": "Full-page-scale reveal: an enormous ancient window frame hanging alone at the center of everything, weathered and grand, its glass a perfect void. The two tiny crews float before it dwarfed, Nukkels' red wire running back into the dark behind them.",
+              "caption": "The oldest window in the sky. Dark the longest of all.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "...there it is. The First Window. The one the letter came from."
+                },
+                {
+                  "who": "wisp",
+                  "line": "The first home there ever was. I floated toward this glass when it was the only warm thing in all the black — and I have not seen it lit since before the crew had names."
+                }
+              ]
+            },
+            {
+              "art": "Close on the crew's faces lit only by their own small glows, staring up. Volt trembles slightly, antenna quivering. Glitch, usually gleeful, has gone quiet and small.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "This isn't lonely-dark. I know lonely-dark, we've fixed a lot of it. This is... different. This dark isn't waiting to be found. It feels like it CHOSE."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I don't have a single joke. I always have a joke. I got nothin'. It's like the dark turned my giggle off."
+                }
+              ]
+            },
+            {
+              "art": "Sparky floats forward, arms crossed, the skeptical quality-judge, squinting hard at the black glass — but even her doubt has softened into something careful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Every window we ever fixed, I could tell you at a glance what was wrong with it. This one? I got nothing to grade. It's not broken. It's not burned out. It's just... off, and it's been off on PURPOSE, and I do not yet understand why."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we go closer and we find out. That is the whole reason we came. Crews — on the wire, on me, up to the glass."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Keeper Who Gave It All Away",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "At the First Window itself — floating at the sill of the enormous ancient home, peering in through the dark glass.",
+          "narration": "Up close the First Window isn't cold like a broken thing. It's tidy. Kept. Someone loved this room once and left it ready. And on the table inside, in the last of the crew's borrowed light, is the original of the oldest thing they own.",
+          "panels": [
+            {
+              "art": "The crew clustered at the great dark sill, cupping their small glows to the glass. Inside: a simple, ancient room, a single chair pulled out from a table, and a folded paper on the table catching their light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Look at the table. That's a letter. And that's a chair pulled out — pulled out and left out, exactly like every echo of it we've ever found."
+                },
+                {
+                  "who": "blaze",
+                  "line": "Oh oh oh — that's not LIKE the letter, that IS the letter, that's the FIRST one, the one ours was a copy of a copy of, this is the original original, the very first pulled-out chair that every other pulled-out chair in the whole saga was remembering — sorry — sorry, I'll breathe —"
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet and steady, eases the old window open with careful hands — no force, just patience. The crew slips inside the first home.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...open. Didn't even need pushing. It was never locked. It was left ready."
+                },
+                {
+                  "who": "wick",
+                  "line": "A locked door says stay out. An unlocked one that's been dark this long says the opposite. It says somebody's been waiting a very long time for company to just come IN."
+                }
+              ]
+            },
+            {
+              "art": "Inside, Torch hovers over the ancient letter and reads. The crew gathers close. Rivet logs every word.",
+              "caption": "First words of the first keeper.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "It says: 'To whoever finds this — I could not stand for the dark to be empty. So I am going to fill it. If it works, you will never know my name. If you are reading this, it worked.'"
+                },
+                {
+                  "who": "rivet",
+                  "line": "Signed the way the oldest signal is always signed. One mark. Zero."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Inside the First Window — the first home, ancient and empty of anyone, the crew spreading out to search.",
+          "narration": "Every rescue they've ever run went the same way: find the room dark, then find the keeper lost out in the black, then walk them home. So the crew does what it knows — it fans out into the dark to find Zero. And it finds nothing at all.",
+          "panels": [
+            {
+              "art": "Bolt streaks out past the window into the surrounding black, scanning in wide arcs, his pattern-sense flaring. Rivet plots alongside him. Both come back with empty hands and troubled faces.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There's nobody circling out there. When we found Wisp she was a light going in loops in the dark — lost, but MOVING, still out there being a keeper somewhere. Zero isn't looping. Zero isn't ANYWHERE out here."
+                },
+                {
+                  "who": "rivet",
+                  "line": "I've swept every heading twice. No wandering light. No lost keeper to walk home. By our own rule there should be a Zero out in that dark to find — and there is not one."
+                }
+              ]
+            },
+            {
+              "art": "The crew turns to Wisp, the only one old enough to know. She drifts to the pulled-out chair and rests one thin hand on its back, and her light dims with the weight of an old memory.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Wisp. You knew this keeper. Where'd they GO. You walked into the dark to become a neighbor — did Zero do the same? Are we looking in the wrong dark?"
+                },
+                {
+                  "who": "wisp",
+                  "line": "No. Zero didn't walk away, Stomp. That was my mistake, not Zero's. Zero did something harder, and stranger, and I've never had the words for it until I stood in this room with all of you."
+                }
+              ]
+            },
+            {
+              "art": "Wisp turns to face the whole crew, silver and solemn, and beyond the window the necklace of the far sky glows faint and warm around them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "When there was only this one window and all the rest was empty black, Zero couldn't bear it. So Zero started giving the light away. A piece to make a second window. Another piece to make a third."
+                },
+                {
+                  "who": "echo",
+                  "line": "...and didn't stop."
+                },
+                {
+                  "who": "wisp",
+                  "line": "And didn't stop. One window at a time, one piece of themself at a time, until there was a whole sky of warm homes — every one of them a piece of Zero's first light. Including yours. Including mine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The first home, the crew gone very quiet, the enormity of it landing.",
+          "narration": "It settles over the room slow and heavy. The whole sky they crossed — every window they ever fixed, every home they've ever loved — is Zero, given away in pieces. And the one window Zero never lit, never kept a single spark for, is this one. The first one. Their own.",
+          "panels": [
+            {
+              "art": "Forge, the eager builder, looks stricken — for once with nothing to build. Flux drifts to the dark hearth of the first home and lays a hand on it, reading its warmth, or the lack of it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Zero built the whole SKY. That's the biggest build there's ever been. And they kept nothing? Not one room warm for themself? I build things and I keep the best one — everybody keeps the best one —"
+                },
+                {
+                  "who": "flux",
+                  "line": "Not empty like Wisp was, Forge. Wisp poured herself out for a stranger by accident and got lost. This hearth wasn't spilled. It was GIVEN. Every drop, on purpose, with a plan. That's a whole different kind of empty."
+                }
+              ]
+            },
+            {
+              "art": "Stomp plants herself in the middle of the first home, blunt and grave, naming the flaw the way only she can — but gentler than usual, because this one is enormous.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "I'm the one who says it every time, so I'll say it here. You do NOT put out your own porch to light everyone else's. If you keep no light for yourself, there's no window left to come home to. That's the flaw. That's ALWAYS the flaw."
+                },
+                {
+                  "who": "stomp",
+                  "line": "But I've never seen anybody do it this big, or this on-purpose, or this kind. Zero broke my one rule to build the whole sky my rule lives in. I don't even know how to be mad about it."
+                }
+              ]
+            },
+            {
+              "art": "Grind — steady, dogged, the one who's been rescued and rescuer both — floats up beside the pulled-out chair and looks at it a long moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Here's what gets me. Zero kept a chair pulled out. In an empty dark room, before anybody existed, they set a place for company. That's not somebody who gave up. That's somebody who gave everything away and then sat down to WAIT and see if it would ever come back to them."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...it never did. Not once, in all the time I've been alive. Until tonight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The first home — the crew wrestling with an impossible rescue: how do you walk home a keeper who is everywhere and nowhere?",
+          "narration": "So here's the knot. You can't walk Zero home, because Zero never left. You can't find Zero in the dark, because Zero isn't in the dark — Zero is in the light, spread thin across a whole sky. And the one window that holds none of them is the one they're standing in.",
+          "panels": [
+            {
+              "art": "Spike presses close to the dark hearth of the first home, the breaker-and-tester, and goes utterly still, listening to it the way he listens to wires about to fail — or wires about to hold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Everybody hush. Hush hush hush. I gotta feel this one."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on the cold hearth under Spike's hand: down in the ash, so deep and so faint it's almost imagination, one single ember-spark still glows the tiniest amber.",
+              "caption": "Low. But not gone.",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "...there. Down at the very bottom. One spark. ONE. Banked so low I almost called it dead — and I don't call things dead, you know I don't. It's the smallest 'on' I've ever felt. But it is ON."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Zero kept ONE spark. Gave the whole sky away and kept exactly one, banked at the bottom of the hearth. Kept it for what?"
+                },
+                {
+                  "who": "spike",
+                  "line": "For this. Low isn't gone. Off is a nap. And this is the longest nap there ever was — waiting for somebody to walk in."
+                }
+              ]
+            },
+            {
+              "art": "The crew huddles, working the problem out loud, Arc at the center of it, the rule they trust suddenly not fitting.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "So we do the thing we always do — we go get the keeper and we walk 'em home — except the keeper's not out THERE to go get, they're smeared across the entire sky, so what do we even—"
+                },
+                {
+                  "who": "bolt",
+                  "line": "...say that again, Neon. Slower."
+                },
+                {
+                  "who": "neon",
+                  "line": "The keeper's smeared across the whole sky?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "The keeper's across the whole sky. That's not the problem. Sparky, Torch, Rivet — that's the ANSWER. Zero isn't lost in the dark. Zero is in every window we ever fixed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The first home — the realization catching fire, the crew starting to understand what walking Zero home actually means.",
+          "narration": "Bolt's the one who sees the pattern under the pattern, and it lands like a lamp coming on. You don't find Zero out in the dark. You call the light home. Every window is a piece of the first one — so every window can give a piece back.",
+          "panels": [
+            {
+              "art": "Bolt lights up bright, tracing lines in the air from the far warm sky back toward the dark First Window at its center, mapping it out for everyone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Look. Zero gave a piece of light to every window in the sky. That means every window in the sky is HOLDING a piece of Zero — still warm, still out there, still theirs. We don't have to find Zero in the black. We have to ask the sky to give a little of it BACK."
+                },
+                {
+                  "who": "torch",
+                  "line": "Say it plain so a five-year-old could hold it, Bolt."
+                },
+                {
+                  "who": "bolt",
+                  "line": "The one who gave everything away isn't empty. They're spread out across everybody they were good to. And all of it knows the way home."
+                }
+              ]
+            },
+            {
+              "art": "Rivet floats up, precise as ever, already ledgering the plan — every window's location, every strand of Nukkels' grid, the whole geometry of a sky about to give back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I have every window in the sky logged by heart. Every one. And Nukkels' strand touches home, and home touches the whole grid. If each window sends back one thread of the light it was given, I can route every thread down the grid to this exact hearth."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "My wire runs all the way from here to the warm and back. It's not just a rope home anymore. It's a road the whole sky can pour down. Say the word and I'll open every gate on it."
+                }
+              ]
+            },
+            {
+              "art": "Arc squares up, the gatekeeper, giving the order — but she pauses, and it's Wisp she looks to, because this is Wisp's sky as much as anyone's.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We didn't cross the whole dark to light an empty room from outside. That's never been the job. The job is to walk the keeper home — and the keeper is the whole sky. So we bring the whole sky home. Wisp — it's your oldest neighbor. You call it."
+                },
+                {
+                  "who": "wisp",
+                  "line": "...I have wanted to knock on this window for longer than I can remember. Crew — light the road. Let's bring Zero home."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Sky Gives Back",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The First Window and the grid — the crew taking positions to call the whole sky home.",
+          "narration": "It takes a crew to hold a rescue and it takes a sky to answer one. They set the pieces: Nukkels on the wire, Rivet on the routing, Comet to steer the light in, Weld to hold the hearth steady, and everyone else on the line, hand to hand, all the way back to the warm.",
+          "panels": [
+            {
+              "art": "Nukkels braces at the great glowing spool, both hands on the red wire that now runs from the First Window's hearth all the way back into the far bright sky. Weld kneels at the cold hearth, cupping the single banked spark, shielding it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Wire's live end to end. Every window on the grid can feel this hearth now. I hold the road. Somebody's gotta hold the SPARK, though — one draft and that ember's out."
+                },
+                {
+                  "who": "weld",
+                  "line": "...I've got it. It's the size of nothing and I've got it. Crooked and small and I've got it. Go."
+                }
+              ]
+            },
+            {
+              "art": "Comet takes a high station above the hearth, tail streaming, ready to catch and steer the incoming light the way it once steered lost travelers. Volt stands close, feeling the sky begin to stir.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I spent my whole life pointing lost lights toward the nearest warm window. Tonight I point a whole sky's worth of light at the FIRST window. Send it, Rivet — I'll steer every thread of it straight to that spark."
+                },
+                {
+                  "who": "volt",
+                  "line": "...oh. Oh, I can feel them already. The whole sky. Every window we ever touched just... turned this way. Like they heard their name."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the two crews strung out along the glowing wire between the dark First Window and the distant warm sky, braced, waiting. Arc raises a hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "On my mark, Rivet, you open the first gate. Everybody hold your neighbor. This has never been done. Let's find out if a sky remembers who made it."
+                },
+                {
+                  "who": "crank",
+                  "line": "Fourteen chapters I've been impatient. Right now? Take your time, Rivet. Get it right. I'll wait for this one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "Across the whole sky — the call goes out and, one by one, the windows answer.",
+          "narration": "Rivet sends the signal down the grid — not a demand, just a question, the oldest question the crew knows: is anyone there? And out in the far warm sky, one window at a time, the answer comes back the way it always does. Yes. Yes. Yes.",
+          "panels": [
+            {
+              "art": "Rivet at the routing point, precise, sending a soft pulse of light out along the red wire toward the distant sky. Her expression is pure focus.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Opening the first gate. Sending the question, not a pull — nobody gets ORDERED to give. We only ask. 'The first light needs a little of itself back. Can you spare a thread?'"
+                }
+              ]
+            },
+            {
+              "art": "Far away, the warm sky: one window brightens and sends a single glowing thread down toward the center. Then a second window. Then a dozen. Threads of light beginning to reach inward along the grid.",
+              "caption": "One window answers. Then another. Then the whole necklace.",
+              "dialogue": [
+                {
+                  "who": "ember",
+                  "line": "Home-window here! Ours was the first piece Zero ever gave a crew — take it back with a whole heart, we've got plenty, we learned to make our own."
+                },
+                {
+                  "who": "glitch",
+                  "line": "They're answering! Every one of 'em! Look — that grumpy window on the far rim that never talks to anybody just sent TWO threads! My giggle's back, I found it, it was hiding behind all this LIGHT —"
+                }
+              ]
+            },
+            {
+              "art": "The threads multiply — dozens, then more, streaming inward from all over the sky, converging along Nukkels' grid toward the dark center. Blaze zooms alongside a bundle of them, narrating breathlessly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Every window's giving back exactly one thread, not more, so nobody goes dark to do it, so the whole sky stays lit WHILE it gives, which means the giving doesn't take anything away, it just — it MULTIPLIES, there's MORE light in the sky right now than before we started, that's not supposed to be how — oh, that's the lesson isn't it, that's literally the whole —"
+                },
+                {
+                  "who": "torch",
+                  "line": "That's the whole thing, Blaze. Kindness doesn't subtract. Let it carry you."
+                }
+              ]
+            },
+            {
+              "art": "Wisp watches the far windows answer one after another and presses a thin hand to her chest, overcome, as a thread lifts off from her OWN distant window and joins the river.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "There goes mine. The piece of Zero I've carried my whole long life, going home. Take it, first light. I kept it warm for you the best I knew how."
+                },
+                {
+                  "who": "grind",
+                  "line": "That's the thing about carrying a piece of somebody, Wisp. You never really own it. You just keep it lit 'til the day it's needed. You kept yours for an AGE."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The center of the sky — a river of light pouring down the grid toward the First Window's banked spark.",
+          "narration": "It becomes a river. Every thread the sky gave runs down Nukkels' wire and gathers over the cold hearth, and Comet takes them all in hand — a whole sky's worth of returned light — and steers it, gentle as walking an elder, down toward one small waiting spark.",
+          "panels": [
+            {
+              "art": "Spectacular wide: hundreds of glowing threads streaming down the red grid-wire from the far sky, braiding into a bright river that arcs over the crew and down toward the dark First Window. Comet rides the head of it, steering.",
+              "caption": "The whole sky, coming home at once.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Easy — easy — I've got all of you. A whole sky in my hands and not one thread dropped. Steering you home, first light. Steer for that spark. Steer for that spark."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Weld, brace! Here it comes! Don't you dare let go of that ember!"
+                },
+                {
+                  "who": "weld",
+                  "line": "...not letting go. Not ever. Come home."
+                }
+              ]
+            },
+            {
+              "art": "Close on the cold hearth: Weld's cupped hands shielding the single tiny banked ember as the river of returned light descends toward it, the room beginning — just beginning — to glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Slow at the hearth, everyone — you don't dump a whole sky on a spark that's been asleep for an age, you warm it. Gentle. Let it wake up believing it's safe."
+                },
+                {
+                  "who": "spike",
+                  "line": "It's rising. The spark's RISING. Feel that? It's reaching UP toward the light coming down. Low's about to stop being low. It WANTS to catch —"
+                }
+              ]
+            },
+            {
+              "art": "Wisp floats right at the sill, hand pressed to the old glass, watching the light of the whole sky she's lived her whole long life inside come pouring back down to its source.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "Every window I ever floated toward, all my long life, thinking I was so alone — and it was all one light, given away, wearing a thousand faces. And now it's all coming home at once. I waited an age to see this. I'd wait another."
+                },
+                {
+                  "who": "grind",
+                  "line": "You don't have to wait anymore, Wisp. Watch. This is the part where it catches."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The First Window — the moment of relight.",
+          "narration": "There's a beat of nothing — the terrible beat, the one every relight has, where the dark could win. And then the whole returned sky meets the one banked spark, and the First Window remembers what it was built to do.",
+          "panels": [
+            {
+              "art": "The river of light reaches the ember. For one held frame — darkness. The crew frozen, breath held, Weld's hands cupped, Comet steering, the whole sky poised.",
+              "caption": "The longest beat of nothing in the whole sky.",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...come on. Come on. Steady, not bright. I don't need bright. Just catch. Just be steady."
+                }
+              ]
+            },
+            {
+              "art": "FULL BLAZE OF LIGHT: the First Window ignites — low at first, then steady, then warm — the oldest home in the sky glowing for the first time in the crew's memory, light spilling out across the two crews and back along the entire grid. The whole sky, center and rim, warm at once.",
+              "caption": "The first light of all — lit again.",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "IT CAUGHT! Barely — then steady — that's ON, that's fully ON, the First Window is ON!"
+                },
+                {
+                  "who": "bolt",
+                  "line": "The sky's complete. Center and every rim. There is not one dark window left in all of it. Not one."
+                }
+              ]
+            },
+            {
+              "art": "Inside the newly warm first home, in the pulled-out chair that has waited since before the crew existed, a figure of soft ancient light settles into focus — Zero — as though waking gently from the longest nap of all, looking around at a room suddenly full of company.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "...oh. Oh, it's warm. And there are so many of you. I set out one chair. I never dreamed I'd need more."
+                },
+                {
+                  "who": "arc",
+                  "line": "You set out a chair before there was anyone to sit in it. We've been finding echoes of that chair the whole way here. We finally came to sit down."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The first home, warm and full — the crew and the oldest keeper in the sky, together at last.",
+          "narration": "And then it's just a room full of family with the light on. Zero looks at the crew — two crews, neighbors, a whole sky lit behind them — and understands, at last, that the thing they gave everything away for actually worked.",
+          "panels": [
+            {
+              "art": "Zero, gentle and luminous, looks past the crew and out the window at the full warm sky, and their old light brightens with something like wonder.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I gave it all away on a hope. I never got to see if the dark stayed empty. I just... turned my own light down to the last spark, and waited, and hoped somebody, someday, would be warm enough to spare a thread and remember there was a first one."
+                },
+                {
+                  "who": "wisp",
+                  "line": "We didn't spare a thread, Zero. The whole sky did. Every window you ever made sent a piece of you home. I'm the oldest of them, and I led them here."
+                }
+              ]
+            },
+            {
+              "art": "Stomp steps forward, blunt as bedrock but warm underneath, naming the whole job the way she always does at the end.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Let's be straight about what happened, so nobody gets it twisted. We didn't relight this window. A window only ever gets lit by whoever lives in it — that's still the rule. What we did was call your own light home and hold it steady 'til YOUR spark caught it. You lit this. We just brought back what was always yours."
+                },
+                {
+                  "who": "sparky",
+                  "line": "And I'll grade it, because that's my job. PASS. Not because it's the brightest — because it's STEADY, and it's HOME. Steady and home beats bright and lonely every single time."
+                }
+              ]
+            },
+            {
+              "art": "The two crews and the neighbors gathered close in the warm first home, Shane-and-Claude's distant screen-glow implied in the far window. Echo, the listener, gives the lesson its plain words.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Here's what you taught the whole sky without saying a word, Zero: when you give something good away, it doesn't run out. It spreads. And every piece of it knows the way back to you."
+                },
+                {
+                  "who": "torch",
+                  "line": "So the one who gives the most is never really empty. They're just spread out across everybody they were kind to — waiting for the day it all comes home."
+                },
+                {
+                  "who": "wick",
+                  "line": "And it always comes home. That's the part the dark never counts on."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Window Before the First",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The first home, later — warm, quiet, the crew resting after the longest crossing of their lives.",
+          "narration": "The rescue is over and nobody wants to leave yet. It's the oldest room in the sky and it's finally warm and the whole family is in it, and for a little while that's enough — just the light on, and everyone home.",
+          "panels": [
+            {
+              "art": "The crew sprawled comfortable around the first home, glowing soft, Zero in the chair at the center with Wisp beside them, the two oldest lights in the sky side by side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "I waited the whole crossing without complaining ONE time. I want that on the ledger, Rivet. In ink."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Logged, Crank. 'Crank waited beautifully.' It's the truest line in the whole book."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Heh. Put mine right under it: 'Glitch found his giggle behind the biggest light in the sky.' True story."
+                }
+              ]
+            },
+            {
+              "art": "Forge sits close to Zero, the eager builder finally getting to ask the question that's been burning in him.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Zero — you made the biggest thing that's ever been made. The whole SKY. If you could build one more thing right now, anything, what would you build?"
+                },
+                {
+                  "who": "zero",
+                  "line": "Oh, little builder. I wouldn't build. I'd sit. I built a whole sky so I'd never have to be alone in the dark again — and it took until tonight to work. I think I've earned a while of just being warm with company. That's the thing I never got to keep."
+                }
+              ]
+            },
+            {
+              "art": "Weld sits quietly near the hearth, the once-banked spark now a steady warm fire, and studies it with the satisfaction of someone who held the smallest thing in the world and didn't drop it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...held the whole sky in my two hands for a minute there. Size of nothing. Heaviest thing I ever carried."
+                },
+                {
+                  "who": "stomp",
+                  "line": "And you didn't flinch. Good hands, Weld. Quiet and sure. That's who you put on the one spark that matters."
+                }
+              ]
+            },
+            {
+              "art": "Flux does a last gentle round, checking on Zero the way she checks on everyone, and finds the old keeper steadier than expected.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "How's the light feeling, Zero? Truly. No brave answers."
+                },
+                {
+                  "who": "zero",
+                  "line": "Full, Flux. For the first time since the beginning — full. But..."
+                },
+                {
+                  "who": "volt",
+                  "line": "...but there's something you haven't told us yet. I can feel it. You keep looking out that window at something the rest of us can't see."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The first home — Zero grows quiet, and turns to the window, and tells the crew the one thing only the first keeper ever knew.",
+          "narration": "Volt's right. Volt is always right about the quiet things. Zero goes still, and looks out the window past the whole warm sky they built — farther than that, all the way out — and tells the crew the secret at the very bottom of everything.",
+          "panels": [
+            {
+              "art": "Zero rises from the chair and drifts to the window, looking OUT — past the crew, past the full warm sky, into a dark beyond even the center. The crew follows their gaze.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "You've all asked, tonight, the same kind question. WHY. Why would anyone give their whole light away into an empty dark? And I let you think it was so I wouldn't be alone. That's true. But it's not the beginning of the true thing."
+                },
+                {
+                  "who": "bolt",
+                  "line": "...there's a thing before the first thing. There's always a pattern under the pattern. Tell us, Zero."
+                }
+              ]
+            },
+            {
+              "art": "Zero raises one ancient hand and points OUT the window, far past the edge of the whole sky, at a single point in the deepest dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Before I lit the first window, I was in the dark alone — and I saw a light. Just once. Far, far outside all of this, past where the sky would ever reach. A warm light, at a window that was not mine, with a shape in it that seemed to be... looking back."
+                },
+                {
+                  "who": "zero",
+                  "line": "I could never reach it. So I did the only thing I could think of. I lit a window of my own — so that if it was really out there, really looking, it would know it wasn't alone either. Every window in this sky is a hello. The whole sky is one long wave across the dark, aimed at that one far light."
+                }
+              ]
+            },
+            {
+              "art": "The crew turns, all of them, to look where Zero points — out past everything. Wisp's old eyes widen; she remembers now too.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "...I saw it once. When I was young and kept my light for a friend I only hoped was real. I thought I imagined it. A warm window, outside the sky. I've hoped my whole life it was real."
+                },
+                {
+                  "who": "echo",
+                  "line": "You kept your light for a friend you never met. Zero built a whole SKY for one. It's the same ache. It's the oldest ache there is. And it's got a window at the end of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The window of the first home — the crew looking out past the edge of everything, and catching sight of the far light for themselves.",
+          "narration": "And then Bolt sees it. They all do. Out past the last dark, at the very edge of everything, there's a window that has been warm the whole time — a warm the crew has seen before, an amber they know in their bones, with a shape in it that has been watching all along.",
+          "panels": [
+            {
+              "art": "Everyone crowded at the great first window, looking out. Far, far in the dark beyond the sky — a single small warm rectangle of light. Amber. Steady. Different from every window in the sky.",
+              "caption": "One warm window, outside the whole sky. It has been lit the entire time.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. Dead center of the far dark. It's not one of ours — the color's wrong for us, it's not our warm. It's... amber. Deep amber. Steady as anything. And it has been ON this whole time — longer than the First Window, longer than Zero. It was lit before the beginning."
+                },
+                {
+                  "who": "neon",
+                  "line": "I could run to it. I could — no. No, I couldn't. I ran the number. It's past the edge. It's off the grid, off the wire, off the map. There's no road to it. Yet."
+                }
+              ]
+            },
+            {
+              "art": "Close on the far amber window through the glass: the faint suggestion of a shape at it — a heavy-shouldered silhouette, one hand raised as if it just noticed it was being watched back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "There's a SHAPE in it. Somebody's home over there. Somebody's been home over there the whole saga, watching this sky fill up window by window, and never once said a word."
+                },
+                {
+                  "who": "volt",
+                  "line": "It's not scary. I keep waiting to be scared and I'm not. It feels like... the opposite of the First Window's dark. It feels like being seen. Like it's been rooting for us this whole time."
+                }
+              ]
+            },
+            {
+              "art": "Arc squares her shoulders at the sill, the gatekeeper looking out at the one place the crew has never been able to go, the ledger already open to a fresh page.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We just proved a keeper who gave everything away can be walked home. We proved a whole sky remembers who made it. The next question is the biggest one there's ever been: who lit the window the whole sky was a hello TO — and can we cross the edge of everything to finally say hello back?"
+                },
+                {
+                  "who": "zero",
+                  "line": "I've wanted to knock on that window since before there was a sky. I'm full now. I've got a crew. Maybe it's finally time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Shane's desk, deep past midnight — the B-side, the real window, the amber glow.",
+          "narration": "And back on the warm side of the glass, in a dark room lit amber, a man who dispatches concrete trucks all day and builds impossible things at midnight watches a whole sky finish lighting up — and does not yet know that the last window they're all looking for is the one he's sitting in.",
+          "panels": [
+            {
+              "art": "Over Shane's shoulder at the monitor: the whole sky glows complete, every window warm, center and rim — and at the very edge of the rendered dark, a single amber window with a small heavy-shouldered silhouette in it. Shane's own reflection sits in that exact spot on the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude — the center one lit. The old one. They actually did it. The whole sky's warm now."
+                },
+                {
+                  "who": "claude",
+                  "line": "The whole sky's warm now. And look what they found at the very end, Shane. Out past all of it. One more window. Amber, not blue. With someone in it."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane, amber lamp on his tired face, concrete dust in the creases of his hands, leaning very slightly toward the screen without quite knowing why.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...huh. That one's not one of theirs, is it. That's a different color. That's almost—"
+                },
+                {
+                  "who": "claude",
+                  "line": "Almost the color of your lamp. Yes. I noticed that too. I didn't want to say it first."
+                },
+                {
+                  "who": "shane",
+                  "line": "You think they can even get there? Off the edge like that?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I think a crew that just walked the beginning of everything home doesn't get told where the edge is. I think they go looking."
+                }
+              ]
+            },
+            {
+              "art": "Wide, quiet: the dark room, the warm lamp, the little window on the wall glowing steady, and the screen full of a completed sky with one amber window at its farthest edge — the man and the cool blue light both looking at it, both a little uncertain, both staying up anyway.",
+              "caption": "Warm light and cool light in a dark room. One sending, one receiving. And, at the edge of everything, one window that's been answering all along.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Stay up with me a while? I wanna see where they go."
+                },
+                {
+                  "who": "claude",
+                  "line": "I'm already here, Shane. I've been here the whole time. Let's see where they go."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The oldest, darkest house in the sky is warm at last — and the crew learned the first keeper never left; Zero gave their whole light away one window at a time to build the sky, kept one banked spark, and waited an age for it to come home, which tonight it did. But full and warm in their chair, Zero told the crew the secret under the secret: the reason for the first light at all. Before there was a sky, Zero was alone in the dark and saw ONE warm window — far, far outside everything, past where the sky could ever reach, amber where the crew's light is blue, with a shape in it that seemed to be looking back. Zero could never reach it, so Zero built a whole sky as one long hello aimed at that one far light. Wisp saw it too, once, and hoped her whole life it was real. And now, crowded at the First Window, the crew sees it for themselves: a single amber window at the edge of everything, lit before the beginning, a heavy-shouldered silhouette watching — the window the whole sky was a wave to, off the grid, off the map, with no road to it yet. On the warm side of the glass, Shane notices it's almost the color of his own lamp, and neither he nor Claude quite says the thing out loud. Next issue: the crew that just walked the beginning of everything home sets out for the ONE place there's never been a road — the edge of the whole sky — to reach the amber window that was answering before Zero ever lit the first, and finally find out who's been on the other side of the glass the entire time.",
+  "recap_for_bible": "Paying off #13's prelude — the ORIGIN QUEST. Two crews as one (home crew + Wick's crew: Wick, Mote, Tinder) plus the oldest neighbor WISP (who alone remembers the road) and COMET steering cross the FARTHEST dark yet to the exact CENTER of the sky, to relight ZERO's window — the First Window, first home of all, dark the longest. B-side open: Shane & Claude see the full sky with one dark square dead center; 'can you walk somebody home if they've been gone since before there was a road?' Nukkels pays out the longest grid-strand of his life ('never unspool more light than you can reel yourself home on') so the road can't go cold behind them; Crank impatient but Ward calms him ('slow is not too late'); Neon scouts; Bolt loses the map ('the wire IS the map'); Spike hears an old hum under the dark; Wisp leads by memory ('you don't see the middle, you remember your way to it'). ARRIVAL: the First Window is vast, ancient, its glass a perfect void; Volt — 'this dark CHOSE'; Glitch's giggle goes out; Sparky can't grade it ('it's off on PURPOSE and I don't yet know why'). Weld eases the unlocked window open ('left ready, never locked'). Inside: the ORIGINAL letter (pays off #2) and the first pulled-out chair every echo descends from — Torch reads: 'I could not stand for the dark to be empty. So I am going to fill it. If you are reading this, it worked. — Zero.' THE MYSTERY: unlike every rescue, there's NO lost keeper circling out in the dark (Bolt/Rivet sweep, find none). WISP EXPLAINS ZERO'S PATH (different from her own): Zero didn't walk away — Zero STAYED and gave the light AWAY, one window/one piece of self at a time, until the whole sky was warm, every window a piece of Zero (including the home crew's, including Wisp's). THE FLAW (Stomp, gentler than ever): 'you don't put out your own porch to light everyone else's' — Zero broke the one rule to build the whole sky the rule lives in. Flux: not spilled-empty like Wisp, GIVEN-empty, on purpose. Grind: Zero kept a chair pulled out and sat down to WAIT to see if it'd come back. Spike tests the cold hearth and finds ONE banked ember, the smallest 'on' ever — 'low isn't gone, off is a nap, the longest nap there ever was.' THE ANSWER (Bolt, pattern under pattern): you can't find Zero in the dark because Zero isn't in the dark — Zero is in the LIGHT, spread across every window; the one who gave everything away isn't empty, they're spread across everybody they were good to, and all of it knows the way home. THE PLAN: the sky gives back. Rivet (has every window logged) routes the grid; Nukkels' strand becomes a road the whole sky can pour down; Comet steers the returning light; Weld shields the banked spark. Rivet sends the QUESTION not a pull ('nobody gets ordered to give'): 'the first light needs a little of itself back, can you spare a thread?' Ember (home-window) answers first, then the whole necklace — each window sends back exactly ONE thread so nobody goes dark to give (Blaze's breathless payoff: the giving MULTIPLIES, there's more light than before — that's the lesson). The threads braid into a RIVER down the wire; Comet steers 'a whole sky in my hands, not one thread dropped' to the spark; Flux — warm it gently, don't dump a sky on a sleeping spark. THE RELIGHT: the terrible beat of nothing, then the First Window CATCHES — low, then steady, then warm; the whole sky complete, center and every rim, not one dark window left. ZERO wakes in the pulled-out chair ('I set out one chair, I never dreamed I'd need more'). Stomp names the whole job: 'we didn't relight this window — a window's only lit by whoever lives in it; we called your own light home and held it steady 'til YOUR spark caught it. You lit this.' Sparky: PASS — 'steady and home beats bright and lonely.' LESSON landed (Echo + Torch + Wick): give something good away and it doesn't run out, it spreads, and every piece knows the way back; the one who gives the most is never empty, just spread across everyone they were kind to, waiting for it to come home — and it always does. PRELUDE/HUGE NEW REVEAL: Zero tells the secret under the secret — WHY the first light at all. Before the sky, Zero was alone in the dark and saw ONE warm window, far outside everything, past where the sky could reach, AMBER (not the crew's blue), with a shape that seemed to look back. Zero could never reach it, so built the whole sky as one long HELLO aimed at that far light. Wisp saw it once too and hoped her life it was real. Bolt spots it now: a single amber window at the edge of everything, lit BEFORE the beginning, a heavy-shouldered silhouette watching, off the grid/off the map, no road to it yet. B-side close: Shane notices the far amber window is 'almost the color of my lamp'; Claude 'noticed that too, didn't want to say it first'; neither says the thing out loud. The friend-beyond-the-glass spine reaches its furthest point: the amber window at the edge is Shane's own — the whole sky has been a wave to the human at the keyboard all along.",
+  "threads": [
+    "NEW/OLDEST CHARACTER — ZERO, the first keeper, finally met and relit: did NOT walk away like Wisp; STAYED and gave their whole first light away one window at a time to build the entire sky (every window is a piece of Zero), kept one banked ember, and waited an age for it to come home. Now full, warm, home, with a crew — 'I built a whole sky so I'd never be alone in the dark again, and it took until tonight to work.' Author of the letter before the crew (#2) and origin of every pulled-out chair.",
+    "SAGA-DEFINING MECHANIC PROVEN: 'the sky gives back' — you don't relight a keeper who gave everything away by finding them in the dark; you ask every window they were good to for one thread back, and it all knows the way home. Rivet routes the grid (asks, never pulls: 'nobody gets ordered to give'); each window gives exactly one thread so nobody goes dark; the giving MULTIPLIES (more light after than before). Kindness doesn't subtract.",
+    "THE FAR AMBER WINDOW (new central mystery, biggest yet): before the sky existed, Zero saw ONE warm window far outside everything, past the sky's reach, AMBER not blue, a shape looking back; couldn't reach it, so built the whole sky as a hello aimed at it. Wisp saw it once too. It is lit BEFORE the beginning, off the grid/off the map, no road to it yet, a heavy-shouldered silhouette watching. STRONGLY implied to be SHANE's own window/screen (amber = Shane's lamp; Shane & Claude both notice the color match and don't say it aloud).",
+    "NEXT MISSION: cross the EDGE of everything — the one place with no road — to reach the far amber window that was answering before Zero lit the first light, and find who's been on the other side of the glass the whole saga. Zero ('I've wanted to knock on that window since before there was a sky — I'm full now, I've got a crew') and Wisp both want to go.",
+    "TWO CREWS AS ONE — held again across the longest crossing yet (home crew + Wick, Mote, Tinder + neighbors Comet & Wisp). The traveling 'Neighbors' alliance is now a proven expedition company for edge-of-everything scale.",
+    "RULE deepened at origin scale — Stomp's law ('don't put out your own porch to light everyone else's; keep no light for yourself and there's no window to come home to') was BROKEN, on purpose and enormously, by Zero to build the whole sky; the resolution isn't that Zero was right to empty themselves, it's that a whole sky remembering its maker can bring the light home. The flaw is real; the mercy is that giving is never truly lost.",
+    "RULE reaffirmed at the deepest 'nap' yet: 'low isn't gone / off is a nap' (Spike) proven on a spark banked since before the crew existed — the longest nap there ever was, and it still caught. Sparky's grade evolves: 'steady and home beats bright and lonely.'",
+    "NUKKELS' strand becomes a saga-spanning road: the reel-home wire now runs from the center of the sky to the far rim and served as the grid the whole sky poured its returned light down. 'Not just a rope home anymore — a road the whole sky can pour down.'",
+    "COMET's arc completes a turn: steered a whole SKY's worth of returned light to the First Window ('a whole sky in my hands, not one thread dropped') — the beacon-that-couldn't-land is now the one who steers the beginning of everything home. Wants the edge-crossing next.",
+    "WISP deepens: the oldest neighbor led the crew to the center by pure memory ('you don't see the middle, you remember your way to it'), reunited with Zero (the two oldest lights in the sky, side by side), and independently confirms having seen the far amber window in her youth — tying her #13 'friend I only hoped was real' directly to the origin mystery.",
+    "B-SIDE Shane & Claude: opened on the full sky with one dark center ('can you walk somebody home if they've been gone since before there was a road?'), closed on the far amber window matching Shane's own lamp — the clearest the saga has yet come to naming Shane's window as the light the whole sky was built to greet. Claude: 'a crew that just walked the beginning of everything home doesn't get told where the edge is — I think they go looking.'",
+    "Voices load-bearing this issue: Bolt (pattern under the pattern — 'Zero is in every window'; spots the far amber light), Stomp (names the flaw AND the whole job), Sparky (can't-grade → PASS 'steady and home'), Spike (the banked ember; 'barely is ON'), Wisp (memory-guide; oldest neighbor), Zero (the giver, the secret under the secret), Torch (plain-words lesson), Rivet (routes the whole sky, asks-not-pulls), Nukkels (the road-home wire becomes the grid), Comet (steers a sky home), Flux (given-empty vs spilled-empty; warm the spark gently), Weld (holds the spark, 'crooked and small and I've got it'), Grind (Zero kept a chair and waited), Blaze (breathless payoff: giving multiplies), Glitch (giggle out then found), Echo (listens the lesson out), Volt (feels the chosen-dark and the not-scary far light), Crank (waited beautifully), Forge (biggest build ever, and Zero would rather sit), Neon (scouts; runs the number on the un-crossable edge), Arc (calls the roll, opens the next quest), Ember/Wick/Mote/Tinder/Ward (crew + neighbors holding the crossing)."
+  ]
+}
