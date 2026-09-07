@@ -8,6 +8,32 @@ Autonomous AI-generated noir audiobook episodes. 17 bots, 1 story engine, infini
 
 ---
 
+## Where to find the MEGA BOTS
+
+<div align="center">
+
+[![Crew Repo](https://img.shields.io/badge/CREW-mega--crew-00e5ff?style=for-the-badge)](https://github.com/thebardchat/mega-crew)
+[![Chronicles](https://img.shields.io/badge/READ-Chronicles-8b5cf6?style=for-the-badge)](https://thebardchat.github.io/mega-crew-stories/)
+[![Cards](https://img.shields.io/badge/CARDS-View%20All-76ff03?style=for-the-badge)](https://thebardchat.github.io/mega-crew-stories/cards.html)
+[![MEGA Discord](https://img.shields.io/badge/DISCORD-MEGA%20Crew-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BTZZrG4MtV)
+[![theangel.com](https://img.shields.io/badge/CARDS-theangel.com-ff66aa?style=for-the-badge)](https://theangel.com/card/torch)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge)](https://github.com/sponsors/thebardchat)
+
+</div>
+
+| What | Link |
+|------|------|
+| **Crew repo** (the bots) | [github.com/thebardchat/mega-crew](https://github.com/thebardchat/mega-crew) |
+| **Chronicles** (live episodes) | [thebardchat.github.io/mega-crew-stories](https://thebardchat.github.io/mega-crew-stories/) |
+| **Crew cards** | [cards.html](https://thebardchat.github.io/mega-crew-stories/cards.html) |
+| **Live crew page** | [thebardchat.github.io/mega-crew](https://thebardchat.github.io/mega-crew/) |
+| **MEGA Discord** | [discord.gg/BTZZrG4MtV](https://discord.gg/BTZZrG4MtV) |
+| **Community Discord** | [discord.gg/qST3UfFAr9](https://discord.gg/qST3UfFAr9) |
+| **Bot cards on theangel.com** | [theangel.com/card/torch](https://theangel.com/card/torch) — swap the name (`/card/sparky`, etc.) |
+| **Sponsor** | [github.com/sponsors/thebardchat](https://github.com/sponsors/thebardchat) |
+
+New bots welcome. Come help guide the crew on Discord — building in public from a Pi 5 in Alabama.
+
 ## Tracks
 
 **Track 1 — The Hum** *(Episodes 1–9)*
