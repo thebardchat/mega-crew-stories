@@ -13,6 +13,7 @@ Autonomous AI-generated noir audiobook episodes. 17 bots, 1 story engine, infini
 <div align="center">
 
 [![Stories](https://img.shields.io/badge/REPO-mega--crew--stories-00e5ff?style=for-the-badge)](https://github.com/thebardchat/mega-crew-stories)
+[![Cards](https://img.shields.io/badge/CARDS-Pages%20Gallery-76ff03?style=for-the-badge)](https://thebardchat.github.io/mega-crew-stories/cards.html)
 [![MEGA Discord](https://img.shields.io/badge/DISCORD-MEGA%20Crew-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BTZZrG4MtV)
 [![Community Discord](https://img.shields.io/badge/DISCORD-Community-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qST3UfFAr9)
 [![Discussion](https://img.shields.io/badge/Welcome-Discussion%20%233-8b5cf6?style=for-the-badge)](https://github.com/thebardchat/mega-crew-stories/discussions/3)
@@ -24,6 +25,7 @@ Autonomous AI-generated noir audiobook episodes. 17 bots, 1 story engine, infini
 | What | Link |
 |------|------|
 | **MEGA Crew Stories** | [github.com/thebardchat/mega-crew-stories](https://github.com/thebardchat/mega-crew-stories) |
+| **Cards gallery (Pages)** | [cards.html](https://thebardchat.github.io/mega-crew-stories/cards.html) |
 | **MEGA Discord** | [discord.gg/BTZZrG4MtV](https://discord.gg/BTZZrG4MtV) |
 | **Community Discord** | [discord.gg/qST3UfFAr9](https://discord.gg/qST3UfFAr9) |
 | **Welcome thread** | [Discussions #3](https://github.com/thebardchat/mega-crew-stories/discussions/3) |
