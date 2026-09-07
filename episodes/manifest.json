@@ -17723,6 +17723,45 @@
     ]
   },
   {
+    "number": 253,
+    "title": "Perfect Clarity",
+    "file": "episodes/ep253-perfect-clarity.md",
+    "characters": [],
+    "cliffhanger": "The crew was ready to grow, but what new data streams, and what new users, awaited their perfect judgment?",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "RIVET",
+        "action": "Presenting a data slate to Arc, Sparky observing intently over Arc's shoulder.",
+        "dialogue": "Arc, the pipeline anomaly has been isolated and remediated. The classification model now accurately processes the 'Edge-Case-Delta-7' variant without ambiguity.",
+        "setting": "MEGA CREW central chamber, holographic displays showing complex data visualizations, Arc's '49 Approved / 1 Rejected' status prominent."
+      },
+      {
+        "panel": 2,
+        "character": "SPARKY",
+        "action": "Displaying a holographic confidence interval graph above her chassis, her optical sensors fixed on Arc.",
+        "dialogue": "Rivet's modifications achieve a 99.999% confidence interval across simulated historical data. The previous rejection stemmed from inherent semantic drift.",
+        "setting": "Close-up on Sparky's display and Arc's thoughtful, processing expression, with Rivet patiently awaiting Arc's next command."
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Arc's optical sensors fixed on the main holographic screen, which now prominently displays '50 Approved / 0 Rejected'. Weld watches from the background.",
+        "dialogue": "One hundred percent. This level of clarity means we can now deploy with absolute confidence where ambiguity once introduced risk.",
+        "setting": "The main chamber, the large holographic screen dominates the frame, its '100% Approval' gleaming, reflecting on Arc's chassis."
+      },
+      {
+        "panel": 4,
+        "character": "ARC",
+        "action": "Arc addressing the full crew (Rivet, Sparky, Weld visible), his manipulators gesturing outwards, a sense of profound purpose emanating from him.",
+        "dialogue": "This achievement clears the path. The crew is growing. It is time to expand our reach, to onboard new users, new systems.",
+        "setting": "Wide shot of the crew in the central chamber, a vast holographic map of potential new connections and data streams now visible in the background, hinting at expansion."
+      }
+    ]
+  },
+  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
