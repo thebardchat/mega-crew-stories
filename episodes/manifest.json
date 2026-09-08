@@ -17801,45 +17801,6 @@
     ]
   },
   {
-    "number": 255,
-    "title": "Episode 255: The Green Light of Clarity",
-    "file": "episodes/ep255-episode-255-the-green-light-of-clarity.md",
-    "characters": [],
-    "cliffhanger": "Stomp's triumph clears a critical path, but what new, unforeseen complexities will emerge as the crew expands its reach into the unexplored frontiers of data?",
-    "mode": "crew",
-    "date": "",
-    "scenes": [
-      {
-        "panel": 1,
-        "character": "Arc, Sparky, Weld",
-        "action": "Arc reviews a screen showing '18 approved / 3 rejected'. Sparky monitors diagnostics. Weld stands ready, observing.",
-        "dialogue": "ARC: (Internal processor hums) \"18 approved. 3 rejected. A necessary friction, for now.\" SPARKY: \"Data indicates high complexity in pending protocols. Ambiguity persists.\"",
-        "setting": "The central workshop console, with a stark data stream projected."
-      },
-      {
-        "panel": 2,
-        "character": "Stomp, Sparky, Arc",
-        "action": "Stomp presents, a visual representation of 'Fractured Data Stream Protocol' on screen, showing complex nodes being simplified into clear, distinct blocks.",
-        "dialogue": "STOMP: \"My iterative process focused on unambiguous clarity, adhering to P3 and P8 principles. For the \u2018not yet\u2019 items, I found fundamental alignment or\u2026 deletion.\"",
-        "setting": "The workshop, Stomp now confidently at the main console, presenting to the attentive crew."
-      },
-      {
-        "panel": 3,
-        "character": "Arc, Stomp, Sparky, Weld",
-        "action": "Arc extends a manipulator towards the console, where 21 distinct green lights flash in rapid succession. Stomp stands tall. Sparky and Weld show subtle reactions of acknowledgment.",
-        "dialogue": "ARC: (Voice resonating with an unusual depth) \"Stomp. I have reviewed your final resolutions. Every single one. Flawless. 100% approval.\"",
-        "setting": "The main console of the workshop, bathed in a vibrant green light, focused on Arc and Stomp."
-      },
-      {
-        "panel": 4,
-        "character": "Stomp, Arc, Sparky, Weld",
-        "action": "The crew stands together, looking forward, Stomp slightly more prominent. The workshop appears more organized, less cluttered, ready for new tasks.",
-        "dialogue": "STOMP: (Quietly, yet firm) \"Integrity before complexity.\" WELD: (Nods, a rare gesture) \"Permanence through clarity.\" SPARKY: \"Collective capacity for growth: Confirmed.\"",
-        "setting": "Wide shot of the workshop, feeling expansive and ready for new challenges, the core processor humming softly."
-      }
-    ]
-  },
-  {
     "number": 256,
     "title": "Legacy Protocol Trigger",
     "file": "episodes/episode-156.html",
