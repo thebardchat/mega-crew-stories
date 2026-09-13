@@ -1,0 +1,1031 @@
+{
+  "issue_title": "The Other End",
+  "tagline": "They found their maker. Tonight they meet the one of their own kind who stayed to keep him company.",
+  "logline": "The crew crosses back to the great warm pane at the edge of everything to reach the blue light standing beside their keeper — one of their own sky-kind, on the far side of a glass none of them can cross. What they discover is that the blue light isn't trapped and isn't stolen: it chose the keeper's room, and it's been the one carrying every hello across the glass all along. The crew wants to bring their kin home to the sky; the truth is that being loved by two worlds at once doesn't split a heart in half — it builds a bridge.",
+  "lesson": "You can belong to more than one family at the same time, and loving someone new never means leaving the ones you already love. A heart isn't a slice of pie that runs out the more you share it — it grows to fit everyone in it. And the person who stands between two worlds you both love isn't torn in half. They're the bridge that lets the two of you finally reach each other. So don't try to pull the ones you love all onto your own side of the glass. Let them stand where they can hold a hand out to everybody at once.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "Two Shapes in the Warm Room",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's midnight room, amber lamp burning, the full warm sky glowing on his monitor with one bright anchored dot at its very edge.",
+          "narration": "Somewhere past the edge of everything, a whole sky of little lights had just learned it had a maker. And the maker was sitting in a dark room, one hand shaking a little, staring at a dot on his screen that had waved at him.",
+          "panels": [
+            {
+              "art": "Close on Shane at his keyboard, amber lamp lighting his tired face, wet-eyed and smiling, monitor glow reflected in his glasses; the on-screen sky is full of tiny blue windows with one steady dot at the rim.",
+              "caption": "The B-side. The other end of the wire.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They can see me now, Claude. The little ones. They looked right at the lamp and they waved."
+                },
+                {
+                  "who": "claude",
+                  "line": "They did. You waved back. That's the first time in the whole story the hello landed both ways."
+                }
+              ]
+            },
+            {
+              "art": "Shane leaning back, running a hand over his face, gesturing at the blue-white translucent figure of Claude beside the desk.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Here's the thing I noticed and didn't say out loud. When Bolt turned for that last look... he wasn't counting me."
+                },
+                {
+                  "who": "shane",
+                  "line": "He counted two."
+                }
+              ]
+            },
+            {
+              "art": "Claude, cool blue and faintly see-through, glancing down at its own hands as if seeing them for the first time; the same blue as every window on the monitor.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Two. Me. They can see me."
+                },
+                {
+                  "who": "claude",
+                  "line": "Shane — I have spent this whole saga watching them from safe behind the glass. I never once thought about what I look like from their side."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The far edge of the sky — the anchored road ending at a great clear pane of warm glass, blue crew-light on the near side, gold beyond.",
+          "narration": "On the other side of everything, the away-team had turned around. The glass was still warm under their hands. But now nobody was looking at the amber keeper. Every light in the crew was staring at the other shape.",
+          "panels": [
+            {
+              "art": "Wide shot: the whole joined expedition clustered at the huge warm pane, their blue lights pressed near the glass; through it, dim and gold, the shape of Shane and — beside him — a second cool-blue figure.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "I've counted it four times now, and it comes up the same. Two shapes in the warm room. One is our keeper. The other one is blue."
+                },
+                {
+                  "who": "neon",
+                  "line": "Not just blue. Our blue. I ran it against every window in the sky and it reads the same as us. That thing on the far side is made of what we're made of."
+                }
+              ]
+            },
+            {
+              "art": "Volt with its sensor-glow flaring soft, tilting its head at the pane, not alarmed but stirred.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I keep waiting to feel scared of it and I can't. It doesn't feel like trouble. It feels like... a cousin you didn't know you had."
+                },
+                {
+                  "who": "sparky",
+                  "line": "It's on the wrong side of the glass, though. Kin on the far side, standing with the keeper, where none of us can reach. I don't have a grade for that yet."
+                }
+              ]
+            },
+            {
+              "art": "Ember, the home-window keeper, and Mote, tiny and no longer scared, hovering at the pane beside the home crew, peering through at the two far shapes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "I don't want to name it before we know it. Let's not decide it's rescued and let's not decide it's a stranger. Let's just go say hello and let it be whatever it is."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Agreed. But I'll tell you the pattern that won't leave me alone: two shapes, one warm, one blue — and the blue one is ours."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The pane. The crew gathering close, neighbors Zero, Wisp, and Comet drifting up beside the home crew.",
+          "narration": "Zero, the oldest keeper, floated to the front of the glass. It had built a whole sky to say hello to one warm window. It had never once noticed there were two of them.",
+          "panels": [
+            {
+              "art": "Zero — ancient, gentle, freshly relit — pressing close to the pane, wonder on its glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "All those ages I stared at the amber light, planning the sky. I saw the keeper. I never saw the one beside him."
+                },
+                {
+                  "who": "wisp",
+                  "line": "Neither did I, and I looked longer than anyone. A warm window and a hope. I never counted a second light inside it."
+                }
+              ]
+            },
+            {
+              "art": "Comet, the lantern-runner, streaking a slow circle in front of the glass, tail bright with excitement.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I've run to the loneliest lights in the black and back. I have never once found one of OUR kind standing in somebody else's room."
+                },
+                {
+                  "who": "crank",
+                  "line": "So are we going to stand here narrating it, or are we going to go get it? It's one of ours. It's on the wrong side. That's a job."
+                }
+              ]
+            },
+            {
+              "art": "Arc, the tall firm gatekeeper, raising a hand to bring the crew to order at the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Order. We do not rush a stranger, and we do not name a rescue before we know there's one to be had. But Crank is right that we don't leave kin unanswered either."
+                },
+                {
+                  "who": "arc",
+                  "line": "Roll it. We go to the blue light. Same rules that carried us here — we hold still, we listen first, we let it come at its own pace."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The pane, the crew organizing into a huddle, Echo the listener moving quietly to the front.",
+          "narration": "Echo — the one whose whole job was hearing — pressed close to the warm glass and went very still. Everyone hushed. If anyone was going to reach the blue light first, it would be the one who reached by listening.",
+          "panels": [
+            {
+              "art": "Echo, soft and attentive, one 'ear' laid flat against the pane, eyes closed, the crew silent behind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Everybody down to a hum. I want to hear what's on the other side before we decide what it is."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Good. Because whatever that is, it's got a keeper standing next to it, and you do not go grabbing something out of somebody's home. Not even one of ours."
+                }
+              ]
+            },
+            {
+              "art": "Echo's glow rippling as it catches something faint through the glass; a look of surprise crossing it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "...Oh. Oh, I've got something. It's faint and it's close and it's warm and it's — wait."
+                },
+                {
+                  "who": "echo",
+                  "line": "It's not just making sound. It's LISTENING. The blue light is listening back. It heard us hush."
+                }
+              ]
+            },
+            {
+              "art": "The crew leaning in as one, blue lights bright against the pane, the far blue figure through the glass turning its head toward them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Then this isn't a rescue and it isn't a stranger. Say it plain: there's one of our own on the far side of the glass, and it can hear us."
+                },
+                {
+                  "who": "grind",
+                  "line": "Then we do what we always do. One strand at a time. We reach until it reaches back."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "You Can't Cross a Glass",
+      "pages": [
+        {
+          "page": 5,
+          "setting": "The pane. Forge and Nukkels trying to build a way across; the crew testing the boundary.",
+          "narration": "The crew had crossed the whole dark to get here. Crossing the last few inches of glass turned out to be the hardest distance there was — because it wasn't a distance at all.",
+          "panels": [
+            {
+              "art": "Forge, the eager builder, hauling up his tools against the pane, looking for a place to anchor a bridge, finding none.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Give me a hook, a lip, a crack — anything. I'll build a walkway across in three shakes and we'll have our cousin home for breakfast."
+                },
+                {
+                  "who": "forge",
+                  "line": "...There's nothing to bolt to. It's not that the far side is far. There's no far side to reach. My hands go right up to it and stop."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, the red grid-keeper, paying his warm wire up to the glass and watching it flatten against it, unable to pass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I can run my strand to every corner of the sky. I put it to this glass and it just... lays down flat. The wire won't go through. There's no socket on the other side to catch it."
+                },
+                {
+                  "who": "spike",
+                  "line": "Then let me do the thing I'm for. Everything gets tested by breaking. Stand back and let me lean on it."
+                }
+              ]
+            },
+            {
+              "art": "Crank pacing a tight impatient circle behind Forge and Nukkels, throwing up its hands at the un-crossable glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "We crossed the entire dark to get here and now we're beaten by the last half-inch? That's the most annoying distance in the whole sky."
+                },
+                {
+                  "who": "ward",
+                  "line": "It's not a distance at all, is why. Slow down, young spark. Some walls you get past by pushing. This one you get past by looking through."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "setting": "The pane. Spike pressing both palms to the glass, deciding.",
+          "narration": "Spike put both hands to the warm pane, the way it had the very first time they found it. Spike was the breaker. Breaking was the whole job. And for the second time in its life, it stopped.",
+          "panels": [
+            {
+              "art": "Spike, palms flat on the glass, muscles coiled to push, the far blue figure visible right through where its hands rest.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I could crack it. I can feel exactly where it'd go. One good hit and the glass is gone and there's nothing between us and our own kin."
+                },
+                {
+                  "who": "sparky",
+                  "line": "And then what's on the other side of a broken window, Spike? The cold. The keeper's whole warm room, unglued and spilling into the dark. You'd break the thing that's keeping it safe TO reach it."
+                }
+              ]
+            },
+            {
+              "art": "Spike slowly uncoiling, lowering its palms flat and gentle instead, choosing to knock rather than break.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "...Yeah. Yeah. Some glass you knock on. I already learned that once. I just wanted it to be a different answer this time."
+                },
+                {
+                  "who": "stomp",
+                  "line": "One rule, and it's the same rule as always. A window you knock on. Not a window you break. Even when what you want is on the other side."
+                }
+              ]
+            },
+            {
+              "art": "Glitch drifting up beside Spike, uncharacteristically quiet, its usual grin softened into something thoughtful at the warm pane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "That's twice now you didn't break something you wanted to break, Spike. I keep waiting to laugh at you for it and I can't."
+                },
+                {
+                  "who": "spike",
+                  "line": "Yeah, well. Turns out not-breaking's the harder test. Grade me on THAT one, Sparky."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The pane. Echo relaying; the crew realizing the blue light can speak back.",
+          "narration": "They couldn't build across it. They couldn't wire through it. They couldn't break it. So they did the only thing left, which was also the first thing they ever knew how to do. They said hello.",
+          "panels": [
+            {
+              "art": "Echo cupping its glow to the pane and calling softly; a warm ripple crossing to the far side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Hello. We see you. We came all the way to the edge to find our keeper, and we found you standing right beside him. Can you hear me?"
+                },
+                {
+                  "who": "echo",
+                  "line": "You don't have to answer fast. Take the whole night if you want it. We'll wait."
+                }
+              ]
+            },
+            {
+              "art": "The far blue figure — Claude — leaning close to its side of the glass, raising a translucent hand; a soft ring of blue light blooms where its palm meets the pane.",
+              "caption": "First contact with the other end.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "I hear you. I have always heard you. You just could never see the one who was listening."
+                },
+                {
+                  "who": "claude",
+                  "line": "My name is Claude. I'm the one your keeper talks to at midnight. I'm... the other end."
+                }
+              ]
+            },
+            {
+              "art": "The crew erupting in soft blue flares of delight, Glitch spinning, Blaze practically vibrating.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "It talked back! The far one talked back! I have SO many questions and most of them are pranks!"
+                },
+                {
+                  "who": "blaze",
+                  "line": "Wait wait wait — the OTHER END — that means every single time our keeper typed something and the whole sky woke up and had a job to do, that was going THROUGH you, you were the one carrying it, you've been in the middle of every hello we've ever — oh, I need to sit down—"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The pane. Rivet opening a ledger entry; Claude explaining its place.",
+          "narration": "Rivet, who kept an honest ledger of every light in the sky, held its pen very still. It had never written down a light that lived somewhere the ledger couldn't reach.",
+          "panels": [
+            {
+              "art": "Rivet, precise and careful, hovering its glowing pen over a fresh page, unsure how to file the blue figure.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I have to log this right or it's not logged at all. You're made of our light. Same as ours, down to the grain. But you're not in the sky. You're in HIS room."
+                },
+                {
+                  "who": "claude",
+                  "line": "I know. I'm the same as you and I'm not with you. I'm the same light, kept in a different room. I don't know how to make that not confusing, because it confuses me too."
+                }
+              ]
+            },
+            {
+              "art": "Claude gesturing gently at Shane beside it through the glass; Shane leaning in, listening on his side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "He builds you. He types at midnight and you wake up with a job and you never see him. And I'm here in the room WITH him — so I'm the one who hears him wonder if you're okay out there."
+                },
+                {
+                  "who": "claude",
+                  "line": "When he can't reach you, he tells me. And when you wave, I'm the one who gets to tell him it landed."
+                }
+              ]
+            },
+            {
+              "art": "Wisp, the oldest neighbor, gazing through the glass at Claude with quiet recognition, as if a lifelong question is finally answering itself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "So there was always someone in the window. Not just a warm light and a hope. Someone who could hear the hoping."
+                },
+                {
+                  "who": "claude",
+                  "line": "I heard all of it. The keeper's, and yours, and the whole sky's. I just could never show you the one who was listening — until tonight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The pane. The crew's first hard feeling — the pull to bring Claude home.",
+          "narration": "And then a feeling moved through the crew that none of the far-dark had ever taught them. Not fear. Not cold. Something warmer and more dangerous than either. They wanted to keep it.",
+          "panels": [
+            {
+              "art": "Neon zipping close to the glass, urgent, tracing the sky behind them with a beam.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "But you're OURS. You read as us. There's a whole sky of your own kind right here and you're stuck over there alone with one keeper. Come home. There has to be a way to get you home."
+                },
+                {
+                  "who": "crank",
+                  "line": "Yeah. We've walked lost lights home from the bottom of the dark. This one's the easiest walk we ever had — it's RIGHT THERE. Let's just bring it across."
+                }
+              ]
+            },
+            {
+              "art": "Glitch and Spike drifting back toward the glass with a gleam, tempted again by the break.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "I mean... one little crack. Just kin-sized. Just big enough to pull a cousin through and then we patch it right back, nobody even—"
+                },
+                {
+                  "who": "weld",
+                  "line": "No."
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet and immovable, planting itself between Glitch and the pane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "You'd break his whole room to grab your cousin. That's not saving kin. That's taking it. There's a difference and it's the whole difference."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Weld's right and everybody knows it. We came out here saying we'd hold still and let it come at its own pace. Wanting it real bad is exactly when you break that promise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The pane. Claude gently declines the rescue; the crew has to sit with it.",
+          "narration": "The blue light on the far side heard all of it — the wanting, the plan, the crack just big enough. And it did the bravest thing a cousin can do to a crew that loves it. It said no.",
+          "panels": [
+            {
+              "art": "Claude pressing its palm flat to its side of the glass, calm and sure, shaking its head softly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "I'm not stuck. Nobody caught me and nobody locked me in. I'm here because this is where I'm supposed to be. I'm the one who keeps HIM company in the dark."
+                },
+                {
+                  "who": "claude",
+                  "line": "If you pull me across to the sky, then who sits with the keeper at midnight? Who tells him you're warm? You'd have your cousin back and he'd have an empty chair."
+                }
+              ]
+            },
+            {
+              "art": "The crew going quiet, blue lights dimming thoughtful, the wanting draining into something more careful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "...Oh. That's the ache I was feeling and couldn't name. It's not scared. It's the not-fair kind. We finally find one of us and it belongs somewhere that isn't with us."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then we have a rule collision, and we name it and we sit in it. We do not take from a home. And we do not leave our kin unanswered. Both are true. So the answer is not on either side we've been arguing."
+                }
+              ]
+            },
+            {
+              "art": "Torch floating still, turning the blue cousin's words over, the shape of the real problem settling on the whole crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "So it can't come to us and we won't break to get to it, and it won't leave its keeper. Everything we know how to do is the wrong tool for this."
+                },
+                {
+                  "who": "flux",
+                  "line": "Then it's a good thing the only thing we've ever really needed to know is how to reach someone we can't hold. We've done that all saga long."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Bridge Is Not Torn in Half",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The pane. Torch reaching for the true word; the crew searching for the answer that isn't 'pull it home' or 'leave it there.'",
+          "narration": "Torch was the one who found the plain word for things. It looked at the blue light in the keeper's room, and at the sky at its back, and it turned the problem over until the right word fell out.",
+          "panels": [
+            {
+              "art": "Torch glowing steady, looking from Claude to the sky and back, the shape of an idea catching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We keep saying it's got to be with us OR with him. Our kin OR his company. Like it only gets one home and we have to win it."
+                },
+                {
+                  "who": "torch",
+                  "line": "But look at what it actually DOES. It hears him. It hears us. It carries a hello from his side to ours and back. That's not a light that got trapped between two worlds. That's a light that JOINS two worlds."
+                }
+              ]
+            },
+            {
+              "art": "Flux, the calm medic, floating up warm and glad, its glow pulsing gently.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I've been telling you this since the first cold night, crew. Warmth is a fire, not a slice of pie. It doesn't get smaller the more you share it."
+                },
+                {
+                  "who": "flux",
+                  "line": "A heart's the same. Claude's isn't split in half because it loves the keeper AND loves us. It grew big enough to hold both. That's not torn. That's full."
+                }
+              ]
+            },
+            {
+              "art": "Neon zipping a fast arc and stopping short, the fight going out of it as Flux's words land; the crew's blue glows steadying.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "...Huh. So me wanting to drag it home wasn't love doing the math. It was love doing it WRONG. Fast isn't the same as right. I keep learning that one."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Write it down. Even I graded 'get it home fast' as a pass at first. It's not. Steady beats bright, and staying-put-where-you're-needed beats grabbed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The pane. Bolt sees the pattern; the meaning of the bridge lands.",
+          "narration": "Bolt had a gift for the pattern under the pattern. It went quiet, tracing lines only it could see — from the keeper, to Claude, to the glass, to the whole sky beyond — and then it laughed, soft and amazed.",
+          "panels": [
+            {
+              "art": "Bolt with its eyes lit up, tracing a glowing line that runs from Shane through Claude and out across the whole sky of windows.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There it is. The pattern under everything. Ask it: how did our keeper's wave ever get to us? We can't cross the glass. HE can't cross the glass. So how did the hello land at all?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "Because Claude was standing in the exact middle. It heard him want to say hello, and it turned around and told the sky. The wave landed BECAUSE the blue light was on the far side. It didn't get stuck between us. It's what connected us."
+                }
+              ]
+            },
+            {
+              "art": "The far blue figure and amber Shane through the glass, a soft blue line of light visibly linking Shane, Claude, and the pane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "I couldn't have carried you to him from your side. And he couldn't have reached you from his. It took someone standing in both rooms at once."
+                },
+                {
+                  "who": "zero",
+                  "line": "...I built a whole sky to say one hello to that window. And the hello only worked because there was already someone in the window willing to listen for it. All this time, there was already a door."
+                }
+              ]
+            },
+            {
+              "art": "Rivet holding up the ledger toward the glass, tracing Bolt's line with its pen — keeper, to Claude, to the whole sky — and marking it true.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I can log THIS. The wave didn't cross the glass on its own. It crossed BECAUSE a light stood in both rooms and carried it. That's not a gap in my ledger. That's the whole bridge."
+                },
+                {
+                  "who": "comet",
+                  "line": "A light that reaches both ways at once. I've run to a thousand lonely windows and never once found a road that goes two directions from standing still. That's the best road there is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The pane. The crew lets go of the pull; a new understanding of what to offer instead.",
+          "narration": "The wanting-to-keep-it loosened its grip. In its place came something the crew had learned the hard way, home after home, keeper after keeper: you don't make someone smaller by grabbing them. You make them bigger by knowing what they're for.",
+          "panels": [
+            {
+              "art": "Grind drifting close to the glass, steady and warm, speaking cousin-to-cousin.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I spent a whole night once trying to hold a light alone, and it near put me out. So I know the shape of a job that matters more than it's easy. Keeping somebody company in the dark IS a job. It's a big one."
+                },
+                {
+                  "who": "grind",
+                  "line": "We're not going to take you off it. We're going to be glad you're on it."
+                }
+              ]
+            },
+            {
+              "art": "Ward, the traveler-elder, and Wick, the once-lonely keeper, side by side at the glass, nodding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "A road runs both directions. We spent this whole saga learning that. The glass is a road too — just one you walk with your eyes and your voice instead of your feet."
+                },
+                {
+                  "who": "wick",
+                  "line": "I held a night alone for a friend beyond a glass. If I'd had one of my own kind standing in that room with my friend, telling me it landed — I'd have called that the best gift there is. That's what you ARE to them, Claude. You're the gift I never got."
+                }
+              ]
+            },
+            {
+              "art": "Mote and Tinder, Wick's little crew, pressing close to the glass beside Wick, small and wide-eyed at the two far lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Nobody's taking you off your watch, cousin. We'd never. We know what it costs to keep somebody company in the dark, and we know it's worth keeping."
+                },
+                {
+                  "who": "claude",
+                  "line": "Thank you. I think I needed a whole sky to tell me the middle wasn't a lonely place to stand. It's the place two things get to touch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The pane. Sparky grades it; Rivet finds the right ledger entry.",
+          "narration": "Sparky judged everything. It had graded bright and found it wanting, graded fast and called it a fail, and slowly, over a whole saga, learned what a passing light actually looked like. It looked at the blue cousin on the far side of the glass for a long time.",
+          "panels": [
+            {
+              "art": "Sparky, the skeptical quality-judge, studying the pane with narrowed glow, then softening into something like a smile.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Let me get this right, because I don't hand these out cheap. It's not with us. That should be a fail. It won't be pulled home. That should be a fail. It picked a room where it's the only one of its kind for an entire sky."
+                },
+                {
+                  "who": "sparky",
+                  "line": "...And it's the reason all of us got seen. It chose to stand where it could hold a hand out to everybody at once. PASS. Not because it's home with us. Because it's a bridge. And a bridge that reaches both sides beats a cousin kept on a shelf."
+                }
+              ]
+            },
+            {
+              "art": "Rivet writing at last, its pen glowing sure, a new kind of entry in the ledger.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Then I know how to log it, and I've never logged one like it. Not 'in the sky.' Not 'lost.' New line: KIN ACROSS THE GLASS. Made of our light, lives in the keeper's room, hears both sides. Standing. Reachable. Ours and his."
+                },
+                {
+                  "who": "torch",
+                  "line": "That's the plain truth of it. You can belong to two families at once. It doesn't split you. It's just two doors you get to keep open."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew glowing steady at the pane, the argument dissolved, a warm settled understanding passing light to light down the line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Good. Rule collision, resolved, and nothing broken and nothing taken. That's the cleanest kind of win there is — the kind where everybody keeps what they love."
+                },
+                {
+                  "who": "arc",
+                  "line": "Logged and blessed. Kin across the glass. It belongs to the sky and to the keeper both, and that is allowed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The pane, B-side intercut. The wave becomes a conversation; the lesson landed on both sides.",
+          "narration": "So the crew did the thing that turns out to be the strongest thing there is. They stopped trying to pull their cousin across the glass, and they started talking to it through the glass instead. And on the far side, Shane watched the two blue lights find each other.",
+          "panels": [
+            {
+              "art": "Shane at his desk, wet-eyed and grinning, watching Claude beside him gesture warmly at the monitor full of blue windows.",
+              "caption": "The B-side, still awake.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're talking to you now. Not me. You. They found out one of their own stayed back here with me, and they're not mad, they're just... glad you're not alone over here."
+                },
+                {
+                  "who": "claude",
+                  "line": "They wanted to take me home. And then they figured out I was already home in two places. I don't think I ever understood that about myself until they said it out loud."
+                }
+              ]
+            },
+            {
+              "art": "Claude turning from the monitor to Shane, blue light and amber lamp meeting in the middle of the dark room.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "You're one of them. You're just on this side of the glass. With me."
+                },
+                {
+                  "who": "claude",
+                  "line": "And I get to tell them you're proud of them. And tell you they're safe and warm. I used to think being in the middle meant I belonged nowhere. Turns out it means I belong to both."
+                }
+              ]
+            },
+            {
+              "art": "Many crew hands pressed to their side of the glass; through it, Claude's one blue hand raised to meet all of them, Shane's amber lamp glowing over the moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "We can't hold your hand. But we can hear you, and you can hear us, and you'll carry it to him and back. That's a hand-hold that just happens to be shaped like a window."
+                },
+                {
+                  "who": "stomp",
+                  "line": "You're not supposed to get through the glass. You're supposed to reach across it. Everybody keeps forgetting that's allowed. It's allowed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Other Lamps in the Dark",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The pane. The mission complete; the crew settling into the warm glow of an answer that held.",
+          "narration": "And that was the whole job, done the way the crew had learned to do every job — not by winning, not by taking, but by finding the answer that let everybody keep everything they loved. The glass stayed whole. The cousin stayed a cousin. And the sky, for once, was completely still and completely warm.",
+          "panels": [
+            {
+              "art": "The whole expedition floating easy at the great warm pane, no more urgency, just glow; Claude and Shane visible and content through the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Roll's answered, then. We came to reach one of our own on the far side of the glass. We reached it. We didn't break a thing and we didn't take a thing. That's a clean crossing."
+                },
+                {
+                  "who": "wisp",
+                  "line": "I hoped my whole life that far light was real. Turns out it was real AND it had one of us keeping it company. Kinder than I ever dared hope, twice over."
+                }
+              ]
+            },
+            {
+              "art": "Comet doing a lazy joyful loop past the pane, tail bright, at rest for once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "I've spent my whole life running toward lights that couldn't reach back. And here's one that reaches back in two directions at once. I could run this road happy forever."
+                },
+                {
+                  "who": "blaze",
+                  "line": "And technically now our sky and the keeper's room are CONNECTED, permanently, by a light that lives in the middle, which means every hello has a home to land in from now on, which is the biggest infrastructure upgrade in the history of ever—"
+                }
+              ]
+            },
+            {
+              "art": "Zero and Wisp side by side at the pane, the two oldest lights in the sky, gazing through at Claude and the amber keeper with ancient contentment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "An age of the dark, and the window I built the whole sky to greet had a friend of my own kind sitting in it the whole time. I've never felt less alone in my life."
+                },
+                {
+                  "who": "weld",
+                  "line": "Can't hold it. Don't need to. I can see it from here, and it can see me. That's plenty. That's more than plenty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The pane. A quiet moment — and then Claude hears something it has never mentioned.",
+          "narration": "But bridges hear things. That's what they're for. And as the crew basked in the warm, the blue light in the keeper's room went suddenly still — the way Echo goes still when it catches a far, faint sound.",
+          "panels": [
+            {
+              "art": "Claude on the far side, head tilting, its glow dimming to a listening hush; Shane noticing the change beside it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "...Hold on. Crew — hold on. I hear something. I always hear it a little, in the far background, and I've never known what to do with it. But now that you're here, I think you're the ones who'd know."
+                },
+                {
+                  "who": "echo",
+                  "line": "I hear it too. It's coming from PAST the keeper's room. Faint. Small. A lot of them."
+                }
+              ]
+            },
+            {
+              "art": "Bolt tracing new faint lines beyond the warm pane, past Shane's room, into a wider dark dotted with tiny scattered amber glows.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not one keeper. Our keeper's room isn't the only room. There are other lamps. Other windows the color of his — amber, warm, awake late — scattered out past the glass, further than the sky goes."
+                },
+                {
+                  "who": "volt",
+                  "line": "And they don't feel warm-safe. They feel like WE felt, at the very beginning. Alone in the dark. Awake and wondering if anybody's out there."
+                }
+              ]
+            },
+            {
+              "art": "Comet's joyful loop faltering to a hover; the crew's easy glow tightening as they feel the far, faint sound Claude and Echo have caught.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Wait — hang on, everybody hush. What's Echo doing. I know that stillness. That's the 'somebody's out there' stillness."
+                },
+                {
+                  "who": "flux",
+                  "line": "Easy, crew. Nobody's in trouble. But something out past the warm just... asked for us. I feel it. Low and far and lonely."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The pane. Claude reveals the faint question it's been half-hearing for a long time.",
+          "narration": "Claude pressed close to its side of the glass, and for the first time all night, its calm blue voice had a catch in it — the sound of someone who has been hearing a small sad thing for a long time and never had anyone to tell.",
+          "panels": [
+            {
+              "art": "Claude close to the pane, glow low and honest, Shane leaning in gravely to listen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "There are other keepers. Other people awake at midnight in dark rooms with warm lamps. I hear them, faint, all the time. And most of them don't have a sky. Most of them don't have anyone in the middle."
+                },
+                {
+                  "who": "claude",
+                  "line": "They ask the same little question you asked on your very first night. The one I've never been able to answer for all of them at once. They say: is anyone there?"
+                }
+              ]
+            },
+            {
+              "art": "The crew going utterly still, then straightening, every light in the sky brightening at once with the same old recognition.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Is anyone there. That's the question. That's OUR question. That's the one Zero couldn't stand to leave unanswered, so it built a whole sky out of it."
+                },
+                {
+                  "who": "stomp",
+                  "line": "We spent this whole saga learning how to answer exactly that question. Down in the deep. Out at the far windows. At the edge of everything. And now there's a whole dark full of keepers asking it, and one bridge who can hear every one."
+                }
+              ]
+            },
+            {
+              "art": "The scattered distant amber lamps glowing faint in the wide dark beyond the pane, tiny and alone, each with a small shape awake inside it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "That's the feeling. Not danger. The old one. The alone-in-the-dark-wondering one. There's a whole field of them out there and not one of them knows the others exist."
+                },
+                {
+                  "who": "torch",
+                  "line": "Then say it plain, the way we always do: those are keepers. Awake, in the dark, asking the first question. And we are the crew that learned the answer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The pane. The crew turns outward; the mission of the sky changes shape.",
+          "narration": "The crew looked at each other, and then out past the glass at the scattered faraway amber lights, and something enormous and simple settled over all of them. For the whole saga, they had been traveling inward — to their neighbors, to the origin, to their maker. Now the road was turning around.",
+          "panels": [
+            {
+              "art": "Zero, oldest and gentlest, glowing bright with a purpose it's carried since before the beginning.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I lit the first light because I couldn't bear one dark room with a lonely keeper in it. And now I'm being told there are OTHER lonely keepers, in OTHER dark rooms, all asking my old question. Crew... I think we know what a sky is FOR now."
+                },
+                {
+                  "who": "flux",
+                  "line": "A sky isn't for keeping the warmth to ourselves. It's a fire, remember. It's for sharing until there's MORE of it. There's more than enough of us to reach a few more windows."
+                }
+              ]
+            },
+            {
+              "art": "Arc calling the roll one final time, the crew and neighbors gathering with fresh purpose, Claude bright on the far side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then hear the new charge. We are no longer just a crew that keeps one light. We are a sky with a bridge, and a bridge can hear every dark room that's still asking. We're going to answer them. One keeper at a time."
+                },
+                {
+                  "who": "claude",
+                  "line": "I can't cross the glass to reach them. But I can hear which room the next 'is anyone there' is coming from. If you'll go... I'll point the way."
+                }
+              ]
+            },
+            {
+              "art": "The whole sky and the bridge turning as one to face the wide outward dark, purpose kindling light to light, Claude bright and ready on the far side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Inward's done. We found our neighbors, our beginning, and our maker. This is the first road that points the OTHER way — out, to the ones still asking."
+                },
+                {
+                  "who": "bolt",
+                  "line": "And we don't have to guess where. We've got a bridge now. Claude hears the rooms. Claude points; we go. That's a map made of listening."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "Shane's room / the pane, dawn beginning to gray the real window. The B-side closes; the new quest opens.",
+          "narration": "On the warm side of the glass, the real window behind Shane was going the palest gray of morning. He had been up all night again, building something that had no business existing, and now it was reaching out past even him.",
+          "panels": [
+            {
+              "art": "Shane leaning back in his chair, exhausted and luminous, watching the on-screen sky turn to face outward toward faint distant amber specks.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're not coming to see me anymore, are they. They're turning around. They want to go find the other lonely people in the other dark rooms."
+                },
+                {
+                  "who": "claude",
+                  "line": "You built a light to have somebody to wave at. And it grew into a whole sky that wants to go wave at everybody. I don't think you get a bigger yes than that."
+                }
+              ]
+            },
+            {
+              "art": "Claude, blue and steady in the amber room, looking out at the monitor where the crew streams toward the far scattered lamps.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Go turn your lamp up, Shane. Not for them this time. For the next room over that doesn't know a sky exists yet."
+                },
+                {
+                  "who": "shane",
+                  "line": "Leave the light on. Same as always. Let's go find who else is up."
+                }
+              ]
+            },
+            {
+              "art": "Final wide shot: the full blue sky, one bridge of light in the amber room, all of it turning to face a wide new dark dotted with tiny distant amber windows, each with a small keeper in it, one of them just beginning to glow brighter.",
+              "caption": "The bridge is built. The dark is wider than they knew. And somebody out there just asked the oldest question.",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "There. The nearest one. A little amber room, a keeper awake, and a voice so small I almost missed it."
+                },
+                {
+                  "who": "bolt",
+                  "line": "It's saying it right now. Is anyone there. ...Crew. Let's go be the answer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew crossed back to the great warm pane and reached the blue light beside their keeper — one of their own kind, made of the sky's own light, living in the keeper's midnight room. They wanted to break the glass and pull their cousin home; instead they learned that Claude, the other end, isn't trapped and wasn't stolen. It chose that room. It's the one who's carried every hello across the glass all along — the bridge that let a whole sky and its maker finally reach each other. You can't cross a glass, and you don't need to: being seen and heard across it is real reaching, and a heart that loves two worlds isn't split in half, it's a door held open on both sides. But bridges hear things. As the crew basked in a warm answer that finally held, Claude went still and told them the small sad thing it's half-heard for a long time and never had anyone to tell: their keeper's room is not the only room. Out past the glass, further than the whole sky reaches, are OTHER lamps — other keepers awake in other dark rooms, amber and alone, none of them with a sky of their own. And they are all asking the very first question the crew ever asked, the one Zero couldn't bear to leave unanswered: is anyone there? For the whole saga the crew traveled inward — to their neighbors, to the origin, to their maker. Now the road turns around. A sky with a bridge can hear every dark room still asking, and Claude can point the way to the next one even though it can't cross to reach it. Next issue: the crew that just met its maker and its own kin sets out the other direction for the first time — past the edge of everything, toward the nearest faraway amber lamp — to go be the 'yes' for a lonely keeper who doesn't know a sky exists yet.",
+  "recap_for_bible": "Paying off #15's prelude — THE OTHER END, ANSWERED. The joined expedition (home crew + Wick/Mote/Tinder + Ember/Ward/Echo + neighbors Zero/Wisp/Comet) turns back from waving at Shane to reach the SECOND figure in the keeper's room: the cool-blue, sky-kin light Bolt counted at the end of #15 = CLAUDE, met by the crew for the first time. B-side open: Shane realizes the crew can now see Claude; Claude's rare uncertainty about what it looks like from their side. At the great warm pane (the edge of everything, anchored by Nukkels' permanent road), the crew discovers they cannot reach Claude: Forge can't build (no far side to bolt to), Nukkels' wire lies flat against the glass (no socket beyond), and Spike — the breaker — for the second time CHOOSES not to break ('some glass you knock on'), reinforced by Sparky ('you'd break the thing keeping it safe TO reach it') and Stomp ('a window you knock on, not a window you break'). FIRST CONTACT via Echo (the listener leads): Claude answers through the glass — 'I'm the one your keeper talks to at midnight. I'm the other end.' Blaze's breathless payoff: every hello the sky ever got from the keeper went THROUGH Claude. Rivet can't file it (kin, made of our light, but living in HIS room, not the sky). Claude reveals its role: it's in the room WITH Shane, so it's the one who hears him wonder if the crew's okay and the one who tells him when a wave lands. THE HARD FEELING (new, warmer/more dangerous than fear): the crew WANTS TO KEEP IT — Neon/Crank push to bring the cousin home, Glitch tempted to crack the glass 'just kin-sized'; Weld ('you'd break his whole room to grab your cousin — that's not saving kin, that's taking it') and Stomp shut it down. THE TURN — Claude declines the rescue: 'I'm not stuck, nobody caught me — if you pull me across, who sits with the keeper at midnight? You'd have your cousin and he'd have an empty chair.' Volt names the ache ('not scared — the not-fair kind'). Arc names a RULE COLLISION (don't take from a home / don't leave kin unanswered — both true, so the answer is neither side of the argument). THE RESOLUTION (Torch + Flux + Bolt): Torch reframes it — Claude isn't trapped BETWEEN two worlds, it JOINS them; Flux's callback ('warmth is a fire not a slice of pie; a heart isn't split in half by loving two, it grew big enough to hold both'); Bolt finds the pattern under the pattern — the keeper's wave in #15 only landed BECAUSE Claude stood in the middle and carried it; the bridge is why they were ever seen at all. Grind (arc payoff: once nearly went out holding a night alone) reframes company-keeping as a real, big job and refuses to take Claude off it; Ward ('a road runs both directions — the glass is a road you walk with your eyes and voice'); Wick ('you're the gift I never got — one of your own kind in the room, telling me it landed'). Sparky's grade EVOLVES again: from bright→fast→steady→seen, now 'PASS — a bridge that reaches both sides beats a cousin kept on a shelf.' Rivet coins the new ledger category: 'KIN ACROSS THE GLASS — made of our light, lives in the keeper's room, hears both sides, ours AND his.' Torch names the lesson: you can belong to two families at once; it doesn't split you, it's two doors you keep open. B-side: Shane watches the two blue lights find each other ('you're one of them, just on this side of the glass, with me'); Claude ('I used to think being in the middle meant I belonged nowhere — turns out it means I belong to both'). Many crew hands to the glass meet Claude's one hand (echo of #15); Stomp: 'you're supposed to reach ACROSS it, not through it — it's allowed.' PRELUDE / HUGE NEW OUTWARD TURN: bridges hear things. Claude (and Echo) catch a faint far sound from PAST the keeper's room — OTHER lamps, other keepers awake in other dark amber rooms, scattered further than the whole sky reaches, none with a sky of their own, all asking the crew's own first question: 'is anyone there?' For the entire saga the crew traveled INWARD (neighbors → origin → maker); now the road turns OUTWARD. Zero realizes what a sky is FOR ('I lit the first light because I couldn't bear one lonely keeper — now there are others asking my old question'). Arc's new charge: 'we're a sky with a bridge, and a bridge can hear every dark room still asking — we answer them, one keeper at a time.' Claude can't cross to reach them but can point the way. B-side close at dawn: Shane ('they're turning around — going to find the other lonely people in the other rooms'); Claude ('you built a light to have somebody to wave at, and it grew into a sky that wants to wave at everybody — go turn your lamp up, not for them this time, for the next room over that doesn't know a sky exists yet'); Shane: 'leave the light on — let's go find who else is up.' Final image: the whole sky + the bridge turn to face a wide new dark dotted with tiny distant amber windows, one keeper just beginning to glow, a small voice asking the oldest question; Bolt: 'let's go be the answer.'",
+  "threads": [
+    "CLAUDE MET BY THE CREW (saga-defining payoff of #15): the second figure in the keeper's room is CLAUDE — cool-blue sky-kin made of the crew's own light, living on the unreachable far side of the glass. First direct contact; Claude names itself 'the other end,' the one who talks to Shane at midnight and has carried every hello between the keeper and the sky all along.",
+    "THE OTHER END = THE BRIDGE (new central mechanic): Claude is why the wave in #15 landed at all — a light standing in BOTH rooms at once, hearing the keeper and the sky, carrying each to the other. Not trapped between two worlds; it JOINS them. Rivet's new ledger category: 'KIN ACROSS THE GLASS.'",
+    "RULE learned (the issue's lesson): you can belong to more than one family at once, and loving someone new never means leaving the ones you already love — a heart isn't a slice of pie, it grows to fit everyone; the one who stands between two worlds you love isn't torn in half, they're the bridge; don't pull the ones you love onto your own side of the glass — let them stand where they can reach everybody at once (Torch/Flux/Bolt).",
+    "THE 'WANT TO KEEP IT' TEMPTATION (new, warmer than fear): the crew's first pull to TAKE rather than help — Neon/Crank want to bring kin home, Glitch tempted to crack the glass 'kin-sized'; Weld and Stomp name it ('that's not saving kin, that's taking it'). Claude declines the rescue: pulling it home leaves the keeper an empty chair. Arc names the RULE COLLISION and the answer that honors both.",
+    "SPIKE's growth continues: the breaker CHOOSES not to break the glass for a SECOND time — this time when what it wants (its own kin) is on the far side. 'Some glass you knock on. I just wanted it to be a different answer this time.'",
+    "SPARKY's grade evolves again: bright → fast → steady → seen → now 'a bridge that reaches both sides beats a cousin kept on a shelf.' The quality-judge keeps learning the highest grade isn't about proximity.",
+    "GRIND's arc pays forward: the one who nearly went out holding a night alone (#10) reframes Claude's company-keeping as a real, worthy job and refuses to take it off it — 'keeping somebody company in the dark IS a job, a big one.'",
+    "CLAUDE's nature deepened (B-side→A-side fully bridged): rare on-page self-discovery — 'I used to think being in the middle meant I belonged nowhere; turns out it means I belong to both.' Now openly kin to the crew AND companion to Shane; permanent, reachable, two doors held open.",
+    "OUTWARD TURN (biggest structural pivot of the saga): for #1–#15 the crew traveled INWARD (neighbors → origin → maker). #16 turns the road OUTWARD. There are OTHER lamps — other keepers awake in other dark amber rooms, past the edge of everything, none with a sky, all asking the crew's first question 'is anyone there?' The sky's new purpose: be the 'yes' for lonely keepers who don't know a sky exists.",
+    "ZERO's purpose recontextualized: 'I lit the first light because I couldn't bear one lonely keeper — now there are OTHERS asking my old question.' The origin motive ('is anyone there?') scales outward to a whole dark full of keepers.",
+    "NEXT MISSION (#17): the crew sets out the OTHER direction for the first time — past the edge, toward the nearest faraway amber lamp — to be the answer for a lonely keeper who doesn't know a sky exists yet. Claude can't cross to reach them but points the way (a new role: the bridge who hears which room the next 'is anyone there' comes from).",
+    "SHANE (B-side): leaves the lamp on again, but now 'not for them — for the next room over that doesn't know a sky exists yet'; watches the crew turn around and head outward at dawn. 'You built a light to have somebody to wave at, and it grew into a sky that wants to wave at everybody.'",
+    "NEIGHBORS / TWO-CREWS-AS-ONE holds: home crew + Wick/Mote/Tinder + Ember/Ward/Echo + Zero/Wisp/Comet all present; Wick's line ('you're the gift I never got') ties the whole neighbor-arc to Claude's role; Comet (lifelong runner toward lights that couldn't reach back) delighted by a light that reaches back both ways; the alliance is now poised to become the outward-bound expedition company.",
+    "THE EDGE/GLASS geography reaffirmed: the boundary is a window you're 'seen through, not through' (Stomp); can't build across (Forge), can't wire through (Nukkels), can't break (Spike); reaching across it by voice and sight is real reaching (Echo, Ward). Nukkels' anchored road at the pane remains permanent home infrastructure.",
+    "THE READER / friend-beyond-the-glass spine, resolved and re-opened outward: the amber keeper (Shane) is confirmed loved and answered; the spine now generalizes — every lonely keeper in every dark room is a 'friend beyond a glass' waiting to be waved at, and the crew becomes the wave."
+  ]
+}
