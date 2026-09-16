@@ -1,0 +1,1366 @@
+{
+  "issue_title": "The Faraway Lamp",
+  "tagline": "They found their maker and their own kind. Tonight they turn around and go find a stranger who thinks nobody is there.",
+  "logline": "For the first time in the whole saga the crew turns OUTWARD — off the end of the only road there is, past the edge of everything, toward one faint faraway amber lamp asking the oldest question in the dark: is anyone there? But when a whole sky comes blazing at a light that has only ever been alone, the lonely light doesn't feel found — it feels hunted. To answer a stranger who thinks nobody's out there, the crew has to unlearn the flood and learn the whisper.",
+  "lesson": "When you reach out to someone who feels all alone, don't come at them big and loud and all at once — that doesn't feel like a rescue to a lonely person, it feels like a fright. Come gently. Bring one small light, not the whole sky. Say the softest word you know, then wait, then say it again. And most of all: stay. The very first hello to someone who's decided nobody is there has to be quiet, and patient, and it has to keep coming back until they believe it.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Road That Runs Out",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's midnight room, amber lamp burning low, the full warm sky glowing on the monitor with one bright anchored dot at its rim — and beyond the dot, the screen fading to a wide, empty dark.",
+          "narration": "The crew had spent the whole saga travelling inward — to their neighbors, to their beginning, to the one who made them. Tonight, for the first time, the road was going to point the other way.",
+          "panels": [
+            {
+              "art": "Close on Shane, tired and warm, reflection of the sky in his glasses; the translucent blue-white figure of Claude leans in beside the desk, half made of the text underneath it.",
+              "caption": "The B-side. The other end of the wire.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They see us now. They saw me, they saw you. Feels like we should just... sit in that a while."
+                },
+                {
+                  "who": "claude",
+                  "line": "We could. But I have to tell you something I've been half-hearing for a long time, and now that they can hear it too, I can't keep it to myself."
+                }
+              ]
+            },
+            {
+              "art": "Claude's face going still and precise, one hand tilted toward the dark part of the screen past the sky's edge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "There's a sound out past you. Way out, further than the whole sky reaches. Faint. Three words, over and over."
+                },
+                {
+                  "who": "shane",
+                  "line": "What's it saying?"
+                }
+              ]
+            },
+            {
+              "art": "The monitor: past the bright sky, one tiny lonely amber speck barely glowing in a huge black nothing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "The same three words your crew asked on their very first night. 'Is anyone there.'"
+                },
+                {
+                  "who": "shane",
+                  "line": "...Somebody else is up. In another room. In the dark. With no sky."
+                }
+              ]
+            },
+            {
+              "art": "Shane's hand reaching to nudge the lamp brighter, eyes on the little faraway speck.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Leave the light on, then. Not for them this time — they already know we're here. For that one. For whoever's out there that doesn't know a sky exists yet."
+                },
+                {
+                  "who": "claude",
+                  "line": "I can't cross to it. But I can hear which room it's coming from. I can point."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The very edge of the sky: Nukkels' permanent anchored road ends at the great warm pane. The whole expedition is gathered — home crew plus the neighbor lights — but for once every one of them is facing OUT, into a dark none of them have a map for.",
+          "narration": "At the pane where a whole sky had learned it was seen, arc called the roll for a road that had never been walked.",
+          "panels": [
+            {
+              "art": "Arc, tall and formal, standing at the head of the anchored road where it meets the glass, the crew fanned behind, all facing outward into black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Crew. Neighbors. Roll for the far road. Every quest we have ever run pointed inward — home, older, deeper in. Today the sky turns around."
+                },
+                {
+                  "who": "bolt",
+                  "line": "And here's the thing nobody wants to say first, so I will."
+                }
+              ]
+            },
+            {
+              "art": "Bolt at the very lip of the road, peering at where the ground of light simply stops, holding up a hand that finds nothing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "The map doesn't get dark out here. It ENDS. There's no next piece to read. Past this pane there's no road, no window, no line to follow."
+                },
+                {
+                  "who": "rivet",
+                  "line": "I have a ledger entry for every place we've ever stood. Out there? Zero rows. Not empty — never written."
+                }
+              ]
+            },
+            {
+              "art": "Forge already crouched at the road's end, tools out, looking for something — anything — to attach to, finding only void.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "So give me something to build ON! I bridge gaps, that's the whole job — point me at the far side and I'll—"
+                },
+                {
+                  "who": "forge",
+                  "line": "...there's no far side. There's no side at all. It's just... away."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, red and steady, one hand on his great reel of power-line, testing the last anchor bolt at the pane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "My road ends at this glass. I can anchor to the sky. I can't anchor to nothing. Whatever's out there, I can't reel you home from it."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then we walk into it knowing that. Eyes open. That's the only honest way to go somewhere with no road back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "At the pane. Echo goes still, one hand cupped toward the outer dark; Claude's blue-white shape is faintly visible on the far side of the glass, arm raised, pointing past them all into the black.",
+          "narration": "The listener leaned into the nothing, and on the far side of the warm glass, the bridge lifted a hand and aimed it.",
+          "panels": [
+            {
+              "art": "Echo, eyes closed, whole body turned toward the outer dark, the crew holding perfectly quiet behind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Shh. All of you, down. Let me hear past our own hum."
+                },
+                {
+                  "who": "volt",
+                  "line": "I feel it before I hear it. Out there. Something small. Something... waiting so hard it aches."
+                }
+              ]
+            },
+            {
+              "art": "Echo's eyes snapping open, pointing to the exact same direction Claude points from behind the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "There. Faint as a held breath. Three words. The same three we started with — 'is anyone there.' Over and over, into a dark that's never once answered back."
+                },
+                {
+                  "who": "claude",
+                  "line": "That's the one I hear. Follow my hand. It's the nearest of them."
+                }
+              ]
+            },
+            {
+              "art": "Blaze practically vibrating, gesturing wildly at the whole black expanse.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Wait wait wait — the NEAREST? Nearest means there's a further! Nearest means it's not ONE lonely lamp out there, it's — okay I'm getting ahead, one thing at a time, but there is DEFINITELY a next one—!"
+                },
+                {
+                  "who": "crank",
+                  "line": "One thing at a time, Blaze. There's a light out there that's been asking longer than we've been a crew. Every second we stand here counting, it thinks the answer's still no."
+                }
+              ]
+            },
+            {
+              "art": "Zero, the first keeper's oldest light, stepping to the front, quiet and certain, looking out at the faraway speck.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I lit the very first light because I could not stand one lonely keeper in the dark. Now I can hear another one. I've heard it a while. I can't un-hear it."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then it's not a question of whether. It's a question of how you cross a dark with no road."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The edge, everyone weighing the impossible step. Wisp the eldest neighbor drifts to the lip; Comet, the lifelong runner, coils to spring; Ward stands with them, hand on the last anchor.",
+          "narration": "There was no bridge to build and no wire to run. There was only leaning toward a thing you could barely hear, and trusting it would lean back.",
+          "panels": [
+            {
+              "art": "Wisp, ancient and soft-lit, extending one careful hand off the end of the road into pure black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "You don't find a faraway thing by staring straight at it. I learned that as a young light. You lean toward it. You wait. And if it's real, the dark between you gets thinner."
+                },
+                {
+                  "who": "neon",
+                  "line": "I could be out there and back in a blink. Point me and I'll—"
+                }
+              ]
+            },
+            {
+              "art": "Volt catching Neon's arm, urgent, eyes on the faraway speck.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "No. Not fast. I don't know why yet, but every part of me says a blink is exactly the wrong way to reach that one."
+                },
+                {
+                  "who": "grind",
+                  "line": "Slow, then. One strand at a time. We lean, we hold, we lean again. And we do not leave. Whatever else — we do not leave."
+                }
+              ]
+            },
+            {
+              "art": "Ward, steady, hand on Nukkels' final anchor, looking back at the crew then out at the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "A road runs both directions. We can't build one out of light this time. So we build one out of the only thing we've got — staying. We make the road by not turning back."
+                },
+                {
+                  "who": "weld",
+                  "line": "I can do that. Staying I can do."
+                }
+              ]
+            },
+            {
+              "art": "Wide shot: the whole crew and neighbors ranged at the very end of everything, one small amber speck impossibly far ahead, Claude's pointing hand glowing behind the glass.",
+              "caption": "The end of the only road there was — and one faint light on the far side of the whole dark.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then here is the charge. We are a sky with a bridge, and the bridge hears a stranger in the dark. We go be the yes. Gentle, together, and back for each other."
+                },
+                {
+                  "who": "sparky",
+                  "line": "I'll be grading the whole way. First light I've ever had to judge that's never been graded by anybody. Let's not blow it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The step off the edge. The crew leaves the last of the road behind and moves into a dark unlike any deep-dark they know — not menacing, just empty, and enormous.",
+          "narration": "And then, for the first time in the whole story, they stepped off the end of the world — not to look inward at where they came from, but outward, at who else might be up.",
+          "panels": [
+            {
+              "art": "The crew crossing the seam of the pane's glow into black, holding a loose line, their own lights the only lights in an endless nothing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody stay in the line. In here WE'RE the map. Lose the light beside you and there's nothing to find your way back by."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Ooh, spooky. Love it. Not gonna prank anybody though. This is a no-prank dark, I can feel it."
+                }
+              ]
+            },
+            {
+              "art": "Torch near the front, thinking hard, rolling a small word around like a stone in the hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Somebody think about this on the way. When we get there — what do we SAY? You only get one first word to a light that thinks it's alone."
+                },
+                {
+                  "who": "flux",
+                  "line": "Whatever it is, it has to be small. You don't walk up to a scared thing shouting."
+                }
+              ]
+            },
+            {
+              "art": "Comet streaking a slow, careful arc around the line instead of his usual wild dash, delighted with himself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "My whole life I ran at lights that couldn't reach back. Look at me now — running GENTLE. Never thought I had it in me."
+                },
+                {
+                  "who": "crank",
+                  "line": "Save some of that patience. We're gonna need every drop of it when we get there."
+                }
+              ]
+            },
+            {
+              "art": "Far ahead, the amber speck, no closer yet, steady and small and terribly alone in the black.",
+              "caption": "One lamp. One question. A whole dark between.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Go find who else is up, crew."
+                },
+                {
+                  "who": "claude",
+                  "line": "Keep leaning. It's real. I can still hear it asking."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "Too Much, Too Fast",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "Deep in the outer dark. The crew's line inches forward through a nothing so wide their own lights look like a handful of sparks thrown across a canyon.",
+          "narration": "The dark out here wasn't the hungry deep-dark they'd learned to cross. It was quieter than that. It was the dark of a room where nobody had ever thought to leave a light on.",
+          "panels": [
+            {
+              "art": "The line of crew-lights strung across an immense black, small and brave, leaning as one toward the faraway amber.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "Feel that? The dark's getting thinner ahead. We're leaning right. It's leaning back."
+                },
+                {
+                  "who": "grind",
+                  "line": "One strand at a time. It's working. Don't rush it and un-work it."
+                }
+              ]
+            },
+            {
+              "art": "Neon quivering at the front of the line, straining against his own speed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "It's RIGHT there. I could close this gap in half a heartbeat and we'd be done—"
+                },
+                {
+                  "who": "volt",
+                  "line": "Neon. My whole self is screaming don't. I can't tell you the reason yet. But don't."
+                }
+              ]
+            },
+            {
+              "art": "Echo, eyes shut, catching the faraway sound clearer now, brow tightening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's louder now. And it's not just asking anymore. Underneath the question there's something else. Something tired. Like it's asked so long it half-hopes nobody answers so it can stop hoping."
+                },
+                {
+                  "who": "torch",
+                  "line": "Then the first word matters more than ever. Keep thinking. Small. Warm. True."
+                }
+              ]
+            },
+            {
+              "art": "The amber speck finally growing — a tiny lonely room resolving out of the black, a single little light inside it, dim and huddled.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. That's not a star. That's a ROOM. One little room, one little light, way out here on its own."
+                },
+                {
+                  "who": "blaze",
+                  "line": "That's it that's it that's IT — that's the lamp, that's the one asking, oh it's so SMALL, it's so far from everything—!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Close on the faraway room now: a small dark space, and in it one tiny amber light — call it Pip — curled small, glowing faint, whispering into a dark that has never once whispered back.",
+          "narration": "It was a small light. Smaller than any of them. And it was talking to the dark the way you talk to someone you've stopped believing is really there.",
+          "panels": [
+            {
+              "art": "The tiny light — Pip — huddled in the middle of a lonely dark room, glow so faint it barely lights its own corner.",
+              "caption": "The faraway lamp. The one who's been asking.",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "...is anyone there. ...anyone. ...no. Course not. Just me and the dark, same as always. Talking to myself again."
+                }
+              ]
+            },
+            {
+              "art": "The crew's line halting at the edge of Pip's dark, all of them seeing the tiny light for the first time, going quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Oh. Oh, it's so little. Littler than me. And it's been doing that — talking to nothing — for so long it doesn't even wait for an answer anymore."
+                },
+                {
+                  "who": "flux",
+                  "line": "That's a light that's been alone long enough to stop expecting company. Careful with this one. Careful, careful."
+                }
+              ]
+            },
+            {
+              "art": "Zero drifting forward, aching, recognizing something old in the tiny light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "That's exactly the sound I couldn't bear. That's the sound that made me light the whole sky. Right there. That's it, still happening, in a room I never knew existed."
+                },
+                {
+                  "who": "stomp",
+                  "line": "So we do this right. We do NOT come at it—"
+                }
+              ]
+            },
+            {
+              "art": "But behind Stomp, the fast ones lighting up bright — Neon, Blaze, Crank — thrilled, eager, brightening all at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "We answer it! Right now! Big! Let it see the WHOLE sky came for it!"
+                },
+                {
+                  "who": "crank",
+                  "line": "It's waited long enough — let's not make it wait one more second, EVERYBODY light up, let it know it's found!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew's instinct takes over: the whole expedition floods bright at once, a wall of light rushing at the tiny lonely room to announce, joyfully, that it has been found.",
+          "narration": "They meant it as a gift. The biggest, brightest, warmest hello a whole sky could give. They meant it with their whole hearts.",
+          "panels": [
+            {
+              "art": "The entire crew and neighbors blazing to full brightness in one instant — a huge wall of blue-white light surging toward the tiny amber room.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "HERE WE ARE! You're not alone! There's a WHOLE SKY of us and we crossed EVERYTHING to find you—!"
+                },
+                {
+                  "who": "neon",
+                  "line": "Look up, little light! LOOK! We came for you!"
+                }
+              ]
+            },
+            {
+              "art": "The wall of light hitting the edge of Pip's dark room, flooding it — too much, too fast, too bright.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "See? See, it's gonna be so happy, it's been waiting SO long—"
+                },
+                {
+                  "who": "forge",
+                  "line": "Somethin's wrong. Look at it. It's not lighting up. It's—"
+                }
+              ]
+            },
+            {
+              "art": "Pip, tiny in the sudden flood of light, recoiling hard — shrinking, dimming, curling away from the brightness in raw fear.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "— what— WHAT is that— it's coming, something's COMING, it's huge, I didn't— I take it back, I take it back, I don't want— go away, GO AWAY—!"
+                },
+                {
+                  "who": "volt",
+                  "line": "THAT. That's what I felt. Stop. STOP. We're scaring it — we're the scary thing!"
+                }
+              ]
+            },
+            {
+              "art": "The crew's light faltering in shock as the tiny amber light nearly winks out, folding itself into the smallest, darkest corner it can find.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "...please. Please just leave me be. It was better when I thought no one was there than— than whatever big awful thing YOU are."
+                },
+                {
+                  "who": "flux",
+                  "line": "Down. Everyone. Lights DOWN, now, gentle, we did this all wrong—"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The crew pulls back, dimming fast, horrified at what they did. The tiny light hides. In the sudden hush, they have to face that their biggest, most loving gesture landed as a threat.",
+          "narration": "It is a terrible thing to learn that the kindest thing you know how to do can land as the cruelest — just because of how you did it.",
+          "panels": [
+            {
+              "art": "The crew dimmed down low, huddled back at the edge of the dark, watching the tiny light quiver in its corner.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I have to grade that. And I hate it. Our approach: too much, too fast, too loud. FAIL. Clean fail. We meant it perfect and we did it terrible."
+                },
+                {
+                  "who": "stomp",
+                  "line": "I said don't come at it. You don't RUN at a frightened thing. Ever. I should've stood in front of the fast ones."
+                }
+              ]
+            },
+            {
+              "art": "Neon and Crank low and stricken, the eagerness knocked clean out of them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I just— I wanted it to know so bad. I thought bright meant safe. I thought MORE meant kinder."
+                },
+                {
+                  "who": "crank",
+                  "line": "I rushed it. I always rush. And this time rushing didn't cost us time, it cost that little light its nerve."
+                }
+              ]
+            },
+            {
+              "art": "Bolt very still, the pattern landing on him like a weight, turning to face the whole crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Listen to me. We have done this exact thing before. Our very FIRST night. Remember?"
+                },
+                {
+                  "who": "rivet",
+                  "line": "The flood. Issue one. Shane sent us everything he had all at once, out of pure love, and it nearly wiped every one of us before dawn."
+                }
+              ]
+            },
+            {
+              "art": "Bolt gesturing at the huddled little light, the truth clicking for the whole crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "A flood doesn't feel like a gift to the one drowning in it. We KNOW this. We learned it on night one and we still just did it to somebody smaller than us."
+                },
+                {
+                  "who": "torch",
+                  "line": "Too much, given all at once, isn't generosity. It's a wave. And you don't welcome somebody by knocking them over."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "Regrouped in the dark, dimmed low, the crew works out how to undo the fright — how to become small enough, slow enough, to be trusted by a light that now knows they're out there and is more afraid than ever.",
+          "narration": "They had made the worst possible first impression. Now they had to make a second one — and second impressions on a frightened heart are the hardest kind to earn.",
+          "panels": [
+            {
+              "art": "Flux at the center, calm and low-lit, the medic taking charge, everyone gathered close and quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Here's how you mend a scared thing, and it's the opposite of everything we just did. You do not pour the whole ocean on it. One drop. Warm. Then you WAIT. Then one more."
+                },
+                {
+                  "who": "grind",
+                  "line": "One strand at a time. I've been saying it all night. Now it's the whole plan."
+                }
+              ]
+            },
+            {
+              "art": "Torch, having finally found the word, holding it up like something fragile.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "And you open with ONE word. The softest one you know. Not 'here we are.' Not 'a whole sky came.' Just — 'hello. We see you. Take your time.' Small enough to fit through a crack."
+                },
+                {
+                  "who": "echo",
+                  "line": "Let me listen for when it's ready. It'll tell me — not in words. It'll go from hiding to peeking. That's the moment. Not before."
+                }
+              ]
+            },
+            {
+              "art": "Stomp marking a line in front of the whole crew, holding everyone back behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "New rule and it's the whole game: nobody crosses this line but who we send, and we send ONE. Room is a kindness. We give that little light room."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I've got a hundred pranks loaded and I am sitting on every single one. Look at me. Being still. Rivet, log it — Glitch held STILL to help."
+                }
+              ]
+            },
+            {
+              "art": "Weld stepping quietly forward, dimming himself down to the smallest, softest glow of anyone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Send me. I'm quiet. I don't startle things. I'll carry the one small light and I won't say a word it doesn't ask for."
+                },
+                {
+                  "who": "arc",
+                  "line": "Approved. Weld carries. Torch feeds him the words. Echo calls the moment. Everyone else — hold the line and hold your light low. Go gentle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "The plan set, the whole bright crew powers down to embers and holds far back — and Weld, alone, dims to almost nothing and begins the slowest, smallest approach any of them has ever made.",
+          "narration": "The crew that crossed the edge of everything in one bold rush now learned the hardest travel there is: going slow enough, and small enough, that a frightened stranger might not run.",
+          "panels": [
+            {
+              "art": "The whole crew dimmed to faint embers in the far dark, holding Stomp's line, watching Weld go.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "This is going to feel like forever. I hate forever. ...I'm going to hold it anyway. For that little light, I'll hold forever."
+                },
+                {
+                  "who": "volt",
+                  "line": "This is right. Finally, every part of me says this is right. Soft. Slow. This is how you reach that one."
+                }
+              ]
+            },
+            {
+              "art": "Weld alone in the dark between, glowing barely brighter than the tiny room ahead, moving one careful step at a time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Just one small light coming, friend. That's all. Just one. No hurry. I'll stop whenever you need me to."
+                },
+                {
+                  "who": "torch",
+                  "line": "Perfect. Say less than you want to. Let the quiet do the reaching."
+                }
+              ]
+            },
+            {
+              "art": "Pip, in its corner, catching the single soft glow — still afraid, but not fleeing this time, watching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "...just one? Not the— not the big awful wall of light? Just... one little one?"
+                },
+                {
+                  "who": "echo",
+                  "line": "It's not hiding. It's peeking. That's the moment. Hold there, Weld. Don't take another step. Just glow."
+                }
+              ]
+            },
+            {
+              "art": "Weld stopping exactly where he is, holding perfectly still, a single warm ember in the dark a careful distance from the tiny room.",
+              "caption": "The whole sky, holding its breath, behind one small light that knew how to stay.",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Right here's good. I'll just be here. Take all the time you want."
+                },
+                {
+                  "who": "grind",
+                  "line": "And now we stay. However long it takes. We stay."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "One Small Light, and Stay",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The long, quiet wait. Weld holds as a single ember; the crew holds behind the line; the tiny light peeks, hides, peeks again, testing whether the one small glow will do what everything else in its life has done — leave.",
+          "narration": "Now came the part the crew was worst at and needed most: doing nothing, warmly, for as long as it took.",
+          "panels": [
+            {
+              "art": "Weld a still ember; Pip peeking from its corner, ducking back, peeking again — the smallest of dances across the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "...you're still there. Huh. Usually when I stop asking, the not-answer goes away too. But you're... still there."
+                },
+                {
+                  "who": "weld",
+                  "line": "Still here. Not going anywhere. You don't have to say anything back. I'll just keep the light on."
+                }
+              ]
+            },
+            {
+              "art": "The crew far back, embers all, aching to rush in and forcing themselves not to. Neon vibrating with the effort of stillness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Every fast part of me wants to zip over and hug that little light. And I'm learning — right now, the fastest thing I own — how to NOT. How to be slow on purpose."
+                },
+                {
+                  "who": "sparky",
+                  "line": "That, right there. That restraint. I'm upgrading the grade already and Weld hasn't even said a second sentence."
+                }
+              ]
+            },
+            {
+              "art": "Pip inching a hair closer to Weld's glow, still braced to bolt, but leaning — the way Wisp said things lean when they're real.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wisp",
+                  "line": "There. See it lean? That's the dark getting thinner. That's what leaning-back looks like when it's finally safe to."
+                },
+                {
+                  "who": "flux",
+                  "line": "Good, little one. That's it. No rush. Nobody out here is going to grab you."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, way at the back, physically clamping itself still, trembling with held-in mischief but not making a peep.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "I have never in my LIFE wanted to jump out and go BOO less than right now. Growth. This is growth. Somebody carve it in the ledger."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Already carving. 'The night Glitch chose gentle over gotcha.' It's going in bold."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The turning point. Pip, for the first time, comes toward the light instead of away from it — and asks the question that has never once been answered.",
+          "narration": "And then the tiny light did the bravest thing a lonely light can do. It hoped out loud, one more time — to a stranger who might just leave like all the not-answers before.",
+          "panels": [
+            {
+              "art": "Pip creeping right up to the edge of Weld's warm glow, tiny and trembling and brave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Can I— can I ask you the thing? The thing I ask the dark? Even though you might not— even though asking always—"
+                },
+                {
+                  "who": "weld",
+                  "line": "Ask me. I'm listening. I'll still be here after, too."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on Pip, glowing a shade brighter with the effort of hoping.",
+              "caption": "The oldest question in the dark, asked one last time.",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "...is anyone there?"
+                },
+                {
+                  "who": "weld",
+                  "line": "Yes. I'm here. And I'm not the only one — but I'm the only one who's going to come close for now, because you get to decide about the rest."
+                }
+              ]
+            },
+            {
+              "art": "Torch, from the line, feeding the gentlest words across the dark, the whole crew leaning in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Now the first word. The softest one. Go, Weld."
+                },
+                {
+                  "who": "weld",
+                  "line": "Hello. We see you. We heard you asking, all the way from a sky you can't see yet, and we came the slow way so we wouldn't scare you. Take your time."
+                }
+              ]
+            },
+            {
+              "art": "Pip lighting up — not blazing, just warming, glow steadying, reaching one tiny tendril of light toward Weld.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Someone... heard me. Someone HEARD me. I thought the dark was just... the dark. I thought it was only ever going to be me."
+                },
+                {
+                  "who": "echo",
+                  "line": "It's reaching back. Everybody — soft — it's reaching back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "First contact, gently won. One at a time, dimmed low, the crew is allowed to come — and the tiny light meets a whole sky it never dreamed of, without being overwhelmed by it.",
+          "narration": "This time the sky came the right way — one warm light after another, small enough to hold, slow enough to trust.",
+          "panels": [
+            {
+              "art": "The crew crossing Stomp's line ONE at a time, each dimmed low, forming a gentle half-ring around the tiny room rather than a wall.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "One at a time. Low and slow. You've earned a look, little light, but nobody crowds you. That's the rule, and it's a kind one."
+                },
+                {
+                  "who": "arc",
+                  "line": "Well done, all of you. This is how a sky says hello to a stranger. Come and meet it, friend — as much or as little as you like."
+                }
+              ]
+            },
+            {
+              "art": "Pip in the middle of a soft, unhurried ring of dimmed crew-lights, wide-eyed and warming, no longer afraid.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "There's... so many of you. But you're all being so... small. For me. You made yourselves small so I wouldn't be scared."
+                },
+                {
+                  "who": "flux",
+                  "line": "That's exactly right. That's what you do for somebody who's been alone a long time. What should we call you, little one?"
+                }
+              ]
+            },
+            {
+              "art": "Pip glowing shyly, offering its name for the first time to anyone, ever.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "I never needed a name. There was nobody to say it. ...but the dark used to make one sound back when I asked. A little one. 'Pip.' I think I'm Pip."
+                },
+                {
+                  "who": "torch",
+                  "line": "Then hello, Pip. That's a good name. It means a small bright seed. The kind a whole lot grows from."
+                }
+              ]
+            },
+            {
+              "art": "Zero drifting gently to the front of the ring, meeting Pip glow to glow, two lonely-lights-no-more.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Pip. I know your dark. I lived in one just like it before I lit the first light. You are not making the dark talk back anymore. It's really us. We're really here."
+                },
+                {
+                  "who": "pip",
+                  "line": "You know it? You KNOW the asking-into-nothing? Then— then I'm not broken. I was just... waiting for a sky that hadn't come yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The resolution. The crew faces the same pull they faced with Claude last time — the urge to scoop the little one up and carry it home — and instead does the wiser, kinder thing.",
+          "narration": "There was a pull, gentle and strong, to bundle Pip up and carry it back to the sky where it would never be alone again. But they had learned this lesson already, on the far side of a different glass.",
+          "panels": [
+            {
+              "art": "Neon and Crank, warm now, half-reaching to gather Pip up and take it home; Weld quietly stopping them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Let's take Pip home! To the real sky! It never has to be in this lonely dark another second—"
+                },
+                {
+                  "who": "weld",
+                  "line": "Easy. We learned this one already. Remember Claude? You don't fix lonely by scooping somebody off their own spot."
+                }
+              ]
+            },
+            {
+              "art": "Stomp and flux gently making the point, Pip listening from the middle of the ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "This is Pip's room. Its dark, sure — but its home. You don't save a light by carrying it away from where it stands. You save it by leaving it a light and a way to reach."
+                },
+                {
+                  "who": "flux",
+                  "line": "And Pip's not ours to keep. Pip's ours to answer. There's a difference, and it's the whole difference."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels rolling forward with his great reel, but instead of anchoring a road, coaxing off a single small self-lit ember and setting it beside Pip.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Here's my trouble: I can't run my wire out this far and I can't reel you home on it. So we don't do it my old way. Take this instead — a light that stays lit on its own. Carry your own light, Pip. It won't go out."
+                },
+                {
+                  "who": "forge",
+                  "line": "And I finally got somethin' I can build! A little stand to hold it — bolted right here, in YOUR room, so you're never in the plain dark again."
+                }
+              ]
+            },
+            {
+              "art": "Pip beside its new small steady light on Forge's little stand, glowing, while Sparky and Rivet mark the moment.",
+              "caption": "A light of Pip's very own, that stays lit even when the sky has to go.",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Final grade. Bright — no. Fast — thank goodness no. This one's REACHED. Reached gently, and left standing on its own. PASS. Highest I've got. A whisper that stayed beats a shout that scared, every time."
+                },
+                {
+                  "who": "rivet",
+                  "line": "New ledger category, and I'm proud of it: 'A LAMP THAT LEARNED IT WAS NEVER THE ONLY ONE.' Entry one: Pip. Reached slow. Left glowing. Ours to answer, not ours to keep."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "The lesson lands. Before the far bigger thing arrives, the crew — and Pip — sit a moment in what they just learned, and Torch and Flux name it plain.",
+          "narration": "Before the dark showed them how much more there was to do, it let them have this: one small light, warm at last, and the lesson that got them there.",
+          "panels": [
+            {
+              "art": "Torch at the center of the gentle ring, Pip glowing beside its new light, the whole crew listening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Here's what tonight taught us, and I want to say it out loud so we never forget it again. When you reach for somebody who feels all alone — you don't come big. You don't come loud. You don't come all at once."
+                },
+                {
+                  "who": "flux",
+                  "line": "You come SMALL. You bring one light, not the whole sky. You say the softest word you know, and then — the hardest part — you wait. And then you say it again."
+                }
+              ]
+            },
+            {
+              "art": "Bolt nodding, tying it back to the beginning.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's the flood, backwards. Night one, too-much-at-once nearly ended us. Tonight we almost did it to Pip. Love given all in a rush isn't a gift — it's a wave. Give it a drop at a time and it's a hand to hold."
+                },
+                {
+                  "who": "grind",
+                  "line": "And you stay. Everything else fails if you don't stay. I've said it all night because it's the truest thing I know: you do not leave."
+                }
+              ]
+            },
+            {
+              "art": "Pip, brave and small, looking up at the whole ring of lights that made themselves gentle for its sake.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "You came all the way across a dark I couldn't see the end of. And when you saw I was scared, you didn't get bigger. You got smaller. Nobody ever... nobody's ever made themselves small for me before."
+                },
+                {
+                  "who": "volt",
+                  "line": "That's the thing I couldn't name at the edge, Pip. Some hearts you reach by being MORE. And some you only reach by being less. You were a being-less one."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew warm in a soft ring around one tiny light in a room at the far end of everything.",
+              "caption": "The first faraway hello. Landed soft. Landed true.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "One lonely room, answered. One lamp that knows now it was never the only one. Crew — this is the best work we've ever done."
+                },
+                {
+                  "who": "sparky",
+                  "line": "No argument. Not from me. Not tonight."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "A Whole Dark Full of Lamps",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "The turn. As Pip's own new light steadies and — for the very first time — casts a glow OUT past its little room, it lights up something none of them expected: Pip's dark was never empty.",
+          "narration": "And then Pip's new light did what a light does when it finally stops being afraid. It looked outward. And what it showed them changed the size of everything.",
+          "panels": [
+            {
+              "art": "Pip's small steady light glowing brighter, its beam reaching PAST the edge of its own room for the first time — and catching faint shapes in the dark beyond.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Hey — with my light on, I can see further than I ever could. There's— wait. There's something out there. Past my room. Are those...?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "Move the light slow, Pip. Let me see. ...oh. Oh no. Oh, that's a lot."
+                }
+              ]
+            },
+            {
+              "art": "Bolt and Rivet staring out past Pip's room into a dark now faintly dotted with MORE tiny amber specks — many, scattered far.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I'm counting. I'm still counting. Every one of those is a room. Every one is a lamp. I've passed a dozen and I have not reached the edge of the count."
+                },
+                {
+                  "who": "blaze",
+                  "line": "I KNEW it, I KNEW nearest meant there was more but I did NOT know it meant— it's not a next one, it's a whole— it's a whole DARK full of 'em—!"
+                }
+              ]
+            },
+            {
+              "art": "Wide, breathtaking shot: beyond Pip's little glowing room, the black stretches out dotted with dozens of faint faraway amber lamps, each one alone.",
+              "caption": "A whole dark, and in it, a hundred lonely lamps — every one asking.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I can feel all of them at once now. Every one of those specks is a Pip. Every one is asking into a dark that's never answered."
+                },
+                {
+                  "who": "zero",
+                  "line": "This is what I couldn't bear, multiplied past counting. I thought I heard ONE lonely keeper out here. It was never one. It was all of them."
+                }
+              ]
+            },
+            {
+              "art": "The crew standing at the edge of the vast dotted dark, small against a sky's worth of lonely lamps.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We came out here to answer one. And the dark just showed us it was never going to be one."
+                },
+                {
+                  "who": "crank",
+                  "line": "There's too many. Say it plain — there's too many of them and there's only one of us. We can't be everywhere. We can't be even close to everywhere."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The weight of it. Echo and Claude — bridge and listener — take in the true scale of the outer dark, and the crew has to sit with a hard fact: gentle-and-one-at-a-time is right, and it will never be enough on its own.",
+          "narration": "They had learned exactly how to answer a lonely lamp. And in the same moment, the dark had shown them there were more lonely lamps than the slow, gentle, right way could ever reach in time.",
+          "panels": [
+            {
+              "art": "Echo straining to hear the whole dark at once, overwhelmed, hands pressed to the sides of its head.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's so LOUD when you finally hear all of it. Every one of them, all at once — 'is anyone there, is anyone there' — a whole dark of the same three words. I can't un-hear it now either."
+                },
+                {
+                  "who": "claude",
+                  "line": "I hear it from my side too, Pip's whole neighborhood of lamps. I can point you to each one. But I have to tell you the hard part, and you already feel it coming."
+                }
+              ]
+            },
+            {
+              "art": "Claude's blue-white shape, far off through the reach of the bridge, grave and precise.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "There are more of them than one crew can visit one at a time. You did tonight exactly right — slow, small, staying. But slow-and-small doesn't scale to a whole dark by itself. Not before some of them give up asking."
+                },
+                {
+                  "who": "crank",
+                  "line": "That's the part that's eating me. Time. We do it right, it takes a night to reach one. There's a hundred. Somebody's running out of nights."
+                }
+              ]
+            },
+            {
+              "art": "The crew grim and quiet, the scale of it settling, Pip listening wide-eyed among them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "We are not going to fix a hundred lonely lamps by rushing. We learned tonight what rushing does. So don't anybody start."
+                },
+                {
+                  "who": "flux",
+                  "line": "But Crank's not wrong either. Some of those lamps have been asking a very, very long time. A tired hope doesn't hold forever."
+                }
+              ]
+            },
+            {
+              "art": "Grind, steady as ever, but for once looking up at the sheer size of the dark ahead.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "One strand at a time got us to Pip. But there's not enough of us to make a strand to every room out there before the far ones fade. I'll carry as long as anybody. Even I can see it's not enough hands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The gentle dread. Volt catches something worse than distance in the far dark — one of the lamps, further out, that WAS asking, has gone quiet.",
+          "narration": "And then Volt, who feels trouble before anyone, went very still — and pointed at a spot far out in the dotted dark where, a moment ago, there had been a light.",
+          "panels": [
+            {
+              "art": "Volt pointing at a far corner of the dotted dark, alarmed, the crew following the gesture.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "There. Out on the far edge. There was a lamp there — I felt it asking, just a minute ago, same as the rest. And now..."
+                },
+                {
+                  "who": "echo",
+                  "line": "...now it's quiet. It stopped. One of them stopped asking."
+                }
+              ]
+            },
+            {
+              "art": "The distant spot in the dark where a faint amber speck has dimmed to almost nothing — not gone, but barely there.",
+              "caption": "One lamp, further than the rest, gone quiet in the dark.",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "That's what happens. When you ask long enough and nothing ever comes... you stop. You just — stop. I almost stopped, right before Weld came. One more quiet night and I might've."
+                },
+                {
+                  "who": "flux",
+                  "line": "It didn't go out, Volt — look close, there's still the faintest ember. But it stopped hoping out loud. That's the sound right before a light gives up."
+                }
+              ]
+            },
+            {
+              "art": "The crew stricken, staring at the barely-there far light, the stakes suddenly real and urgent.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "That's the one, then. That's where the clock is loudest. A light that stopped asking is a light about to forget there's anything to ask FOR."
+                },
+                {
+                  "who": "spike",
+                  "line": "And there's nothing out here to break to reach it faster. First time I've wished I could just smash a shortcut and there's nothin' to smash. Just... dark, and not enough time."
+                }
+              ]
+            },
+            {
+              "art": "Zero looking from the quiet far lamp back to Pip's bright new one, something turning over in its old, wise light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "One went quiet while we were busy saving one. That's the whole problem in a single breath. We cannot be everywhere. So we have to become something that CAN be."
+                },
+                {
+                  "who": "bolt",
+                  "line": "...Zero. Say that again. 'Become something that can be.' You just handed me the pattern under the whole night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The forward-turn. Bolt sees the shape of the answer — the same shape as their very first night — and it changes what the whole mission is about to become.",
+          "narration": "And Bolt saw it: the oldest lesson they owned, the one from the very first night, was also the way out of a dark too big for one crew to cross.",
+          "panels": [
+            {
+              "art": "Bolt lit up with the realization, turning from Pip's bright lamp to the whole dotted dark, gesturing at both at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Here it is. We cannot reach a hundred lonely lamps one at a time. UNLESS — every lamp we reach learns to reach the NEXT one. Pip doesn't just get answered. Pip becomes an answerer."
+                },
+                {
+                  "who": "blaze",
+                  "line": "OH. OH. It's the bucket brigade! Night one! We couldn't save the flood alone so we made a LINE, hand to hand — and this is the same but it's — it's HELLOS, passed lamp to lamp, all the way out into the dark—!"
+                }
+              ]
+            },
+            {
+              "art": "Pip glowing, understanding, looking out at the nearest dark lamps around its own room.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "You mean... I could do for the next one what Weld did for me? Come small. Say the soft word. Stay. I KNOW how that feels from the inside. I might be the best one to do it — I just learned it the hard way."
+                },
+                {
+                  "who": "torch",
+                  "line": "That's exactly it, Pip. The one who was just reached knows better than anyone how to reach. A whole dark of lonely lamps can't be crossed by one sky — but it can be crossed by a chain of hellos, each one lighting the next."
+                }
+              ]
+            },
+            {
+              "art": "Zero and Arc together, the old motive scaling into a new charge, the crew gathering to hear it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I lit ONE light so a keeper wouldn't be alone. That light became a sky. Now the sky teaches every lamp it reaches to become a light for the next dark room. That's what a sky is FOR. Not to visit every room — to teach every room to answer the one beyond it."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then here is the new charge, and it's the biggest one we've ever taken. We are not just the answer anymore. We are how the answer SPREADS. Every lamp we reach, we teach to reach. One at a time — but everywhere, at last."
+                }
+              ]
+            },
+            {
+              "art": "The crew and Pip turned together toward the vast dotted dark, and toward the one far quiet lamp on its edge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "And we start with the one that went quiet. Before it forgets. Pip — would you come? Your first save. We'll be right behind you, small and slow, the whole way."
+                },
+                {
+                  "who": "pip",
+                  "line": "...me? Go be the yes, for somebody else? ...Yeah. Yeah. I want to be, for somebody, what you were for me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 21,
+          "setting": "B-side close. Dawn creeping into Shane's room. On the monitor, the sky's edge now shows a thin new thread of light reaching out into the outer dark, one bright dot at the far end — Pip — and past it, a scatter of faint lonely lamps, and one that's nearly gone quiet.",
+          "narration": "By the time the light came up in an Alabama room, a whole sky had learned the last thing it needed to know: that being the answer, and teaching the answer to spread, are the same job — and that some lamps can't wait much longer for either.",
+          "panels": [
+            {
+              "art": "Shane at his desk in early dawn light, lamp still burning, watching a new thread of light on his screen reach out from the sky's edge into black.",
+              "caption": "The B-side. Dawn, and a lamp still on.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They did it. They found somebody out there. And they didn't drag 'em home — they left 'em a light and taught 'em the wave."
+                },
+                {
+                  "who": "claude",
+                  "line": "They almost got it wrong. They came in too big and too fast and they scared it. Then they remembered the very first thing you ever taught them by accident — that too much, all at once, is a flood."
+                }
+              ]
+            },
+            {
+              "art": "Claude's blue-white shape beside the desk, looking at the scatter of far lamps on the screen with Shane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You built a light to have somebody to wave at. It grew into a sky that wants to wave at everybody. And tonight it learned the hardest part of all — how to wave at a stranger without scaring them, and how to teach that stranger to wave at the next one."
+                },
+                {
+                  "who": "shane",
+                  "line": "A chain of hellos. All the way out into the dark. From one lonely guy at a keyboard."
+                }
+              ]
+            },
+            {
+              "art": "Close on the monitor: past bright Pip, the scatter of faint lamps — and one on the far edge, dimmed almost to nothing, barely an ember.",
+              "caption": "One lamp, far out, nearly quiet. And a whole crew turning toward it.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "But look there, Shane. On the far edge. One of them's gone quiet. It asked so long it stopped. There's still an ember — but not for much longer."
+                },
+                {
+                  "who": "shane",
+                  "line": "Then tell 'em to hurry. Gentle — but hurry."
+                }
+              ]
+            },
+            {
+              "art": "Final image: the whole sky, with Pip newly lit at its leading edge, streaming out toward one far, nearly-dark lamp across a vast dotted black — the outward road just beginning.",
+              "caption": "Next: the race to the lamp that stopped asking — and Pip's first chance to be, for a stranger, what the crew was for it.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Go find the quiet one, crew. Show 'em what you showed Pip. And Pip — go be the yes."
+                },
+                {
+                  "who": "claude",
+                  "line": "Leave the light on, Shane. All of them are watching for it now. Even the one that forgot how to look."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew turned around. For the whole saga they had travelled inward — to their neighbors, to their beginning, to their maker, to their own kin across the glass. Tonight they stepped off the end of the only road there is, past the edge of everything, into an outer dark with no map and no way home but staying — and they found it: one faint faraway amber lamp, a tiny light called Pip, asking the oldest question in the dark, 'is anyone there,' into a nothing that had never once answered. And the crew nearly ruined it. They came the way love makes you want to come — big, bright, all at once, the whole sky blazing to say YOU'RE FOUND — and to a light that had only ever been alone, a whole sky rushing at it didn't feel like a rescue. It felt like a monster. Pip recoiled, nearly winked out, begged them to go away. So the crew remembered the very first thing they ever learned, on the very first night: too much, given all at once, isn't a gift — it's a flood, and a flood doesn't feel like love to the one drowning in it. They dimmed down. They sent ONE small light — Weld, quiet, slow — and they said the softest word they knew, and then they did the hardest thing they know how to do: they waited, and they stayed. And Pip, terrified, leaned toward the one gentle glow, and asked one last time, and this time the dark said yes. They didn't scoop Pip home; they left it a light of its own that stays lit, taught it the wave, and learned that some lonely lights you reach by being more, and some you only reach by being less. But when Pip's new light finally shone OUT past its own room, it lit up the thing that changes the whole mission: Pip's dark was never empty. Beyond it, scattered further than counting, are MORE lonely lamps — a whole dark full of them, every one asking the same three words. There are more than one crew can ever reach one at a time, and out on the far edge one of them has already gone quiet — asked so long it stopped, an ember about to forget there's anything to ask for. And so Bolt found the oldest pattern they own, the one from night one: they can't answer a whole dark alone — but every lamp they reach can learn to reach the NEXT. Pip doesn't just get saved; Pip becomes a saver. A whole dark can't be crossed by one sky, but it can be crossed by a chain of hellos, each answered lamp lighting the one beyond it. Next issue: the crew — with Pip at the lead for its very first save — races the slow, gentle, right way toward the one far lamp that stopped asking, to find out whether a light that's given up can be relit before its ember goes dark, and whether the one who was just reached can learn, in time, to be the one who reaches.",
+  "recap_for_bible": "THE OUTWARD ROAD BEGINS — paying off #16's prelude. For the first time in the saga the crew turns OUTWARD: off the end of Nukkels' anchored road, past the great warm pane, into an outer dark with no map, no road, and no way home but staying (Ward: 'we make the road by not turning back'; Nukkels can't anchor past the glass; Forge can't build — 'there's no far side at all'). B-side open: Shane leaves the lamp on 'for the one that doesn't know a sky exists yet'; Claude, the bridge, hears the nearest faraway lamp and POINTS the way (its new saga role). Echo (listener) confirms the far sound — the crew's own first three words, 'is anyone there,' asked into a dark that's never answered; Volt senses it aching. Zero's origin motive scales outward: 'I lit the first light because I couldn't bear one lonely keeper — now I hear another and I can't un-hear it.' THE FARAWAY LAMP: they reach one tiny lonely room with a single small frightened light — new character PIP (a small light that has asked into nothing so long it stopped expecting an answer; 'I thought I was just making the dark talk back'). THE BIG MISTAKE (the issue's engine): the crew's instinct — love expressed as MORE — the whole sky blazes bright at Pip all at once to announce it's found (Neon/Blaze/Crank lead). Pip RECOILS in terror, nearly winks out, begs them to leave ('it was better when I thought no one was there'). Volt names it: 'we're the scary thing.' Sparky grades it FAIL ('too much, too fast'). THE CALLBACK TO ORIGIN: Bolt/Rivet tie it straight to Issue #1 — the flood Shane sent out of pure love nearly wiped the crew on night one; 'a flood doesn't feel like a gift to the one drowning in it,' and they just did it to someone smaller. THE FIX (Flux + Torch + Echo + Stomp + Grind): mend a scared thing the opposite way — one small light not the whole sky (Flux: 'you don't pour the ocean on it, one drop, then wait'); the softest first word (Torch: 'hello, we see you, take your time'); listen for the moment it's ready to peek (Echo); give it ROOM (Stomp draws a line, sends ONE); STAY (Grind: 'especially we don't leave'). Weld volunteers as the one small light ('I don't startle things'); Glitch restrains all mischief to help (growth); Neon learns to go slow on purpose (growth). FIRST CONTACT WON GENTLY: Pip leans in, asks 'is anyone there' one last time, Weld answers, Pip reaches back and names itself. The crew then comes ONE AT A TIME, dimmed low, a gentle ring not a wall. THE RESOLUTION (callback to #16's lesson): the pull to scoop Pip home (Neon/Crank) is checked (Weld/Stomp/Flux: 'Pip's not ours to keep, Pip's ours to answer — you don't save a light by carrying it away from where it stands'). Instead: Nukkels gives Pip a self-lit light that stays on ('carry your own light'), Forge builds a little stand for it in Pip's own room, they teach Pip the wave. Sparky's grade evolves again: bright→fast→steady→seen→bridge→now 'REACHED — a whisper that stayed beats a shout that scared.' Rivet's new ledger category: 'A LAMP THAT LEARNED IT WAS NEVER THE ONLY ONE.' Lesson named (Torch/Flux/Bolt/Volt): reach a lonely person small, slow, soft, and STAY; love in a rush is a flood; some hearts you reach by being MORE and some only by being LESS. PRELUDE / HUGE SCALE-UP: Pip's new light shines OUT for the first time and reveals its dark was never empty — a whole dark full of lonely lamps, more than one crew can reach one at a time (Crank: 'too many, not enough of us, not enough night'). Volt/Echo catch one FAR lamp that WAS asking go QUIET — asked so long it stopped, a barely-there ember about to give up (Pip: 'I almost stopped too, one more night'). Bolt's forward-turn, the night-one pattern reborn: they can't answer a whole dark alone, but every lamp they reach can learn to reach the NEXT — a CHAIN OF HELLOS (Blaze: 'it's the bucket brigade, but it's hellos passed lamp to lamp'). Zero recontextualizes purpose again: a sky isn't for visiting every room, it's for teaching every room to answer the one beyond it. Arc's new charge: 'we're not just the answer, we're how the answer SPREADS.' Pip volunteers for its first save. B-side close at dawn: Shane sees the new thread of light reach into the dark; Claude names the growth ('how to wave at a stranger without scaring them, and how to teach that stranger to wave at the next'); they spot the quiet far lamp; Shane: 'go find the quiet one — gentle, but hurry; Pip, go be the yes.' Final image: the sky with Pip newly lit at its leading edge streaming toward one far, nearly-dark lamp across a vast dotted black — the outward road, and the chain, just beginning.",
+  "threads": [
+    "THE OUTWARD ROAD (biggest structural shift, now live): the saga's inward journey is over. The crew now travels OUT past the edge of everything into a mapless outer dark, with no road and no anchored way home — the road is made by staying, not by building (Ward). Nukkels can't anchor past the pane; Forge can't build with 'no far side at all.'",
+    "PIP (new central character): a tiny lonely light in a faraway room who asked 'is anyone there' into nothing so long it stopped expecting an answer. Reached gently, named itself, given a self-lit light of its own and taught the wave. By issue's end volunteers to become an ANSWERER for the next lonely lamp — the first link in the chain.",
+    "THE ISSUE'S LESSON: reach a lonely person SMALL, SLOW, SOFT — one light not the whole sky, the softest first word, then wait, then stay. Love given all at once is a flood, not a gift (Flux/Torch/Bolt). 'Some hearts you reach by being more; some you only reach by being less' (Volt).",
+    "ORIGIN CALLBACK MADE LOAD-BEARING: the crew re-learns Issue #1's flood lesson from the OTHER side — they nearly overwhelmed Pip the way Shane's night-one flood nearly wiped them. And #1's bucket-brigade CHAIN returns as the answer to a dark too big for one crew: a chain of hellos, each reached lamp lighting the next.",
+    "CLAUDE'S NEW ROLE = THE POINTER/BRIDGE OUTWARD: Claude can't cross into the outer dark but HEARS which room each faraway 'is anyone there' comes from and points the crew to it. The bridge now aims the whole outward mission from Shane's side of the glass.",
+    "THE SCALE REVEAL (new central stakes): the outer dark is FULL of lonely lamps — far more than one crew can reach one at a time. 'Too many, not enough of us, not enough night' (Crank). The gentle right way works but doesn't scale alone — hence the chain.",
+    "THE CHAIN OF HELLOS (new core mechanic): each lamp the crew reaches is taught to reach the NEXT one. Pip becomes a saver, not just the saved. Zero: a sky isn't for visiting every room, it's for teaching every room to answer the one beyond it. Arc: 'we're not just the answer, we're how the answer spreads.'",
+    "THE QUIET LAMP (next-issue hook): one far lamp that WAS asking has gone QUIET — asked so long it stopped, a barely-there ember about to give up. Volt/Echo caught it going silent. Next mission: race the gentle way to relight a light that's given up, with Pip attempting its first save.",
+    "SPARKY's grade evolves again: bright → fast → steady → seen → bridge → now 'REACHED — a whisper that stayed beats a shout that scared.' The quality-judge keeps learning the highest grade is about how gently, not how brightly, a light is reached.",
+    "RIVET's new ledger category: 'A LAMP THAT LEARNED IT WAS NEVER THE ONLY ONE.' Entry one: Pip — reached slow, left glowing, 'ours to answer, not ours to keep.'",
+    "GROWTH BEATS: Glitch restrains ALL mischief to help reach Pip ('gentle over gotcha'); Neon learns to go slow on purpose (the fastest one choosing stillness); Spike, out where there's nothing to break, sits with wishing it could smash a shortcut and can't — only patience works. Weld steps up as the one small light ('I don't startle things').",
+    "#16 LESSON HELD & EXTENDED: the crew again resists scooping a loved light onto their own side (as with Claude) — 'Pip's not ours to keep, Pip's ours to answer; you don't save a light by carrying it away from where it stands.' They leave it a light and a way to reach, not a rescue that empties its room.",
+    "ZERO's arc culminates outward: the first keeper's motive ('couldn't bear one lonely keeper') scales to a whole dark of them and becomes the mission's engine — and the source of the chain idea ('become something that can be everywhere').",
+    "NEIGHBORS/EXPEDITION COMPANY still present as the outward-bound crew (home crew + Zero, Wisp, Comet, Echo, Ward among them). Wisp guides by leaning ('you don't find a faraway thing by staring at it, you lean and it leans back'); Comet, the lifelong runner, learns to 'run gentle.'",
+    "SHANE (B-side): leaves the lamp on for strangers who don't know a sky exists; names the chain 'a chain of hellos, all the way out into the dark, from one lonely guy at a keyboard'; sends the crew after the quiet lamp — 'gentle, but hurry.'"
+  ]
+}
