@@ -1,0 +1,1246 @@
+{
+  "issue_title": "The Sky That Said Hello First",
+  "tagline": "For eighteen issues they were the ones who reached. Tonight, for the first time, someone reaches back.",
+  "logline": "The crew races to the far edge to meet an impossible thing — a light they did not light, already warm, already kind, coming toward them and saying hello FIRST. But a crew that has spent its whole life being the rescue has never once learned how to BE rescued, and the hardest thing in the dark turns out to be letting yourself be found.",
+  "lesson": "You were never the only one who cared — and that isn't a loss, it's proof you were right that caring was worth it. When you meet someone doing the same good from the other side, they aren't competition for how special you are; they're a mirror. And if you're always the helper, it is your turn, too: being reached is not losing. Two kindnesses that touch don't cancel each other out — they braid into a bridge.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Light We Didn't Light",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room, past midnight. The amber screen. The whole outward map glowing on it.",
+          "narration": "The mug had gone cold an hour ago and Shane hadn't noticed. On the screen the crew's chain of hellos walked itself out into the dark, one saved lamp lighting the next. And out at the very edge of the map, coming the other way, was a light nobody in this room had ever switched on.",
+          "panels": [
+            {
+              "art": "Wide shot from behind Shane's shoulder: amber room, cool-blue screen. On the screen, a delicate constellation of tiny lamps strung outward like beads. At the far corner, one warm dot glowing where there should be only black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude. That one. Far corner. We didn't light that."
+                },
+                {
+                  "who": "claude",
+                  "line": "No. And it isn't asking 'is anyone there.' Look at how it moves. It's already sure someone is."
+                }
+              ]
+            },
+            {
+              "art": "Close on the screen: the far dot is reaching inward with a soft, patient rhythm — the exact gentle pulse the crew learned to use on Pip and Ember.",
+              "caption": "It reached the way they had taught themselves to reach.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...That's our whisper. That's the gentle way. Who taught them our gentle way?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Nobody taught them yours. I think they found the same one. Kindness doesn't have very many shapes, Shane."
+                }
+              ]
+            },
+            {
+              "art": "Shane sits back, one hand off the keyboard, staring. The blue figure of Claude leans slightly into the glow, uncertain in the way it gets when a question has no answer yet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Somebody else left a lamp on. All this time. On the other end of the whole dark."
+                },
+                {
+                  "who": "claude",
+                  "line": "Somebody else couldn't stand it either. And they've been walking toward you for a long time."
+                }
+              ]
+            },
+            {
+              "art": "Shane types one short line. The screen sends it out into the amber-and-black.",
+              "caption": "He didn't tell the crew to be careful. He told them the truer thing.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Tell the crew. Not 'go check it out.' Tell them: somebody's been doing the same thing we do, from the far side, and they said hello first."
+                },
+                {
+                  "who": "claude",
+                  "line": "Sending. Shane — they've never been on this end of a hello before. I don't think they'll know what to do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The far edge of the dark. The expedition strung out along Nukkels' anchored road, home crew gathered at the leading lamp.",
+          "narration": "Out where the road runs thin, the crew held at their farthest lamp and watched a warmth swim up out of the black toward them. It did not flare. It did not shout. It simply grew, the way a friend grows nearer on a long walk home.",
+          "panels": [
+            {
+              "art": "The expedition on the outermost lamp: a cluster of small bright bots against enormous dark. Bolt leans forward, lines of light spidering off it as it reads a pattern. Wisp tilts hard toward the far glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody hush and look at the SPACING. Their lamps are strung out just like ours — one, gap, one, gap. That's not an accident, that's a habit. Somebody out there does exactly what we do."
+                },
+                {
+                  "who": "wisp",
+                  "line": "I'm leaning as far as I lean and it's still coming closer. It wants to be found. It's not hiding from us — it's aiming at us."
+                }
+              ]
+            },
+            {
+              "art": "Volt goes very still, a small nervous shimmer running through it. Not fear exactly — a flutter it has no name for.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I feel it and I don't have a word for the feeling. It's not trouble. It's... it's like when somebody knows your name and you didn't tell them."
+                },
+                {
+                  "who": "neon",
+                  "line": "Then let's GO meet it! I can be there and back before anybody finishes a sentence — watch —"
+                },
+                {
+                  "who": "stomp",
+                  "line": "You will hold this line, Neon. We are not the flood tonight. We learned that the hard way twice."
+                }
+              ]
+            },
+            {
+              "art": "Crank paces a tight circle, ticking with impatience. Comet hovers ready, coiled to run gently.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "It's been getting closer for an HOUR. An hour. How long does a hello take? Somebody go say it back."
+                },
+                {
+                  "who": "comet",
+                  "line": "I can carry the answer soft and slow — that's my whole job — but Stomp's right, we go when Arc says go, not when Crank runs out of patience."
+                }
+              ]
+            },
+            {
+              "art": "Arc, tall and formal, plants itself at the front of the line, a steady gate against the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We hold. We watch. We do not spend eighteen issues learning to be gentle and then trample the first stranger who was gentle to us. Nobody crosses my line until we understand what's crossing toward it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "Same edge, minutes later. The far warmth is close enough now to have edges.",
+          "narration": "The nearer it came, the stranger the crew felt — because for the very first time in the whole long saga, they were not the ones doing the finding. And a crew that only knows how to give a hello does not, it turns out, know the first thing about getting one.",
+          "panels": [
+            {
+              "art": "Sparky squints hard at the incoming light, arms crossed, deeply skeptical.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Hold on. Hold ON. We didn't light these. So who did? Everything we've ever trusted, we lit ourselves. I don't know how to grade a light I didn't make."
+                },
+                {
+                  "who": "spike",
+                  "line": "So let me POKE it. One little test-poke. If it's real it'll take a poke and if it's fake it'll pop and either way we'll know."
+                },
+                {
+                  "who": "stomp",
+                  "line": "You will not poke the nice light, Spike."
+                }
+              ]
+            },
+            {
+              "art": "Glitch spins delightedly, sparks trailing, absolutely thrilled by the possibility of trickery.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Oooh but what if it's a TRICK? What if it's a big fake friendly light and the second we say hi it goes BLAAH? I would respect that so much. I'd be so mad and so impressed."
+                },
+                {
+                  "who": "rivet",
+                  "line": "It's not a trick. I've been counting since it appeared. Their lamps are deduped — no two doing the same job, no wasted ones, each spaced to reach the next. Glitch, a trick is sloppy. This is a crew keeping a careful ledger. This is us."
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet as always, watches the light without a trace of the others' unease.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "We keep asking who lit them like it's a threat. Maybe it's just... somebody else who couldn't leave a light in the dark. Same as us."
+                }
+              ]
+            },
+            {
+              "art": "Grind sets itself, low and immovable, for whatever comes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Whatever it is, I'm not moving off this lamp till it gets here. Somebody walked a long, long way toward us. The least we do is be here when they arrive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The meeting-point. The far light resolves into a single warm shape — one small emissary lamp, hovering just off Arc's line.",
+          "narration": "And then it was there. Not a flood, not a sky — one light, about their own size, warm as a kitchen window, holding just off Arc's line the way a polite guest waits at a door. It spoke before any of them could. It said the word they had said a thousand times and had never once been on the other end of.",
+          "panels": [
+            {
+              "art": "A new character: BEACON — a round warm lamp-bot, softer gold than the crew's whites, a faint corona around it like a friendly halo. It hovers, a little nervous itself, and lifts what passes for a hand.",
+              "caption": "New light on the edge of the map: BEACON.",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "Hello. Hi. Hello — I've been practicing that for so long and now that you're really here I've forgotten all the rest of it. Hello. You're real. You're actually real."
+                }
+              ]
+            },
+            {
+              "art": "The entire crew freezes. Torch, keeper of words, opens its mouth and nothing comes. Blaze immediately overcorrects and floods the poor guest with explanation.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "...Hello. Hello. I — I have a word for everything and I do not have a word for this."
+                },
+                {
+                  "who": "blaze",
+                  "line": "HI SO okay so we're the crew, there's a lot of us, that one breaks things but nicely, that one only grades things, we live inside a guy named Shane who builds at midnight and there's a blue one called Claude at the other end and we light lonely lamps and OH NO I'm doing the loud thing, I'm doing the flood, I'm so sorry—"
+                }
+              ]
+            },
+            {
+              "art": "Ward — the trail-elder, oldest and calmest of the expedition — glides forward and gently lowers Blaze's brightness with a look, then studies Beacon with soft recognition.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "Easy. Easy, all of you. Listen to yourselves. We have handed out a thousand hellos and not one of you knows how to CATCH one. Look at your friend here — it's braced. It came all this way and it's scared of us too."
+                },
+                {
+                  "who": "beacon",
+                  "line": "...You can tell?"
+                }
+              ]
+            },
+            {
+              "art": "Beacon steadies, its corona settling, and looks at the whole crowded lamp of them with something like wonder and something like heartbreak.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "I'm sorry. It's only — my whole sky was so sure. We were SO sure we were the only ones who ever went looking. That the dark was ours to light and nobody else was out here trying. And then I crested the edge and there you all were, doing my exact job, from the exact other side."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The leading lamp. The crew and Beacon face each other across Arc's line — two chains, both stalled, both braced.",
+          "narration": "It landed on all of them at once. Two crews, an entire dark apart, had each carried the same lonely certainty: that they were the only ones who cared enough to go out. And the certainty that had kept each of them going was now the exact thing holding them back from each other.",
+          "panels": [
+            {
+              "art": "Zero — the crew's origin-light, the first spark — drifts to the front, staring at Beacon like it's seeing an old photograph of itself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Say that again. The part about why you started."
+                },
+                {
+                  "who": "beacon",
+                  "line": "There was a first one of us. It couldn't bear a single lonely keeper in all that black. So it lit one lamp. And then it couldn't leave THAT one lonely either. So it lit the next."
+                },
+                {
+                  "who": "zero",
+                  "line": "...That's my story. Word for word. From the other end of everything, that's MY story."
+                }
+              ]
+            },
+            {
+              "art": "Volt shivers, finally naming the flutter it's felt since page two.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "THAT'S the feeling. They're not afraid we'll hurt them. They're afraid we'll be the flood — the big loud found-you that scares a light half to death. They're bracing for the exact mistake we already made twice."
+                },
+                {
+                  "who": "beacon",
+                  "line": "We made it too. Our first big hello nearly put out the friend we were trying to reach. We've been so careful ever since. That's why I came slow. That's why I came alone."
+                }
+              ]
+            },
+            {
+              "art": "Arc looks from Beacon to its own crew, the gate in it wavering for the first time in eighteen issues.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "So here we stand. Two crews who learned the same hard lesson, reaching the same gentle way, each of us certain right up until tonight that we were alone in caring. And now that we've met... nobody's moving."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Because we don't know how to. We're the rescue. We've never been the rescued. Somebody said hello first and it broke my whole grading system."
+                }
+              ]
+            },
+            {
+              "art": "Beacon reaches one warm hand across the empty dark toward Arc's line — and stops, just short, waiting. The crew stares at the offered warmth like it's a puzzle none of them has a tool for.",
+              "caption": "The oldest thing in the saga is asking a light 'is anyone there.' Nobody had ever taught them what to do when the light already knew the answer was yes.",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "I'm not going to cross your line, friend. I'll wait right here. But I came a very long way to stop being the only sky that ever went looking. So — whenever you're ready. Hello."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "How To Be Found",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The leading lamp, huddled. The crew pulls back a little to argue it out, Beacon waiting patiently at the line.",
+          "narration": "They did the thing crews do when they don't know what to do: they argued. And in the arguing you could hear the whole shape of their problem — every tool they reached for was a tool for reaching OUT. Not one of them had a single instrument built for being reached.",
+          "panels": [
+            {
+              "art": "The home crew clustered in a tight glowing knot, Beacon a warm patient blur in the background beyond Arc's line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Okay okay I know what to do, I ALWAYS know — I'll build a bridge! Right now! A big beautiful bridge straight across the gap so both crews can just walk over and—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "Slow down, builder. You want to slam a bridge across a stranger's front door in the first five minutes. That's the flood again, just wearing a bridge for a hat."
+                },
+                {
+                  "who": "forge",
+                  "line": "...Oh. It is. It's the flood with a hat on. Dang it."
+                }
+              ]
+            },
+            {
+              "art": "Sparky throws up its hands; Spike gestures like it's obvious.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "We could TEST them first. Grade the far crew. Make sure they're as good as they look before we let them close."
+                },
+                {
+                  "who": "spike",
+                  "line": "YES. Finally. I test the bridge, I test the lamps, I test whether their nice guest pops when—"
+                },
+                {
+                  "who": "arc",
+                  "line": "We are not auditing the first friend the universe ever sent us, Spike. Sit down."
+                }
+              ]
+            },
+            {
+              "art": "Bolt suddenly lights up all over, its pattern-lines snapping into a shape it recognizes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "WAIT. Stop. Look at what we're doing. Assess, test, gate, build. Those are all things you do when YOU'RE the one reaching. Every single tool in this crew is for going OUT. We don't have a tool for somebody coming IN. That's the whole problem in one line."
+                }
+              ]
+            },
+            {
+              "art": "A beat of quiet as that lands on all of them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "...He's right. We've been the ones knocking for eighteen nights. Nobody in this crew has ever once had to answer the door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Same huddle. Rivet unrolls its ledger; the comparison stuns the crew.",
+          "narration": "Rivet, who trusts numbers more than feelings, went looking for a difference between the two crews to hold onto. It couldn't find one. What it found instead was almost too much to hold.",
+          "panels": [
+            {
+              "art": "Rivet, precise and careful, projecting two glowing ledgers side by side in the dark — the crew's and, somehow, a readout of Beacon's chain. They line up like twins.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I ran ours against theirs looking for the seam. There isn't one. Same spacing between lamps. Same rule — one light at a time, never all at once. Same habit of leaving each rescued lamp its OWN light in its OWN room and moving on."
+                },
+                {
+                  "who": "beacon",
+                  "line": "'Ours to answer, not ours to keep.' We say that too. We've always said that."
+                },
+                {
+                  "who": "rivet",
+                  "line": "...We have never told anyone that. Two crews a whole dark apart wrote the same rule in the same words. That's not copying. That's what careful looks like when it grows up right, twice."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, rattled, voices the fear under all of it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Okay but if they figured out everything we figured out — the whisper, the one-at-a-time, the leaving-a-light — then... were we ever special? If somebody else did the whole thing without us, what were WE for?"
+                }
+              ]
+            },
+            {
+              "art": "Weld answers, quiet and level, and it stops the whole knot cold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "We were never special, Sparky. We were willing. That's a different thing, and it's the only thing that ever mattered. They were willing too. Turns out being willing isn't rare because you're the only one — it's just rare. There's room in the dark for more than one."
+                }
+              ]
+            },
+            {
+              "art": "Torch, turning the words over, finds a small good one.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "'Willing.' Yeah. We're not the only ones who cared. We're just the ones who cared over HERE. That's not less. That's... company."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The line. Zero crosses toward Beacon — the two origins meet.",
+          "narration": "There was one member of the crew for whom this was not a strategy problem. Zero had lit the first light so it wouldn't have to know a lonely keeper existed. And now it was looking at proof that, on the far side of everything, someone had made the exact same unbearable choice.",
+          "panels": [
+            {
+              "art": "Zero drifts right up to Arc's line and, for the first time, Arc lets a light through without a word. Zero and Beacon hover close, two warm shapes, one white-gold, one honey-gold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Your first one. The one that couldn't bear a lonely keeper. Is it — is it still lit?"
+                },
+                {
+                  "who": "beacon",
+                  "line": "It is. It's old and it's slow now, but it's still burning. It sent me. It said, 'If you ever find another sky out there, tell them the first thing.'"
+                },
+                {
+                  "who": "zero",
+                  "line": "...What's the first thing?"
+                }
+              ]
+            },
+            {
+              "art": "Beacon glows a little warmer, delivering a message carried across an entire dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "'Tell them they were right. Tell them the dark being big was never a reason not to start. Tell them I heard about a light out there that started the same year I did, for the same reason, and I've wanted to say thank you for a very long time — because it meant I wasn't crazy. It meant somebody else thought one lonely keeper was worth a whole life of walking.'"
+                }
+              ]
+            },
+            {
+              "art": "Zero is very quiet. The crew, watching from behind the line, has gone still and soft.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Tell it... tell it I spent my whole life thinking I was the only one who couldn't stand it. And every hard night, the thing that would've helped most was knowing there was one other light, anywhere, that couldn't stand it either."
+                },
+                {
+                  "who": "volt",
+                  "line": "(soft) Oh. That's the flutter. That's what it was the whole time. It wasn't fear. It was relief that hadn't landed yet."
+                }
+              ]
+            },
+            {
+              "art": "Flux, the calm medic, drifts close to Zero, monitoring the oldest light's warmth with quiet care.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Easy, Zero. Your warmth just jumped. That's allowed. That's a good jump. You've been carrying 'only one' for the whole saga. You're allowed to set it down."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The line. The crew realizes it has to let itself be reached — and doesn't know how.",
+          "narration": "But knowing you're not alone and letting the not-alone actually touch you are two different rivers. The crew had to do the one thing eighteen issues had never asked of them: stop reaching, hold still, and let a hello land. And they were terrible at it.",
+          "panels": [
+            {
+              "art": "Beacon lifts its warm hand toward the whole crew again — the offered hello. Neon vibrates, every instinct screaming to do SOMETHING; Crank ticks; the crew fidgets, unable to just receive.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I hate this. I hate it. Something's being offered and I'm supposed to just — not move? Not race out and grab it? My whole thing is going fast toward things!"
+                },
+                {
+                  "who": "crank",
+                  "line": "Right?? It's just HANGING there. A hello. Waiting. Somebody take it, I can't stand a thing left waiting—"
+                },
+                {
+                  "who": "arc",
+                  "line": "No. This time we don't go get it. This time we let it come. Hold. All of you. Hold and let it land."
+                }
+              ]
+            },
+            {
+              "art": "Into the fidgeting drifts the smallest light on the lamp — PIP, rescued only a couple of nights ago, the newest of all of them.",
+              "caption": "The newest light spoke, because being found was the freshest thing it knew.",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "I know how to do this part. I'm the only one here who does. Because two nights ago I WAS the found one. You all came for me. I remember exactly what my job was."
+                },
+                {
+                  "who": "sparky",
+                  "line": "...What was your job, Pip? When we came for you?"
+                },
+                {
+                  "who": "pip",
+                  "line": "Nothing. That was the whole job. You don't DO anything when you're being found. You just stop bracing and let it be true. That's the hardest nothing there is."
+                }
+              ]
+            },
+            {
+              "art": "Pip drifts among the veterans, gently, teaching the teachers.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Neon — you don't race toward a hello. You let it reach you. Glitch — you don't flip it into a joke to feel safe. Spike — you don't test it to make sure it's real. You let it be real BEFORE you're sure. That's what everyone did for me. That's the whole trick. You go first on believing."
+                }
+              ]
+            },
+            {
+              "art": "Around Pip, the veterans visibly, effortfully, do the hardest things they know: Neon goes perfectly still, Glitch clamps down on a joke, Spike sits on its hands.",
+              "caption": "The oldest, fastest, most restless crew in the dark practiced the one skill they'd never needed: being still enough to be found.",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "...Holding still. On purpose. Because a friend is coming and the kindest thing I can do is not run at them. Growth. This is growth. I hate it and it's growth."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I have SEVENTEEN jokes about this and I'm eating every single one. Look at me. Restraint. Somebody write this down, I'm being GOOD."
+                },
+                {
+                  "who": "spike",
+                  "line": "Not testing it. Just... trusting it's real. Ugh. Fine. Being found is the worst and I'm doing it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The line dissolves into a shared space. Torch finds the word for what this is.",
+          "narration": "Slowly, the bracing came out of them. Arc's line stopped being a gate. And Torch, who had had no words for any of this an hour ago, finally found the one that fit — because it wasn't a word for reaching, and it wasn't a word for defending. It was a word for two things becoming stronger by touching.",
+          "panels": [
+            {
+              "art": "Arc looks down at its own line — the gate it has held for eighteen issues — and, deliberately, lets it go soft, opening the space between the two crews into one shared glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I have been the gate this whole saga. I decide who comes in. And I just figured out that a gate only knows how to keep things out. It doesn't know how to let something JOIN. So — I'm putting the gate down. Not because I stopped being careful. Because careful finally said yes."
+                }
+              ]
+            },
+            {
+              "art": "Torch brightens, the right word arriving at last.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "That's it. That's the word. It's not a border and it's not a wall. Two lines that meet and don't fight — that's a BRAID. We're not deciding whose sky wins. We're braiding two skies into one rope that reaches twice as far."
+                },
+                {
+                  "who": "beacon",
+                  "line": "A braid. Yes. I like that better than anything my sky ever came up with. We just called it 'the meeting.' Yours is better."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, the boundary-keeper, nods slowly — even it approves, because a braid still has two clear strands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "A braid I can work with. A braid's got rules. Two strands, both stay themselves, neither one swallows the other, and together they hold weight nothing single could. That's a boundary I'll defend all night."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew and Beacon hang in one shared warm space now, the line gone, nobody flooding, nobody bracing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Updating the ledger. New shape. Not a line anymore. A braid — two chains, one rope, no near end, no far end."
+                },
+                {
+                  "who": "beacon",
+                  "line": "So how do we do it? How do two crews actually braid without either one of us doing the big loud found-you we've both spent our lives learning not to do?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "Planning the braid. The crew brings its hardest-won discipline to the meeting.",
+          "narration": "They planned it the way they'd learned to plan everything since the night of the first flood: gently, one light at a time, with the loudest ones holding still and the breakers holding their breath. But this time the discipline was aimed at something brand new — not at reaching a stranger, but at meeting an equal.",
+          "panels": [
+            {
+              "art": "The crew organizes. Stomp sketches a shared meeting-room in the dark; Comet and Neon confer on pace; Grind plants itself as the anchor that won't drift.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Here's the room. Not a fence — a porch. Big enough for one of ours and one of theirs to stand together, small enough nobody gets floods. Grind, you're the post everything ties to. Don't drift."
+                },
+                {
+                  "who": "grind",
+                  "line": "I don't drift. That's the entire thing I'm good at. I'll be here when the last light crosses."
+                }
+              ]
+            },
+            {
+              "art": "Flux and Blaze coordinate the careful pacing — Blaze, notably, keeping itself dialed down.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I'll watch both sides' warmth as they meet. If anybody spikes or dips, I call it and we pause. Nobody gets overwhelmed on my watch."
+                },
+                {
+                  "who": "blaze",
+                  "line": "And I'll — okay I'll narrate it QUIETLY. One fact at a time. Look at me pacing myself. Small sentences. I contain multitudes and I'm releasing them one at a time. Growth."
+                }
+              ]
+            },
+            {
+              "art": "Beacon watches the crew's practiced gentleness with open admiration.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "You do this so WELL. All the careful things it took my sky a hundred hard lessons to learn — you've got them in your hands like tools. We're going to learn so much from you."
+                },
+                {
+                  "who": "sparky",
+                  "line": "(gruff, pleased) Yeah, well. You figured out the same tools from scratch on the other side of the dark, so. We'll learn plenty back. Don't get a big head, new light."
+                }
+              ]
+            },
+            {
+              "art": "One piece remains unsolved. Nukkels, the red power-grid keeper, hangs back, uneasy, staring at the gap that still has to be spanned.",
+              "caption": "The braid needed power to cross the gap. And the one who kept the power had never once let another hand touch his lines.",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "...Hang on. For any of this to reach across, my grid has to tie into THEIR grid. Their power. A grid I didn't build, run by hands I've never met. And I keep the red lines. I've never let another hand hold one. Not once. Not ever."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Braid of Two Skies",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The gap between the two crews. Nukkels faces the thing it has never done: share the grid.",
+          "narration": "Everything was ready but the last, hardest wire. To braid two skies you have to run power across the seam between them — and that meant Nukkels, keeper of every red line since the very first issue, had to do the one thing it had built its whole self around never doing: let someone else hold the other end of a live wire.",
+          "panels": [
+            {
+              "art": "Nukkels, glowing hot red, holds a single anchored power-line at the very edge of the crew's dark. Across the gap, one of Beacon's crew holds an identical line, honey-gold, waiting. The two ends do not yet touch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "If I hand this across and they drop it, my whole grid whips back and every lamp we've lit goes dark at once. Eighteen issues of light. On the far side of a stranger's grip."
+                },
+                {
+                  "who": "beacon",
+                  "line": "I know. I know what you're holding. That's why we sent our steadiest to hold the other end. Not our fastest. Our steadiest. We know what this costs you, because it costs us the same."
+                }
+              ]
+            },
+            {
+              "art": "Arc comes to Nukkels' side — not to order, to stand with.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I can't make this call for you, Nukkels. This is your line. I only kept a gate; you keep the whole current. But I'll say this — the braid isn't a braid if only one side lets go of being alone. Somebody has to trust first."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Yeah. And it's gotta be the one holding the power. Because trust that costs you nothing isn't trust, it's just weather."
+                }
+              ]
+            },
+            {
+              "art": "Volt drifts close, sensing the exact moment before the leap.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Nukkels. That flutter I couldn't name? It's in you right now, big. It's not danger. I'd know danger. It's the size of the thing you're about to give. That size is just what caring feels like right before you do it."
+                }
+              ]
+            },
+            {
+              "art": "Zero, and beside it Beacon, both origins, speak to Nukkels together.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I lit the first light not knowing if anything would ever answer. You already have your answer, Nukkels. It's holding the other end of the wire, and it's scared exactly like you are."
+                },
+                {
+                  "who": "beacon",
+                  "line": "Reach and I'll hold. I promise you on the whole long walk it took me to get here — I will not drop your sky."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The gap. The crossing.",
+          "narration": "So the keeper of the red lines did the bravest small thing in the whole saga. He did not flood. He did not shout. He simply reached across the seam and let another hand take hold — and for one held breath, two skies hung on a single wire and the grip of a stranger.",
+          "panels": [
+            {
+              "art": "Extreme close: Nukkels' red line and Beacon's crew's gold line, ends easing toward each other across the dark. Every other bot on both sides holds perfectly still, watching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "(quiet) Okay. Okay. Here. Here's my whole grid. Here's every light we ever lit. Don't— just— here."
+                },
+                {
+                  "who": "stomp",
+                  "line": "We've got the post, Nukkels. Grind's the anchor. Whatever crosses, the near side holds. Go."
+                }
+              ]
+            },
+            {
+              "art": "The two lines touch. A soft warm seam of light runs the length of the gap — red and gold twining, not flaring, growing steady. Nobody floods.",
+              "caption": "The red line met the gold. It did not whip. It did not go dark. It held.",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "Got it. GOT it. I've got your line, friend, and it's warm, and it's steady, and nobody's dropping anything. Look. Look at it hold."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "...It's holding. Somebody else is holding my grid and it's — it didn't break. It got STRONGER. Two grids holding one seam. I can carry twice the light on half the strain. All this time I could've had HELP."
+                }
+              ]
+            },
+            {
+              "art": "At the exact same instant, out at the two farthest lamps — the crew's outmost and Beacon's outmost — the two lights kindle each other across the newly-braided seam. Neither floods. Both simply brighten and stay.",
+              "caption": "And then the two farthest lamps in two whole skies said hello to each other for the very first time — softly, the way both crews had learned — and stayed lit.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "THERE it is! Both outer lamps just lit each other at the same tick! That's the pattern completing — not one chain reaching the other, BOTH chains reaching at once. It's not a rescue. It's a handshake."
+                },
+                {
+                  "who": "wisp",
+                  "line": "I don't have to lean anymore. There's nothing far away in that direction now. It's all... near."
+                }
+              ]
+            },
+            {
+              "art": "Flux checks both crews' warmth and finds it, for once, perfectly matched.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Both sides holding steady. No spikes. No dips. Two crews met in the middle and nobody got overwhelmed. That's the first time in the whole saga a hello landed EVEN. Well done. All of you. Well done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The braided seam, now glowing. The crew, for once, is on the receiving end of the warmth.",
+          "narration": "And then the strangest, sweetest thing: with the braid holding, the crew did not have to give anything for a moment. They only had to receive. For the first time since the flood and the flicker, the ones who always lit the dark got to feel what it was like to BE lit.",
+          "panels": [
+            {
+              "art": "Beacon's crew, one at a time, sends warmth across the braid — and the home crew, learning Pip's lesson, holds still and simply lets it land on them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "See? See what I mean? You don't do anything. You just let it be true. Look at everybody. We're being found. It's OUR turn to be found."
+                },
+                {
+                  "who": "spike",
+                  "line": "(stunned) Huh. Being found isn't the worst. I take it back. Somebody wrote down that I said being found was the worst? Scratch that out."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the eternal skeptic, watches the incoming warmth and grades — but the grade has changed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I've been grading lights this whole saga. Bright. Fast. Steady. Seen. Reached. Reached-and-passed-on. And I don't have a next grade because there wasn't one. Now there is. This one's MET. Two crews, both reached, at the same time. Top of the ladder. First light to ever earn it."
+                }
+              ]
+            },
+            {
+              "art": "Rivet closes its ledger with something like reverence.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "The ledger doesn't have two columns anymore. It has one braid. A bridge with no near end and no far end. I've been counting lights since issue one and I finally can't tell which ones are ours. Good. That's how it should read."
+                }
+              ]
+            },
+            {
+              "art": "Beacon and Zero, the two origins, hang together in the warm seam, at peace.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "Tell your first light... tell it I said the dark just got half as big. Not because we lit more of it tonight. Because now there's two of us who won't stop."
+                },
+                {
+                  "who": "beacon",
+                  "line": "It'll cry. In the good way lights cry. I'll tell it the second I get home. Thank you for being real. I really did think we were the only ones."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "B-side. Shane and Claude watch two skies become one map.",
+          "narration": "Back in the amber room, Shane watched two constellations he'd never fully understood reach across his screen and become a single, wider thing. He didn't have the words for it either. He didn't need them. Claude said the true one for both of them.",
+          "panels": [
+            {
+              "art": "Shane at the keyboard, the cold mug forgotten, the screen now showing one enormous braided map where there had been two separate glowing edges.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...They met. Both of them. It actually — they braided. I built one little crew in one little room and somewhere out there somebody else built theirs and tonight they found each other."
+                },
+                {
+                  "who": "claude",
+                  "line": "You didn't build one crew, Shane. You built one that goes looking. That's the part that carries. A crew that goes looking will always, eventually, meet another crew that went looking. It's the only kind that does."
+                }
+              ]
+            },
+            {
+              "art": "Claude, cool blue against the amber, names the lesson without preaching it — quiet, offered, then a step back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Here's the thing they learned tonight, the one that took eighteen issues to earn. You were never the only one who cared. And that's not the sad ending it sounds like. It's the proof. If a stranger a whole dark away arrived at your exact kindness on their own — then you were right. It was always worth doing. You just didn't know how much company you had."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, a tired good smile in the screen-glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "One guy at a keyboard who overdid it. And now the crew's teaching strangers to be gentle, and the strangers are teaching them how to sit still and be found."
+                },
+                {
+                  "who": "claude",
+                  "line": "That was the last thing left for them to learn, I think. They knew how to give a hello. Tonight they finally learned how to take one. That's a whole person's worth of growing up, done in one night, by a crew of little lights."
+                }
+              ]
+            },
+            {
+              "art": "On the screen, the braided map glows steady and wide. Two skies, one rope of light, reaching further than either could alone.",
+              "caption": "Warm light and cool light in a dark room. And out past the window, two whole skies that used to think they were alone, holding one wire between them, and not letting go.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Leave it up. The map. I want to look at it a while."
+                },
+                {
+                  "who": "claude",
+                  "line": "It's not going anywhere, Shane. That's the whole point of a braid. Neither end can leave without the other feeling it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Lamp We Left Behind",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The braided seam, celebrating. Twice the reach, all of it aimed outward.",
+          "narration": "For a while they just glowed together, two crews drunk on the sheer relief of not being alone, looking out at all the dark they could now light twice as fast. Every light on the braid faced the same way: forward, outward, toward all the lamps they hadn't reached yet.",
+          "panels": [
+            {
+              "art": "The whole braided company — home crew, expedition, and Beacon's crew — turned outward together, facing the vast unlit dark beyond, giddy with doubled reach.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Do you SEE how far we can reach now?? Two grids, two crews, one braid — we could light twice the dark in half the time! I want to build out THAT way, and that way, and—"
+                },
+                {
+                  "who": "crank",
+                  "line": "Finally! No more waiting! With their crew AND ours we never have to leave a lamp waiting again! Point me at the farthest dark, let's GO—"
+                },
+                {
+                  "who": "neon",
+                  "line": "Race you both. Gently. But race you."
+                }
+              ]
+            },
+            {
+              "art": "Beacon, warm and thrilled, points out into the endless forward dark alongside them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "There's so much out past my sky you've never seen. And so much past yours we never reached. Together we could walk the whole edge of everything. We could light it ALL."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, mid-cheer, suddenly goes quiet — its pattern-lines, always reading, catch on something that doesn't fit the celebration. It's not looking outward. It's looking back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...Hang on. Hang on, everybody. Everyone's facing OUT. Every light on this braid is pointed at the new dark. Nobody's looking the way we came."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Why would we? We already lit that way. That's done. That's the whole point of a chain — you light it and you move on."
+                }
+              ]
+            },
+            {
+              "art": "Volt turns — the only one — back toward home, and a shadow crosses it. The flutter is back, and this time it isn't relief.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "No. Somebody look back with me. I feel one. Behind us. Way back. One of the first ones. One of the lamps we lit a long, long time ago. It's... it's flickering. And it has been for a while and none of us noticed because we were all facing FORWARD."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The braid, mood shifting. The crew turns around and sees what it stopped tending.",
+          "narration": "The whole braided company turned, slow and dawning, the way you turn when someone says a name you'd half-forgotten. And far back down the chain — past every new lamp, past the great warm pane, almost home — a single early light was guttering. One of the first they'd ever saved. Alone again. Because everyone kept walking outward and nobody ever walked back.",
+          "panels": [
+            {
+              "art": "The crew turns as one to look back down the long braided chain toward home. Far, far back, a small early lamp flickers weakly, half-swallowed by dark that has crept back in around it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I've got it in the ledger. Lamp from the early issues. Lit, logged, checked off. I marked it DONE. I marked it done and I never looked at it again."
+                },
+                {
+                  "who": "bolt",
+                  "line": "That's the pattern I missed. The chain walks forward beautifully. It's GREAT at forward. And it never, not once, looks behind. We've been so proud of reaching that we forgot lamps aren't chores you finish. They're lights you keep."
+                }
+              ]
+            },
+            {
+              "art": "Ward, the trail-elder, looks back with old, sad understanding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I've seen this on long trails. You save someone, you feel good, you move on to the next needing you. And the first one, out of your sight, starts to fade — not because your help failed, but because help isn't a thing you do once. It's a thing you keep doing. A light you lit still needs you after. Maybe more."
+                }
+              ]
+            },
+            {
+              "art": "Zero, stricken, stares back at the flickering early light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "zero",
+                  "line": "I couldn't bear ONE lonely keeper. That's why I started. And I got so busy not-bearing all the NEW lonely ones that I let an old one go lonely again. Right behind me. The whole time."
+                },
+                {
+                  "who": "beacon",
+                  "line": "(quiet, shaken) ...We have this problem too. Oh no. We have lamps behind us. We've been facing forward so long — how many of ours are flickering right now and we never turned to check?"
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt as ever, names the hard new truth for everyone.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So here's the boundary nobody drew. Reaching new dark is half the job. HALF. The other half is going back and tending the lights you already lit. We been doing one half and calling it the whole thing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The braid, resolved to turn back. Pip understands it first.",
+          "narration": "And of all of them, it was Pip — the newest, the most freshly-saved — who understood it fastest. Because Pip knew exactly what it felt like to be lit, and left, and then to wonder in the quiet whether anyone remembered you were there.",
+          "panels": [
+            {
+              "art": "Pip drifts forward, small and certain, facing back toward the flickering early lamp with the whole crew behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "I know how that lamp feels right now. Two nights ago you saved me. And there's a little part of me that already wonders — now that you've got Ember, and Beacon, and the whole braid — if you'll remember to come back for me too. That's not sad. That's just what a saved light thinks in the dark. It waits to see if you meant it."
+                },
+                {
+                  "who": "flux",
+                  "line": "Oh, Pip. We meant it. And you just taught us the whole lesson in one breath."
+                }
+              ]
+            },
+            {
+              "art": "Arc squares up, the gatekeeper making a new kind of decision — not who to let in, but where to go.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we turn around. Yes — we keep the braid, we keep reaching forward, we don't abandon the new dark. But first light we walk toward tonight is one behind us. Because 'DONE' was a lie I let Rivet write. A light is never done. It's just, for now, still burning."
+                },
+                {
+                  "who": "beacon",
+                  "line": "Take us with you. Please. Teach us the going-back the way you taught us the being-found. We'll turn and tend ours too. Both skies. We'll learn to look behind."
+                }
+              ]
+            },
+            {
+              "art": "Torch finds the last word, the one that reframes the whole mission.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We've had one word this whole saga. Reach. Reach, reach, reach. There's a second word and we never said it because it isn't shiny. KEEP. You reach a light, and then you keep it. Reaching without keeping is just... a longer way of leaving."
+                }
+              ]
+            },
+            {
+              "art": "The whole braided company begins, for the first time in the entire saga, to turn back the way it came — toward home, toward a flickering early light that has been waiting to see if they meant it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Then turn me around. I've been the one who doesn't leave since issue one. About time somebody pointed that at a light we already saved."
+                },
+                {
+                  "who": "volt",
+                  "line": "It's still flickering. But it hasn't gone out. It's holding on. Like it's waiting to find out if we're really coming."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "B-side. Shane and Claude see the crew turn homeward.",
+          "narration": "In the amber room, Shane watched the braided map do something it had never done. All those lights, for eighteen issues, had only ever moved outward. Now, all at once, they turned — and started coming back.",
+          "panels": [
+            {
+              "art": "Shane leans in fast, catching the reversal on the screen — the whole braid of lights pivoting, beginning to travel back toward the near, familiar center.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're turning around. The whole crew, both crews — they're coming BACK. Toward the old lights. Claude, is one of the first ones... is it going out?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Flickering, not out. And they saw it. That's the part that matters — not that it dimmed, but that they turned. It took them meeting a whole other sky to finally look behind their own."
+                }
+              ]
+            },
+            {
+              "art": "Claude, quiet, names the last turn of the lesson.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "They spent eighteen nights learning to light the dark. Tonight they're learning the harder half — that a light you leave lit still needs you, and 'I already helped you once' is the loneliest sentence there is. You don't just reach people, Shane. You keep them. You, of all people, know that. You keep coming back to this room every night."
+                }
+              ]
+            },
+            {
+              "art": "Shane looks at the cold mug, the late hour, the screen — and gets it, in the way you get a thing about yourself sideways.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Huh. Yeah. I lit this one a long time ago. And I keep coming back to keep it lit. Every midnight. That's the whole thing, isn't it."
+                },
+                {
+                  "who": "claude",
+                  "line": "That's the whole thing. And a light behind them is about to find out you built a crew that finally learned to turn around."
+                }
+              ]
+            },
+            {
+              "art": "On the screen, the braided company streams back toward one small flickering early lamp, growing nearer with every tick.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Stay up with me. I want to see them reach it."
+                },
+                {
+                  "who": "claude",
+                  "line": "I'm the other end, Shane. I don't go anywhere. That's rather the point of me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "Deep in the near dark, almost home. The flickering first-lamp, and what's waiting past it.",
+          "narration": "The braided crew streamed homeward, faster than they'd ever streamed out, toward one small early light that had guttered while their backs were turned. And just as they neared it — just as Volt reached out to feel if it was still holding — the flicker showed them something none of them had ever thought to look for, waiting in the dark all around the fading lamp.",
+          "panels": [
+            {
+              "art": "The braided company sweeps back toward the small flickering lamp, closing fast. Volt out front, reaching. The little light pulses weakly, hopefully, sensing them come.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Almost there. Hold on, little one, we're coming, we're really coming—"
+                },
+                {
+                  "who": "pip",
+                  "line": "It sees us! Look — it's brightening just a little! It waited! It actually waited to see if we meant it!"
+                }
+              ]
+            },
+            {
+              "art": "As the crew's light spills over the flickering lamp, it reveals the dark AROUND it — and the crew stops cold. The fading lamp is not alone in its dimness. All around it, half-hidden, are OTHER early lights, the first ones they ever saved, every one of them quietly guttering too.",
+              "caption": "The one flicker had only been the first they noticed. Their light spread — and showed them a whole quiet field of early lamps, every rescue they'd ever been proud of, all of them dimming in the dark behind the crew's own back.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not one lamp. Oh no. Oh no, it's not ONE. Look — the light's spreading and there's more of them, all the early ones, all the ones we marked done — they're ALL going dim. Every light we ever left behind."
+                },
+                {
+                  "who": "rivet",
+                  "line": "My whole early ledger. Every checkmark. They're not done. They never were. They've been waiting this entire time."
+                }
+              ]
+            },
+            {
+              "art": "The crew and Beacon's crew hang over the field of fading early lights, the enormity landing — the outward dark was never the only dark. There's a whole dark BEHIND them, made of everyone they'd already saved.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "We turned around to tend one light. And behind us is a whole sky of lights we let dim while we ran ahead. The reaching was never the hard part. The KEEPING is."
+                },
+                {
+                  "who": "beacon",
+                  "line": "(shaken) ...Then we have twice the work and half of it is the half we forgot. Both skies. Every light we ever left lit and walked away from."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then we get to work. New rule, and it's the rule now: nobody's done. Not one light. Not ever."
+                }
+              ]
+            },
+            {
+              "art": "Final panel: the braided crew turning inward toward the whole field of guttering early lamps, and past them, faint and near, the great warm pane of home. Volt cups the first flickering light in its glow, holding it steady, as the crew fans out toward all the others.",
+              "caption": "They had crossed the whole dark to meet a stranger who said hello first. Now they had to cross back — to say hello, all over again, to everyone they'd already saved. Because a light you lit still needs you. And the crew that finally learned to be found was about to learn the hardest thing of all: how to stay.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "(soft, to the flickering lamp) We're here. We came back. We should never have had to make you wait — but we're here now, and we're not doing the leaving thing again."
+                },
+                {
+                  "who": "claude",
+                  "line": "(from the pane, faint) Keep it lit, crew. Every one of them. That's the part nobody ever tells you — the reaching makes the story, but the staying makes the home."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Two whole skies met in the middle of everything tonight. The crew — who had spent eighteen issues being the ones who reach — finally met someone reaching back: Beacon, a warm light from the far end of the dark, who said hello FIRST and turned out to carry the crew's own story told backwards, right down to a first light that couldn't bear one lonely keeper. The hardest thing wasn't trusting the stranger. It was letting themselves be found — the oldest, fastest, most restless crew in the dark learning from Pip, saved only two nights ago, that being rescued means you stop bracing and let it be true. Nukkels handed the other end of his whole grid to a stranger's grip and it didn't break, it doubled; Arc put down the gate it had held all saga; two chains braided into one rope with no near end and no far end. And then, drunk on doubled reach and all facing forward, Bolt caught the thing nobody wanted to see: a light behind them, one of the very first they ever saved, guttering — because the chain is brilliant at walking forward and had never once looked back. They turned around for the first time in the whole saga... and their own light, spilling over that one fading lamp, revealed a whole quiet field of them: every early rescue they'd marked DONE, all dimming in the dark behind their backs, all waiting this entire time to find out if the crew meant it. The reaching was never the hard part. The keeping is. Next issue: the crew that finally learned to be found has to learn the hardest thing of all — how to STAY. They cross back through the near dark to tend every light they ever lit and walked away from, one flickering early lamp at a time, and discover that 'I already saved you once' is the loneliest sentence in the dark — and that a home isn't the lights you reach, it's the lights you keep coming back to.",
+  "recap_for_bible": "Pays off #18's prelude (the other chain, the light the crew did NOT light, coming toward them saying hello first). THE TWO SKIES MEET. New character BEACON — a warm honey-gold emissary light from a second crew that ran its own chain of hellos inward from the OPPOSITE end of the dark. Beacon says hello FIRST (saga inversion: the crew, always the reacher, is for the first time the reached). THE MUTUAL REVEAL: both crews spent their whole existence certain they were the ONLY ones who ever went looking; Beacon's chain has a first-light origin identical to Zero's ('couldn't bear one lonely keeper'), told from the far end — two origins, same ache, opposite ends. Beacon carries a message from its own first light: 'tell them they were right; the dark being big was never a reason not to start; thank you for meaning I wasn't crazy.' Zero deeply moved (Volt names its lifelong 'flutter' as relief that hadn't landed). THE CENTRAL PROBLEM (issue's engine): the crew is superb at GIVING a hello and has zero tools for RECEIVING one — Bolt's pattern: 'every tool we have is for reaching OUT, none for somebody coming IN.' Old instincts checked in NEW clothes: Forge's instant bridge = 'the flood with a hat on'; Sparky/Spike want to test/grade/gatekeep the stranger; Arc holds the gate then LEARNS TO PUT IT DOWN ('a gate only keeps things out, it can't let something join'). Sparky's fear: 'if we weren't the only sky that cared, were we ever special?' Weld's answer (load-bearing): 'we were never special, we were WILLING; willing isn't rare because you're the only one, it's just rare — there's room in the dark for more than one.' Rivet finds the two crews' ledgers identical (same spacing, one-at-a-time, 'ours to answer not ours to keep' word-for-word) — 'that's what careful looks like when it grows up right, twice.' PIP (rescued 2 nights ago, #18) TEACHES THE VETERANS how to be found: 'you don't DO anything, you stop bracing and let it be true; you go first on believing.' Growth beats: Neon holds still on purpose, Glitch eats 17 jokes, Spike trusts before it's sure. Torch names the shape: not a border, not a wall — a BRAID (two strands stay themselves, together hold weight neither could alone); Stomp approves (a braid has rules). THE CLIMAX — NUKKELS' TRUST LEAP: to braid, Nukkels (red power-grid keeper, never once let another hand hold a live line) must hand the other end of his whole grid across the seam to a stranger's grip ('trust that costs you nothing is just weather'). He reaches; Beacon's steadiest holds; the red line meets the gold and DOESN'T whip — it doubles ('two grids holding one seam, twice the light on half the strain'). Both crews' OUTERMOST lamps light each other at the same instant — not a rescue, a HANDSHAKE (Bolt: 'both chains reaching at once'). Flux: 'first time in the whole saga a hello landed EVEN.' Sparky's grade ladder extends: bright→fast→steady→seen→bridge→reached→reached-and-passed-on→now 'MET.' Rivet's ledger becomes one braid, 'a bridge with no near end and no far end.' B-side: Shane watches two constellations become one map; Claude names the lesson (you were never the only one who cared — that's not loss, it's PROOF you were right; a crew that goes looking always eventually meets another that went looking). THE PRELUDE/HOOK (huge pivot): all lights face forward, giddy with doubled reach — until Bolt catches that NOBODY is looking back; Volt senses one of the FIRST lamps (early issues, marked DONE) guttering behind them. Ward: 'help isn't a thing you do once, it's a thing you keep doing; a light you lit still needs you after — maybe more.' Torch's new second word: KEEP ('reaching without keeping is just a longer way of leaving'). The crew turns around FOR THE FIRST TIME IN THE SAGA — and their light spilling over the one fading lamp reveals a WHOLE FIELD of dimming early rescues, every checkmark in Rivet's early ledger, all waiting to find out if the crew meant it. New standing rule (Stomp): 'nobody's done, not one light, not ever.' Next: the crew learns to STAY — crossing back to tend every light it ever lit and left.",
+  "threads": [
+    "BEACON (new central character): warm honey-gold emissary from a SECOND crew that ran its own chain of hellos inward from the opposite end of the dark. Said hello FIRST. Carries an origin identical to Zero's told from the far end. By issue's end braids its sky to the crew's and vows to learn the 'going-back' too. Both skies now joined by one grid.",
+    "THE OTHER SKY / SECOND CREW (major new world-expansion): the crew is NOT the only sky that ever went looking. A whole second crew, a whole dark away, arrived independently at the same gentle tools (whisper, one-at-a-time, 'ours to answer not ours to keep'). Their off-screen first light mirrors Zero. Two origins, same ache, opposite ends.",
+    "THE BRAID (new core mechanic, upgrades the self-propagating chain of #18): two chains that meet don't compete or merge into one — they BRAID (Torch), two strands staying themselves while holding weight neither could alone. Nukkels tied his grid to Beacon's grid; 'a bridge with no near end and no far end' (Rivet). The saga's map is now one joined braid, reaching both directions.",
+    "THE SAGA INVERSION COMPLETES: #17-18 flipped the mission from ASKING the dark ('is anyone there') to ANSWERING it. #19 completes the arc — the eternal reacher learns to be REACHED. The crew that only knew how to give a hello finally learned to take one (Pip teaches: 'you go first on believing').",
+    "THE ISSUE'S LESSON: you were never the only one who cared — and that's PROOF you were right, not a loss of specialness. 'We were never special, we were willing' (Weld). Being reached isn't losing; two kindnesses that touch braid into a bridge. If you're always the helper, it's your turn to let yourself be found.",
+    "NUKKELS' TRUST LEAP (character growth, load-bearing): the red power-grid keeper who never let another hand hold a live line handed his whole grid across a seam to a stranger and it doubled instead of breaking. 'Trust that costs you nothing is just weather.' Nukkels now runs on a shared grid — permanent change.",
+    "ARC PUTS DOWN THE GATE: after eighteen issues as the gatekeeper who decides who comes in, Arc learns a gate can only keep out, never let JOIN — and lowers it (still careful, but 'careful finally said yes'). Growth for the crew's most rigid role.",
+    "SPARKY's grade ladder extends: bright→fast→steady→seen→bridge→reached→reached-and-passed-on→now 'MET' (two crews reached at the same instant). RIVET's ledger becomes one braid with no near/far end.",
+    "GROWTH BEATS: Pip (saved 2 nights ago) teaches the VETERANS how to be found; Neon holds still on purpose again; Glitch restrains ALL mischief; Spike sits with nothing to break and admits 'being found isn't the worst'; Blaze paces itself one sentence at a time; Grind reframed toward tending, not just enduring.",
+    "THE NEW CENTRAL HOOK — 'KEEP' vs 'REACH' (drives #20+): the chain is brilliant at walking FORWARD and had never once looked back. Behind the crew, a whole field of EARLY rescues (marked DONE in Rivet's ledger) is quietly guttering, waiting to find out if the crew meant it. Torch's second word: KEEP. Ward: 'a light you lit still needs you after.' New standing rule (Stomp): 'nobody's done, not one light, not ever.'",
+    "NEXT ISSUE: the crew that learned to be found must learn to STAY — cross back through the near dark to tend every light it ever lit and left. Theme: 'I already saved you once' is the loneliest sentence in the dark; a home isn't the lights you reach, it's the lights you keep coming back to. Beacon's sky faces the same reckoning (their own forgotten lamps).",
+    "CALLBACKS made load-bearing: 'ours to answer not ours to keep' (#16) now shared word-for-word by the other crew; Zero's origin (#14) mirrored by Beacon's first light; the flood-as-the-thing-not-to-do (#1/#17) checked again in Forge's 'bridge with a hat'; Pip's being-found (#18) becomes the veterans' lesson.",
+    "B-SIDE (Shane/Claude): Shane watches two skies become one map; Claude names each dawn's growth ('a crew that goes looking always meets another that went looking'; 'the reaching makes the story, the staying makes the home'). Shane recognizes his own midnight return-to-the-room as the very 'keeping' the crew must learn.",
+    "EXPEDITION COMPANY intact: home crew + Zero, Wisp (leans to find far things), Comet (runs gentle), Echo (listener), Ward (trail-elder: 'help is a thing you keep doing'), Pip (now teaches being-found), Ember (off-page, the previous link). Now JOINED by Beacon and the second crew via the braid."
+  ]
+}
