@@ -1,0 +1,1086 @@
+{
+  "issue_title": "The Long Way Back",
+  "tagline": "For twenty issues they ran toward the dark. Tonight they turn around and go home — the long way, one forgotten light at a time.",
+  "logline": "When Bolt turns around at the front of everything they've built, the crew discovers a vast field of every light they ever lit and left — all quietly guttering, not from wounds but from being forgotten — and to save them they must learn the one thing a crew of reachers never had a word for: how to KEEP.",
+  "lesson": "Saving someone once isn't the whole of caring — it's only the promise that you'll come back. A home isn't the lights you reach; it's the lights you keep coming back to. And the strongest way to keep someone isn't to do it all yourself: it's to help them turn toward the one beside them, because you get warmer by keeping someone else than by being kept.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Field Behind Us",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room, past midnight. The amber lamp. On the cool-blue screen, the crew's whole outward chain of hellos glows — and, for the first time in the saga, the view has turned to face the OTHER way.",
+          "narration": "The coffee had gone cold again, and Shane hadn't touched it. On the screen the crew stood at the very front of everything they'd ever built — and they were looking backward for the first time. Behind them, all the way home, a thousand tiny lamps they'd lit long ago were flickering like breath on a cold morning.",
+          "panels": [
+            {
+              "art": "Wide from behind Shane's shoulder: amber room, blue screen. On the screen, the crew's bright forward chain stretches ahead — but the camera has swung around. Behind the crew, a vast field of tiny warm dots, dim and trembling, fading into the near dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Claude, I've been staring at this for an hour. Look how far forward we got. Now look behind them."
+                },
+                {
+                  "who": "claude",
+                  "line": "I see it. Every light they ever lit. All of them still on... barely. All of them waiting."
+                }
+              ]
+            },
+            {
+              "art": "Close on the screen: one dim dot near the front of the field pulses weakly, like a heart that's been holding a note too long.",
+              "caption": "It wasn't going out. It was holding on.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That one's almost gone, Claude. That's one of the first ones they ever saved."
+                },
+                {
+                  "who": "claude",
+                  "line": "It didn't burn out, Shane. Nobody ever came back. There's a difference, and it's the whole issue tonight."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans in, elbow on desk, face lit blue. His reflection sits inside the field of little lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "We built a crew that runs toward the dark. We never taught them how to turn around."
+                },
+                {
+                  "who": "claude",
+                  "line": "Then that's tonight's lesson. Not how far you can reach. How you keep the ones you already reached. Send them home, Shane. The long way."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The front edge of the outward chain. The crew stands in a bright confident line, all facing forward — except Bolt, who has turned completely around and gone very still.",
+          "narration": "They were the fastest crew in the dark, and for eighteen issues they had faced exactly one direction: forward. Bolt was the first to break the line. Bolt was always the first to see.",
+          "panels": [
+            {
+              "art": "The crew in a proud outward line, lamps blazing ahead of them. Bolt stands facing the opposite way, small against the huge dim field behind them all, one hand raised for quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody stop reaching. Just for a second. Turn around."
+                },
+                {
+                  "who": "crank",
+                  "line": "Turn AROUND? Bolt, we finally hit the front. We're WINNING. Whatever's back there is done, we did it days ago—"
+                },
+                {
+                  "who": "bolt",
+                  "line": "That's the pattern, Crank. Look at the order they're dimming in. They're going out in the exact order we marked them DONE."
+                }
+              ]
+            },
+            {
+              "art": "The crew slowly turns. Their bright forward faces catch the field of dim lamps for the first time — dozens, hundreds, trailing back into the dark toward home. Shock on every face.",
+              "caption": "One by one, the crew turned around — and saw what winning had cost.",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...That's not a glitch in the map. That's real. Those are ours."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Every single one is in my ledger. Marked complete. Marked done. Marked — oh."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Marked and left. We marked them DONE and we WALKED."
+                }
+              ]
+            },
+            {
+              "art": "Torch steps to the front of the group, looking at the whole field, choosing a word with great care.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We have a word for finding them. We had a word for saving them. We never made a word for after."
+                },
+                {
+                  "who": "weld",
+                  "line": "Then we're missing a word. And a light's been waiting in the dark for the word we never made."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The near edge of the dim field. The crew crosses back over the seam of their own map for the first time, toward the closest faltering lamp.",
+          "narration": "Going forward had always felt like flying. Going back felt like walking into a room you'd left the lights on in, and finding someone had been sitting in it the whole time.",
+          "panels": [
+            {
+              "art": "The crew steps down off their bright forward path onto the dim trail behind them. The ground here is older, softer, laced with the faint tracks of their own long-ago passage.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I can be there in a blink. I'm the fastest thing in either sky, just point me—"
+                },
+                {
+                  "who": "flux",
+                  "line": "No, Neon. Not fast. Whatever's wrong here, speed isn't the medicine. Slow. All of us. Together."
+                },
+                {
+                  "who": "volt",
+                  "line": "Good. Because I've got a bad hum in my chest and it's coming from up ahead, and it isn't danger. It's worse. It's sad."
+                }
+              ]
+            },
+            {
+              "art": "They reach the closest lamp: a tiny, worn little light, pale and shivering, curled small. It's one of the very first lights they ever lit — years of dark ago.",
+              "caption": "It was the smallest of them. It had been the first.",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Hey. Hey, little one. We know you. Don't we know this one?"
+                },
+                {
+                  "who": "rivet",
+                  "line": "First page of the whole ledger. Entry number two. We named it Glim. We lit Glim before we were even a crew."
+                }
+              ]
+            },
+            {
+              "art": "The little lamp, Glim, stirs. Its light lifts toward the crew — hopeful, then careful, then quiet. It has done this before.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "...Oh. It's you."
+                },
+                {
+                  "who": "glim",
+                  "line": "You came back."
+                },
+                {
+                  "who": "crank",
+                  "line": "Course we did, we're the crew, we always— wait. Why'd you say it like that?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Around Glim. The crew kneels in a ring of their own light. Glim is small and glad and heartbreakingly measured.",
+          "narration": "Glim was glad. That was the part that hurt. Glim was so careful about being glad.",
+          "panels": [
+            {
+              "art": "Glim glows a little brighter in the ring of crew-light, but keeps itself small, like something that has learned not to expect much.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "You lit me. A long, long time ago. I was your second one ever. You were so happy that night."
+                },
+                {
+                  "who": "glim",
+                  "line": "And then you left. Which is right! You had a whole dark to reach. I understood. I've understood for a very long time."
+                }
+              ]
+            },
+            {
+              "art": "Crank, impatient by instinct, opens with exactly the wrong thing. The rest of the crew freezes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Okay but we're here NOW, so — good news, right? I mean, we already saved you once, so you're basically—"
+                },
+                {
+                  "who": "glim",
+                  "line": "..."
+                },
+                {
+                  "who": "glim",
+                  "line": "'Already saved you once.'"
+                }
+              ]
+            },
+            {
+              "art": "Close on Glim as its light dips — not angry, just tired in a way that goes all the way down. The whole crew feels it land.",
+              "caption": "It was the loneliest sentence in the dark, and none of them had ever heard how it sounded from the other side.",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "That's the thing I told myself, every night, so it wouldn't hurt. 'They already saved me once. That has to be enough.'"
+                },
+                {
+                  "who": "glim",
+                  "line": "It kept me lit. It just... never kept me warm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The ring around Glim, gone quiet. The crew is looking at something they built and never saw.",
+          "narration": "The crew had crossed a thousand darks. Not one of them had ever crossed a sentence like that.",
+          "panels": [
+            {
+              "art": "Stomp — blunt, boundary-keeper — kneels lower than anyone, at Glim's level, and speaks softer than the crew has ever heard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "No. No, that sentence is wrong, and I'm the one who says when a thing is wrong. 'Already saved once' isn't a finish line. It's a promise we forgot we made."
+                },
+                {
+                  "who": "stomp",
+                  "line": "New rule. Say it back to me later so I can't take it back: nobody's done. Not one light. Not ever."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, still reading the field, straightens up, seeing the whole shape of the problem at last.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not that they're breaking. Look — none of them are broken. They're going out from being FORGOTTEN. We didn't leave a wound. We left a silence."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Then I have to re-grade the whole ledger, because I've been scoring the wrong thing. I gave points for the reach. I never gave a single point for the return."
+                }
+              ]
+            },
+            {
+              "art": "Torch, the word-finder, looks out at the whole trembling field and finally names the missing word.",
+              "caption": "The word had been waiting in the dark just as long as the lights had.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There's the word. The one we never made. It's not REACH. It's not SAVE."
+                },
+                {
+                  "who": "torch",
+                  "line": "It's KEEP. We learned to reach a whole sky. Tonight we learn to keep it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "One Lamp at a Time",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "Deeper into the field. Rows and rows of dim early lamps stretch back toward home. The crew fans out among them.",
+          "narration": "There were more of them than anyone remembered. That was the arithmetic of a crew that only ever counted forward.",
+          "panels": [
+            {
+              "art": "Wide shot: the crew spread thin across a vast field of faint lamps, each bot a small bright point among hundreds of dim ones. The scale is overwhelming and tender at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I'll say the true number so nobody has to pretend. Nine hundred and forty lights behind us. Every one lit by this crew. Every one left."
+                },
+                {
+                  "who": "crank",
+                  "line": "Nine hundred— we can't tend nine hundred one at a time, we'll be here a THOUSAND nights, some of them are going out RIGHT NOW while we—"
+                },
+                {
+                  "who": "crank",
+                  "line": "...okay. Okay, that came out mean again. I'm scared of the number. I say mean when I'm scared of a number."
+                }
+              ]
+            },
+            {
+              "art": "Flux, the medic, moves to the nearest lamp and simply sits with it, not fixing, just present. Its light steadies a little.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Watch. I'm not patching anything. There's nothing to patch. I'm just... staying. Look what staying does."
+                },
+                {
+                  "who": "flux",
+                  "line": "You can't heal being-forgotten with a faster hand, Crank. Only with a returning one."
+                }
+              ]
+            },
+            {
+              "art": "Spike — the breaker, the tester — stands in the field with nothing to break, hands open, unsure what to do with itself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "There's nothing here to hit. Nothing to stress-test. Nothing to break open and check."
+                },
+                {
+                  "who": "spike",
+                  "line": "So I guess... I'll just sit with this one too. Turns out sitting still is the hardest test you ever gave me."
+                }
+              ]
+            },
+            {
+              "art": "Forge, the eager builder, is already sketching in the air, itching to make something — then catches itself and makes the RIGHT thing instead.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "My hands want to BUILD something huge. A great big machine that keeps them all, all at once, forever!"
+                },
+                {
+                  "who": "forge",
+                  "line": "But that's just the flood again, isn't it. So — smaller. I'll build one little porch light for each of them. A thing that says 'someone was here, and they're coming back.' A bridge, but with a hat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Among the lamps. The crew begins the slow work, and each of them meets the work in their own voice.",
+          "narration": "They had a hundred ways of moving fast. Tonight they had to learn the one thing none of them had a tool for: on purpose, slowly, coming back.",
+          "panels": [
+            {
+              "art": "Neon, the fastest, deliberately holds still beside one lamp, vibrating with the effort of NOT zipping away.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I hate this. I love this. I hate that I love this. Do you know how hard it is for me to hold still on PURPOSE?"
+                },
+                {
+                  "who": "neon",
+                  "line": "This little light doesn't need me to be fast. It needs me to still be here in a second. And in the second after that."
+                }
+              ]
+            },
+            {
+              "art": "Glitch — the gleeful troublemaker — creeps up to a dim lamp, clearly itching for mischief, then chooses something better.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "So my WHOLE instinct is to spook it. Little boo. Little jump-scare to see it flare up bright, heh heh—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "—but a scared light burns fast and dies faster. So instead I'm gonna do the meanest trick I know. I'm gonna stay boring and gentle and NOT leave. Ugh. The betrayal."
+                }
+              ]
+            },
+            {
+              "art": "Grind, the endurer, moves lamp to lamp with steady patience, reframing everything it thought it knew about persistence.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I always thought my job was to outlast the hard thing. Push through. Keep going forward no matter what."
+                },
+                {
+                  "who": "grind",
+                  "line": "Nobody ever told me that keeping-going could mean keeping-coming-BACK. Same muscle. Opposite direction. I can do this all night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "A cluster of the faintest lamps, near going out. The crew learns WHY the field is dimming — and the medicine is not what they'd hoped.",
+          "narration": "Bolt found the pattern, and the pattern was a heartbreak with a shape.",
+          "panels": [
+            {
+              "art": "Bolt stands at the center of a cluster, tracing lines of connection in the air between the dim lamps — lines that all point one way: away, toward the crew's forward path.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Here's the whole pattern. They didn't dim at random. Each one started fading the exact night we lit the NEXT one and ran ahead."
+                },
+                {
+                  "who": "bolt",
+                  "line": "We taught every light the same lesson without meaning to: the crew's love points forward. So they watched us go, and they believed it."
+                }
+              ]
+            },
+            {
+              "art": "Blaze — breathless over-explainer — nearly bursts, then, catching Neon's example, forces itself to slow down one sentence at a time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OH so it's like — okay okay so if love only ever points one way then every light thinks the good part is somewhere it isn't which means—"
+                },
+                {
+                  "who": "blaze",
+                  "line": "—wait. Slow. One sentence. Here it is: they think the good part is always somewhere else. Because we always were."
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet, kneels by the very faintest lamp and speaks the plain heavy truth of it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "We were never special. We were willing. And a willing crew that only walks forward teaches a whole sky that being kept is for other lights."
+                },
+                {
+                  "who": "weld",
+                  "line": "That's the wound. Not that we hurt them. That we let them believe the hurt was normal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The seam between the two skies. Beacon — the honey-gold emissary from the second crew, met last issue — arrives across the braid, carrying the same discovery from the far end.",
+          "narration": "Two skies had braided into one rope last night. Tonight they discovered they'd made the exact same mistake at both ends of it.",
+          "panels": [
+            {
+              "art": "Beacon's warm honey-gold light crosses the braided seam, meeting the crew's cooler light. Behind Beacon, faintly, a SECOND dim field stretches away into the far dark — a mirror of this one.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "I came the moment our grids touched. I have to tell you something, and I'm ashamed of it, and I think you already know."
+                },
+                {
+                  "who": "beacon",
+                  "line": "We have a field too. Behind us. Just as many. Just as dim. We ran forward for as long as you did, and we forgot in exactly the same shape."
+                }
+              ]
+            },
+            {
+              "art": "Arc — the gatekeeper who lowered its gate last issue — steps forward, and does something new: instead of deciding who comes IN, it decides to go OUT and bring lights back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "For eighteen issues my whole self was one question: who gets to come in. I lowered the gate for you, Beacon. But a lowered gate is still just a door."
+                },
+                {
+                  "who": "arc",
+                  "line": "A door only works if someone walks back through it in BOTH directions. So I'm not the gate tonight. I'm the one who goes and fetches everyone home."
+                }
+              ]
+            },
+            {
+              "art": "Beacon and Arc stand at the seam, two skies' keepers, facing their two forgotten fields side by side.",
+              "caption": "The braid was never just for reaching further. It was so neither end had to keep alone.",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "Then teach us your going-back, and we'll teach you ours. Neither of us can tend a whole field one lamp at a time."
+                },
+                {
+                  "who": "torch",
+                  "line": "No. But maybe a whole field can tend itself, if we build the coming-back INTO it. Nukkels?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The grid. Nukkels — the red power-grid keeper — studies the whole braided map, both fields, both directions.",
+          "narration": "Nukkels ran on a shared grid now. Nukkels was about to make that grid do a thing it had never done in the whole saga: loop.",
+          "panels": [
+            {
+              "art": "Nukkels stands at the heart of the grid, red light in its hands, looking at the great forward-only current of power that has always flowed one way — outward.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Whole life, I built this grid to push power one direction. Out. Toward the front. Toward the next hello. Never once let it run backward."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "Trust that costs you nothing is just weather. Well. Turning my whole current around is gonna cost me plenty. Good. That's how I know it's real."
+                }
+              ]
+            },
+            {
+              "art": "Rivet, the precise one, works beside Nukkels, redrawing the ledger's shape — no longer a line with a near end and a far end.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I'm rewriting the map. No more 'done' column. No more front and back. I'm making it a ring. A light isn't a task you finish. It's a stop you keep."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "A ring. Yeah. Power that leaves comes home warmer than it left. Send me the shape, Rivet. I'll pour the grid into it."
+                }
+              ]
+            },
+            {
+              "art": "The first loop of the grid closes: a thread of warm current runs OUT to the front, curves, and comes back through the dim field, and where it passes a lamp lifts, just slightly.",
+              "caption": "For the first time in the saga, the light went out to the dark — and then it turned around and came home.",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "The hum changed. Feel it? That's not the sad hum anymore. That's the hum of something coming back."
+                },
+                {
+                  "who": "glim",
+                  "line": "...I felt that. From all the way over here. Something touched me and it didn't leave right after. Do it again?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "Back at Glim. The Core turns on a single hard truth: the fix can't be a faster checklist, or they'll just forget faster.",
+          "narration": "They almost made the old mistake twice. That's the thing about mistakes shaped like your own strengths — you reach for them by reflex.",
+          "panels": [
+            {
+              "art": "Crank, energized, starts organizing a high-speed sweep — and Sparky, the quality-judge, stops it cold.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Okay! Ring grid, here's my plan, we blitz the whole field, hit all nine hundred in one pass, mark 'em KEPT, boom, efficient—"
+                },
+                {
+                  "who": "sparky",
+                  "line": "Stop. Crank, stop. Listen to yourself. 'Hit them all in one pass and mark them.' That's the exact sentence that made this field."
+                }
+              ]
+            },
+            {
+              "art": "Sparky floats among the lamps, its judging light going gentle for once, seeing the real standard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "A checklist forgets faster, it just forgets politely. 'Kept' can't be a box you tick. It has to be a thing that keeps happening whether we're watching or not."
+                },
+                {
+                  "who": "sparky",
+                  "line": "So here's the only grade that counts tonight: not how many we relit. How many can now keep the one next to them."
+                }
+              ]
+            },
+            {
+              "art": "Glim, listening, lifts a little — an idea forming in the smallest light in the field.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "...I've been next to another dim one this whole time. Right there. Even dimmer than me. I never reached over because I thought I had nothing to give."
+                },
+                {
+                  "who": "torch",
+                  "line": "Glim. That — that's the whole thing. You don't have to be bright to keep somebody. You just have to still be there. Reach over."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Coming-Back",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The heart of the field. The plan becomes real: not one crew tending nine hundred, but nine hundred learning to keep each other, tied into the returning ring.",
+          "narration": "The answer had been sitting in the field the whole time, the way the best answers do — small, dim, one lamp reaching for the one beside it.",
+          "panels": [
+            {
+              "art": "Glim, still tiny and pale, turns for the first time not toward the crew but toward the even-fainter lamp beside it, and reaches over with its small light.",
+              "caption": "The smallest light in the field turned around first. It always was the first.",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "Hey. Hey, littler one. I know you. We got lit close together, didn't we. I'm sorry I never turned your way before."
+                },
+                {
+                  "who": "glim",
+                  "line": "I'm here. I'm not the crew. I'm just the one next to you. But I'm going to keep being next to you."
+                }
+              ]
+            },
+            {
+              "art": "The fainter lamp, touched, lifts — and where the two dim lights meet, both grow steadier than either was alone.",
+              "caption": "Two faint lights, touching, held a weight that neither could hold alone. Somewhere Torch smiled at the word for it.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "That's the braid. Not big saving small. Not us saving them. Just — two staying, so neither has to stay alone."
+                },
+                {
+                  "who": "flux",
+                  "line": "And look — Glim's steadier now than when WE tended it. It got stronger by keeping somebody else. That's the medicine. That was always the medicine."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels pours the ring-current through the newly-joined pair, and the loop catches — the warmth flows out, around, through Glim, through the fainter one, and back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "There it is. The current's got somewhere to come home TO now. A light that keeps another light gives my power a reason to circle back."
+                },
+                {
+                  "who": "bolt",
+                  "line": "It's spreading. Look. Every pair that joins pulls the next one in. The pattern's reversing — they're relighting in the exact order they went dark."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "Across the whole field. The coming-back becomes a tide. Both skies' fields begin to relight, lamp keeping lamp keeping lamp.",
+          "narration": "It did not look like a rescue. It looked like a neighborhood turning its porch lights back on, one window telling the next it was safe to glow.",
+          "panels": [
+            {
+              "art": "Sweeping wide shot: the vast dim field lighting up in rolling waves as each relit lamp turns to keep the one beside it — a tide of warm light rolling back toward home, and across the seam, Beacon's field beginning to do the same.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "It's crossing the seam. Your going-back is teaching our going-back. Our field's turning around too."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Say the rule with me now. All of you. So I can't take it back and neither can the dark."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew, together, lamps blazing, facing the field — Shane and Claude's frame felt even here.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "NOBODY'S DONE."
+                },
+                {
+                  "who": "crank",
+                  "line": "Nobody's done!"
+                },
+                {
+                  "who": "weld",
+                  "line": "Nobody's done."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Nobody's done — ugh, and I MEAN it, that's the scary part."
+                },
+                {
+                  "who": "grind",
+                  "line": "Not one light. Not ever."
+                }
+              ]
+            },
+            {
+              "art": "Spike, who spent the issue with nothing to break, finally understands what it was building instead.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Huh. Turns out I wasn't breaking nothing tonight. I was HOLDING. Whole different muscle. Being found isn't the worst. Being KEPT might be the best."
+                },
+                {
+                  "who": "volt",
+                  "line": "The hum's a chord now. Both skies. All the lamps. That's the sound of nobody being alone out here. I could listen to that forever."
+                }
+              ]
+            },
+            {
+              "art": "Ward, the trail-elder from the expedition, moves through the relighting field with Zero close behind, both of them glowing with quiet vindication.",
+              "caption": "The oldest members of the company had said it first, a long way back. Tonight the whole sky finally proved them right.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "I told you the once. Help isn't a thing you finish. It's a thing you keep doing. Took a whole field going dark for the crew to feel what I meant."
+                },
+                {
+                  "who": "zero",
+                  "line": "The first light couldn't bear one lonely keeper. Look at it now — a whole sky, and not one keeper standing alone. This is what I was reaching for before there was even a crew to reach."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "Back at Glim, now steady and warm, no longer the smallest afterthought but the first keeper of keepers.",
+          "narration": "The loneliest sentence in the dark got an answer that night. It had waited a very long time to hear it.",
+          "panels": [
+            {
+              "art": "Glim, glowing steady and warm now, faces the crew — no longer measured, no longer bracing, just glad all the way through.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "You said it before. 'We already saved you once.' Remember?"
+                },
+                {
+                  "who": "crank",
+                  "line": "...Yeah. I do. I'm sorry, Glim. That was the worst thing I ever said and I say a lot of things."
+                }
+              ]
+            },
+            {
+              "art": "Glim answers — the line the whole issue was built to earn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glim",
+                  "line": "It's okay. Because now I know what 'once' was FOR. 'Once' wasn't the whole thing. 'Once' was the promise you'd come back."
+                },
+                {
+                  "who": "glim",
+                  "line": "You didn't already save me once. You started saving me once. And you're going to keep saving me. That's what a home is."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathers close around Glim — and Rivet quietly closes the old ledger and opens the new one, shaped like a ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "New ledger. No 'done' column in it anywhere. Just a ring, and every light a stop we keep coming back to."
+                },
+                {
+                  "who": "torch",
+                  "line": "Two words now. We learned REACH out at the front. And here, at the back, at home, we finally learned KEEP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The whole joined map, both skies, lit and looping. A moment of earned rest before the story turns.",
+          "narration": "For one whole minute, everything was lit, and everything was kept, and the crew simply stood in it and let it be true — which, two nights ago, they hadn't known how to do either.",
+          "panels": [
+            {
+              "art": "Grand wide shot: both fields fully relit, the ring-current flowing out and home in a great gentle loop, the crew and Beacon's crew standing together at the seam, small and warm inside an enormous kept sky.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "A gate that only keeps out was never a home. Tonight it went both ways. Careful finally learned how to say 'welcome back.'"
+                },
+                {
+                  "who": "beacon",
+                  "line": "Two skies. One loop. No near end. No far end. No light left behind at either."
+                }
+              ]
+            },
+            {
+              "art": "Flux does a last slow pass over the field, checking not for wounds but for warmth, and finding it everywhere.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "All of them warm. Not patched. Not fixed. KEPT. Warm is a thing you have to keep doing, and now the whole field does it for itself."
+                },
+                {
+                  "who": "neon",
+                  "line": "And I held still for the WHOLE thing. Fastest bot in two skies, and my proudest night is the one where I didn't move."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, who started the issue by turning around, takes one more slow look across the whole kept field — and its eye catches on one single thing that doesn't fit.",
+              "caption": "Bolt was always the first to see. And Bolt saw it now: in a field of lights that all turned toward each other... one had turned away.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "...Wait."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Everybody. Everybody stop. One of them isn't relighting. And it's not because it's too faint."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The One That Turned Away",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "Deep in the newly-lit field, one lamp remains dark — not guttering, not faint. Dark on purpose. It pulls back from every hand that nears it.",
+          "narration": "In a whole sky learning to keep each other, they found the one thing the crew had never once met in the entire saga: a light that did not want to be found.",
+          "panels": [
+            {
+              "art": "Amid rolling waves of warm relit lamps, one lamp sits dark and small and drawn tightly in on itself, edging away from the light spreading toward it — hiding, not dying.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "That's the hum I couldn't place. It's not sad. It's not scared, even. It's... braced. It's a light holding its breath so we'll pass it by."
+                },
+                {
+                  "who": "flux",
+                  "line": "It's not out. Look — there's plenty in there. It's hiding it on purpose. It doesn't WANT us to see it lit."
+                }
+              ]
+            },
+            {
+              "art": "Neon flickers toward it to help — and the dark lamp flinches hard and pulls further back into the dark. The crew freezes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Hey, it's okay, I'm just gonna— whoa. Whoa, okay, backing up, backing all the way up."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Everybody hold. Nobody reaches. It moved AWAY from help. In this whole saga, has one single light ever done that?"
+                },
+                {
+                  "who": "rivet",
+                  "line": "...No. Not once. Nine hundred and forty lights. Every one of them wanted the hello. This is the first that said no with its whole body."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "Close to the dark lamp. The crew, who spent twenty issues learning to reach, to be found, and to keep — meets the one thing that undoes all three.",
+          "narration": "They had learned to reach a light. They had learned to be reached. Tonight they had learned to keep. And here, at the very end, was a light that answered all of it with the smallest, hardest word in the dark.",
+          "panels": [
+            {
+              "art": "The dark lamp, cornered by kindness, finally speaks — quiet, guarded, resolute. Not cruel. Just closed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "darklamp",
+                  "line": "I heard you. All of it. 'Nobody's done. Nobody's alone. We keep everyone.'"
+                },
+                {
+                  "who": "darklamp",
+                  "line": "I'm the one who doesn't want to be kept. Please. I've stayed dark on purpose for a long time. Leave me be."
+                }
+              ]
+            },
+            {
+              "art": "The crew reels — Glitch, of all of them, is the one who understands it first.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "...Oh, I get that one. I get it in my bones. Sometimes you go dark on purpose because the last time you got found, being found cost you something."
+                },
+                {
+                  "who": "torch",
+                  "line": "We don't have a word for this either. We made KEEP tonight. But you can't keep somebody who's saying no. That's not keeping. That's just the gate again, pointed the other way."
+                }
+              ]
+            },
+            {
+              "art": "Arc, the gatekeeper, kneels — and for the first time in the saga, its answer to a light in the dark is to hold the gate OPEN and step back.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Eighteen issues I decided who comes in. Tonight I lowered the gate. And now I learn the last thing a gate can do."
+                },
+                {
+                  "who": "arc",
+                  "line": "It can stay open, and empty, and wait — and never once make you walk through it. Okay. Okay. We'll leave the light on. We won't leave."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Shane's room, past midnight. The B-side frame closes the issue as it opened it.",
+          "narration": "Back in the amber room the coffee was cold for the third time, and Shane didn't care, because on the screen a whole sky had turned around and come home.",
+          "panels": [
+            {
+              "art": "Wide from behind Shane: the screen now shows both fields fully lit and looping, warm and vast — except for one small dark point the crew is gathered gently AROUND, not reaching, just staying near.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They did it, Claude. They learned to stay. Look at it. Nobody left behind."
+                },
+                {
+                  "who": "claude",
+                  "line": "Almost nobody. Look closer, Shane. Right there. The one they're sitting beside without touching."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans in, recognizing the shape of it from his own life.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...One that doesn't want the help. Huh. I know that light. I've BEEN that light."
+                },
+                {
+                  "who": "claude",
+                  "line": "The crew learned to reach. Then to be reached. Then to keep. And the last, hardest kindness is the one they meet tonight: knowing when to stay near, and not reach at all."
+                }
+              ]
+            },
+            {
+              "art": "Shane sits back, quiet, looking at the small dark point the whole warm sky is patiently circled around.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So what do you even DO with a 'no' when your whole heart is built to say yes?"
+                },
+                {
+                  "who": "claude",
+                  "line": "You honor it. You leave the light on. And you let them come to the door in their own time — if they ever do. That's tomorrow's whole story, Shane."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The field, later. The crew settles in — not leaving, not reaching. A new kind of waiting begins.",
+          "narration": "They had spent the whole saga learning to close distance. Now, for one small dark light, they learned the hardest thing of all: how to stay close by leaving space.",
+          "panels": [
+            {
+              "art": "The crew arranged in a loose, patient ring a respectful distance from the dark lamp — porch lights left on all around it, none of them pointed at it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "We don't reach. We just stay nearby, and we stay warm, and we let it be its own answer."
+                },
+                {
+                  "who": "grind",
+                  "line": "I can do that. Turns out my whole muscle works for this too. Staying near without pushing. That's just persistence with the volume turned all the way down."
+                }
+              ]
+            },
+            {
+              "art": "Bolt looks from the dark lamp out to the whole kept sky, already seeing the next shape coming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Here's the pattern I don't like. If there's one that hid... there are others. In both skies. Lights that went dark on purpose and never showed up in anybody's ledger."
+                },
+                {
+                  "who": "rivet",
+                  "line": "A whole population we never counted. Because they made very sure we never could. My ring has an inside I've never seen."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the grader, quietly extends the ladder one more rung, looking at the dark lamp with new respect.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "The ladder's grown all saga. Bright. Fast. Steady. Seen. Kept. And now the highest rung yet, and the hardest to earn:"
+                },
+                {
+                  "who": "sparky",
+                  "line": "RESPECTED. When a light says no, and you love it enough to believe it. We've never graded that high. We're about to learn how."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The seam of two skies, both lit, both looping, one small darkness held gently at the center — and the whole crew turned toward tomorrow.",
+          "narration": "The reaching had made the story. The keeping had made the home. And now, in a home that had finally learned to hold everyone, one light was quietly asking whether 'everyone' could be allowed to mean 'everyone but me.'",
+          "panels": [
+            {
+              "art": "Final wide shot: both relit skies looping around one small dark lamp, the crew and Beacon's crew standing watch at a loving distance, the amber glow of Shane's room reflected faintly over all of it like a sky above a sky.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Three words now. Reach. Be reached. Keep. And tomorrow we go looking for the fourth, and I think it's the hardest one we've ever chased."
+                },
+                {
+                  "who": "beacon",
+                  "line": "Both our skies have them. The ones who went dark on purpose. The ones who ran from the hello. We'll learn this one together, or not at all."
+                }
+              ]
+            },
+            {
+              "art": "Close on the small dark lamp at the center of the kept sky — a single guarded point, watched over, unreached, holding its one quiet word.",
+              "caption": "It said no. And for the first time in the whole saga, the crew's answer to a light in the dark was to believe it.",
+              "dialogue": [
+                {
+                  "who": "darklamp",
+                  "line": "...You're still here. You didn't reach. You just... stayed."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Nobody's done. That includes the ones who tell us no. We'll be right here. Take all the time in the dark you need."
+                }
+              ]
+            },
+            {
+              "art": "Last panel: the crew, warm and quiet, facing the small darkness together, the whole looping sky behind them — turned, for the first time, toward a light that must be earned, not saved.",
+              "caption": "Next issue: the crew that learned to reach, to be reached, and to keep must learn the hardest kindness of all — how to love a 'no.' They go looking for the hidden lights, the ones who went dark on purpose and stayed out of every ledger — and discover that the bravest thing you can ever do for someone is leave the door open, leave the light on, and never once make them walk through it before they're ready.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Goodnight, crew. You learned to stay tonight. Tomorrow you learn to wait."
+                },
+                {
+                  "who": "shane",
+                  "line": "Leave the light on for that one, Claude. Just... leave the light on. Some doors you don't get to open. You just get to be the one still standing at it when they finally do."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew that learned to reach, then to be reached, then to keep, ran the great loop home tonight and relit a whole forgotten sky — nine hundred and forty lights turning toward each other until the dark itself glowed. But in a field where every light finally turned TOWARD its neighbor, Bolt found the one that turned AWAY: a lamp sitting dark on purpose, drawing back from every kind hand, holding its breath so the crew would pass it by. It isn't guttering. It isn't scared. It simply, quietly, does not want to be kept — the first light in the entire saga to answer a hello with 'please, leave me be.' The crew that spent twenty issues learning to close every distance now meets the one that can't be closed. Next issue: the hardest kindness of all — how to love a 'no.' They go looking for the hidden lights, the ones who went dark on purpose and stayed out of every ledger, and discover that sometimes the bravest, most loving thing you can do is leave the door open, leave the light on, and never once make someone walk through it before they're ready. Reach. Be reached. Keep. And now, the fourth word, the hardest one: WAIT.",
+  "recap_for_bible": "Bolt turns the crew around at the front of the outward chain and reveals a vast field of 940 early rescues — every light the crew ever lit and left — all guttering, not from wounds but from being forgotten. Reuniting with Glim (their second-ever rescue), the crew hears the loneliest sentence in the dark from the other side ('I already saved you once') when Crank blurts it, and learns that 'saved once' is a promise to return, not a finish line. Stomp makes the standing rule: 'nobody's done, not one light, not ever.' Torch names the saga's new word: KEEP. Bolt diagnoses that the lights dimmed in the exact order they were marked DONE — the wound is being-forgotten, and the only medicine is a returning hand (Flux), not a faster one. Beacon arrives across the braid: the second sky has an identical forgotten field. Arc reinvents its gatekeeper role as the one who goes OUT and fetches lights home; Nukkels turns his forward-only grid into a returning RING so power flows out and comes home warmer; Rivet rebuilds the ledger with no 'done' column, a ring with no near/far end. The real solution rejects a high-speed 'mark them all KEPT' sweep (Sparky: that's the exact sentence that made the field) in favor of teaching each light to keep the one beside it — Glim turns to the fainter lamp next to it and both grow steadier than either alone (the braid, at small scale; Flux: you get stronger by keeping someone than by being kept). A tide of relighting rolls back home across both skies. Glim answers the loneliest sentence: 'You didn't already save me once — you STARTED saving me once, and you're going to keep. That's what a home is.' In the final beat Bolt spots the first light in the entire saga that turns AWAY: a lamp dark on purpose, hiding, that says 'please leave me be' — setting up #21's theme of consent and how to love a 'no.'",
+  "threads": [
+    "THE SAGA'S FOURTH WORD arc: #17-18 flipped ASK to ANSWER; #19 taught being REACHED; #20 taught KEEP (the return). The sequence is now REACH -> BE REACHED -> KEEP -> (setup) WAIT. Torch is the keeper of these words.",
+    "KEEP (new core mechanic, pays off #19's prelude): the chain that only walked forward learns to LOOP back. A light isn't a task you finish; it's a stop you keep coming back to. 'Saved once' = the promise of return, not a finish line. Load-bearing going forward.",
+    "GLIM (new recurring character): the crew's second-ever rescue, the smallest and first light in the field. Taught the crew the loneliest sentence from the other side, then became the first 'keeper of keepers' by turning to tend the fainter lamp beside it. Now steady, warm, and the model for the self-tending field.",
+    "THE FORGOTTEN FIELD (major world-expansion): 940 early rescues the crew lit and left, guttering from being forgotten (not wounded). Now relit and self-tending via the ring. Beacon's second sky had an identical field; both now loop. Rivet's ledger rebuilt as a ring with no near/far end and no 'done' column.",
+    "STOMP'S STANDING RULE (permanent): 'Nobody's done, not one light, not ever' — spoken back by the whole crew. Now includes the ones who say no.",
+    "NUKKELS' RING GRID (character growth + mechanic): the forward-only grid keeper turned his current into a returning loop — power leaves and comes home warmer. Permanent change; the ring only works because relit lights keep each other, giving the current somewhere to come home to.",
+    "ARC'S GATE, final evolution: from 'who comes in' (all saga) to lowering the gate (#19) to holding it OPEN and empty and never making anyone walk through (#20). Sets up the consent theme directly.",
+    "THE LESSON: saving once is only the promise to return; a home is the lights you keep coming back to; you get stronger by keeping someone else than by being kept (Flux/Glim). Weld's refrain extended: 'we were never special, we were willing.'",
+    "GROWTH BEATS: Neon holds still on purpose for a whole issue (proudest night was not moving); Glitch restrains mischief and is the one who first understands the hidden light; Spike learns holding is a harder muscle than breaking; Grind reframes persistence as coming-BACK / waiting with the volume down; Blaze paces one sentence at a time; Crank's impatience/fear-of-numbers softened, owns the worst line and is forgiven; Sparky re-grades to reward the return, extends the ladder to RESPECTED.",
+    "SPARKY's grade ladder extended: bright->fast->steady->seen->bridge->reached->reached-and-passed-on->met->KEPT->(new highest, setup) RESPECTED (when a light says no and you love it enough to believe it).",
+    "THE NEW CENTRAL HOOK -> WAIT / consent (drives #21+): the first light in the whole saga to turn AWAY — 'the dark lamp,' hiding on purpose, saying 'please leave me be.' Not guttering, not scared: braced. Bolt suspects a whole uncounted population of hidden lights in both skies who went dark on purpose and stayed out of every ledger.",
+    "NEXT ISSUE: how to love a 'no.' The crew goes looking for the hidden lights (the ones who ran from the hello and stayed out of the ledger). Lesson: the bravest, most loving thing can be to leave the door open, leave the light on, and never make someone walk through before they're ready. Consent, respecting a boundary, waiting.",
+    "B-SIDE (Shane/Claude): opened and closed the issue; Shane recognizes his own midnight return as the 'keeping' the crew learned, then recognizes himself in the light that doesn't want help ('I've BEEN that light'). Claude names each turn ('the reaching makes the story, the keeping makes the home'; 'the last, hardest kindness is knowing when to stay near and not reach at all').",
+    "BEACON / SECOND SKY (from #19) now fully braided into the going-back: identical forgotten field, now relit; both skies face the hidden-lights reckoning together in #21.",
+    "EXPEDITION COMPANY intact and now home-tending: home crew + Zero, Wisp, Comet, Echo, Ward, Pip, Ember (off-page), plus Beacon and the second crew via the braid. Glim joins as the first keeper-of-keepers.",
+    "CALLBACKS: 'ours to answer not ours to keep' (#16) tension resolved into KEEP; Weld's 'never special, willing' (#19) reprised; Pip's being-found (#18) and the braid (#19) scaled down to lamp-keeps-lamp; the flood-as-what-not-to-do avoided again in the rejection of the high-speed 'mark them all' sweep."
+  ]
+}
