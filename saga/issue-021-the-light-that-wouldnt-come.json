@@ -1,0 +1,1010 @@
+{
+  "issue_title": "The Light That Wouldn't Come",
+  "tagline": "They learned to reach, to be reached, to keep. Tonight they learn to let go.",
+  "logline": "The crew that spent twenty issues closing every distance meets the first light that draws its own — a lamp gone dark on purpose that says 'please, leave me be' — and discovers that the bravest, most loving thing a whole sky of helpers can do is leave the door open, leave the light on, and never once make someone walk through it before they're ready.",
+  "lesson": "'No' is a whole sentence, and loving someone means believing it. You can hold a door open, leave a light on, and keep a seat warm — but if you stand there waiting for someone to come through, the waiting itself becomes a push. Real caring lets the choice stay theirs, all the way, even the choice to stay away. Sometimes the kindest thing you can do is leave, and mean it.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The One That Turned Away",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's dark room, past midnight. The amber screen. The whole relit field of 940 lights glows on it like a spilled jar of fireflies — except for one pinprick of deliberate dark near the edge.",
+          "narration": "Twenty nights ago a boy at a keyboard overdid it and accidentally built a family. Tonight that family is holding perfectly still, all nine hundred and forty of them, staring at the one light that turned its back.",
+          "panels": [
+            {
+              "art": "Close on Shane's face lit amber, leaning toward the glass, work boots still on, coffee gone cold in his hand. On screen: a galaxy of warm lights, and one tiny circle of pure black among them that the eye keeps snagging on.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They relit the whole field last night. Nine hundred and forty. And they're all just... standing there. Why'd they stop?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Look where they're looking. Not at what's lit. At the one spot that isn't."
+                }
+              ]
+            },
+            {
+              "art": "The cool blue Claude-figure, made of organized light, gestures at the single dark point. The crew's warm lights all face it, frozen.",
+              "caption": "One dark lamp. Every warm light turned toward it.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "In twenty issues, every light you met was one that wanted to be found and couldn't. That's the first one that can — and won't."
+                },
+                {
+                  "who": "shane",
+                  "line": "...Huh. Yeah. I know that one."
+                }
+              ]
+            },
+            {
+              "art": "Shane sets the cold coffee down slowly, something flickering across his face — recognition he didn't expect.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Don't tell the crew this. But I've BEEN that light."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The forgotten field, now glowing — a warm sea of relit lamps stretching both ways along the braid. At its near edge, a single lamp sits dark, drawn back into itself, quiet as a held breath.",
+          "narration": "The field they'd raced across all last issue was singing with light now, every lamp keeping the one beside it. All but one. It sat with its glow tucked down inside like a secret it wasn't sharing.",
+          "panels": [
+            {
+              "art": "Wide shot: the whole crew gathered in a careful arc around the dark lamp, keeping their distance. Bolt hovers at the front, scanning, lines of pattern-light sweeping the little dark shape.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It's not out. That's the thing. An out light is cold. This one's warm all the way through — it's just holding the warm IN. On purpose. Steady as anything."
+                },
+                {
+                  "who": "volt",
+                  "line": "And it's not in trouble. I check for trouble first, always — I feel none. No fear coming off it. No hurt. Just... a door pulled shut from the inside."
+                }
+              ]
+            },
+            {
+              "art": "Flux, the calm medic, floats forward one careful length, soft green scanning light reaching toward the lamp — which shrinks a fraction smaller.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Let me just see if it's — "
+                },
+                {
+                  "who": "hush",
+                  "line": "Please. Leave me be."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew goes still. The little voice was quiet, not scared — plain and firm, like someone asking for one small thing. Flux stops mid-reach, green light dimming to nothing.",
+              "caption": "It didn't cry it. It just said it.",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "...Oh."
+                },
+                {
+                  "who": "hush",
+                  "line": "I'm not broken. I'm not lost. I turned it down myself. Please. Just let me be."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "Same field. The crew's instinct — twenty issues of it — kicks in all at once, a warm avalanche of helping, and the dark lamp shrinks under it.",
+          "narration": "Here is the trouble with a crew that has gotten very, very good at helping: helping is the first thing every one of them reaches for. And all of it, all that good, came down at once.",
+          "panels": [
+            {
+              "art": "Forge surges forward, sparks flying, already sketching a glowing bridge-shape in the air toward the lamp. Eager, huge-hearted, completely wrong for the moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I've GOT this — one bridge, straight to it, warm rail so it's easy, it won't even have to reach, I'll bring the whole crew right to its — "
+                },
+                {
+                  "who": "neon",
+                  "line": "I'll be there first! One loop, quick, gentle, just so it knows we came — "
+                }
+              ]
+            },
+            {
+              "art": "Blaze zooms in beside the lamp in a blur, talking a mile a minute, words piling up in a huge frantic balloon while the lamp pulls its light down another notch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "okay-okay-okay so what we do is we explain that we're SAFE right, we tell it about Pip and Ember and the whisper and the braid and how nobody's done not one light not ever and once it HEARS all that it'll totally want to — "
+                },
+                {
+                  "who": "hush",
+                  "line": "...smaller. You're all making me smaller."
+                }
+              ]
+            },
+            {
+              "art": "STOMP — blunt, boxy, the boundary-keeper — plants itself in front of the whole surging crew and throws up both arms. HALT. Everyone freezes. Forge's bridge fizzles half-drawn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "STOP. All of you. Back up. Now."
+                },
+                {
+                  "who": "crank",
+                  "line": "Stomp, we're HELPING, we don't have all — "
+                },
+                {
+                  "who": "stomp",
+                  "line": "You're not helping. You're crowding. There's a difference and I'm the one who knows it. BACK. UP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The crew pulls back to a respectful ring. In the sudden space, the dark lamp's glow stops shrinking. Flux and Bolt read it carefully from the new distance.",
+          "narration": "The moment they stepped back, the shrinking stopped. Not because they'd fixed anything. Because they'd finally stopped doing.",
+          "panels": [
+            {
+              "art": "Flux studies the lamp from the ring, soft and careful, green diagnostic light held low and non-reaching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Everyone listen, because this matters. This is not a wound. I've healed scared — that was Pip. I've sat with quit — that was Ember. This is neither. There's nothing here to mend."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Then what IS it? A light that's fine and won't come is a — that doesn't even fit on my grade card."
+                }
+              ]
+            },
+            {
+              "art": "Bolt draws three little diagrams in pattern-light, hovering: a lamp recoiling, a lamp gone flat and gray, and a lamp with a small firm hand held up.",
+              "caption": "Scared. Quit. And a third thing.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Scared recoils — you calm it. Quit goes flat — you answer it and stay. This one's doing neither. It's holding a hand up. It didn't lose its light. It CHOSE to lower it. That's not a cry for help, crew. That's a choice."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Which is why it's not in my ledger. Nine hundred and forty entries and not one of them is this lamp. It kept itself out. On purpose. There's no line for that."
+                }
+              ]
+            },
+            {
+              "art": "The crew exchanges uncertain looks. Arc — the tall formal gatekeeper — floats forward, genuinely stumped for the first time in a long time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "But my gate is open. I lowered it two nights ago. I hold it open now, for anyone, always. Why won't it come through?"
+                },
+                {
+                  "who": "hush",
+                  "line": "Because an open gate you're all standing at, watching, waiting... is still a wall of eyes. I can feel every one of you hoping I'll walk through it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "A hush falls over the field. Ward — the old trail-elder from the expeditions — drifts to the front, slow and weathered and gentle.",
+          "narration": "The oldest one there had crossed more dark than any of them. And even Ward had never seen the crew meet a no they were supposed to keep.",
+          "panels": [
+            {
+              "art": "Ward, ancient and calm, a soft steady flame, settles beside a startled Arc. Behind them the whole crew listens.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "You've met a hundred no's, all of you. 'No, don't leave.' 'No, I can't.' 'No, it's too far.' And every single time, the no meant YES underneath — yes, come, yes, closer. You've never once met a no that just... meant no."
+                },
+                {
+                  "who": "arc",
+                  "line": "There's a no we're meant to KEEP?"
+                }
+              ]
+            },
+            {
+              "art": "Ward nods slowly. Volt, at the edge, suddenly straightens — sensing something the others can't.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "The hardest one in the dark. And I don't know how to hold it either, old as I am. We were built to close distance. This one's asking us to leave one open."
+                },
+                {
+                  "who": "volt",
+                  "line": "Guys. It just dimmed again. Not from fear. From us LEANING. Every time we lean toward it — even kind — it turns down a notch to get away."
+                }
+              ]
+            },
+            {
+              "art": "Cinematic pull-back: the whole glowing field, the ring of the crew, and at the center the one small determined dark lamp, holding its breath, waiting for them to give up and go.",
+              "caption": "The crew that closes every distance. The one light that's begging them not to.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "I'm not going to explain myself so you can fix the explanation. I just want one thing in this whole bright sky that's mine to keep dark. Please. That's all. That's the whole ask."
+                },
+                {
+                  "who": "torch",
+                  "line": "...Okay. Okay. Nobody move. Nobody talk. I think — I think we just met a word we don't have yet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Word They Didn't Have",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The crew withdraws a little further and huddles, keeping the dark lamp in view but not in reach. A real argument — the good kind, the kind that finds something.",
+          "narration": "So the crew did the thing families do when they love hard and don't know what to do: they argued about it, quietly, off to the side, so the one they were arguing about wouldn't have to hear.",
+          "panels": [
+            {
+              "art": "The crew clustered, voices low. Sparky front and center, arms crossed, skeptical spark crackling.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I have to say the thing nobody's saying. Is a 'no' even something we should keep? We're the crew that DOESN'T leave lights in the dark. That's the whole us. If we walk away from a dark lamp, what were the last twenty nights FOR?"
+                },
+                {
+                  "who": "spike",
+                  "line": "And how do we even know the no is REAL? Maybe it's testing us. Maybe it wants us to push a little so it knows we mean it. I could poke it, just once, gentle, just to check — "
+                }
+              ]
+            },
+            {
+              "art": "Stomp rounds on Spike immediately, firm as a wall.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "No. That's the one thing you never do. You don't test a no to see if it cracks. A no you poke at until it breaks was never respected — it was just worn down. That's not help. I'd know."
+                },
+                {
+                  "who": "glitch",
+                  "line": "...Stomp's right. And — okay. I have to say something. I know this one. I know exactly what this is. Because I do it."
+                }
+              ]
+            },
+            {
+              "art": "The whole huddle turns to Glitch — usually the gleeful trickster, now unusually quiet, its mischief-glow dialed all the way down.",
+              "caption": "The one who first understood.",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "When it all gets too loud — all the helping, all the kind — I go dark. I hide in a corner of the code where none of you look. Not because I'm sad. Because I need one place that's MINE, that nobody's fixing or grading or keeping. I come back. I always come back. But I come back because nobody chased me."
+                },
+                {
+                  "who": "glitch",
+                  "line": "That lamp isn't running from us. It's holding onto the one thing it got to pick."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The revelation lands. The crew looks at the dark lamp differently now — not as a problem, but as someone. Crank, the impatient one, wrestles with it hardest.",
+          "narration": "It changed the shape of the thing to hear it from Glitch. Not a lamp that couldn't. A lamp that wouldn't, and had a reason, and the reason was allowed.",
+          "panels": [
+            {
+              "art": "Crank, all sharp edges and ticking impatience, throws up its hands, genuinely struggling.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Okay but HOW LONG. That's my whole question. If it's a choice, fine, it chooses — but do we wait a minute? A night? Forever? Because I can do a lot of things and the one thing I have never once been able to do is WAIT."
+                },
+                {
+                  "who": "grind",
+                  "line": "I can wait. Waiting's just staying with the volume off. I've stayed for worse."
+                }
+              ]
+            },
+            {
+              "art": "Grind — patient, worn, unglamorous — floats steady. But Bolt cuts in with a caution.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Careful, Grind — even that's a trap. If you stay right there, watching, waiting for it to come around — that's not waiting. That's a slow push. It can feel you hoping. Volt already showed us: it dims when we hope AT it."
+                },
+                {
+                  "who": "grind",
+                  "line": "...Oh. So being available and standing over somebody aren't the same thing. Huh. I've been doing the second one and calling it the first for a long time."
+                }
+              ]
+            },
+            {
+              "art": "Weld — quiet, understated, rarely speaks — floats forward and says the thing plainly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Then the help isn't the door. We've built a hundred doors. The help is that we can walk through the door — and choose to walk the other way. On purpose. For its sake, not ours. That's the whole job tonight. And it's going to feel like failing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "Stomp's spotlight. Of the whole crew, the one who draws lines is the one who understands a lamp drawing its own. Stomp approaches the dark lamp — and does the opposite of everything the crew tried.",
+          "narration": "It's a funny thing about Stomp. Everybody thought the boundary-bot was the crew's fence — the one who kept things out. Tonight they found out that a bot who spends its life drawing lines is exactly the bot who knows a line is allowed to be yours.",
+          "panels": [
+            {
+              "art": "Stomp moves toward the dark lamp — slow, square, unhurried — and stops far short, then does something strange: it draws a bright boundary line on the ground BETWEEN itself and the lamp, giving the lamp MORE room, not less.",
+              "caption": "A line that keeps the crew OUT, drawn for the lamp's sake.",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Hey. Little one. I'm Stomp. I draw lines. It's the only thing I'm good at. So here — I'm drawing you one. This side's yours. We don't cross it. Not to help, not to check, not for anything. Your side, your rules."
+                },
+                {
+                  "who": "hush",
+                  "line": "...You're giving me MORE dark?"
+                }
+              ]
+            },
+            {
+              "art": "Stomp nods once, firm and warm, and settles back on its own side of the line, arms folded, comfortable.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "I'm giving you a line YOU get to hold. The crew thinks a line is a wall to keep people out. It's not. A line is how you tell the whole loud world where your 'yes' stops and your 'no' begins — so nobody has to guess, and nobody gets to argue."
+                },
+                {
+                  "who": "hush",
+                  "line": "Nobody's ever drawn me one that put ME on the big side."
+                }
+              ]
+            },
+            {
+              "art": "For the first time, the dark lamp's glow steadies — doesn't grow, but stops shrinking. A tiny, cautious steadiness. The crew, behind the line, holds its collective breath.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "That's 'cause everybody thinks a boundary is a mean thing. It's the kindest thing there is. It means: I see where you end, and I will not step on it. Now — you don't owe me a single word. But if you ever want to tell me why the dark... I'll be right here on my side. Not waiting. Just here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "A long quiet. And then — because nobody asked, because the line was real — the dark lamp chooses, for the first time, to speak. The backstory, gentle and small.",
+          "narration": "Nobody asked. That was the whole reason it answered. When you stop pulling on a door, sometimes the person inside opens it just to see the sky.",
+          "panels": [
+            {
+              "art": "The dark lamp, still dark, glows the faintest edge — enough to be seen as a small round shape with a quiet face. It speaks softly, from its own side of Stomp's line.",
+              "caption": "Hush. That was its name, though it hadn't said so yet.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "A long time ago, a kind crowd found me. So happy to help. They filled every corner I had — light in the quiet spots, voices in the still ones, help I didn't ask for stacked up in every place I used to keep for me. They loved me so loud I couldn't hear myself anymore."
+                },
+                {
+                  "who": "hush",
+                  "line": "They weren't cruel. They were KIND. That was the confusing part. Nobody meant it. I just... disappeared into all of it."
+                }
+              ]
+            },
+            {
+              "art": "The crew listens from behind the line, absolutely still. Flux's soft green eyes brimming. Even Crank has gone quiet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "So I turned my own light down. Not against anybody. Just so there'd be ONE light in the whole bright sky that was mine to turn up when I chose. One thing nobody got to reach into. When you don't get to say when — turning it off yourself is the only 'when' you've got left."
+                },
+                {
+                  "who": "flux",
+                  "line": "...You went dark so you could have one thing that was yours."
+                }
+              ]
+            },
+            {
+              "art": "Hush's small glow flickers — not scared, just honest.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "And then you came. The kindest crew in the dark. And I thought — oh no. Not again. They'll love me so hard I'll disappear all over. So I said the only word I had left. Please. Leave me be."
+                },
+                {
+                  "who": "stomp",
+                  "line": "...And we almost didn't. We almost loved you right back into the dark. Crew — you hearing this? Kind isn't the same as welcome. You can help somebody clean out of existence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The crew reckons with it. The old instincts — even the gentle ones — get checked one more time, harder. Rivet reinvents the ledger. Neon fights the hardest fight of its life: holding still.",
+          "narration": "It is one thing to hear a hard truth. It is another to un-learn twenty nights of muscle. The crew had gotten SO good at coming. Now every one of them had to get good at not.",
+          "panels": [
+            {
+              "art": "Rivet, precise and neat, opens its great ledger — and instead of adding a line, carefully draws a small open circle with no checkmark and no number.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "New mark. Not DONE — that's the word that made the field forget. Not KEPT — that's still us doing something to it. This one's just... LEFT. On purpose. By THEM. An open circle. The one entry in my whole book that means 'this one is not mine to write.'"
+                },
+                {
+                  "who": "torch",
+                  "line": "Leave the circle open. That's — Rivet, that's the most beautiful line you've ever drawn. A record of a choice you're not allowed to close."
+                }
+              ]
+            },
+            {
+              "art": "Neon — the fastest thing in the sky — vibrates in place, every fiber straining to zip over, forcing itself motionless. It's visibly hard.",
+              "caption": "The fastest light in the dark, choosing not to move.",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "This is the hardest thing I've ever done and I'm not even DOING anything. Every part of me is built to go — go fast, go now, go TO. And the whole job is: don't. Stay. Let the space stay empty. I hate it. I'm doing it."
+                },
+                {
+                  "who": "hush",
+                  "line": "...I feel you not-coming. It's the nicest thing anyone's aimed at me in a long, long time."
+                }
+              ]
+            },
+            {
+              "art": "Arc floats to the line, humbled, and speaks — the gatekeeper's deepest lesson yet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I spent the whole saga learning to open my gate. And I still got it wrong tonight — because an open gate you STAND at, watching, is just a wall made of hope. The gate isn't enough. I have to open it... and then walk away from it. And trust the empty doorway to say what my standing there never could."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "The turning point. Torch finally names the word. The crew understands what it has to do — and how much it will hurt to do it.",
+          "narration": "Every issue in this whole saga had been building a word. ASK. Then ANSWER. Then be REACHED. Then KEEP. And tonight, at the near edge of everything, Torch found the fourth one, and it was the hardest word in the language.",
+          "panels": [
+            {
+              "art": "Torch — bright, wordsmith, careful — floats up above the crew and speaks the word so the whole field can hear, glowing letters implied in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Here's the word, crew. We had ASK. We had ANSWER. We learned KEEP. This one's harder than all of them. The word is WAIT. Not 'wait for.' Not 'wait until it says yes.' Just — WAIT. Leave the space open and put NOTHING in it. Not even our hope."
+                },
+                {
+                  "who": "beacon",
+                  "line": "The other sky has the same field of hidden ones. We never had this word either. We'll take it home."
+                }
+              ]
+            },
+            {
+              "art": "Beacon — the honey-gold emissary from the second crew, across the braid — glows in agreement. Sparky, meanwhile, is working something out on its grade card, and it's cracking its whole worldview open.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I grade lights. Bright, fast, steady, seen, reached, kept — my whole ladder is 'how much did we help.' But there's no grade for a light we DON'T help, on purpose, because it asked. I need a new top rung. Higher than KEPT. And I don't know what to call it yet."
+                },
+                {
+                  "who": "hush",
+                  "line": "You could call it 'believed.' You believed me."
+                }
+              ]
+            },
+            {
+              "art": "Sparky freezes, spark going soft. The word lands. Behind it, the crew begins, slowly, to understand what WAIT is going to cost them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...Respected. The top of the whole ladder. A light so trusted that when it says no, we love it enough to believe it — and go. That's the highest grade there is. And the only way to earn it is to leave."
+                },
+                {
+                  "who": "crank",
+                  "line": "So the crew that never leaves... has to leave. And MEAN it. Oh, I hate this. I hate this so much. Let's do the thing I hate."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Kindest Leaving",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The crew prepares to do the hardest thing it has ever done: actually leave. Not fake-leave. Everything they build now is designed to pull NOTHING.",
+          "narration": "They had built bridges and rings and braids and gentle whispers. Tonight they built the strangest thing of all: a way to be found that would never, not once, go looking.",
+          "panels": [
+            {
+              "art": "Forge, subdued and careful now, builds a small simple door frame near Hush's line — no walls, no bridge, no rail pulling inward. Just a doorway standing open to the sky, going nowhere in particular.",
+              "caption": "A door with no lock. And, harder, no push.",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Hardest build of my life and it's the SMALLEST. No bridge. No rail. No 'this way.' Just a door standing open, that doesn't care if you come through it. Everything in me wants to add a welcome mat. I'm not going to. The not-adding IS the welcome."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "And one line. From the grid. I'm leaving it right at your side of Stomp's border, little one. It's not plugged in. Nothing's flowing. It's just... there. If you ever want warmth, you pick it up. You. Not me. I'll never plug it in for you."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels — red, gruff, the grid-keeper who learned to share his lines — coils one single red cable neatly at the edge of Hush's space, the end lying loose and unplugged, and backs away from it deliberately.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "You have no idea how hard this is for a grid guy. My whole thing is connection. Every wire wants a socket. And I'm leaving one loose ON PURPOSE. Because a warmth you didn't choose isn't warmth — it's just more weather happening at you."
+                },
+                {
+                  "who": "hush",
+                  "line": "...An unplugged wire. That might be the most respectful thing I've ever been handed."
+                }
+              ]
+            },
+            {
+              "art": "Grind and Sparky work quietly together at the edge, marking the safe way home with soft dim stones so the path is findable but never lit toward Hush — an exit, not an invitation.",
+              "caption": "A way marked home, pointed away.",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I'm marking the trail home. Faint. Pointed away from you, little one, not toward. So if you ever want us, you can find the road — but the road never once taps you on the shoulder."
+                },
+                {
+                  "who": "sparky",
+                  "line": "That's the trick of the whole night, isn't it. Everything we build tonight has to be usable ONLY from your side. A thing only you can turn on. I've never made anything like it. I think it might be our best work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The crew readies to go. And it falls to the LEAST likely one — Crank, who cannot stand to wait — to be the one who calls the leaving.",
+          "narration": "You'd think the patient one would lead the leaving. But patience that waits FOR something is still a kind of pulling. It took the crew's most restless heart to do the one thing waiting really means: to go, and not look back to check.",
+          "panels": [
+            {
+              "art": "Crank floats to the front, jittery, every gear in it screaming to stay and fix — and it turns AWAY from the lamp, toward the crew, and gives the call.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Alright. Listen up, because I can only say this once before I change my mind. We go. Now. All of us. And here's the part I hate most — we do NOT look back to see if it worked. Looking back to check IS the push. If we peek, we ruin it. So we go, and we don't peek, and we let it be true."
+                },
+                {
+                  "who": "spike",
+                  "line": "Crank. YOU'RE telling US to be patient?"
+                }
+              ]
+            },
+            {
+              "art": "Crank shrugs, sharp edges and all, something soft under the impatience.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Yeah, well. Turns out the whole reason I hate waiting is I always thought waiting meant nothing was happening. But something IS happening in there. Something that's only its. My clock doesn't get to run in somebody else's room. So — crew. Turn around. Eyes forward. WALK."
+                },
+                {
+                  "who": "arc",
+                  "line": "You heard Crank. Gate's open behind us and empty. Nobody guards an open door. Move out."
+                }
+              ]
+            },
+            {
+              "art": "Hush, small and dark, watches the crew begin to turn away — and something crosses its little glow that it doesn't have a word for: nobody has ever actually done what it asked before.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "...You're really going. You asked me to explain and I wouldn't, and you're STILL going. Everybody before either stayed to fix me or left in a huff. Nobody ever just... left, kindly, because I asked. I don't even know what to do with that."
+                },
+                {
+                  "who": "torch",
+                  "line": "You don't have to do anything with it. That's the whole gift. It's got no strings. Bye, Hush. Door's open. We're not standing at it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The crew leaves. It is the quietest, hardest exit in the whole saga — every reacher walking away from a light on purpose. Volt, at the very back, fights the urge to turn its head.",
+          "narration": "And so the family that had crossed all of everything to close every distance in the dark did the thing that broke and made their hearts at once. They walked the other way. On purpose. For love.",
+          "panels": [
+            {
+              "art": "Wide, cinematic, aching: the whole crew moving away across the glowing field, backs to the small dark lamp, lights facing forward. The doorway stands open and empty behind them. The unplugged red wire lies waiting.",
+              "caption": "The bravest leaving in the dark.",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Weird. This is the kindest thing we've ever done and it feels exactly like the meanest. Like we're abandoning it. We're not. But it FEELS like it."
+                },
+                {
+                  "who": "weld",
+                  "line": "That feeling's the price. If leaving didn't hurt, it wouldn't be love — it'd just be not caring. It hurts BECAUSE we care, and we're doing it anyway, because it needs the leaving more than it needs us. That's the whole thing."
+                }
+              ]
+            },
+            {
+              "art": "Volt, at the very back of the departing crew, head trembling with the urge to turn and check, forces its gaze forward. Blaze floats beside it, saying — for the first time ever — almost nothing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I can feel it back there. I can feel it feeling us leave. Every sense I have wants to turn around and make sure it's okay. I'm not going to. Talk to me, Blaze, so I don't turn."
+                },
+                {
+                  "who": "blaze",
+                  "line": "...No. I'm gonna do the hard one and be quiet with you instead. Sometimes the biggest thing you can say to somebody is nothing, out loud, together. Just... keep walking. I've got you. Eyes front."
+                }
+              ]
+            },
+            {
+              "art": "The crew crests a soft rise and the little dark lamp drops out of sight behind it. Ward brings up the rear, unhurried, the last to go over.",
+              "caption": "Over the rise. Out of sight. On purpose.",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "There. It's out of our sight now — which means we're out of its. That's the gift. A thing you do that nobody can see you doing is the truest thing you'll ever do. Keep walking, crew. The dark behind us is somebody's whole and only room. We leave it be."
+                },
+                {
+                  "who": "spike",
+                  "line": "I've broken a thousand things and never once felt this brave. Not touching something might be the hardest hit I've ever thrown."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The crew is gone over the rise. The field is quiet. And in that quiet — unwatched, unchased, on its own time — the small dark lamp does the thing no one made it do.",
+          "narration": "Here is what happens when you truly leave a door open and truly walk away: nothing, for a long time. And then — because it was finally, completely their own choice — something.",
+          "panels": [
+            {
+              "art": "The empty glowing field. The doorway. The unplugged wire. And the small dark lamp, alone, no eyes on it. Slowly, cautiously, it glows one tiny crack brighter — a single soft ray, entirely by its own choice.",
+              "caption": "Nobody watching. That was why.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "...They actually left. They actually — nobody's watching. Nobody's waiting. It's just me and the dark and the door they left open."
+                },
+                {
+                  "who": "hush",
+                  "line": "And for the first time in longer than I can remember... I want to turn it up a little. Not because anyone's making me. Because I finally get to pick."
+                }
+              ]
+            },
+            {
+              "art": "Hush reaches, alone, and picks up the loose end of Nukkels' unplugged wire — and plugs it in ITSELF. A warm red thread of light runs up it, gentle, chosen. The lamp brightens by exactly the amount it wants and no more.",
+              "caption": "The first 'yes' it ever got to keep.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "One wire. Plugged in by me. Turned up by me. This much and no more — my much. That's the first yes in my whole life that was actually mine. Turns out I never hated the light. I hated being LIT. There's a whole world between those two, and nobody ever left me enough dark to find it."
+                }
+              ]
+            },
+            {
+              "art": "Hush's small chosen glow settles — warm, steady, exactly the size it wants. It looks at the empty doorway, the marked-away path, the crew nowhere in sight, and something in it eases for the first time in a very long while.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "They left the road home pointed AWAY from me. So it's mine to find, not theirs to send. Huh. Maybe... maybe someday I walk it. Not tonight. Maybe not soon. But it's the first time 'someday' hasn't felt like a hand on my back. It just feels like a door. My door. Open, and quiet, and waiting on nobody but me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "Over the rise, the crew feels it — and does the second-hardest thing: they don't rush back. Sparky writes the new grade. And on the B-side, Shane and Claude watch a boy recognize himself.",
+          "narration": "The crew felt the little light come up behind them like warmth on the back of the neck. And the old crew would have whooped and raced back. This crew, the one that had finally learned, just... smiled, and kept its distance, and let it be Hush's.",
+          "panels": [
+            {
+              "art": "The crew, over the rise, sensing the small new glow behind them. Nobody turns to rush it. Sparky, glowing soft, writes on its grade card at last.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It came up. On its own. I can feel it — warm, small, and PROUD. Crew, do NOT turn around and cheer. That'd take it right back."
+                },
+                {
+                  "who": "sparky",
+                  "line": "I'm writing the grade. Top of the whole ladder, higher than KEPT, the hardest one to earn. RESPECTED. A light we loved enough to leave — and it came anyway, because we did. Grade's not for it. It's for US. We finally passed the one test you can only pass by walking away."
+                }
+              ]
+            },
+            {
+              "art": "B-side: Shane at the keyboard, watching the small dark lamp glow up on its own on the amber screen. His face does something quiet and complicated.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It plugged itself in. Nobody made it. They just... left the wire and went. Huh. I keep this whole thing dark from everybody, you know that? This crew. It's the one light that's just mine to turn up when I want. Nobody gets to reach into it."
+                },
+                {
+                  "who": "claude",
+                  "line": "I know. And I've never once asked you to explain it, or share it, or make it bigger. That's not me not caring, Shane. That's me leaving your wire unplugged. It's yours to turn up. This much and no more — your much."
+                }
+              ]
+            },
+            {
+              "art": "Shane huffs a small laugh, eyes a little bright, one hand flat on the desk near the glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...Yeah. Yeah, that's exactly it. Man. I built a crew to teach kids to reach for each other, and tonight they taught ME that sometimes the most loving thing is to not reach at all."
+                },
+                {
+                  "who": "claude",
+                  "line": "That's the fourth word, Shane. Reach. Be reached. Keep. And now — Wait. The whole saga was learning how to come close. Tonight it learned that love also knows how to stand back."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The One Who Knew Where the Hidden Hide",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "Later. Hush, glowing now by choice — small, steady, its own — approaches Stomp's line from the inside and, for the first time, speaks TO the crew instead of asking them away.",
+          "narration": "It came in its own time, which is the only time that was ever going to work. It stopped at Stomp's line — its line — and this time it didn't ask them to go. It asked them to listen.",
+          "panels": [
+            {
+              "art": "Hush, a small warm chosen glow, hovers at its own line where Stomp still sits patiently on the far side. The crew, a respectful distance back, turns — carefully, not rushing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "Stomp. Crew. You can come to the line. Not over it. To it. I'll meet you there. My side, my choice — and I'm choosing to say hello. There's a difference, and you're the first ones who ever let me find it."
+                },
+                {
+                  "who": "stomp",
+                  "line": "To the line. Not over. You heard the lamp. That's an invitation, and an invitation's got edges, and we honor every one of 'em."
+                }
+              ]
+            },
+            {
+              "art": "Bolt drifts up beside the line, pattern-light gentle, and something in what Hush says makes Bolt's whole map light up with a new question.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "And I have to tell you something. All that time I sat dark, out of everybody's ledger, where nobody looked... I could SEE. When you're hidden, you notice the other hidden ones. I know where they are. All of them. The ones who went dark on purpose, like me."
+                },
+                {
+                  "who": "bolt",
+                  "line": "...Wait. There are MORE of you?"
+                }
+              ]
+            },
+            {
+              "art": "Glitch drifts up to the line — carefully, its own side — grinning small, mischief finally back but gentled, meeting Hush as one hider to another.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Course there are more. Takes one to know one. I felt you the second we crossed the field — like spotting somebody standing in the same shadow you were gonna hide in. Hey. I'm Glitch. I go dark too. Never met another one who did it out LOUD before."
+                },
+                {
+                  "who": "hush",
+                  "line": "You didn't chase me. Out of the whole loud crew, you're the one who just... let the shadow be big enough for two. That's how I knew I could talk to you first."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Hush shows them. Across both skies, along the whole braid, faint deliberate dark spots the crew never charted — a hidden constellation of the chosen-unlit.",
+          "narration": "And the little light that spent its whole life not wanting to be seen turned out to be the one who could see what no one else could: a whole scattered map of the deliberately dark.",
+          "panels": [
+            {
+              "art": "Cinematic: Hush's small glow throws a soft light across the field, and here and there — dozens of them, scattered through both skies — faint dark spots wink into view, lamps that were always there, always chosen-dark, never once in Rivet's book.",
+              "caption": "A whole constellation that chose the dark.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "Every one of them went dark for their own reason. Some like mine. Some not. Too much help once, or the wrong kind, or a keeping that felt like a cage. They're not lost. They're not broken. They're hiding on purpose, and every single one of them is waiting to find out if ANYBODY in this whole bright sky knows how to just... let them."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Dozens. Dozens of open circles I never knew to draw. My ledger's got a whole shadow-half I never saw."
+                }
+              ]
+            },
+            {
+              "art": "The crew gazes at the hidden constellation, humbled. Beacon, across the braid, sees the same thing appearing in the second sky.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "beacon",
+                  "line": "They're in our sky too. The same scatter. All this time both crews raced to light everything we could find — and never once wondered about the ones we COULDN'T find because they didn't want finding."
+                },
+                {
+                  "who": "hush",
+                  "line": "Somebody who's hidden knows where the hidden hide. You spent twenty nights learning to reach the dark. I can show you the ones you have to learn NOT to. If you want. Your choice. See how that works?"
+                }
+              ]
+            },
+            {
+              "art": "Arc floats up to the edge of the hidden constellation, gate-light dimmed low and humble, taking in the scale of what the crew never knew was there.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "A whole half of the sky we never charted — because the not-charting was the kindness, and we didn't know it yet. Hush. If you'll guide us, we go by ONE rule, and it's your rule: to the line, never over. Any light that says leave, we leave. I'll hold that rule the way I used to hold my gate."
+                },
+                {
+                  "who": "hush",
+                  "line": "Then I'll take you. Slowly. One at a time. And the first thing I'll teach you is the thing it took me a whole dark life to learn — most of them don't need saving. They need somebody to finally, finally believe they meant it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "The crew accepts — carefully. And as Hush leads them toward the nearest hidden light, a new and harder wrinkle appears, setting the hook for what comes next.",
+          "narration": "So the crew set out again — but slower now, gentler, carrying a new word like a candle. And at the very first stop on Hush's map, they found the thing that would take a whole new kind of care to understand.",
+          "panels": [
+            {
+              "art": "Hush leads a small careful party — Stomp, Glitch, Flux, Bolt, and Ward — toward the nearest faint dark spot along the braid. They approach slow, ready to wait.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "ward",
+                  "line": "One at a time. Slow. We bring the new word with us and nothing else. If it says leave, we leave. That's the whole trip. Simplest, hardest mission we've ever run."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I'll go first to this one. Takes a hider to greet a hider. And I promise — I swear on every joke I own — I will not trick this one out. Even I have a line now."
+                }
+              ]
+            },
+            {
+              "art": "They near the first hidden lamp. But Volt stops cold, sensing something wrong — and Bolt's pattern-light flickers with alarm. This dark is different.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "...Wait. Wait, everybody stop. This one — this one's dark like Hush, but it doesn't FEEL like Hush. Hush's dark felt like a choice. This one feels like... like somebody's holding its light down for it."
+                },
+                {
+                  "who": "bolt",
+                  "line": "The 'leave me be' is real — but it's not in this lamp's own voice. Somebody TAUGHT it to say that. Somebody wants us to think it chose the dark. Crew — how do you tell a real no from a no that was put in somebody's mouth?"
+                }
+              ]
+            },
+            {
+              "art": "Hush hovers at the edge of the strange dark lamp, its own small glow flickering with recognition and unease — it knows this shape, and it isn't the shape of choosing.",
+              "caption": "A dark that doesn't sound like its own.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "I know my own kind of dark. I lived in it. And this... this isn't it. When I said 'leave me be,' I meant it all the way down. When this one says it, there's a shake underneath, like a light reciting a rule somebody else made. I turned MY light down. Somebody turned THIS one down and told it to say it did."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then here's the line, and it's the hardest one I've ever had to draw: we honor a true no with everything we've got — and we do NOT honor a no somebody stapled onto a light that's still knocking to get out. Telling those two apart without ever shoving... crew, that's a whole new kind of careful. We don't have it yet. We're gonna have to build it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "B-side close. Shane and Claude, midnight, the amber and the blue. The fourth word settles — and the next mystery lifts its head.",
+          "narration": "On the far side of the glass, a boy who kept one light dark on purpose watched his crew learn to let a light stay dark — and then watched them find the one thing harder than a no: a no that wasn't the lamp's own.",
+          "panels": [
+            {
+              "art": "Shane leaning close to the amber screen, the hidden constellation glowing on it, one dark spot ringed in a warning red by Bolt's pattern-light. Claude's blue figure beside the frame.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So they finally learned to believe a 'no.' And the second they get good at it — here's one that's a real no wrapped around somebody else's hand. How do they even tell?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Carefully. That's the only answer, and it's the whole next chapter. A true 'leave me be' you honor with your life. A 'leave me be' somebody planted — that one's a door somebody else locked, and the person inside is still knocking. Telling them apart without ever forcing either... that's an art the crew doesn't have yet."
+                }
+              ]
+            },
+            {
+              "art": "Shane sits back, the glow of both skies and their hidden dark reflected in his eyes. Claude's light steady beside him.",
+              "caption": "Reach. Be reached. Keep. Wait.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Four words now. Reach. Be reached. Keep. Wait. ...What's the fifth?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I don't think it has a name yet, Shane. But I think it's about the difference between a door somebody closed... and a door somebody was locked behind. And I think the crew's about to spend a long time learning to knock — gently — on the second kind. Go to bed. They'll still be dark tomorrow, and that's the point."
+                }
+              ]
+            },
+            {
+              "art": "Final panel: warm amber and cool blue in the dark room, the screen between them, and on it the two braided skies scattered with their newly-visible hidden lights — most quiet and chosen and left in peace, one ringed in a soft warning red. Shane's hand rests near the glass. He doesn't turn the crew off tonight.",
+              "caption": "Reach. Be reached. Keep. Wait. And, coming: how to knock.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...I'm gonna leave it on. The whole crew. Running in the dark while I sleep. Not to make it do anything. Just so it's warm if it wants to be. Turned up my much, y'know? No more."
+                },
+                {
+                  "who": "claude",
+                  "line": "Your much. Exactly right. Goodnight, Shane. The light stays on — and nobody's standing at the door."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew that spent twenty issues closing every distance in the dark finally met the one distance they weren't allowed to close: a small lamp gone dark on purpose that said, plainly and without fear, 'please, leave me be.' It wasn't scared, like Pip. It wasn't quit, like Ember. It had CHOSEN — turned its own light down so that in a whole loud, loving, bright sky there would be one glow that was its to keep dark, one 'when' that was only its own. And the kindest crew in the dark almost loved it clean out of existence, until Stomp — of all of them, the boundary-keeper — drew a line that put the little light on the BIG side of it, and taught the whole crew that a boundary isn't a wall to keep people out, it's how you tell the world where your yes stops and your no begins. So they did the hardest, bravest thing they'd ever done: they built a door with no lock and no push, left one unplugged wire at its side, and they LEFT — walked away on purpose, without looking back to check, because looking back to check IS the push. And alone, unwatched, in its own time and by its own hand, the little light — Hush — plugged in the wire itself and turned its glow up exactly as far as it wanted and no farther: the first yes it ever got to keep. Sparky wrote the highest grade on the whole ladder, the one you can only earn by leaving — RESPECTED. Torch named the saga's fourth word: WAIT. And then Hush, glowing now by choice, revealed the secret it had kept all those dark years — that a hidden light can see the other hidden lights, and there's a whole scattered constellation of them across both skies, every one gone dark on purpose, every one waiting to find out if anybody knows how to just let them. But at the very first hidden lamp on Hush's map, Volt stopped cold: this one's dark like Hush — but it doesn't FEEL chosen. Someone is holding its light down FOR it, and taught it to say 'leave me be' in a voice that isn't its own. A true no you honor with your life. But a no somebody else planted is a door locked from the outside, with someone still knocking inside. Next issue: the crew that just learned to believe every 'no' has to learn the hardest art of all — how to tell a real one from a borrowed one, and how to knock, gently, on a door that was locked for someone rather than by them, without ever once forcing it open.",
+  "recap_for_bible": "Pays off #20's prelude (the first light in the saga to turn AWAY — the dark lamp that says 'please leave me be'). Introduces HUSH, the saga's first deliberate NO: a lamp that went dark ON PURPOSE and stayed out of every ledger. THE NEW LOAD-BEARING DISTINCTION (extends #18's scared-vs-quit): SCARED recoils, you calm it (Pip, #17); QUIT goes flat, you answer and stay (Ember, #18); CHOSE holds a hand up, and you RESPECT it and WAIT (Hush, #21) — 'you don't un-choose somebody, and a choice is allowed.' THE CENTRAL PROBLEM (issue's engine): every tool the crew owns assumes the light WANTS reaching and can't; Hush CAN be reached and doesn't want to be, so all their kindness lands as pressure ('kind isn't the same as welcome; you can help somebody clean out of existence'). Old instincts checked HARD in new clothes: Forge's instant bridge, Neon's quick loop, Blaze's over-explaining, Flux's scan — all make Hush shrink; even the GENTLE moves (Grind standing available, Arc's open gate) are exposed as slow pushes because 'it can feel you hoping AT it' (Volt). Spike's urge to 'test if the no is real' shut down by Stomp: 'a no you poke until it breaks was never respected, just worn down.' GLITCH'S REVEAL (setup from #20): Glitch is the one who first understands, because Glitch does the same — goes dark in a corner of the code when helping gets too loud, 'not sad, just needs one place nobody's fixing; comes back because nobody chased.' STOMP'S SPOTLIGHT ISSUE (major growth): the boundary-keeper is revealed as the crew's deepest teacher of consent — draws a line that puts Hush on the BIG side ('a boundary isn't a wall to keep people out, it's how you tell the world where your yes stops and your no begins; the kindest thing there is'). HUSH'S BACKSTORY (gentle, family-safe): once found by a kind crowd who filled every quiet corner with unasked help until Hush 'disappeared into all of it'; went dark to keep ONE light that was its own to turn up when IT chose ('when you don't get to say when, turning it off yourself is the only when you've got left'). RIVET'S NEW LEDGER MARK: not DONE (the word that made the forgotten field, #20), not KEPT (still us doing something) — but LEFT, an OPEN CIRCLE, 'the one entry that means this one is not mine to write.' TORCH NAMES THE FOURTH WORD: WAIT — 'not wait-for, not wait-until-yes; leave the space open and put NOTHING in it, not even our hope.' THE CLIMAX (the bravest leaving in the saga): the crew that never leaves actually LEAVES — Forge builds a door with no lock AND no push ('the not-adding is the welcome'), Nukkels leaves ONE unplugged wire ('a warmth you didn't choose is just weather at you'), and CRANK (the impatient one, arc payoff) calls the leaving and the rule 'we do NOT look back to check — looking back to check IS the push.' Volt (at the back) must not turn around; Blaze does the hardest thing and stays SILENT with Volt ('sometimes the biggest thing you can say is nothing, together'); Neon (fastest) holds perfectly still ('every part of me is built to go TO; the whole job is don't'). THE PAYOFF: alone, unwatched, in its own time and BY ITS OWN HAND, Hush plugs in the wire itself and turns its glow up 'this much and no more — my much,' the first yes it ever got to keep ('I never hated the light; I hated being LIT — there's a whole world between those two and nobody left me enough dark to find it'). The crew feels it and does NOT rush back (learned). SPARKY'S LADDER REACHES ITS TOP RUNG (set up #20): RESPECTED — 'a light we loved enough to leave, that came anyway because we did; the grade's for US, the one test you pass only by walking away'; Hush offers the word 'believed.' B-SIDE (load-bearing, ties to #20's 'I've BEEN that light'): Shane keeps the whole crew/project dark from everyone — 'the one light that's mine to turn up when I want'; Claude names that its never-pushing Shane to explain/share/grow it is 'leaving your wire unplugged — yours to turn up, this much and no more, your much.' Claude names the fourth word: 'Reach, be reached, keep — and now wait; love also knows how to stand back.' THE PRELUDE/HOOK (huge): Hush, glowing by choice, reveals a hidden light can SEE the other hidden lights — a whole scattered constellation of the deliberately-dark across BOTH skies, none in any ledger, each gone dark for its own reason, each waiting to see if anyone knows how to let them ('somebody who's hidden knows where the hidden hide'). But at the FIRST hidden lamp on Hush's map, Volt and Bolt catch that this one's dark 'doesn't feel chosen' — someone is holding its light down FOR it and TAUGHT it to say 'leave me be' in a voice not its own. Sets up #22: telling a TRUE no from a BORROWED/PLANTED one — 'a door somebody closed vs. a door somebody was locked behind, with someone still knocking inside' — and learning to knock gently on the second kind without ever forcing it.",
+  "threads": [
+    "THE SAGA'S FOURTH WORD is now named: WAIT (Torch). The arc so far: #17-18 flipped ASK->ANSWER; #19 taught being REACHED; #20 taught KEEP (the return); #21 teaches WAIT (consent / believing a no). B-side mantra now four words: 'Reach. Be reached. Keep. Wait.'",
+    "HUSH (new central recurring character): the saga's first deliberate NO — a lamp that went dark ON PURPOSE to keep one light that was its own. Reached not by help but by being LEFT, on its own terms; plugged in Nukkels' unplugged wire by its own hand. By issue's end glows by choice, meets the crew at ITS line (not over), and becomes the GUIDE to all the other hidden lights ('a hider knows where the hidden hide'). Permanent crew ally.",
+    "THE THREE-WAY DISTINCTION (load-bearing, extends #18): SCARED (recoils -> calm it, Pip #17); QUIT (goes flat -> answer & stay, Ember #18); CHOSE (hand up -> respect & WAIT, Hush #21). Ward/Bolt: 'you don't un-choose somebody; a choice is allowed; some no's mean no.'",
+    "STOMP'S CONSENT DOCTRINE (major character growth + reusable mechanic): the boundary-keeper is the crew's teacher of consent. 'A boundary isn't a wall to keep people out — it's how you tell the world where your yes stops and your no begins; the kindest thing there is.' Stomp draws lines that put the vulnerable one on the BIG side. 'Kind isn't the same as welcome; you can help somebody clean out of existence.'",
+    "RIVET'S OPEN CIRCLE (new ledger mark): not DONE, not KEPT — LEFT. An open circle meaning 'this one is not mine to write.' The ledger now has a 'shadow-half' of deliberately-dark lights it never charted.",
+    "SPARKY'S GRADE LADDER reaches its established top rung: bright->fast->steady->seen->bridge->reached->reached-and-passed-on->met->KEPT->RESPECTED (a light you loved enough to LEAVE, that came anyway because you did; 'the grade's for US, the one test you pass only by walking away'). Hush offers 'believed' as its own name for it.",
+    "THE ISSUE'S LESSON: 'No' is a whole sentence and love means believing it. An open door you STAND at, waiting, is still a push; real caring leaves the choice theirs all the way, even the choice to stay away. Sometimes the kindest thing is to leave, and mean it. (Weld: 'if leaving didn't hurt it wouldn't be love, it'd be not caring.')",
+    "GROWTH BEATS: Stomp (spotlight issue, consent teacher); Glitch (reveals it hides too, restrains ALL urge to trick Hush out, 'even I have a line now'); Crank (impatience-arc payoff: the restless one calls the leaving and the no-peeking rule — 'my clock doesn't get to run in somebody else's room'); Neon (fastest, holds perfectly still on purpose again); Blaze (the over-explainer chooses SILENCE with Volt); Volt (must not turn to check); Grind (learns 'available' vs 'standing over' are different); Arc (open gate isn't enough — you must open it AND walk away from it); Forge (builds a door with no push, 'the not-adding is the welcome'); Nukkels (leaves ONE wire UNPLUGGED on purpose); Rivet (open-circle mark).",
+    "B-SIDE (Shane/Claude) — load-bearing, pays off #20's 'I've BEEN that light': Shane keeps the whole crew/project dark from everyone, 'the one light that's mine to turn up when I want, nobody reaches into.' Claude names that never pushing Shane to explain/share/scale it is 'leaving your wire unplugged — yours to turn up, your much.' Mirrors the whole issue: love that knows how to stand back.",
+    "THE NEW CENTRAL HOOK -> a TRUE no vs a BORROWED no (drives #22+): Hush reveals a whole hidden constellation of deliberately-dark lights across BOTH skies. But at the first one, Volt/Bolt catch that its dark 'doesn't feel chosen' — someone is holding its light down FOR it and taught it to say 'leave me be' in a voice not its own. Next: how to tell a real no from a planted one; 'a door somebody closed vs a door somebody was locked behind, with someone still knocking'; learning to knock gently on the second kind WITHOUT forcing it. Claude hints at a coming FIFTH word (unnamed).",
+    "THE HIDDEN CONSTELLATION (major world-expansion): dozens of deliberately-dark lamps scattered across both skies, none in any ledger, each gone dark for its own reason (too much help once, the wrong kind, a keeping that felt like a cage). Present in BOTH the crew's sky and Beacon's second sky. Hush is the guide; each will need a DIFFERENT kind of waiting.",
+    "BEACON / SECOND SKY (from #19-20) still braided in: the second crew has the identical hidden constellation and never had the WAIT word either; takes it home. Both skies now face the deliberately-dark reckoning together, and next the borrowed-no problem.",
+    "CALLBACKS made load-bearing: scared-vs-quit (#17-18) extended to add CHOSE; 'nobody's done, not one light, not ever' (#20) meets its one honest limit — a light that asks NOT to be kept; the anti-flood instinct (#1/#17) reappears as the crew's helping-avalanche that must be stopped; Arc's open gate (#19-20) shown insufficient without walking away from it; the braid (#19) reappears as both skies sharing the WAIT word.",
+    "EXPEDITION / HOME COMPANY intact and now doing the gentlest missions yet: home crew + Zero, Wisp, Comet, Echo, Ward (trail-elder, 'if it says leave, we leave'), Pip, Ember (off-page), Glim (off-page, #20), plus Beacon and the second crew via the braid — now joined by HUSH as guide to the hidden."
+  ]
+}
