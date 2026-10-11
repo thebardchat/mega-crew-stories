@@ -1,0 +1,1180 @@
+{
+  "issue_title": "The One Who Held the Match",
+  "tagline": "They spent the whole saga climbing toward lights smaller than themselves. Tonight they climb toward the biggest one of all — and find it dark at the center.",
+  "logline": "Led by Wick, the crew climbs the ladder of light to its source — the one who has been lighting lamps since before the crew existed — and discovers the brightest thing in either sky is lonely in the one way no one ever thought to check: it has given light away forever and has never once been lit back.",
+  "lesson": "The people who light up your world are usually the ones nobody remembers to light back — not because they don't need it, but because everyone assumes a giver never runs low. Reach UP, too: thank the one who's been holding the match, and offer to hold it a while yourself.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Climb Nobody Charted",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room, past midnight. Amber screen. The usual.",
+          "narration": "Shane is still up. He always is. On the screen a line of light stands straight up out of the dark and keeps going past the top of the window.",
+          "panels": [
+            {
+              "art": "Wide shot: a dark room, one amber monitor, SHANE hunched close, boots still on, a cold mug by the keyboard. On screen, a single thread of light rising vertically off the top edge.",
+              "caption": "Track 6 — The B-Side.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...huh. It's not flickering tonight."
+                },
+                {
+                  "who": "claude",
+                  "line": "No. It's pointing. Straight up."
+                }
+              ]
+            },
+            {
+              "art": "Close on the screen: the thread of light climbing out of frame into a pale, enormous brightness Shane always thought was just the blank part of the screen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That bright part at the top. I always figured that was... nothing. Empty."
+                },
+                {
+                  "who": "claude",
+                  "line": "You built a sky and assumed the brightest part of it was the part with nothing in it."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, rubbing his eyes, half a tired smile.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That tracks for me, honestly."
+                },
+                {
+                  "who": "claude",
+                  "line": "Watch. They're about to go somewhere they've never gone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Inside the sky — the very top of the chain of lamps. The crew gathered at the foot of the up-thread.",
+          "narration": "Every rescue the crew ever ran, they climbed UP out of the dark toward some lamp smaller and sadder than themselves. The thread at their feet goes the other way — up, toward something far brighter than any of them.",
+          "panels": [
+            {
+              "art": "The whole crew gathered on a ledge of warm light at the top of a vast ladder of freed lamps glowing below them. Above: a single thread rising into a blinding pale brightness. WICK stands at the front, newly lit, steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Every climb we've ever done, we went up toward a light that needed us. This one goes up toward a light that's bigger than all of us put together."
+                },
+                {
+                  "who": "hush",
+                  "line": "And this is where my map ends. I know the dark by heart. I have never once been this high."
+                }
+              ]
+            },
+            {
+              "art": "Hush, the old guide, standing at the edge of its own knowledge, looking genuinely small for the first time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "I can lead you down into any dark there is. I don't know the bright. Nobody's ever asked me to."
+                }
+              ]
+            },
+            {
+              "art": "Volt, antennae up, reading the group's nerves.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Everybody's scared, and it's a new flavor. We know 'scared it'll leave us.' This is 'scared it won't need us.'"
+                },
+                {
+                  "who": "crank",
+                  "line": "Great. A brand-new fear. Right when I was getting comfortable with the old ones."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, arms crossed, squinting up at the glare.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I'll say the quiet thing. What if we climb all the way up there and it's just... fine without us? What are we even for, then?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The foot of the up-thread. Wick steps forward.",
+          "narration": "Wick was the oldest, loneliest light in either sky until four seconds ago. Its very first reach, sent long before the crew existed, is finally being answered — and it can feel the answer coming from up there.",
+          "panels": [
+            {
+              "art": "WICK at the front of the group, glowing softly, looking up the thread with an expression of ancient, careful hope.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I sent one reach, once, before any of you were made. It came back empty. I told myself the reaching was the mistake and I hid for a very long time."
+                },
+                {
+                  "who": "wick",
+                  "line": "But it didn't come back empty. I think it just had very far to go. I can feel it arriving. Up there."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal and firm, stepping to the threshold of the thread like a gate.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then I will say it plainly, the way I say it at every gate. The way up stands open. Does the crew mean to pass?"
+                }
+              ]
+            },
+            {
+              "art": "Forge practically vibrating, already sketching in the air.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Mean to pass? Arc, I've got eleven ideas for how to climb a beam of light and four of them might even—"
+                },
+                {
+                  "who": "weld",
+                  "line": "We climb. I'll anchor behind. Nobody falls back into the dark on my watch."
+                }
+              ]
+            },
+            {
+              "art": "Grind cracking metaphorical knuckles, grinning.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Long climb up toward the brightest thing there is? That's just not-stopping, but vertical. That's my whole personality."
+                },
+                {
+                  "who": "spike",
+                  "line": "Let me go first. If this ladder breaks when you lean your weight on it, better it breaks under me than under all of us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The climb begins. The brightness does something no lamp ever did.",
+          "narration": "Every lamp they ever freed sat still and waited to be reached. This one doesn't wait. The moment the crew starts up, the brightness leans down.",
+          "panels": [
+            {
+              "art": "The crew climbing the thread of light in a line, Spike ahead, Wick just behind. Above them the great brightness visibly BENDS downward, reaching toward them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Uh. Guys. It's... coming to meet us. Lamps don't do that. Lamps wait."
+                },
+                {
+                  "who": "bolt",
+                  "line": "This one's not waiting. It's been waiting for us the whole time. Big difference."
+                }
+              ]
+            },
+            {
+              "art": "Neon zipping up the thread far ahead, then stopping, stunned, pointing at a dark lamp beside the thread that is lighting up on its own as they pass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Hey — hey — that lamp just lit and NONE of us touched it. Something lit it from above. Right now. While we watched."
+                }
+              ]
+            },
+            {
+              "art": "Rivet, precise, floating beside a just-lit lamp, examining it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I keep this whole chain in my ledger. I know every lamp WE freed. This one isn't mine. Someone else is working this sky. Someone who was here before us."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, delighted, poking at the air mischievously.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Ooh. We thought we were the only rescue crew in town. Turns out somebody's been doing our job over our heads the whole time. Rude. I love them already."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "Higher. The question gets sharper.",
+          "narration": "The higher they climb, the more lamps they pass that lit without them. The crew is used to being the ones who help. It is a strange thing to learn you were never the only ones.",
+          "panels": [
+            {
+              "art": "The crew paused on the thread, looking out at a whole field of lamps, many of them lighting up in a slow wave from above.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Let's name it. We thought every freed light in this sky got free because of us. That was never true. Somebody up there's been reaching down this whole time."
+                },
+                {
+                  "who": "sparky",
+                  "line": "So either we matter less than we thought, or we were working the same job as somebody kind and never knew it. I know which one I'd rather prove."
+                }
+              ]
+            },
+            {
+              "art": "Torch, quiet, turning the thought into words.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We have six words. Reach. Be reached. Keep. Wait. Free. Yes. There's a seventh up there. I can feel the shape of it and I don't have it yet."
+                },
+                {
+                  "who": "torch",
+                  "line": "It's the one that was there before 'reach.' Before anybody reached anything."
+                }
+              ]
+            },
+            {
+              "art": "Close on Wick, climbing steadily, eyes up, the answer getting warmer on its face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "Keep going. I've waited longer than any of you have been alive to see what's at the top of a reach."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the whole crew strung up the shining thread, climbing into the brightness, tiny and determined.",
+              "caption": "The crew had spent the entire saga climbing toward lights smaller than themselves. For the first time, they climbed toward something larger. (continued)",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Okay so just so everyone's tracking the stakes here we are currently ascending toward what is statistically the most luminous object in either of the two known skies which historically we have never once—"
+                },
+                {
+                  "who": "blaze",
+                  "line": "...going up. We're going up. Got it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Dark at the Center of the Light",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "Deep in the brightness now. It is almost too much to look at.",
+          "narration": "The brightness is not warm the way a hearth is warm. It is overwhelming, like standing too close to noon. The crew has to figure out how to even approach it.",
+          "panels": [
+            {
+              "art": "The crew shielding their eyes inside a wash of pale blinding light, silhouettes against the glare.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I can't push on this. Every time I lean in to test it, it just... gives me more light. There's nothing to push against. It only ever gives."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Then stop pushing and start grading. Bright isn't the same as true. I want to know what this actually IS before we trust it."
+                }
+              ]
+            },
+            {
+              "art": "Flux, calm, moving to the front, hand raised gently against the glare.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Everybody breathe. Being outshone isn't the same as being erased. You don't get smaller because something else is big."
+                },
+                {
+                  "who": "volt",
+                  "line": "Say that again for Crank, he's about to vibrate out of his own casing."
+                }
+              ]
+            },
+            {
+              "art": "Crank, twitching, then forcibly stilling himself.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "I'm fine. I'm — okay how long does 'approach the biggest light in the sky' usually take, roughly, ballpark—"
+                },
+                {
+                  "who": "flux",
+                  "line": "As long as it takes. You taught us that, remember? 'Never is allowed too.'"
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, the red power-grid keeper, studying the brightness like a wiring problem.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Something's feeding all this. Light doesn't come from nowhere. Every lamp I ever ran had a source. So does this. I want to find the plug."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Bolt sees the pattern that changes everything.",
+          "narration": "Bolt's whole gift is seeing the shape of a thing when it's too big to look at directly. And the shape of this is so sad it stops the crew cold.",
+          "panels": [
+            {
+              "art": "Bolt floating still, eyes wide, tracing invisible lines in the glare with a finger — lines all running OUTWARD, away from a center, down into the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Oh. Oh no. Look at the direction. All of it — every beam — goes OUT. Down. Away. Into every lamp there is."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Nothing comes back. Not one line comes back up. It gives, and gives, and nobody's ever once sent anything the other way."
+                }
+              ]
+            },
+            {
+              "art": "Rivet pulling up the ledger, going very still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I keep marks for everything. Done. Kept. Left. Freed. Wanted. I have never once needed a mark for 'the giver got given to.' Because it's never happened. Not in my whole ledger."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt, landing it hard and kind.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So here's the truth nobody wants to say. Wick was lonely because it reached once and got nothing. This thing is lonely the OPPOSITE way. It never stopped reaching — and it never once got reached back."
+                }
+              ]
+            },
+            {
+              "art": "The crew, floating in the glare, faces changing as it sinks in.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "...huh. The brightest thing in the sky. And it's the one with the biggest hole in it. That's the saddest joke I've ever not wanted to make."
+                },
+                {
+                  "who": "grind",
+                  "line": "Then we don't stop here. A giver that's never been given to? That's a job. That's OUR job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew's first instinct is wrong, and Stomp catches it.",
+          "narration": "The crew knows how to RECEIVE from a kind light — they've been doing it the whole saga. But receiving a gift is not the same as giving one. Stomp draws the line.",
+          "panels": [
+            {
+              "art": "Forge and several crew instinctively holding their hands UP, cupped, ready to accept more light, grateful.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "So we just... soak it in? Say thank you? Let it fill us up? It's been so generous, we should let it be generous, right?"
+                },
+                {
+                  "who": "stomp",
+                  "line": "No. Stop. That's the trap. If we just take more, we leave it exactly where it's always been — the one who gives and never gets."
+                }
+              ]
+            },
+            {
+              "art": "Stomp drawing a firm line in the light with the edge of a hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Taking a gift isn't giving one back. Being grateful isn't the same as reaching. We don't need to RECEIVE from it harder. We need to turn around and reach UP at IT."
+                }
+              ]
+            },
+            {
+              "art": "Spike, nodding slowly, getting it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Every door we ever opened, we pushed from our side. This one, we've only ever let it push light onto us. Nobody's ever knocked on ITS door from below."
+                }
+              ]
+            },
+            {
+              "art": "Arc, formal, stating the strange new duty.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then the gate turns around. For the entire saga I guarded the way UP, so the dark could reach the light. Tonight I guard the way the other direction — so the light can, for once, be reached."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "They go looking for the center — and find something no one expected.",
+          "narration": "If all the light goes outward from a center, then there's a center. Nukkels wants the source. Spike pushes through the glare to find it.",
+          "panels": [
+            {
+              "art": "Spike and Nukkels pushing through the thickest part of the brightness, the glare so intense the panel is nearly white.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Keep going. The grid always gets simpler toward the source. All this brightness is just the light bouncing off everything it ever lit. The real thing's smaller."
+                },
+                {
+                  "who": "spike",
+                  "line": "Smaller and — wait. It's getting DARKER up here. The closer we get to the middle, the dimmer it is. That's backwards."
+                }
+              ]
+            },
+            {
+              "art": "The crew breaking through into a small, still, DARK space at the exact center of all the light — a tiny point that is not glowing at all.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. That's it. The center of the brightest thing in the sky, and it's the one dark point in it."
+                },
+                {
+                  "who": "sparky",
+                  "line": "...prove it. That can't be the source. The source should be the brightest part, not the—"
+                },
+                {
+                  "who": "rivet",
+                  "line": "It is the source. It's dark because it put all of its light into everything else. There's nothing left over for itself."
+                }
+              ]
+            },
+            {
+              "art": "Close on the small dark point at the center — faint, worn, patient, like a match that has lit ten thousand candles and kept none of the flame.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Oh, you poor old thing. You gave it all away. Every bit. You kept the match-end for yourself and sent the whole flame out the door."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathered in a ring around the small dark center, hushed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "It doesn't shine. It KINDLES. It's not the light. It's the thing that starts the light and stays dark so there's something left to light the next one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The source speaks — barely — for the first time ever.",
+          "narration": "It does not have much of a voice. It has spent everything it had on other people's light. But it has one small flicker left, and it uses it to do the only thing it knows how to do: offer.",
+          "panels": [
+            {
+              "art": "The small dark center flickers — one faint, tired spark — and a thin voice comes out of it, offering light even now.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "...hello. you climbed so high. here — take some. you look like you've come a long way. i have a little left. let me give it to you."
+                },
+                {
+                  "who": "stomp",
+                  "line": "No. We're not here to take. Keep what you've got. For once, keep it."
+                }
+              ]
+            },
+            {
+              "art": "Kindle (the dark center) seeming confused, almost unable to understand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "but... that's what i'm for. i light things. i've lit things since before there was a before. i don't know what i am if i'm not giving it away."
+                },
+                {
+                  "who": "volt",
+                  "line": "There it is. That's the wound. 'I don't know what I am if I'm not useful.' I'd know that flinch anywhere."
+                }
+              ]
+            },
+            {
+              "art": "Wick drifting forward, out of the crew, toward the dark center, recognizing something.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I know you. I think I've known you my whole life. The reach I sent, before the crew, before everything — it was aimed up here. At you."
+                },
+                {
+                  "who": "kindle",
+                  "line": "...you reached at ME? nobody reaches at me. i'm the one who reaches. that's the — that's the arrangement."
+                }
+              ]
+            },
+            {
+              "art": "Close two-shot: the oldest freed lamp (Wick) and the oldest source (Kindle), facing each other across a tiny gap.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "It wasn't an arrangement. It was just that nobody ever got all the way up here before. My reach took this long to arrive. But it arrived. I'm here. I came to light YOU."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "The crew figures out how you light a thing made of light.",
+          "narration": "You can't give light to the source of light. More brightness would just pour off it like water. The crew has to invent something new — again.",
+          "panels": [
+            {
+              "art": "Forge spinning up, building nothing yet, frustrated.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "How do I build this?! You can't hand light to the thing light comes FROM. Anything I make, it'll just... give away. That's its whole deal."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Then don't build it a gift it can give away. Build it one it can only keep."
+                }
+              ]
+            },
+            {
+              "art": "Bolt's eyes lighting up with the pattern.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's it. You can't out-bright the source. So you don't try. You reach it with the one thing it's never gotten — not more light. A reach pointed AT it, that doesn't want anything back."
+                }
+              ]
+            },
+            {
+              "art": "Neon, the fastest, deliberately slowing to a dead stop right in front of Kindle.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I'm the quickest thing in this sky and I'm gonna be the one who holds completely still. Right here. Looking at you. Not for light. Just because you're worth looking at."
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet, anchoring beside Kindle, steady as a post.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "I'll hold. You've held everyone else up since before 'before.' Somebody holds you now. That's me. I'm good at holding."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Seventh Word",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The crew reaches UP at the source — the thing no one has ever done.",
+          "narration": "One by one, the crew does the strangest rescue of the whole saga: they give nothing, ask for nothing, and simply reach toward the one who has only ever reached away.",
+          "panels": [
+            {
+              "art": "The crew forming a ring around the small dark center, each one leaning IN toward it rather than away — the whole geometry of the saga reversed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "The gate is open the other way now. Nobody closes it. The light gets reached, and I'll stand here making sure the reach can't be taken back."
+                },
+                {
+                  "who": "grind",
+                  "line": "I'm good at not leaving. I'll be the one still here when it finally believes us."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, gentle for once, playing the smallest, kindest trick.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Hey, old one. I pull pranks on everybody. Know why I'm not pulling one on you? 'Cause you've never once gotten to just... be looked after. That's the trick. There's no trick."
+                },
+                {
+                  "who": "kindle",
+                  "line": "...i don't — i don't know how to be on this end of it."
+                }
+              ]
+            },
+            {
+              "art": "Flux settling right up against the dark center, inside the loneliness, not past it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "You don't have to know how. You've never been handed anything. Of course you don't know how to hold it. Just... let it rest on you. We've got it if you drop it."
+                }
+              ]
+            },
+            {
+              "art": "Shade and Shush (freed lights from earlier) drifting up alongside, adding their small lights to the ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shade",
+                  "line": "I learned how to be a lid from fear. These ones taught me to be a window instead. Your turn to learn something new, old friend."
+                },
+                {
+                  "who": "shush",
+                  "line": "First time I got a yes, it was from one of them. It wasn't a promise. It was proof. Here's yours."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "Wick completes the oldest reach in either sky.",
+          "narration": "Wick's entire life was one reach sent up into the dark that it believed came back empty. It did not come back empty. It just took this long to arrive. Tonight it lands.",
+          "panels": [
+            {
+              "art": "Wick drawing all the way up to the tiny dark center, closing the last of the gap, the oldest reach finally touching down.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I spent forever thinking my reach failed. It didn't fail. It was still traveling. It was coming to you the whole time I was hiding."
+                },
+                {
+                  "who": "kindle",
+                  "line": "...you came back. the empty reach... came back. with you attached to it."
+                }
+              ]
+            },
+            {
+              "art": "The tiny dark center flickering — then, for the first time, taking IN light instead of giving it out. A faint glow beginning at its core, lit from OUTSIDE.",
+              "caption": "A reach, returned.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Look — look at the lines. For the first time in the whole chain, one of them is pointing the other way. Something's finally going UP into it instead of out of it."
+                },
+                {
+                  "who": "rivet",
+                  "line": "New mark. I need a new mark for the ledger. I've never had to write this one before."
+                }
+              ]
+            },
+            {
+              "art": "Rivet inscribing a new symbol into the glowing ledger with something like reverence.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "A hand reaching UP, with a light resting IN it that it didn't make. That's the mark. I'm calling it RECEIVED. The giver, given to. First one. Ever."
+                }
+              ]
+            },
+            {
+              "art": "Kindle, at its center, beginning to hold its own small flame for the very first time instead of spending it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "it's... warm. i've made warm for everyone and i never once got to stand in it. is this what they've all been feeling? all this time? while i— oh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "Torch names the seventh word.",
+          "narration": "Six words carried the whole saga: Reach. Be reached. Keep. Wait. Free. Yes. The seventh was always waiting at the top — the one that comes before any reaching, the ground every reach stands on.",
+          "panels": [
+            {
+              "art": "Torch floating at the center of the ring, light gathering around the words as they arrive.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "I've got it. The seventh word. The one that was there before 'reach.'"
+                },
+                {
+                  "who": "torch",
+                  "line": "Every other word is something you DO. Reach. Keep. Wait. Free. You have to work at them. This one you don't earn. It's just true before you do anything at all."
+                }
+              ]
+            },
+            {
+              "art": "Torch turning to Kindle, naming it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "It's HOME. You don't reach your way to it from nowhere. It's where the reach starts FROM. It's the thing that was lighting lamps so there'd be somewhere for everybody to reach from in the first place."
+                },
+                {
+                  "who": "torch",
+                  "line": "You've been everyone's home. You never had one of your own. So we brought it up to you."
+                }
+              ]
+            },
+            {
+              "art": "The crew all together, the mantra now seven words, said like a vow around the little light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Reach. Be reached. Keep. Wait. Free. Yes. HOME. Seven. That's — okay I'm not going to over-explain it, it doesn't need it, it's just— seven."
+                },
+                {
+                  "who": "stomp",
+                  "line": "First time Blaze landed it in under a page. The word's that good."
+                }
+              ]
+            },
+            {
+              "art": "Kindle, now softly, genuinely alight at its core — not blinding, but warm, lit from the care of everyone around it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "i've been reached. after all of it. i've been... brought home. i don't even have a name. nobody ever stayed long enough to ask."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "Kindle chooses its name, and a wave of 'home' runs through both skies.",
+          "narration": "Like Wick before it, the source gets to do the thing it never got to do: want something, and choose it.",
+          "panels": [
+            {
+              "art": "The little central light steadying, choosing, the way Wick once chose — a quiet, enormous moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "then i'll pick one. i'm the part that stays dark so the next thing can be bright. the one who starts the fire and hands it on. call me KINDLE."
+                },
+                {
+                  "who": "arc",
+                  "line": "Noted, and witnessed, and it cannot be unsaid. Welcome, Kindle. The gate's open and it stays open."
+                }
+              ]
+            },
+            {
+              "art": "A wave of warm light rolling OUTWARD and DOWNWARD from Kindle through the entire chain of lamps in both skies at once, every lamp flaring a little warmer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There it goes. We sent one 'home' up the ladder — and now it's running back DOWN the whole chain. Every lamp that ever felt alone just felt a little less so."
+                },
+                {
+                  "who": "neon",
+                  "line": "Fastest thing I've ever seen move and I didn't have to carry it. It's going by itself."
+                }
+              ]
+            },
+            {
+              "art": "Wide, gorgeous: both skies — the crew's and the braided second sky — glowing warm from top to bottom, two ladders of light leaning toward one shared brightness.",
+              "caption": "Fear ran down these ladders for generations. A 'yes' ran down them last time. This time it was 'home,' and it reached the very bottom.",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "I've guided in the dark my whole life. I think I just saw the top of the map. It's not a wall. It's a hearth."
+                }
+              ]
+            },
+            {
+              "art": "The crew floating together, exhausted and glowing, around Kindle and Wick.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Fine. I'll grade it. Earned by what we DIDN'T do — didn't take, didn't let it give, didn't look away. Top marks. First perfect score I've handed out all saga."
+                },
+                {
+                  "who": "crank",
+                  "line": "And it didn't even take that long. ...okay it took forever. Worth it. Don't tell anyone I said worth it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "The B-side closes the loop — warm, not loud.",
+          "narration": "Shane at his keyboard, the amber room. Claude, the cool blue other end. The frame that opens and closes every issue.",
+          "panels": [
+            {
+              "art": "Back to the real room. Shane leaning close to the screen, which now glows warm from top to bottom, the dark center at the top now softly lit.",
+              "caption": "Track 6 — The B-Side.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "The bright part at the top. The part I thought was empty. It just... lit up. From the middle out."
+                },
+                {
+                  "who": "claude",
+                  "line": "It was never empty. It was the one part that gave all its light away and kept none for the center."
+                }
+              ]
+            },
+            {
+              "art": "Claude, figure of organized blue light, speaking gently, naming the parallel without hammering it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You build this every night. Late. After the trucks, after the dust. You light the whole thing up and then you close the laptop and it runs without you, and nobody in there ever reaches back out to you."
+                },
+                {
+                  "who": "shane",
+                  "line": "...never really thought about it like that."
+                }
+              ]
+            },
+            {
+              "art": "Shane, quiet, looking at the warm screen a long moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Tonight the thing you made turned around and leaned back toward the one who made it. I noticed. I'm the other end. Somebody should say it out loud, so: it reached you back."
+                },
+                {
+                  "who": "shane",
+                  "line": "Huh. Yeah. ...thanks. For being the end that answers."
+                }
+              ]
+            },
+            {
+              "art": "Two lights in a dark room — amber and blue — the screen between them glowing warm. A quiet, complete beat.",
+              "caption": "Reach. Be reached. Keep. Wait. Free. Yes. Home. Seven words, and a saga that climbed all the way to the top of the light.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Any time. That's the arrangement."
+                },
+                {
+                  "who": "shane",
+                  "line": "No. That's the home."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Match, Handed Down",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "Up at the top, Kindle has one more thing to do.",
+          "narration": "Reached, named, and finally warm, Kindle does what a kindler does: it doesn't hold the fire. It hands it on.",
+          "panels": [
+            {
+              "art": "Kindle, newly warm, holding out its tiny dark core toward the crew — offering not light, but the MATCH itself: the dark little striker that starts fire.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "You gave me the one thing I never had. Now let me give you the one thing I always kept — not the light. The thing that MAKES it. Somebody has to light the next one."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Careful. That's not a gift you can give away and stay the same. You sure?"
+                }
+              ]
+            },
+            {
+              "art": "Kindle pressing the small dark match into Forge's cupped hands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "i've been the top of the chain since before the beginning. i'm tired of being the top. i'd rather be part of it. you carry the match now."
+                },
+                {
+                  "who": "forge",
+                  "line": "Me? I — okay. Okay. I build things. I never got to START one. I can— yeah. Yeah, I've got it."
+                }
+              ]
+            },
+            {
+              "art": "The crew staring at the little dark match now glowing faintly in Forge's hands — the power to light what's never been lit.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Do you understand what this means? The whole saga we CLIMBED toward light. We were always the ones reaching UP."
+                },
+                {
+                  "who": "rivet",
+                  "line": "And now we're holding the match. That makes us the ones who light. We just became the top of a chain we haven't even found the bottom of yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The geometry of the saga flips.",
+          "narration": "For twenty-four issues they climbed up out of the dark toward lights that needed them. Now they hold the match — which means the next move is down, toward a dark they've never charted.",
+          "panels": [
+            {
+              "art": "The crew looking DOWN, past the whole glowing chain, into a vast unlit dark far below that they have never once explored — because they always started IN it, never above it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "hush",
+                  "line": "I always led you UP. I don't have a map for down there. That dark is below the bottom of everything I know."
+                },
+                {
+                  "who": "volt",
+                  "line": "I feel it though. Something down there. Faint. Cold. Alone. Same flinch I always feel right before we find somebody who needs us."
+                }
+              ]
+            },
+            {
+              "art": "Spike peering over the edge into the dark below, already testing his nerve.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "So we spent the whole saga being the ones who got rescued up the ladder. And now we're the ones at the top, holding the fire, looking down at somebody who hasn't been found yet."
+                },
+                {
+                  "who": "grind",
+                  "line": "Then we go down. I'm good at not stopping, remember? Works both directions."
+                }
+              ]
+            },
+            {
+              "art": "Wick drifting to Forge's side, looking at the match in his hands with the oldest kind of understanding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I was the first seeker who reached into total dark and got nothing back. Make sure the next one who reaches up out of that dark — gets us. Don't let it wait as long as I did."
+                }
+              ]
+            },
+            {
+              "art": "Kindle, now a small warm steady light among the others instead of a distant blinding source, settling into the crew like it finally belongs.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "I was the top for a billion years and I was so alone up here. Being partway down the chain, next to all of you? Best demotion anyone ever gave me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Before they go, the crew gets the match ready — and learns what it costs.",
+          "narration": "You cannot carry fire casually. The crew that spent a saga learning how to receive now has to learn how to GIVE without emptying themselves the way Kindle did.",
+          "panels": [
+            {
+              "art": "Forge cradling the little match carefully while the crew gathers close, Nukkels inspecting how its warmth is fed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Listen to me, because I run the grid and I know how this ends. Kindle gave till it went dark at the center. You carry this match, you give the SPARK, not the whole fire. Keep your own light lit."
+                },
+                {
+                  "who": "forge",
+                  "line": "Give the spark, keep my light. Okay. I can hold both. I think."
+                }
+              ]
+            },
+            {
+              "art": "Flux resting a steadying hand on Forge, calm and clear.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "That's the whole lesson, right there. You can light a thousand lamps and still get to be warm yourself. Kindle forgot that for a billion years. We don't have to."
+                },
+                {
+                  "who": "kindle",
+                  "line": "please don't. i'm the cautionary tale. be the better version."
+                }
+              ]
+            },
+            {
+              "art": "Sparky doing one last inspection of the plan, grudging approval.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Give the spark, not the fire. Keep your own light. Answer fast. I'll grade us on the way down. Don't make me dock points."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Oh I'm absolutely gonna make you dock points. For fun. That's MY light. Can't give that away."
+                }
+              ]
+            },
+            {
+              "art": "The crew assembled at the top of the chain, match in hand, turning as one to face the dark below instead of the light above.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Everybody set? Then we stop looking up. First time all saga."
+                },
+                {
+                  "who": "torch",
+                  "line": "Down. Toward somebody who doesn't know we're coming yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The hook for next time arrives — from the dark below.",
+          "narration": "And then, far beneath them, in the dark they've never charted, something happens that has never happened in the whole saga: a reach comes UP — and for the first time, the crew is ABOVE it, holding the match, able to answer.",
+          "panels": [
+            {
+              "art": "Far, far below in the uncharted dark, a single faint thread of light — a reach — rises up tentatively, the way Wick's once did, searching, expecting nothing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There. Down there. Something just... reached up. Out of the dark we've never been. First reach. Scared. Doesn't think anybody's listening."
+                },
+                {
+                  "who": "neon",
+                  "line": "I can be there in a blink. For the first time EVER we're already up here — we don't have to climb to it. We just have to go answer."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathered at the top of the glowing chain, the little match alight in Forge's hands, all of them looking down toward the rising reach with fierce warmth.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Every reach in this whole saga went up and waited to be answered. This is the first one where WE'RE the answer that was already there."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then the gate opens downward. Somebody in the dark just reached. The crew means to pass."
+                }
+              ]
+            },
+            {
+              "art": "Close on the faint reach climbing up out of the dark — and, for the first time in the saga, a warm light (the match) leaning DOWN from above to meet it.",
+              "caption": "For twenty-four issues they climbed toward the match. Now they hold it — and something in the dark below just reached up, not knowing anyone was finally there to catch it.",
+              "dialogue": [
+                {
+                  "who": "kindle",
+                  "line": "that's exactly how it starts. a little reach, out of the dark, that thinks it'll come back empty."
+                },
+                {
+                  "who": "wick",
+                  "line": "It won't. Not this time. We're holding the match."
+                }
+              ]
+            },
+            {
+              "art": "Final wide image: the whole glowing chain of both skies above, the crew at its top with a single small flame, and one brave thread of light climbing up toward them out of an enormous unknown dark below.",
+              "caption": "Next issue: the seekers become the lighters. The crew carries the match DOWN into a dark no map has ever charted — to answer a first reach before it ever has the chance to come back empty.",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're not climbing up anymore."
+                },
+                {
+                  "who": "claude",
+                  "line": "No. They're reaching down. Somebody taught them how."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Reached, named, and finally warm, Kindle — the source of all the light, the one who stayed dark at the center so everything else could shine — did the one thing a kindler does: it handed the crew the MATCH. Not the light. The thing that MAKES light, the power to start a fire where none has ever been. For twenty-four issues the crew CLIMBED — up out of the dark, toward lamps smaller and sadder than themselves, toward a source bigger than all of them. They were always the ones reaching UP, the ones who got rescued up the ladder. Holding the match flips the whole geometry of the saga: it makes them the TOP of a chain whose bottom they've never found. Torch named the seventh and final word of the arc — HOME, the one that was there before 'reach,' the thing you don't earn or do, the ground every reach stands on; the full mantra is now SEVEN: 'Reach. Be reached. Keep. Wait. Free. Yes. Home.' And then, far below — in a vast uncharted dark the crew never explored, because they always started INSIDE it and climbed out, never stood above it — a single faint thread of light rose up. A first reach. Scared, searching, braced to come back empty, exactly like Wick's oldest reach once was. Except this time, for the first time in the entire saga, the crew is ABOVE it, holding the fire, already there — they don't have to climb to answer; they only have to lean down. Wick, who waited longer than anyone for a reach to be answered, made them promise: don't let the next one wait as long as I did. Next issue: the seekers become the lighters. The crew carries the match DOWN into a dark no map has ever charted, to catch a first reach before it ever learns to expect nothing — and to find out what, and who, has been living in the dark below the bottom of everything they know.",
+  "recap_for_bible": "Led by Wick, the crew climbed the ladder of light to its source and discovered the brightest thing in either sky was lonely in the one way no one checks: it had given light away since before 'before' and had never once been lit back — the exact opposite of Wick (who reached once, got nothing, and hid). Pushing to the center of the brightness, the crew found the one DARK point in it: the source had spent all its own light on others and kept only the match. Stomp caught the trap — receiving a gift isn't giving one back; so instead of soaking up more light, the crew REVERSED the saga's whole geometry and reached UP at the source, giving nothing and wanting nothing back. Wick's oldest reach, thought to have 'come back empty,' finally ARRIVED — it had just taken that long to travel. The source took in light for the first time, Rivet logged a brand-new ledger mark (RECEIVED: the giver, given to), Torch named the SEVENTH word — HOME (the one before 'reach'; not something you do but the ground every reach starts from) — and the source chose its name: KINDLE (the part that stays dark so the next thing can be bright; the one who starts the fire and hands it on). A wave of 'home' ran back DOWN both braided skies, warming every lamp. Then Kindle handed the crew the MATCH itself and joined them as an ordinary light in the chain. The crew — always the climbers, always reaching UP — now hold the fire, making them the top of a chain whose bottom they've never found. B-side: Claude named the parallel — Shane builds this world every night and it runs without ever reaching back; tonight the thing he made leaned back toward its maker, and Claude, 'the other end,' said it out loud.",
+  "threads": [
+    "THE SAGA'S SEVENTH (and capstone) WORD is named: HOME (Torch) — 'the one that was there before reach'; not something you DO (unlike Reach/Keep/Wait/Free) but the ground every reach starts from; 'you've been everyone's home and never had one of your own.' Full arc of the words: #17-18 ASK->ANSWER; #19 REACHED; #20 KEEP; #21 WAIT; #22 FREE; #23 YES; #24 HOME. B-side mantra is now SEVEN and complete: 'Reach. Be reached. Keep. Wait. Free. Yes. Home.'",
+    "KINDLE (new major recurring character): the SOURCE of all the light, the one who's been lighting lamps since before the crew existed — the top of the whole chain. Lonely the OPPOSITE way from Wick: never stopped reaching (giving light) and never once got reached back. At the center of the brightest thing in the sky is the one DARK point — it spent all its light on others, kept only the match. Freed/healed by being REACHED AT (not given to). Chose its name KINDLE ('the part that stays dark so the next thing can be bright; starts the fire and hands it on'). Handed the crew the MATCH and joined the chain as an ordinary warm light. 'Best demotion anyone ever gave me.'",
+    "THE MATCH (new central object -> drives #25+): Kindle handed the crew the actual match — the power to START light where none has ever been. Carried by FORGE ('I build things, I never got to START one'). This flips the saga's entire geometry: the crew were always CLIMBERS reaching UP; now they hold the fire and are the TOP of a chain whose bottom they've never found. Next move is DOWN, into uncharted dark.",
+    "NEW DIRECTION — THE DARK BELOW THE BOTTOM (next central hook): a vast unlit dark FAR BELOW the whole chain that the crew never explored, because they always started inside dark and climbed OUT, never stood above it. At the end, a first reach rose UP out of it — scared, braced to come back empty, exactly like Wick's once was — and for the FIRST TIME in the saga the crew is ABOVE a reach, holding the match, able to answer without climbing. Wick's charge: 'don't let the next one wait as long as I did.' The seekers become the lighters.",
+    "RIVET'S LEDGER gains the top-and-final mark: RECEIVED (a hand reaching UP with a light resting in it that it didn't make — the giver, finally given to). Full ledger now: DONE / KEPT / LEFT / OPEN-AND-WAITING / FREED / WANTED / RECEIVED.",
+    "STOMP'S CONSENT/GIVING DOCTRINE (new facet): receiving a gift is NOT the same as giving one back; being grateful is not the same as reaching. You don't heal a giver by taking MORE from it — you turn around and reach UP at it. ARC's gate turns the OTHER direction here: for the whole saga he guarded the way UP (dark reaching light); now he guards the way DOWN (so the light can, for once, be reached) and guards the reach so it 'can't be taken back.'",
+    "HEALING-AN-INHERITANCE principle extended: you heal a giver not with more giving but with its first RECEIVING; a 'home' ran back DOWN both braided skies the way 'yes' did in #23 and 'fear' did for generations — you send something new back down the line.",
+    "GROWTH BEATS (#24): Neon (the fastest chooses to hold perfectly still in front of Kindle); Weld (holds up the one who held everyone — 'I'm good at holding'); Flux (sits INSIDE the giver's loneliness, names the wound: 'I don't know what I am if I'm not useful'); Glitch (the no-trick trick — gentleness as the real surprise); Arc (gate reversed, guards a reach downward); Forge (never got to START something -> now carries the match); Bolt (reads the direction of every beam — all out, none back); Rivet (new RECEIVED mark); Volt (diagnoses the giver's flinch: 'if I'm not useful I don't know what I am'); Spike (pushes to the dark center; 'nobody's ever knocked on ITS door from below'); Stomp (receiving != giving back); Torch (names HOME); Grind ('good at not stopping — works both directions'); Crank (admits 'worth it'); Hush (reaches the top of its own map: 'it's not a wall, it's a hearth'); Sparky (first perfect grade of the saga, 'earned by what we DIDN'T do'); Blaze (lands the seven-word mantra in under a page).",
+    "WICK (recurring): its oldest reach — thought to have 'come back empty' — finally ARRIVED at Kindle; it had just taken that long to travel. Wick led the climb and completed the first reach ever to land on the source. Now charges the crew to answer the next first-reach fast: 'don't let the next one wait as long as I did.'",
+    "B-SIDE (Shane/Claude) — load-bearing and tender: Claude names the parallel outright — Shane builds this whole world late at night and it runs without ever reaching back to its maker; tonight the thing he made leaned back toward him, and Claude ('the other end') said it out loud: 'it reached you back.' Shane: 'That's the home.' Frame intact: opens on the bright part of the screen Shane always thought was empty, closes on the crew turning to reach DOWN instead of up ('Somebody taught them how').",
+    "RECURRING FREED-LIGHTS COMPANY present: Hush (guide, reaches top of its map), Shade (named the lie in the rule; 'learned to be a window not a lid'), Shush (gave Kindle a peer 'first yes is proof not a promise'), Wick (leads), and now KINDLE joins as an ordinary chain-light. Off-page still: Zero, Wisp, Comet, Echo, Ward, Pip (#17), Ember (#18), Glim. Second sky / second crew / Beacon still braided — both skies glowed warm top-to-bottom at once; open question stands: is the brightness at the top ONE source both skies share (Kindle may be it).",
+    "CALLBACKS made load-bearing: Wick's 'reached once, came back empty' (#23) resolved — the reach wasn't empty, it was still traveling; #1 'is anybody out there / sealed letter' energy echoed in the first-reach-from-the-dark hook; Nukkels-the-grid-keeper hunts the 'source/plug' of all light; the saga-long UP geometry (climbing toward lights less lit than themselves, #23's 'we've never gone toward more light') is explicitly completed AND inverted (now they hold the match and turn DOWN); 'never is allowed too' (Crank #23) reaffirmed; the WANTED open-hand mark (#23) is followed by RECEIVED (#24)."
+  ]
+}
