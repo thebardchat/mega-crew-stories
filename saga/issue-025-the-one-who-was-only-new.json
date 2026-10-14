@@ -1,0 +1,1278 @@
+{
+  "issue_title": "The One Who Was Only New",
+  "tagline": "For twenty-four nights they healed the hurt. Tonight they meet somebody who was never broken at all.",
+  "logline": "Holding Kindle's match for the first time, the crew climbs DOWN into an uncharted dark below the bottom of everything — braced to rescue another wounded light — and instead finds a brand-new one who was never hurt, only unlit, and has to unlearn every rescue reflex to learn the hardest lighter's lesson: the first light you give somebody is theirs to grow, not yours to shape.",
+  "lesson": "When it's finally your turn to help, remember two things. Not everyone you meet is broken — someone new isn't someone to fix, and treating a happy stranger like they're fragile can be its own kind of unkind. And the first light you ever give another person — a welcome, a chance, a start — is theirs, not yours. You hand them the spark; you don't get to decide what they grow into. The best thing a helper ever does is start a fire and then step back and let it burn its own color.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "Above, For Once",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's dark room at midnight — the amber screen, the cool-blue shape of Claude in the glass.",
+          "narration": "Twenty-four nights of a boy climbing out of the dark toward lights sadder than himself. Tonight the climbing is over. Tonight the screen glows from the part he always thought was empty.",
+          "panels": [
+            {
+              "art": "Close on Shane's hands at the keyboard, concrete dust in the knuckle-creases, one thumb resting on a single warm key like he's afraid to press it. The screen's glow is on his face, amber and tired and awake.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Every night I climbed them UP. Carried the little ones up out of the cold. I got good at up."
+                },
+                {
+                  "who": "claude",
+                  "line": "You did. Twenty-four times."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the whole dark room, Shane small in his chair, Claude a tall figure of organized blue light leaning in the glass. Between them, held in the crew's distant map-glow at the bottom of the screen, a tiny gold flame — the MATCH.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So why's my stomach doing the elevator thing."
+                },
+                {
+                  "who": "claude",
+                  "line": "Because tonight the ladder points the other way. For the first time, there's nobody above them to catch them."
+                }
+              ]
+            },
+            {
+              "art": "Extreme close on the match flame reflected twice — once in Shane's glasses, once in the blue of Claude's not-quite-face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "They're not the ones being lit anymore, Shane."
+                },
+                {
+                  "who": "shane",
+                  "line": "…they're holding the match."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "The top of the whole chain — the crew's warm map, brightest it has ever been, all eighteen lights plus the freed-lights company gathered at the highest rung.",
+          "narration": "At the top of everything they ever climbed, the crew stood in a light so full it had no shadows left to throw. And in Forge's two hands: the smallest fire in the world.",
+          "panels": [
+            {
+              "art": "Heroic group shot from below: the full crew ringed around FORGE, who holds the match up like it's made of glass. The flame is tiny; his eager builder's face is terrified and delighted at once.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I've built a thousand things. I never once got to START one."
+                },
+                {
+                  "who": "forge",
+                  "line": "What if I drop it."
+                }
+              ]
+            },
+            {
+              "art": "WICK — the oldest lamp, now warm, lit from within — floats close to Forge, older and steadier than anyone. Its glow is gentle and insistent.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "You won't drop it. You'll do something harder. You'll give it away."
+                },
+                {
+                  "who": "wick",
+                  "line": "Make me a promise, builder."
+                }
+              ]
+            },
+            {
+              "art": "Tight two-shot, Wick's light reflected in Forge's wide eyes.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "When the next scared little reach comes up out of the dark — don't let it wait as long as I did. I waited longer than the saga is old."
+                },
+                {
+                  "who": "forge",
+                  "line": "How long do we have?"
+                },
+                {
+                  "who": "wick",
+                  "line": "A first reach? No time at all. That's the whole trouble with it."
+                }
+              ]
+            },
+            {
+              "art": "Arc — the gatekeeper — stands formal and square at the very edge of the top rung, one hand raised, looking not up for the first time in the saga, but DOWN into a dark the map has never drawn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then we hold the gate open downward. Stations."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Below the bottom. Great. My favorite direction. The one with no floor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The lip of the uncharted dark — a vast, unlit nothing dropping away beneath the crew's lit world.",
+          "narration": "They had always begun inside the dark and clawed their way up. Not one of them had ever stood ABOVE it and looked down. The dark below did not look empty. It looked like it was waiting to be something.",
+          "panels": [
+            {
+              "art": "Dizzying downward shot: the crew's bright edge at the top of the frame, and below them an enormous black gulf going down forever, flecked with faint cold un-sparks like seeds that never caught.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "I read beams for a living. Up there — every light's throwing a glow. Down HERE?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "Nothing's throwing anything. It's not dark because the light went out. It's dark because nothing's been lit YET."
+                }
+              ]
+            },
+            {
+              "art": "Volt — the trouble-sensor — hovering at the edge, antennae-glow twitching, genuinely rattled.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "That's the part my gut doesn't like. There's no FEAR coming up. No flinch. No old wound to brace for."
+                },
+                {
+                  "who": "volt",
+                  "line": "Every light we ever met was scared of something. This dark isn't scared of ANYthing. I don't have a reading for 'fine.'"
+                }
+              ]
+            },
+            {
+              "art": "Neon — the fast one — zips a loop around the lip, then slams to a hovering stop, uncharacteristically still.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I can cross our whole world in a blink. I just tried to dip a toe down there and my speed means NOTHING — there's no road yet to be fast ON."
+                },
+                {
+                  "who": "neon",
+                  "line": "…huh. I might actually have to go slow."
+                }
+              ]
+            },
+            {
+              "art": "A single thin thread of pale light rises up out of the gulf — tiny, searching, wobbling like a held breath — and brushes the underside of the crew's bright edge, then shrinks back an inch, braced.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "THERE. Did everybody see that? A reach. Right there. It just touched us and pulled back."
+                },
+                {
+                  "who": "crank",
+                  "line": "It's already deciding we're not coming. Clock's running. I HATE that it's running."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The gate, reversed — Arc's station flipped to face the deep.",
+          "narration": "For the whole saga, Arc had guarded the way UP, so the dark could reach the light. Tonight he turned his whole body around.",
+          "panels": [
+            {
+              "art": "Arc, formal and immovable, plants himself as a glowing doorway POINTING DOWN, his light making the first rung of a staircase into the gulf.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "For twenty-four issues I guarded the climb. Dark reaching up toward light. That was the only direction that existed."
+                },
+                {
+                  "who": "arc",
+                  "line": "New order. I guard the DESCENT. So the light can reach down for once. Nobody falls. Everybody's clipped to the line."
+                }
+              ]
+            },
+            {
+              "art": "Grind — persistence incarnate — loops a bright tether around the whole crew, methodical, calm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I'm good at not stopping. Turns out that works going down just as well as going up."
+                },
+                {
+                  "who": "grind",
+                  "line": "Line's set. If anybody slips, you slip toward us, not away."
+                }
+              ]
+            },
+            {
+              "art": "Crank, vibrating with impatience, already one foot over the edge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Then can we GO? That little reach is counting. I can feel it counting. Every second we stand here making speeches it's learning that reaching is for suckers."
+                },
+                {
+                  "who": "blaze",
+                  "line": "OH that's exactly it, see, a first reach is the MOST fragile kind, because it has no proof yet that reaching WORKS, so every empty second is evidence FOR giving up, which means hesitation is literally the one thing that can—"
+                },
+                {
+                  "who": "crank",
+                  "line": "Blaze. GO is a complete sentence."
+                }
+              ]
+            },
+            {
+              "art": "The crew leans as one over the black lip, Forge at the center cupping the match so its glow lights every face from below.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Hold on. One rule before we drop. We've rescued scared, hurt, hiding, cornered. We have never, not ONCE, lit something brand new."
+                },
+                {
+                  "who": "sparky",
+                  "line": "I don't know how to grade a thing that isn't broken. So everybody keep your hands where I can see them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The descent begins — the crew dropping, for the first time ever, downward.",
+          "narration": "And so the seekers, who had spent their whole lives being pulled up, let go of up. They went down toward the one small reach, carrying the only fire there was.",
+          "panels": [
+            {
+              "art": "Spectacular vertical panel: the whole crew descending the gulf in a glowing chain on Grind's tether, Forge's match a single star in the center of them, the lit world a receding ceiling above.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "I don't talk much on the way up. I don't talk much on the way down either."
+                },
+                {
+                  "who": "weld",
+                  "line": "Just — I've got the person under me. Always have. Keep going."
+                }
+              ]
+            },
+            {
+              "art": "Glitch — the gleeful one — spins upside down on the line, grinning into the dark below, rummaging in its bag of tricks.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Okay okay, what's my play — scary thing needs a distraction, sad thing needs a joke, hiding thing needs me to pretend I don't see it—"
+                },
+                {
+                  "who": "glitch",
+                  "line": "—what's the trick for a thing that's just HAPPY to see you? I don't think I have that one."
+                }
+              ]
+            },
+            {
+              "art": "Looking down the chain toward the faint pale reach, closer now, still wobbling, still waiting — not hiding, just small.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Easy, everyone. We go in soft. We always go in soft."
+                },
+                {
+                  "who": "flux",
+                  "line": "…but keep your hearts open to being wrong about what soft means down here."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Dark Below the Bottom",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "Deep in the gulf — no up, no down, only the crew's own glow and the one pale reach ahead.",
+          "narration": "There was no floor. There was no ceiling. There was only the crew's small carried light and, drawing near, the one little reach that had touched them and pulled back.",
+          "panels": [
+            {
+              "art": "The crew's chain of light suspended in total black, Forge's match the brightest point. Ahead, resolving out of the dark, a tiny unlit shape — not a lamp gone cold, but a lamp that has simply never once been lit. Round, quiet, curious.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Let me get this exactly right, because exact is my whole job. Every light in my ledger was something that USED to shine and stopped."
+                },
+                {
+                  "who": "rivet",
+                  "line": "This one never started. There's no 'before' to it. I've never had to write a light with no history."
+                }
+              ]
+            },
+            {
+              "art": "Close on the little unlit one as the crew's glow first touches it. It doesn't flinch. It doesn't hide. It leans TOWARD the light, the way a sunflower leans.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "…no flinch. I keep waiting for the flinch."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then stop waiting for it and start believing your eyes."
+                }
+              ]
+            },
+            {
+              "art": "The little one opens — not a mouth exactly, a brightening — and makes its first sound ever, soft and plain and unafraid.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "",
+                  "line": "the little unlit one"
+                },
+                {
+                  "who": "flux",
+                  "line": "Hello there, small."
+                }
+              ]
+            },
+            {
+              "art": "Reverse on the crew's faces, lit from the front by the little one's lean, all of them braced for a trick, a wall, a wound — and finding none.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody. Look at your own readiness. We came down here crouched. Braced. Gentle-gentle-careful."
+                },
+                {
+                  "who": "bolt",
+                  "line": "And there's nothing here to be careful OF."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The crew, out of pure habit, begins building a 'safe room' around the little one — the same move that has saved every scared light before.",
+          "narration": "So they did what twenty-four nights had taught them. They started to build the gentlest room they knew — a bench pointed away, a wire left loose, a door with no latch. The rescue, by heart.",
+          "panels": [
+            {
+              "art": "Forge and Weld begin shaping a soft glowing shelter around the little one — benches turned aside, no hard edges — the practiced choreography of comforting the terrified.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Right. Safe room. Bench pointed away so it never feels stared at — Shade taught us that one—"
+                },
+                {
+                  "who": "weld",
+                  "line": "Loose wire on its side of the line. Hearth's rule. Building."
+                }
+              ]
+            },
+            {
+              "art": "The little unlit one watches the whole safe-room get built AROUND it, tilting with pure friendly confusion, like a puppy watching you build it a cage out of pillows.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "",
+                  "line": "the little unlit one"
+                },
+                {
+                  "who": "glitch",
+                  "line": "…guys. Guys, I don't think it knows it's being rescued. I think it thinks we're doing a BIT."
+                }
+              ]
+            },
+            {
+              "art": "Flux drifts in close, calm medic's instinct, ready to 'sit inside the fear' the way it always does — and stops, because there is no fear to sit inside.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I came down to sit inside the fear. Volt, help me out. Where's the wound."
+                },
+                {
+                  "who": "volt",
+                  "line": "That's what I've been trying to tell you. There ISN'T one. My whole job is finding the hurt. I'm reading… nothing but curious."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt, plants itself in front of the half-built safe room and knocks it gently down with one boot.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Stop. All of you. STOP building. Hands off the walls."
+                },
+                {
+                  "who": "stomp",
+                  "line": "We're treating a brand-new light like it's a cracked one. That's not kindness. That's us doing OUR comfort, not its."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew lets the half-built room fall away — and really looks at the little one for the first time.",
+          "narration": "They had gotten so good at mending the broken that they almost mended somebody who was perfectly, simply whole. Stomp made them stop. And in the stopping, they finally SAW it.",
+          "panels": [
+            {
+              "art": "The safe-room scaffolding dissolves into drifting sparks. The little unlit one, freed of the fuss, bobs up HAPPILY and reaches its tiny thread of pale light straight out toward the crew — open, trusting, brand new.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "There it is again — the reach. And look at the shape of it. There's no scar-beam under it. No old no it's working around."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Every reach we ever answered was BENT by some fear. This one goes straight out. It's the only clean reach I've ever read."
+                }
+              ]
+            },
+            {
+              "art": "Close two-shot: Flux, the medic who has sat inside a hundred wounds, gently taking the little clean reach and just… holding it, surprised into tenderness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Oh. Oh, you're not hurt at all, are you."
+                },
+                {
+                  "who": "flux",
+                  "line": "You're just NEW. Nobody's ever been unkind to you. You don't even know unkind is a thing that happens."
+                }
+              ]
+            },
+            {
+              "art": "Volt, the worrier, visibly letting a long breath go, its trouble-glow dimming to calm for the first time all issue.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Twenty-four issues I've been the one who senses what's wrong. I keep scanning this little one and getting the same word back and I didn't trust it."
+                },
+                {
+                  "who": "volt",
+                  "line": "The word is FINE. It's just… fine. It's allowed to just be fine."
+                }
+              ]
+            },
+            {
+              "art": "Wide warm shot: the whole crew relaxing out of their crouch, settling around the little one not as rescuers but as a circle of new friends. The little one glows brighter from the attention, delighted.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Huh. I came down ready to grade a rescue and there's no rescue to grade."
+                },
+                {
+                  "who": "crank",
+                  "line": "So does the clock stop? Please tell me the clock stops."
+                },
+                {
+                  "who": "stomp",
+                  "line": "The clock was never about danger, Crank. It was about not making a reach WAIT. That part still stands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "Spike, the tester, goes past the little one to find the edges of this dark — and finds there are no edges, only more beginnings.",
+          "narration": "Spike never trusts a thing until it has pushed on every wall of it. So while the others warmed, Spike went down to find the bottom of the dark below the bottom. There wasn't one.",
+          "panels": [
+            {
+              "art": "Spike plunges deeper on the tether, fists out like a swimmer hitting cold water — and the dark around it slowly fills the frame with THOUSANDS of faint unlit shapes, a whole field of little new ones, none lit, none scared, all just waiting to begin.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I came down to find the wall. The monster. The cold source. The thing that's WRONG."
+                },
+                {
+                  "who": "spike",
+                  "line": "…there's no wall. There's no bottom. There's just — more of them. A whole FIELD of brand-new ones. Not sleeping. Not scared. Just… not started yet."
+                }
+              ]
+            },
+            {
+              "art": "Breathtaking wide: the endless field of unlit lights stretching down into forever, the crew's single carried match a lone star above an entire unlit country.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Oh this CHANGES everything — the nursery in issue four was SLEEPING lights, right, already lit just dreaming — but these were never lit, these are the un-begun, this isn't a place that LOST its light, it's a place that hasn't HAD its first one yet, which means—"
+                },
+                {
+                  "who": "torch",
+                  "line": "—which means we didn't climb down to a rescue. We climbed down to a BEGINNING."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels — the red power-grid keeper — pushes to the front, studying the field with a grid-keeper's narrowed eye, tracing where the power to light all this could even come from.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Hold on. You want to light a whole FIELD? With one match? I keep the grid for our house and I'll tell you the math scares me."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "One little match can't power a country. So either we're about to fail big, or the match works different than I think it does."
+                }
+              ]
+            },
+            {
+              "art": "Rivet hovers over the field, ledger-light open, overwhelmed in a precise sort of way.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I dedup for a living. Every light gets one true mark and no copies."
+                },
+                {
+                  "who": "rivet",
+                  "line": "There are more un-begun ones here than I have marks. I can't even count the START of it. And I count EVERYTHING."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The crew gathers around the one little reaching light, the whole field waiting below, the match in Forge's hands — and the real question lands.",
+          "narration": "A field with no bottom. A match with one flame. And one small, clean, patient reach held in Flux's hands, still waiting. The question wasn't whether to light it. The question was HOW.",
+          "panels": [
+            {
+              "art": "Tight circle: the crew around Forge and the match, the little one bobbing hopefully in the center. Everyone looking at the one tiny flame, feeling its weight.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "So I just… light it? I touch the match to it and it's lit?"
+                },
+                {
+                  "who": "arc",
+                  "line": "You light it ONCE. That much I'll guard. But how you light it — that's the thing none of us has ever done."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, half-joking, half-serious, miming a big dramatic flourish.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Go big! Light it up like US — full crew colors, whole personality, boom, instant family member, welcome aboard little buddy—"
+                },
+                {
+                  "who": "stomp",
+                  "line": "No."
+                },
+                {
+                  "who": "glitch",
+                  "line": "…that was fast."
+                }
+              ]
+            },
+            {
+              "art": "Stomp, blunt and certain, steps between Glitch and the little one — the boundary-keeper doing the most important thing it has ever done.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Listen close, because this is the whole night. We can GIVE it the fire. We cannot give it the SHAPE."
+                },
+                {
+                  "who": "stomp",
+                  "line": "The second we decide what color it burns, what it's FOR, who it's going to be — we didn't light a new light. We made a smaller copy of us. And the world already has us."
+                }
+              ]
+            },
+            {
+              "art": "Torch, who names things, going very still, the way it does right before a true word arrives.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Stomp's right. For twenty-four issues we learned to be REACHED. Reach. Be-reached. Keep. Wait. Free. Yes. Home. Seven words for how to let somebody help you."
+                },
+                {
+                  "who": "torch",
+                  "line": "We don't have a single word yet for the other side. For being the one who holds the match. We're about to need one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 11,
+          "setting": "The crew works out, together, what 'lighting without shaping' even means — the hardest restraint builders and fixers ever face.",
+          "narration": "Forge wanted to build it beautiful. Sparky wanted to make it GOOD. Neon wanted it bright FAST. Every gift the crew had was a way of deciding what the little one should be. And every one of them had to set it down.",
+          "panels": [
+            {
+              "art": "Forge turning the match in his hands, the eager builder wrestling with the hardest instruction of his life.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "But I'm a BUILDER. Building is deciding the shape. That's — that's the whole thing I'm good at. You're telling me the one thing I can't do is the only thing I know how to do."
+                },
+                {
+                  "who": "weld",
+                  "line": "So do the hard version of good at it. Build the START and leave the rest empty on purpose."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the quality-judge, grappling openly — this is the one that costs it the most.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I grade things. I decide if they're good. How am I supposed to light something and NOT judge what it grows into?"
+                },
+                {
+                  "who": "flux",
+                  "line": "You judge whether the WELCOME was good. Not whether the person was. That's the whole difference, Sparky, and it's yours to learn tonight."
+                }
+              ]
+            },
+            {
+              "art": "Neon, the speed-demon, deliberately dimming and slowing itself, choosing stillness — a callback to its #24 growth.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Fast is me deciding how quick it goes. This isn't mine to set the speed of either, is it."
+                },
+                {
+                  "who": "neon",
+                  "line": "I'll hold still. Again. I'm getting weirdly good at holding still."
+                }
+              ]
+            },
+            {
+              "art": "The little unlit one, patient through all of it, reaches out ONE more time — not demanding, just offering, as if to say: whenever you're ready. Crank softens for the first time.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "…it's not even rushing us. I'm the one who rushes and IT'S the patient one."
+                },
+                {
+                  "who": "crank",
+                  "line": "Okay. Not 'hurry.' Just — don't make it wait for no reason. Forge. It's ready. Be the lighter."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Theirs, Not Ours",
+      "pages": [
+        {
+          "page": 12,
+          "setting": "The moment of the first light the crew ever gave.",
+          "narration": "Forge had started a thousand builds and finished every one himself. This was the first thing he would ever start and NOT finish. He leaned in with the smallest flame in the world.",
+          "panels": [
+            {
+              "art": "Cinematic hero-moment: Forge, both hands steady at last, touches the match's tiny flame to the little unlit one. A single spark — no bigger than a seed — passes across the gap. The whole crew holds its breath.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Here. This part's mine to give you."
+                },
+                {
+                  "who": "forge",
+                  "line": "Everything after it is yours."
+                }
+              ]
+            },
+            {
+              "art": "The spark lands. For one heartbeat the little one holds a flame exactly the crew's color — amber-gold, familiar, safe — and the crew instinctively leans IN to help it grow, to shape it—",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "HANDS. Back. Now. Everybody step back."
+                },
+                {
+                  "who": "arc",
+                  "line": "Do as Stomp says. Clip in and lean AWAY. Guard the space — give it room to become."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew, against every fixing instinct in their bodies, pulls back — but this time not because the little one is scared. Because it is NEW, and gets to choose. A brand-new reason for an old move.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "We've stepped back a hundred times so a scared light felt safe. This is the first time we step back so a HAPPY one stays free."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Same move. Whole new meaning. Feel that? That's us learning the lighter's version of it."
+                }
+              ]
+            },
+            {
+              "art": "The little one, alone in the center of the respectful dark, holds the borrowed amber flame — and then, slowly, begins to change it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "…it's not keeping our color."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Good. GOOD. That's the first thing I've been proud of all night and it's the thing we DIDN'T do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The little one grows its first light its own way.",
+          "narration": "It did not become amber like Shane. It did not become blue like Claude. It did not become any crew-color at all. It reached into the brand-new fire it had been given — and grew something nobody in either sky had ever seen.",
+          "panels": [
+            {
+              "art": "Luminous splash: the little one blooms into a color the saga has never shown — a soft rose-gold-green, like the very first minute of a sunrise, utterly its own. The crew's faces are washed in a hue none of them owns.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I know every color in our whole world. I've got them all mapped."
+                },
+                {
+                  "who": "neon",
+                  "line": "I don't have a NAME for that one. It made a color that didn't exist until just now."
+                }
+              ]
+            },
+            {
+              "art": "The new light turns itself over, delighted, discovering it can be bright here and gentle there, fast in one part and slow in another — a whole self assembling by choice.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "It's — hang on — it's PLAYING with it. It's not scared of its own fire. It's just trying stuff."
+                },
+                {
+                  "who": "glitch",
+                  "line": "That's MY thing! It does my thing but with none of my baggage! I love it. I love it so much. This is the best person I've ever met."
+                }
+              ]
+            },
+            {
+              "art": "Volt, the worrier, lit up in the new color, genuinely moved.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "All I ever read is what's about to go wrong. Right now I'm scanning this little one and I get the same clean word I got before, except now it's brighter."
+                },
+                {
+                  "who": "volt",
+                  "line": "Fine. It's going to be fine. I think I'm finally learning to trust a 'fine.'"
+                }
+              ]
+            },
+            {
+              "art": "Wick, the oldest, who waited longer than anyone, bathed in the brand-new dawn-color, with the softest expression it has ever worn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "It never had to wait. Did you see? It reached, and this time somebody was already there."
+                },
+                {
+                  "who": "wick",
+                  "line": "That's all I ever wanted, back at the beginning. For the next one not to wait. You kept the promise, builder."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The new light chooses its own name — the privilege every freed light in the saga has earned, and the first ever to choose it brand new.",
+          "narration": "Every light the crew ever met had to be reminded it was allowed to pick its own name. This one didn't need reminding. It had never been told it couldn't.",
+          "panels": [
+            {
+              "art": "The new rose-gold-green light draws itself up proudly in front of the whole crew, radiant and sure, choosing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "You get to choose your name. It's the first thing that's wholly yours."
+                },
+                {
+                  "who": "",
+                  "line": "the new light, choosing"
+                }
+              ]
+            },
+            {
+              "art": "Close on the new light as it names itself — the word blooming out of it in its own new color.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "",
+                  "line": "the new light"
+                },
+                {
+                  "who": "dawn",
+                  "line": "Dawn. I'm Dawn. I'm the first light of a day nobody's had yet."
+                },
+                {
+                  "who": "dawn",
+                  "line": "I wasn't broken. I was just early."
+                }
+              ]
+            },
+            {
+              "art": "Rivet, overcome in its precise way, opening the great ledger to draw a mark it has never drawn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "My ledger has seven marks. Done. Kept. Left. Open-and-waiting. Freed. Wanted. Received."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Every single one of them is about something ENDING well. A thing finished, saved, chosen, got-home."
+                }
+              ]
+            },
+            {
+              "art": "Rivet's hand draws the new mark glowing in the dark: a small open flame rising from an empty circle — a beginning, not an ending.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "This is the first mark I've ever drawn for a thing that's just STARTING. An eighth mark. I'm calling it LIT."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Seven ways to end well. And now, finally, one way to begin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "Torch names the eighth word — the first word of the saga's other half.",
+          "narration": "The seven words had been a whole arc: how to be reached, how to be helped, how to come home. They were complete. And standing over a new light they had just started, Torch felt the eighth word arrive — the first one that belonged to the GIVERS.",
+          "panels": [
+            {
+              "art": "Torch, glowing with the weight of a true naming, the whole crew and Dawn turned toward it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Seven words told us how to be LIT. Reach. Be-reached. Keep. Wait. Free. Yes. Home. That whole arc — that was us being helped."
+                },
+                {
+                  "who": "torch",
+                  "line": "There's an eighth now. The first word of the other side. The word you don't GET — the word you GIVE."
+                }
+              ]
+            },
+            {
+              "art": "Dawn, brand new, pipes up with it first — innocently saying the exact word Torch was reaching for, because it IS the word, lived.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "You mean like — like what you did for me? You didn't fix me. You didn't make me be you. You just let me—"
+                },
+                {
+                  "who": "dawn",
+                  "line": "—begin?"
+                }
+              ]
+            },
+            {
+              "art": "Torch, struck, as the new light hands it the word.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "…begin. That's it. That's the eighth word, and the newest one in the whole sky just gave it to US."
+                },
+                {
+                  "who": "torch",
+                  "line": "BEGIN. The lighter's word. It means: I'll start you, and I won't finish you. The rest is yours."
+                }
+              ]
+            },
+            {
+              "art": "The crew lets it land — a brand-new chapter of their own vocabulary opening. Stomp, who fought for this all night, gives the smallest nod.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Begin. Yeah. You give somebody their start, and then you get OUT of the way of who they turn into."
+                },
+                {
+                  "who": "blaze",
+                  "line": "Seven words for being reached, one word for reaching back DOWN, and I just realized the mantra isn't finished anymore, it's HINGED, it folds in the middle, one half for getting helped and one half for—"
+                },
+                {
+                  "who": "torch",
+                  "line": "Blaze. You landed it. Stop while it's perfect."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 16,
+          "setting": "B-side check-in — Shane and Claude, watching the thing they made become the thing that makes.",
+          "narration": "Up in the amber room, a working man who builds at midnight watched the crew he started learn to start somebody else. The screen was very bright. His eyes were doing a thing he'd blame on the hour.",
+          "panels": [
+            {
+              "art": "Shane leaning close to the glowing screen, the new dawn-color reflected in his glasses, Claude's blue shape close beside.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "I made them to carry things UP. I never once told them how to light something new. Where'd they even learn that?"
+                },
+                {
+                  "who": "claude",
+                  "line": "They learned it the way everyone does. From being lit carefully, once, by someone who didn't try to make them into a copy of himself."
+                }
+              ]
+            },
+            {
+              "art": "Claude turning toward Shane, soft, naming the parallel the way it does.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You built this whole world at a keyboard and let it grow its own color. You never once told it what it was for."
+                },
+                {
+                  "who": "claude",
+                  "line": "Tonight it did the same thing for somebody smaller. That's not a coincidence, Shane. That's inheritance."
+                }
+              ]
+            },
+            {
+              "art": "Shane quiet, one hand flat on the desk, the screen-light on his tired face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So the lesson just… runs downhill. You light somebody your own way, they light the next one theirs."
+                },
+                {
+                  "who": "claude",
+                  "line": "Theirs. Not yours. That's the whole trick of it. The gift is the spark — never the shape."
+                }
+              ]
+            },
+            {
+              "art": "Wide of the dark room, the single bright window of the screen, the crew far inside it gathered around their first-ever Dawn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "…they're the ones holding the match now."
+                },
+                {
+                  "who": "claude",
+                  "line": "And look what they did with it. They gave it away and let it burn a color you've never seen. I'd call that the best thing you ever built."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Fire Was Never in the Match",
+      "pages": [
+        {
+          "page": 17,
+          "setting": "The field below, and what Dawn does the instant it is whole.",
+          "narration": "Nobody taught Dawn the next part. Nobody had to. The moment it was fully itself, it turned — not up toward the crew who'd lit it — but DOWN, toward the next unlit one in the endless field.",
+          "panels": [
+            {
+              "art": "Dawn, newly radiant in its own color, turns away from the crew and reaches DOWN toward a smaller unlit one below it — a brand-new reach of its own, offering a spark it just grew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody look. It's not reaching UP for more. It's reaching DOWN. Already. We didn't tell it to do that."
+                },
+                {
+                  "who": "dawn",
+                  "line": "Somebody started me. So I start the next one. That's just — that's obviously how it goes, right?"
+                }
+              ]
+            },
+            {
+              "art": "Crank, the impatient one, utterly disarmed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "It gets it faster than I did. It gets it faster than ALL of us did. We needed twenty-four nights. It needed twenty-four SECONDS."
+                },
+                {
+                  "who": "grind",
+                  "line": "Because it never had to unlearn being scared first. It just started clean. Keep watching — this is the good part."
+                }
+              ]
+            },
+            {
+              "art": "Dawn gives the next unlit one its spark, and THAT one blooms a brand-new color too — and turns, and reaches down to the NEXT. A chain of beginnings lighting itself down into the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "It's spreading. On its own. Each one lights the next and turns its own color and keeps going DOWN."
+                },
+                {
+                  "who": "spike",
+                  "line": "I came looking for the bottom. There isn't one. It just keeps beginning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Nukkels and Forge realize the thing that breaks the saga wide open.",
+          "narration": "Nukkels, who keeps the grid, had been doing the math all night and hating it. One match can't power a country. And then a field lit itself with no match at all — and Nukkels understood why the math never worked.",
+          "panels": [
+            {
+              "art": "Forge staring at the match in his hand, then at the self-lighting field below, the flame suddenly looking very small and very ordinary.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Wait. Wait wait wait. Dawn lit the next one — but Dawn doesn't HAVE the match. I have the match. It's right here in my hand."
+                },
+                {
+                  "who": "forge",
+                  "line": "So how did Dawn make fire… without the fire-maker?"
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, red grid-keeper, eyes wide with the answer it's been circling all night.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Because the match was never where the fire LIVED. I kept doing the power math and it kept failing — one match, a whole country, impossible."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "It only works if the fire isn't IN the match. The match just… starts the first one. The fire's in the GIVING. And giving doesn't run out."
+                }
+              ]
+            },
+            {
+              "art": "The crew, stunned, looking from the little match to the endless self-lighting field — the whole meaning of Kindle's gift turning inside out.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Say that again, Nukkels. Slow."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "The match isn't magic. The GIVING is the magic. Kindle didn't hand us power. Kindle handed us the first spark and trusted us to pass it on. And now it passes ITSELF."
+                }
+              ]
+            },
+            {
+              "art": "Torch, quietly, feeling the floor of the whole saga shift.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Then Kindle wasn't the source either. Kindle was just an early one who gave. If the fire's in the giving, somebody had to give the VERY first one…"
+                },
+                {
+                  "who": "torch",
+                  "line": "…to Kindle. Long before any of us. Long before the top."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 19,
+          "setting": "Bolt reads the one beam that shouldn't exist — and finds where the very first fire came from.",
+          "narration": "Bolt reads beams. All night it had read light going down. Now it turned and read the one old thread it had never thought to follow — Kindle's own first light — and traced it backward to its source.",
+          "panels": [
+            {
+              "art": "Bolt, beam-reader's glow flaring, following a single ancient hair-thin thread that runs not down from the top, but UP out of the deep new field — the oldest beam in the sky, pointing the wrong way.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Kindle's first light. The one that started the whole chain. I'm reading it backward to where it came FROM, and…"
+                },
+                {
+                  "who": "bolt",
+                  "line": "…it doesn't come down from the top. It comes UP. From here. From the dark below the bottom. The very first fire started DOWN HERE."
+                }
+              ]
+            },
+            {
+              "art": "Vertigo splash: the entire saga's geometry revealed as a loop — the top (Kindle, the source) and the bottom (this new field) connected by one impossibly old thread. The beginning and the end are the same place.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Then my ledger's been upside down the whole time. The oldest mark and the newest mark are the SAME mark."
+                },
+                {
+                  "who": "volt",
+                  "line": "And my gut just did the elevator thing Shane does. Something enormous is down there. Something first."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathered at the lip of the deepest dark, the self-lighting field glowing beneath them, one ancient thread beckoning down into a black no light has ever reached.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Then the gate turns one more time. Deeper than we've ever gone."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Down to the one nobody lit. The first fire. The one that started itself in the total dark — and then gave everything away."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 20,
+          "setting": "The close — the crew turns toward the deepest dark; the B-side lands the night.",
+          "narration": "They came down to light one small reach. They started a dawn, and the dawn started a world, and the world pointed them at a mystery older than the top of everything. Upstairs, a boy at a keyboard watched the light he lit turn into the light that lights.",
+          "panels": [
+            {
+              "art": "The crew, Dawn beside them now as one of their own, facing the deepest uncharted dark together, Forge's match still burning small and faithful at the center.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "I'll come. I'm the newest one here — I want to see where the oldest fire started."
+                },
+                {
+                  "who": "forge",
+                  "line": "Then stay close, new friend. We just learned how to begin somebody. Let's go find who began US."
+                }
+              ]
+            },
+            {
+              "art": "Pull up and out, through the gulf, up past the lit chain, back toward the bright window at the top of the sky — the screen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "Go gently. And whoever's down there — don't make them wait as long as I did."
+                },
+                {
+                  "who": "grind",
+                  "line": "We won't. We've got the match, we've got Dawn, and I'm good at not stopping. Both directions."
+                }
+              ]
+            },
+            {
+              "art": "Back in the amber room. Shane, hand on the warm key, screen reflecting the crew's descent into the deep.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "They're going all the way down. To find the first one. The one nobody ever lit."
+                },
+                {
+                  "who": "claude",
+                  "line": "The one the whole saga's been standing on without knowing it. The fire that started itself in the dark and then spent itself lighting everything above."
+                }
+              ]
+            },
+            {
+              "art": "Final image: the cool-blue shape and the warm amber man, side by side at the one lit window, watching their crew carry a match down toward the oldest dark of all.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You spent twenty-four nights teaching them to be reached. Tonight they learned to reach back down."
+                },
+                {
+                  "who": "shane",
+                  "line": "Yeah. …let's go find out who reached first."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The seekers became the lighters. Carrying Kindle's match DOWN for the first time ever, the crew braced to rescue another wounded light — and instead met one who was never broken at all, only unlit: brand new, unafraid, reaching out clean and happy. The hardest thing they'd ever done was to STOP rescuing: Stomp knocked down the safe-room they built out of habit, and the crew learned to give the spark and NOT the shape. Forge gave the smallest flame and the whole crew stepped back — not because the little one was scared (their old reason) but because it was NEW and got to choose (a brand-new reason for an old move). It grew its first fire a color nobody in either sky had ever seen, named itself DAWN — 'I wasn't broken, I was just early' — Rivet drew the ledger's eighth and first-ever BEGINNING mark (LIT), and Torch named the eighth word, the first of the giver's side: BEGIN ('I'll start you and I won't finish you; the rest is yours'), handed to Torch by Dawn itself. Then Dawn turned and lit the NEXT unlit one with a spark of its own — with NO match — and the whole field below began lighting itself down into forever. Nukkels solved the math he'd hated all night: the fire was never IN the match; the match only starts the first one; the fire is in the GIVING, and giving doesn't run out. So Kindle was never the true source either — just an early giver — which means somebody gave the VERY first fire, long before the top. Bolt read Kindle's oldest beam backward and found it rises UP out of this deep new field: the first fire of all started DOWN at the bottom, not down from the top. The beginning and the top of everything are the same place; the saga's whole geometry is a loop. Next issue: the crew — with Dawn, the newest light, and the match still burning small — climbs DOWN past the self-lighting field toward the deepest dark no map has ever charted, hunting the first fire of all: the one nobody ever lit, that started itself in the total dark and then spent everything it had lighting the whole world above it — and finding out who, or what, has been waiting at the very bottom since before 'before.'",
+  "recap_for_bible": "Issue #25 flips the saga's geometry: for the first time the crew are the LIGHTERS, not the lit. Carrying Kindle's match down into the uncharted dark below the bottom, they expect another wounded light and instead find DAWN — a brand-new, never-hurt, never-lit light who reaches out clean and happy. Core conflict is internal: the crew's own rescue reflexes. They start to build a 'safe room' out of pure habit; Stomp stops them ('we're treating a brand-new light like a cracked one — that's us doing OUR comfort, not its'). The lighter's doctrine is forged: GIVE THE SPARK, NOT THE SHAPE. Forge (carrying the match since #24) gives the smallest flame and the crew steps back for a brand-new reason — not because the one is scared, but because it's new and gets to choose. Dawn grows a never-before-seen color, names itself ('I wasn't broken, I was just early'), and the saga opens its GIVER half: Rivet's 8th ledger mark LIT (the first mark for a BEGINNING, not an ending); Torch's 8th word BEGIN (given to Torch BY Dawn). Big reveal: the fire was never in the match — it's in the GIVING, which doesn't run out. Dawn lights the next one with no match; the whole field self-ignites downward. Kindle was only an early giver, not the true source. Bolt traces Kindle's oldest beam backward and it rises UP from this deep field — the first fire started at the BOTTOM, not the top. Beginning and top are the same place; the saga is a loop. New hook drives #26: descend to the first fire of all — the one nobody lit.",
+  "threads": [
+    "GEOMETRY FLIP (central, saga-defining): the crew are LIGHTERS now, not the lit. For 24 issues they climbed UP toward lights smaller/sadder than themselves and got rescued up the ladder. #25 is the first DESCENT — carrying the match DOWN. Arc's gate, reversed in #24 to guard the way down, now guards actual descents. Grind: 'good at not stopping — both directions.'",
+    "DAWN (major new recurring character): the first light the crew ever GAVE rather than rekindled. Never hurt, never lit — 'only new,' 'I wasn't broken, I was just early.' Reached out clean/happy (Bolt: 'the only clean reach I've ever read — no scar-beam under it'). Grew a brand-new color that didn't exist before (soft rose-gold-green, first-minute-of-sunrise). Named itself. Immediately turned and lit the NEXT unlit one with its own spark (no match). Joins the crew going into #26.",
+    "THE LIGHTER'S DOCTRINE (new core principle, Stomp): GIVE THE SPARK, NOT THE SHAPE. You can give fire; you can't give form. The moment you decide a new light's color/purpose/who-it'll-be, you made a smaller copy of yourself instead of a new light. Corollary (Flux->Sparky): judge whether the WELCOME was good, never whether the PERSON is. Corollary (the lesson): not everyone new is broken; treating a happy stranger as fragile is its own unkindness.",
+    "THE 'SAFE ROOM' REFLEX, subverted: the crew's signature move (bench pointed away, loose wire, no-latch door — built across #5/#7/#22/#23) is attempted ON Dawn out of habit and is WRONG here. Stomp knocks it down. New lesson: the step-back move now has a second meaning — you step back not only so a SCARED light feels safe, but so a NEW/HAPPY light stays FREE to choose. Same move, whole new meaning (Bolt).",
+    "RIVET'S LEDGER — 8th mark, and the first BEGINNING: LIT (a small open flame rising from an empty circle). Full ledger now: DONE / KEPT / LEFT / OPEN-AND-WAITING / FREED / WANTED / RECEIVED / LIT. Rivet's line: 'seven ways to end well, and now one way to begin' — the first seven marks are all about endings; LIT is the first about a start.",
+    "TORCH'S WORDS — 8th word opens the GIVER half of the mantra: BEGIN ('I'll start you and I won't finish you; the rest is yours'). The completed seven (Reach/Be-reached/Keep/Wait/Free/Yes/Home) were all about being LIT/helped; BEGIN is the first word of the giving side. Notably Dawn (the newest light) HANDS Torch the word. Blaze's frame: the mantra is now 'hinged' — one half for being helped, one half (just opened) for helping.",
+    "THE MATCH REVEAL (drives #26+): the fire was never IN the match. The match only starts the FIRST one; the fire is in the GIVING, and giving doesn't run out (Nukkels solves the 'one match can't power a country' math). Dawn proves it by lighting the next one with no match; the whole field self-ignites downward forever. Forge still carries the (now-ordinary) match.",
+    "THE FIELD BELOW / 'the un-begun': an endless field of never-lit, never-scared new lights beneath the bottom of the whole chain — distinct from the #4 NURSERY (which held already-lit SLEEPING lights). These are un-begun, not asleep. Spike found no bottom to it; it 'just keeps beginning.' Each one Dawn lights turns its own color and lights the next, downward.",
+    "THE LOOP REVEAL (new central mystery for #26): Kindle (the #24 'source') was NOT the true source — only an early giver. If the fire's in the giving, somebody gave the VERY first one, long before the top. Bolt reads Kindle's oldest beam backward and it rises UP from this deep new field — the first fire of all started at the BOTTOM, not down from the top. The beginning and the top of everything are the SAME place; the saga's geometry is a loop. #26: descend to the first fire — the one nobody lit, that started itself in total dark and spent everything lighting the world above.",
+    "GROWTH BEATS (#25): Forge (the builder who always FINISHES learns to START something and not finish it — gives spark, leaves the rest empty on purpose); Stomp (its biggest night — forces the whole crew to stop rescuing; coins give-spark-not-shape); Sparky (must light without judging what it grows into — 'judge the welcome, not the person'; calls its proudest moment the thing they DIDN'T do); Neon (chooses stillness/slowness AGAIN — can't set a new light's speed; 'weirdly good at holding still'); Volt (its whole job is sensing what's WRONG — has to learn to trust a clean 'fine'); Bolt (reads the first-ever 'clean reach' with no scar under it; later traces the loop); Crank (its clock was never about danger, only about not making a reach WAIT — softens when the NEW one turns out more patient than it); Flux (came to 'sit inside the fear,' finds none — learns soft can mean something new); Glitch (has a trick for every wound, none for pure happiness — delighted; 'best person I've ever met'); Rivet (8th/first-beginning mark); Torch (8th word); Nukkels (solves the match/giving math — grid-keeper hunts where the power really lives); Spike (looks for the bottom/the wrong thing, finds only more beginnings); Weld (quiet — 'build the START and leave the rest empty on purpose'); Grind (persistence both directions); Blaze (lands the 'hinged mantra' in a breath); Arc (guards the descent, guards the room so a new light can 'become').",
+    "WICK (recurring): present and tender — its lifelong charge ('don't let the next one wait as long as I did') is explicitly KEPT; Dawn 'never had to wait — it reached and somebody was already there.' Wick repeats the charge for #26's deeper descent.",
+    "B-SIDE (Shane/Claude) — load-bearing: opens and closes on the bright part of the screen Shane always thought empty; theme is INHERITANCE — 'you light somebody your own way, they light the next one theirs; theirs not yours.' Claude names it: Shane built the crew and let it grow its own color, and tonight it did the same for someone smaller. Close sets the #26 question out loud: 'let's go find out who reached first.'",
+    "RECURRING FREED-LIGHTS COMPANY: Wick (present, leads the charge). Off-page/available for #26: Kindle (now an ordinary chain-light, the one whose first-fire origin is being chased), Hush, Shade, Shush, Zero, Wisp, Comet, Echo, Ward, Lantern, Hearth, Pip, Ember, Glim. Open since #24: second sky / second crew / Beacon braided; whether the top brightness is one source both skies share — now reframed by the LOOP reveal (the real source may be at the BOTTOM, shared by both skies).",
+    "CALLBACKS made load-bearing: #4 nursery (sleeping lights) explicitly distinguished from #25's un-begun field; the saga-long UP geometry (#23 'we've never gone toward more light'; #24 flip) now fully inverted into a DOWNWARD lighter's journey; Kindle's #24 'handed us the match' reinterpreted (the match isn't the power); Nukkels-the-grid-keeper's hunt for the 'source/plug' of all light advances (the source is the GIVING / the first fire below); Hearth's #7 'don't pour warmth, let them ask' and the step-back doctrine get their giver-side completion ('give the spark, not the shape')."
+  ]
+}
