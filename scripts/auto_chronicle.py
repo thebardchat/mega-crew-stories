@@ -1,1 +1,1 @@
-$(cat /tmp/auto_chronicle_patched.py)
+PLACEHOLDER_TO_REPLACE
