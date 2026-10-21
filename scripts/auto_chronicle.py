@@ -26,7 +26,7 @@ from pathlib import Path
 # Follow-up: enable via GitHub Settings > Code security and analysis
 # or Actions workflow. Zero scanning currently.
 # ── CONFIG ───────────────────────────────────────────────────────────────
-WEAVIATE_URL   = os.environ.get("WEAVIATE_URL",   "http://100.100.90.66:8080")
+WEAVIATE_URL   = os.environ.get("WEAVIATE_URL",   "http://localhost:8080")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL   = os.environ.get("GEMINI_MODEL",   "gemini-2.5-flash")
 REPO_PATH      = Path(os.environ.get("MEGA_REPO",

@@ -7,7 +7,7 @@ import os, sys, json, html
 from pathlib import Path
 
 DISCORD_URL = "https://discord.gg/BTZZrG4MtV"
-SITE = "https://mega.shanebrain.cloud"
+SITE = "https://thebardchat.github.io/mega-crew-stories"
 SOCIAL_OG = "/art/out/social/social-og.png"
 _ART_BASE = SITE.rstrip("/") + "/cards/portraits/"
 CREW_ART = {
