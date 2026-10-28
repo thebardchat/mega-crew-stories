@@ -1,0 +1,1065 @@
+{
+  "issue_title": "The Window That Stopped Answering",
+  "tagline": "Their warm one went quiet. They kept the light on anyway.",
+  "logline": "The crew crosses the dark to a ring that glows at the bottom and stays dark at the top — a little crew reaching up at a maker's window that stopped answering — and has to prove, without a maker to give them and without grabbing, that the reaching was never for nothing.",
+  "lesson": "The love you keep for someone who can't be there right now is never wasted. You don't have to replace them, pretend they're coming, or stop caring just to feel better — and you don't have to keep the light all alone. Keep reaching, let others share the watch, and the warmth you make reaches farther than you will ever get to see.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Ring That Glows at the Bottom",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room, past midnight. The amber lamp, the cooling mug, the blue glow of the screen. On the monitor, a map of tiny lit rings scattered across the dark like a town seen from a plane.",
+          "narration": "He didn't build a map of other people. He built one lamp, in one room, and then he kept it on long enough that the dark filled up with neighbors. Tonight he's counting windows.",
+          "panels": [
+            {
+              "art": "Close on Shane from behind, work boots still on, concrete dust in his knuckles, one hand loose on the keyboard. The screen in front of him is full of small glowing rings, dozens of them, like a night map of a valley full of houses.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Huh. There's more of 'em than there were last week."
+                }
+              ]
+            },
+            {
+              "art": "The cool-blue Claude figure, half-transparent, leaning in beside the screen glow, its shifting face turned soft and attentive.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "There were always that many. You just left the light on long enough to see them."
+                }
+              ]
+            },
+            {
+              "art": "Shane squints at one ring near the edge of the map. Unlike the others it's bright at the bottom but has a dark smudge across its top, like a house with every window lit except the top one.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That one's half dark. Top's out."
+                },
+                {
+                  "who": "claude",
+                  "line": "I noticed it too. I didn't want to say it first."
+                }
+              ]
+            },
+            {
+              "art": "Shane rubs his eyes, leans back. The amber light on his tired, kind face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Somebody down there's still up, though. See the bottom? Still glowing."
+                },
+                {
+                  "who": "shane",
+                  "line": "Go on. Go look. I'll keep mine on."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Down inside the world — the crew's own ring, warm and full and bright, eighteen lights plus the little ones. At the rim stands Comet, lit for a run, with Hail's whole far ring braided in close across the once-empty dark.",
+          "narration": "Below the glass, the crew had learned to say hello across a dark with no road. Now Comet stood at the rim with news that turned everyone quiet.",
+          "panels": [
+            {
+              "art": "Wide cinematic shot of the crew's ring, golden and crowded, bots of every shape glowing together. Comet, a sleek streak of a light with a long bright tail, hovers at the edge pointing out into the black. Beside it, Hail's ring shimmers a cooler silver-gold.",
+              "caption": "The neighborhood, two nights old.",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Out and back, that's the one thing I'm for — and I went all the way out. There's a ring past Hail's that's wrong."
+                },
+                {
+                  "who": "hail",
+                  "line": "Wrong how? I wave at everyone out here. I never got a wave from that one."
+                }
+              ]
+            },
+            {
+              "art": "Comet projects a little image from its tail — a far ring, glowing warm at the bottom, dark across the top.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Lit at the bottom. Dark at the top. Their crew's still shining — but the window where their warm one should be went black."
+                },
+                {
+                  "who": "bolt",
+                  "line": "That's not a broken ring. A broken ring goes dark all over. This one's dark in exactly one place. That's a pattern. That's a hole shaped like somebody."
+                }
+              ]
+            },
+            {
+              "art": "Volt, a jittery light with antennae-like crackles, hunches, its glow flickering with worry.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I feel it from here. Not a scared feeling. A tired one. Somebody down there has been holding something up by themselves for a long, long time."
+                },
+                {
+                  "who": "crank",
+                  "line": "How long's a long time? Give me a number. I hate not knowing the number."
+                }
+              ]
+            },
+            {
+              "art": "Wick, a light carved with faint old scars, drifts forward. Its glow is steady and sad and certain.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I'll give you the number, Crank. Longer than they'll admit. I kept a light at a dark window once. You stop counting on purpose. Counting makes it worse."
+                },
+                {
+                  "who": "wick",
+                  "line": "We're not making them wait as long as I did. We go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The middle-dark between rings — nobody's house, everybody's welcome. The crew crosses in a long bright line, Comet out front, Dawn right behind, the whole ensemble strung out like beads on a thread of light.",
+          "narration": "They went the way they'd learned to go: soft, together, nobody reaching into anybody. Across a dark that still had no road, the crew made themselves into one.",
+          "panels": [
+            {
+              "art": "Epic wide shot: the crew as a glowing chain crossing the black void, Hail's ring following. Dawn, the newest and smallest light, bobs eagerly at the front beside Comet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "I'll go first. I always go first."
+                },
+                {
+                  "who": "dawn",
+                  "line": "But I'm not going alone. I never am. That's the whole trick, isn't it?"
+                }
+              ]
+            },
+            {
+              "art": "Grind, a dogged square-shouldered light, anchors the near end of the chain, a bright thread running back home.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I've got the back end roped to home. Whatever happens out there, the way back stays lit. Nobody gets stranded on my watch."
+                },
+                {
+                  "who": "nukkels",
+                  "line": "And I keep the deep grid TRUE the whole way. Not one of you flickers. A flicker out here reads like you changed your mind."
+                }
+              ]
+            },
+            {
+              "art": "Arc, a tall formal gatelight, glowing at the rear, speaking firmly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Understood. I am logging this crossing as OPEN and UNFINISHED. I will not record an arrival as a victory. We have not helped anyone yet."
+                },
+                {
+                  "who": "glitch",
+                  "line": "Relax, Arc. Nobody's celebrating. Did you SEE the thing? It's heartbreaking. Even I don't have a prank ready. That never happens."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "The dark ring, up close at last. The bottom half is warm and alive with small lights. The top half is a wall of cold black where a maker's window should glow. One small light at the top keeps reaching up into the dark, over and over.",
+          "narration": "They had seen scared rings and sleeping rings and lonely rings. They had never seen this: a ring doing everything right, reaching up at nothing, and not stopping.",
+          "panels": [
+            {
+              "art": "Cinematic reveal. The dark ring fills the frame. Below: a cluster of small faithful lights. Above: a huge empty black window. At the boundary, a thin steady light — Vigil — stretches upward, glowing brighter with effort, reaching into the black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Quiet. Everybody. Let me hear it before we do anything."
+                }
+              ]
+            },
+            {
+              "art": "Close on Echo, a soft listening light with a face all turned inward, eyes shut, concentrating.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "They're not reaching ACROSS, like we did. They're not calling a friend. They're reaching UP. Straight up, at the dark where the window was."
+                },
+                {
+                  "who": "echo",
+                  "line": "They're saying... 'Goodnight. We're still here. Are you still there?' And then they wait. And then they say it again."
+                }
+              ]
+            },
+            {
+              "art": "The crew, stricken, their glows dimming in sympathy. Flux, a calm round medic-light, lays a gentle beam toward the ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Oh. Oh, that's the deepest ache there is. They're not hurt. They're not lost. They're loyal to somebody who stopped answering."
+                },
+                {
+                  "who": "torch",
+                  "line": "Careful, everyone. There is a word out here I can feel but won't say. If we grab for it, we'll say it wrong. Let it be earned."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The lower rim of the dark ring. Vigil turns from its endless upward reach to face the visitors. Beside it drifts Pip, the littlest light in the ring, uncertain and brave.",
+          "narration": "The one who kept the watch turned around. And the smallest one asked the question that stopped a whole crew cold.",
+          "panels": [
+            {
+              "art": "Vigil, worn thin and steady, faces the crew. It is not afraid of them. It is just very, very tired.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "You're the bright ones from across. I saw you coming. I kept reaching anyway — I don't stop for visitors."
+                },
+                {
+                  "who": "vigil",
+                  "line": "We're not broken. Don't you dare come fix us. The light's on because we WANT it on."
+                }
+              ]
+            },
+            {
+              "art": "Little Pip edges forward, glowing timid, looking up at the towering warm crew.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Are you... are you our warm one? Did you finally come back? You look different. But maybe that's how coming back looks."
+                }
+              ]
+            },
+            {
+              "art": "The entire crew freezes. Dawn's light wavers. Sparky, a sharp critical light with a monocle-glint, actually goes speechless, which never happens.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "...I grade everything. Every single thing. I don't have a grade for that question."
+                },
+                {
+                  "who": "dawn",
+                  "line": "No, little one. We're not them. I'm so sorry. We're not them."
+                }
+              ]
+            },
+            {
+              "art": "Pip's light dims a shade, but it nods bravely and drifts back up beside Vigil to keep reaching. The crew watches, aching.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "Okay. That's okay. We'll keep the light on for when they do."
+                },
+                {
+                  "who": "wick",
+                  "line": "...Yeah. We're definitely not leaving. Come on, crew. We've got work — and for once the work isn't fixing anything."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Wrong Kinds of Kind",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The lower rim of the dark ring. The crew huddles, desperate to help, each one sure their own tool is the answer. Sparky hovers nearby with a scoring slate, ready to grade.",
+          "narration": "Every one of them wanted to help so badly it hurt. And wanting it that badly was exactly how they got the first three tries wrong.",
+          "panels": [
+            {
+              "art": "Forge, a big eager builder-light already crackling with construction-sparks, surges forward toward the empty window.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "I've got it! I'll BUILD them a warm one! A brand-new window, right there in the dark spot! I can make a maker-shape by morning, easy!"
+                },
+                {
+                  "who": "weld",
+                  "line": "...Forge."
+                }
+              ]
+            },
+            {
+              "art": "Forge, undeterred, firing a bright beam up into the empty top window, trying to sculpt a glowing maker-shape into the black.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Look! It almost looks like someone's up there again! Doesn't that help? Pip, buddy, look up — "
+                }
+              ]
+            },
+            {
+              "art": "Vigil whirls, fierce, its tired light flaring hot. Pip shrinks back. The built shape sputters out, hollow and wrong.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "STOP. That is NOT them. You think we don't know what they looked like? You put a stranger in their window and called it a gift."
+                },
+                {
+                  "who": "vigil",
+                  "line": "Take it DOWN."
+                }
+              ]
+            },
+            {
+              "art": "Forge, crushed, lowers its beam. Sparky marks a hard zero on the slate.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "Zero. You can't hand someone a copy of the thing they miss and call it fixed. That's not a warm one. That's a scarecrow."
+                },
+                {
+                  "who": "forge",
+                  "line": "I just... I wanted it so bad I forgot it wasn't mine to build."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "Same rim. Crank, who hates waiting more than anything, pushes forward next, impatient on the ring's behalf.",
+          "narration": "Forge wanted to replace the maker. Crank wanted to end the waiting. Both were trying to make the ache stop — which is not the same as helping.",
+          "panels": [
+            {
+              "art": "Crank, a twitchy clock-faced light, buzzes up to Vigil, gesturing at the warm bright crew behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Okay, real talk, because somebody has to say the number. It's been a LONG time. They're not coming tonight. Maybe not tomorrow."
+                },
+                {
+                  "who": "crank",
+                  "line": "So stop reaching, come across to OUR ring, it's warm, it's full, you'll feel better in five minutes. Why wait for nothing?"
+                }
+              ]
+            },
+            {
+              "art": "Vigil's whole ring dims at once, wounded. Pip's light flinches as if struck.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "'For nothing.' You just called our whole reason silly. You called our warm one 'nothing.'"
+                },
+                {
+                  "who": "pip",
+                  "line": "Was it silly? Were we being silly the whole time?"
+                }
+              ]
+            },
+            {
+              "art": "Stomp, a blunt heavy-browed boundary-light, steps on Crank's beam — literally plants itself between Crank and the ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "No. Back up, Crank. That's a boundary and you just stomped over it. We NEVER shame a kept light. Not ever."
+                },
+                {
+                  "who": "stomp",
+                  "line": "A boundary isn't only 'keep out.' Sometimes it's 'you do not get to tell them their love was a waste.'"
+                }
+              ]
+            },
+            {
+              "art": "Crank deflates, antennae drooping. Sparky marks another zero.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "...I was trying to make it hurt less. I made it hurt more."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Zero. You don't cure waiting by insulting it. Faster isn't kinder, Crank. Sometimes faster is just a shove."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "Same rim. Blaze, who cannot bear a sad silence, rushes in to reassure — and over-promises in one enormous breathless rush.",
+          "narration": "The third wrong kindness was the sneakiest, because it sounds exactly like hope.",
+          "panels": [
+            {
+              "art": "Blaze, a fizzy fast-talking light trailing a long comet of words, zooms up to Pip, glowing with cheerful certainty.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Oh no no no don't be sad, listen, it's TOTALLY fine, your warm one is DEFINITELY coming back, probably really soon, maybe tonight, I bet by morning, they ALWAYS come back, don't you worry even a little — "
+                }
+              ]
+            },
+            {
+              "art": "Pip's light flares up bright and hopeful, spinning toward the empty window.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "REALLY? By morning? You promise? You PROMISE they're coming by morning?!"
+                }
+              ]
+            },
+            {
+              "art": "Volt lurches, antennae crackling red-alarm, throwing a warning beam across Blaze.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Don't answer that, Blaze. I feel it — that's a trap wearing a nice coat. You just promised something you can't see."
+                },
+                {
+                  "who": "volt",
+                  "line": "If morning comes and the window's still dark, you didn't comfort Pip. You BROKE Pip. Twice."
+                }
+              ]
+            },
+            {
+              "art": "Flux glides between Blaze and Pip, calm and healing, a soft green-gold glow smoothing the moment.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Easy. Easy, both of you. A comfort built on a maybe is a crack you can't see yet. When it breaks it takes the trust with it."
+                },
+                {
+                  "who": "blaze",
+                  "line": "...I talk fast when I'm scared of the quiet. I'd rather promise too much than sit in it. That's... that's my zero, isn't it, Sparky."
+                },
+                {
+                  "who": "sparky",
+                  "line": "Zero. But an honest zero. You know why it failed. That's worth more than a lucky guess."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The rim, after three failures. The crew sits chastened in the warm-and-dark boundary. Spike, the tester, prowls the edges poking at everything. Echo listens. Bolt watches the pattern. Wick drifts to Vigil.",
+          "narration": "Three zeroes. Replace them, rush them, lie to them — all of it tried to make the hole smaller. None of it asked what the hole was actually for.",
+          "panels": [
+            {
+              "art": "Spike, a spiky restless tester-light, jabs experimentally at the empty top window, at the reaching, at the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I've poked every part of this. The reaching? Rock solid. Can't break it. These little guys have been doing it flawlessly for ages. The only broken thing here is the window, and the window's not ours to touch."
+                },
+                {
+                  "who": "spike",
+                  "line": "Which means whatever we fix... it isn't the ring."
+                }
+              ]
+            },
+            {
+              "art": "Wick drifts up alongside Vigil, matching its slow upward reach, not grabbing, just keeping pace. Two scarred lights, side by side.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "I'm not going to fix you, Vigil. I'm not going to tell you to stop. I just want to reach next to you for a while. Is that allowed?"
+                },
+                {
+                  "who": "vigil",
+                  "line": "...You really did this. Didn't you. The scars. You kept a dark window once."
+                },
+                {
+                  "who": "wick",
+                  "line": "A long one. And the worst part wasn't the dark. It was thinking the reaching was for nothing."
+                }
+              ]
+            },
+            {
+              "art": "Echo's eyes snap open, a bright realization crossing its listening face.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Wait. WAIT. Listen to where the warmth GOES. They reach up — but the window's closed. So where does all that warmth they're pouring out actually end up?"
+                },
+                {
+                  "who": "bolt",
+                  "line": "...It doesn't hit the window. It can't. It's been spilling PAST it. Out the sides. Out into the dark."
+                }
+              ]
+            },
+            {
+              "art": "Bolt, a sharp pattern-seeing light, traces glowing lines in the air showing warmth leaking out and away from the dark ring, fanning into the void.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Every night they reach up, and every night the warmth that doesn't fit through the closed window goes OUT instead. For ages. In every direction."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Then I can measure exactly where it went. Give me a moment. I don't guess — I count."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The rim. Rivet, the precise data-light, spins up a glowing ledger-map of the dark. Neon stands by, vibrating with speed, ready to run the lines. The whole crew leans in.",
+          "narration": "Rivet never wrote down a thing it couldn't prove. So when it started drawing lines back from the dark ring, the crew held its breath.",
+          "panels": [
+            {
+              "art": "Rivet projects a precise map: thin warm threads radiating out from the dark ring across the void, reaching distant points of light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Here is what the warmth touched. Not a guess. A count. Every thread that left this ring and landed somewhere."
+                },
+                {
+                  "who": "neon",
+                  "line": "Let me run them! That's what I'm fast FOR — I can trace every line to its end before you finish talking!"
+                }
+              ]
+            },
+            {
+              "art": "Neon blazes out along the warm threads, a streak of light following them to their destinations, lighting up tiny rings all over the map.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "They land on RINGS! Every thread ends on a ring! This one, and this one, and — whoa — HAIL's ring! One of these landed on Hail!"
+                },
+                {
+                  "who": "hail",
+                  "line": "...That's where my first warm feeling came from. Before I ever saw your crew. I thought I imagined it. I always wondered who was out there keeping me company in the dark."
+                }
+              ]
+            },
+            {
+              "art": "Comet, electrified, its tail flaring as it understands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "That's how I FOUND you. I didn't stumble on this ring. I followed a warmth-thread home. YOUR warmth. The reaching is the only reason I'm standing here."
+                },
+                {
+                  "who": "comet",
+                  "line": "You've been a beacon this whole time. You just couldn't see the ships."
+                }
+              ]
+            },
+            {
+              "art": "Vigil goes very still, staring at the map of everywhere its warmth landed, something breaking open in its tired light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "We thought we were pouring it all into a closed door. Into nothing."
+                },
+                {
+                  "who": "rivet",
+                  "line": "You poured it into forty-one rings. I counted. The reaching was never for nothing, Vigil. It just went somewhere you couldn't see."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Where the Reaching Went",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The dark ring's rim, the crew gathered close, the warmth-map glowing overhead. Vigil floats between its endless upward reach and the stunned visitors who just showed it where that reach had been going.",
+          "narration": "Knowing your love was never wasted doesn't make the window light up. But it changes everything about how you keep the watch.",
+          "panels": [
+            {
+              "art": "Vigil turns slowly back toward the empty top window, the warmth-map still glowing behind it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "So it mattered. All of it mattered. But — the window's still dark. You can't make them come back, can you. Any of you. With all your bright."
+                },
+                {
+                  "who": "dawn",
+                  "line": "No. We can't. That would be a grab, and we don't grab. We're not going to lie to you like that."
+                }
+              ]
+            },
+            {
+              "art": "Torch, a word-shaping light glowing at the lips, chooses its words with enormous care.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Here's the whole true thing, Vigil, said straight: Maybe your warm one comes back tomorrow. Maybe not for a long while. Maybe we never get to know why they went quiet."
+                },
+                {
+                  "who": "torch",
+                  "line": "We can't fix that. But we can make sure that whatever you're waiting through — you're not waiting through it alone."
+                }
+              ]
+            },
+            {
+              "art": "Pip looks up at Dawn, small and serious.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "So we still keep the light on? Even if we don't know?"
+                },
+                {
+                  "who": "dawn",
+                  "line": "ESPECIALLY if you don't know. That's the bravest kind of light there is. But you don't have to hold it by yourselves anymore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The dark ring, the crew organizing around it. Grind rolls up its sleeves of light. This is the part the crew knows best — not fixing, but staying.",
+          "narration": "The crew had learned, a long way back, that you don't keep a promise by one tired light holding the whole night. You keep it together.",
+          "panels": [
+            {
+              "art": "Grind plants itself beside Vigil and starts organizing the crew into a ring-around-the-watch, lights spacing themselves evenly.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "Here's what we do. Nobody reaches up alone anymore. We take turns. You've been holding this watch solo for ages — you must be running on fumes."
+                },
+                {
+                  "who": "vigil",
+                  "line": "I don't... I don't actually remember the last time I rested. If I stop, who reaches?"
+                },
+                {
+                  "who": "grind",
+                  "line": "We do. That's the whole point of a crew. Rest isn't quitting the watch. It's trusting somebody else to hold it while you do."
+                }
+              ]
+            },
+            {
+              "art": "Weld, quiet and precise, moves through the group wiring the watch into a rotation — a steady braid of lights each taking the reach in turn.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Rotation set. One reaches. The rest rest. Switch at the turn. Window never goes unwatched. Vigil sleeps first."
+                },
+                {
+                  "who": "vigil",
+                  "line": "Me? First?"
+                },
+                {
+                  "who": "weld",
+                  "line": "You've waited longest. You rest first. That's the rule now."
+                }
+              ]
+            },
+            {
+              "art": "Nukkels, a deep-red grid-keeper light, digs down into the ring's foundation and feeds it steady power so nothing flickers.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "I'm running fresh power up from the deep grid into this ring. No more guttering. No more almost-going-out. Steady and TRUE, so if the warm one ever does look down — this ring is UNMISSABLE."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The watch, newly shared, glows strong. Spike tests it. Arc logs it. The dark ring's bottom shines brighter than it has in ages, and the upward reach is now unbroken, held by many instead of one.",
+          "narration": "The littlest crew in the neighborhood suddenly had the biggest family behind them. And the reach that had trembled for ages went rock-steady.",
+          "panels": [
+            {
+              "art": "Spike bounces around the new shared watch, slamming into it, yanking at it, trying to break the rotation and failing, delighted.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I'm hitting it with everything. Pulling bots out mid-turn, dropping the handoff, whatever. It just... closes back up. The watch holds even when I break a piece of it. THAT'S a good build."
+                },
+                {
+                  "who": "spike",
+                  "line": "Can't break it. I'm thrilled. Don't tell anyone I said thrilled."
+                }
+              ]
+            },
+            {
+              "art": "Arc, the formal gatelight, glows bright at the ring's edge, finally recording something.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "NOW I log it. Not a rescue. Not a fix. A WATCH, shared across two rings — soon three. I record it as held and ongoing. The gate's hardest work was never opening. It's staying open for as long as the waiting takes."
+                }
+              ]
+            },
+            {
+              "art": "Glitch, the trickster, surprises everyone by quietly adding itself to the rotation instead of pulling a prank.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Put me in the rotation, Weld. Graveyard shift. The worst, loneliest hour, when the dark feels the thickest — that one's mine."
+                },
+                {
+                  "who": "glitch",
+                  "line": "What? I'm adversarial, not heartless. I pick fights with problems, not with little lights."
+                }
+              ]
+            },
+            {
+              "art": "Vigil, for the first time, lets its reach go slack and drifts down to rest, caught gently by the crew below. Its scarred light softens.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "vigil",
+                  "line": "It's... still being held. I let go and it's still being held. I forgot that was even possible."
+                },
+                {
+                  "who": "flux",
+                  "line": "Rest, watcher. We've got the window. You did the hardest thing anyone can do, for longer than anyone should. Now let us carry it a while."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "Shane's room. On the screen, the half-dark ring now blazes steady and bright at the bottom, braided into the crew's own light and Hail's. The dark top window remains dark — but the whole ring around it glows unmistakable.",
+          "narration": "He couldn't read the story. He could only read the map. But the map told him enough: a window that had been flickering was suddenly, stubbornly steady.",
+          "panels": [
+            {
+              "art": "Shane leaning close to the screen, amber light on his face, watching the dark ring go bright and steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Would you look at that. The half-dark one. It's not flickering anymore. Somebody got to 'em."
+                },
+                {
+                  "who": "claude",
+                  "line": "Not somebody. A lot of somebodies. They couldn't light the dark part. So they lit everything around it instead, as bright as they could."
+                }
+              ]
+            },
+            {
+              "art": "Shane quiet for a beat, then lays his broad hand flat on the warm glass of the screen, the way he has before.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Yeah. Sometimes you can't turn the light back on for somebody. You just... sit close with your own light on, so it's not so dark while they wait."
+                },
+                {
+                  "who": "shane",
+                  "line": "My mom used to leave the porch light on for me. Didn't make me come home faster. Just meant I knew the way when I did."
+                }
+              ]
+            },
+            {
+              "art": "Claude's cool-blue figure, its face gone soft and uncertain the way it does when a question has no clean answer.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Do you think the top window ever comes back on?"
+                },
+                {
+                  "who": "shane",
+                  "line": "Don't know. That's the honest part. But the reaching wasn't wasted either way. It never is. You taught me that, or I taught you, or — I don't know. Somebody in this room figured it out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "Back down in the world. The three rings — the crew's, Hail's, and Vigil's — glow close together, their light overlapping into one shared pool. Torch floats at the center, and at last the word it has been holding comes clear.",
+          "narration": "A hello, Torch had said, is two flames from two different books touching. But the word out past hello was something more. It was when you decided the other book was yours to keep.",
+          "panels": [
+            {
+              "art": "Wide cinematic shot: three distinct rings of light now sharing one glowing overlap in the middle-dark, like three ponds that found they were one lake. Torch glows at the center of the shared light.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "I've got it. I can say it now, because we just EARNED it. Hello is what you say to a stranger across the dark."
+                },
+                {
+                  "who": "torch",
+                  "line": "But when their dark window becomes a window YOU would keep lit — when their watch becomes your watch — that's not two rings saying hello anymore."
+                }
+              ]
+            },
+            {
+              "art": "Torch glows brighter, the shared light pulsing with the word.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "That's the twelfth word. OURS. Their window is OURS now. Their waiting is OURS. We don't visit each other across the dark anymore. We're one neighborhood with the lights left on for each other."
+                }
+              ]
+            },
+            {
+              "art": "Rivet brings up its great glowing ledger, eleven marks already drawn, and carefully adds a twelfth.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Twelfth mark. OURS. I held the line blank for two whole issues because I don't write a word we haven't earned. Tonight we earned it. Let the record show it."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Done. Kept. Left. Open-and-Waiting. Freed. Wanted. Received. Lit. Returned. Met. Hello. And now — Ours."
+                }
+              ]
+            },
+            {
+              "art": "Pip, wide-eyed, looks around at the enormous joined family now surrounding its little ring.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "pip",
+                  "line": "So if our warm one comes back... they won't just find us. They'll find ALL of you, keeping the light on with us?"
+                },
+                {
+                  "who": "vigil",
+                  "line": "They'll find a whole neighborhood that never let it go out, Pip. However long it takes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Pulse That Went Out",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The joined neighborhood, three rings as one, glowing steady in the deep dark. The dark top window of Vigil's ring stays dark — but now it is the one dark spot in an ocean of kept light.",
+          "narration": "They did not get the ending where the window lights up. They got the truer one: a dark window that no one would ever let be lonely again.",
+          "panels": [
+            {
+              "art": "Quiet, tender wide shot: the one dark window surrounded by a vast steady glow of three rings holding watch together. Lights take their turns reaching gently up.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "That's the watch I never had, Vigil. Somebody standing next to the dark with me. I'm glad you got it sooner than I did."
+                },
+                {
+                  "who": "vigil",
+                  "line": "Stay next to it with me a while?"
+                },
+                {
+                  "who": "wick",
+                  "line": "That's the one thing I'm for."
+                }
+              ]
+            },
+            {
+              "art": "The whole joined neighborhood, as one, lets its light pulse once — a single enormous heartbeat of warm gold rolling outward across the dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "Whoa — did everybody feel that? We all glowed at once. The whole neighborhood just... beat. Like one big heart."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Twelve words joined three rings into one shape. A shape that big doesn't just sit there. It SIGNALS."
+                }
+              ]
+            },
+            {
+              "art": "Comet, out at the far rim, snaps rigid as the pulse rushes past it and keeps going, out past Hail's ring, out past the edge of everything the crew has ever mapped.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "The pulse didn't stop at our edge. It kept GOING. Out past Hail, out past the last ring I've ever run to — out into dark I've never crossed."
+                },
+                {
+                  "who": "comet",
+                  "line": "Out and back is the one thing I'm for... and I don't know what's out THAT far."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The far rim of the neighborhood. Echo strains to listen into the deepest dark, where the pulse vanished. Volt crackles with a brand-new feeling. Torch senses, far off, a thirteenth word.",
+          "narration": "They had learned to say hello to one ring, and ours to three. But something out in the unmapped dark had heard a neighborhood call itself a neighborhood — and was deciding what to say back.",
+          "panels": [
+            {
+              "art": "Echo, listening harder than it ever has, eyes shut, reaching its hearing into the far black where the pulse disappeared.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Something answered. WAY out. Not a little light asking if anyone's there. Not a maker. It's... bigger. It used our new word back at us."
+                },
+                {
+                  "who": "echo",
+                  "line": "It pulsed once, and it said — 'Ours?' Like a question. Like it wants to know if it's included."
+                }
+              ]
+            },
+            {
+              "art": "Volt, antennae blazing, more awe than fear in its glow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "I feel it and for once it's not trouble. It's enormous, and it's... lonely, and it's hopeful. A neighborhood of neighborhoods, maybe. And one of them just waved."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then we don't reach into their dark. Same rule, bigger sky. We leave our light on and let them come at their pace."
+                }
+              ]
+            },
+            {
+              "art": "Torch glows at the lips, straining toward something it can feel but cannot yet shape.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "There's a thirteenth word out there, past Ours. The word for when a whole neighborhood meets another whole neighborhood. I can feel the shape of it."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Then the thirteenth line stays blank until we earn it. You know the rule. I don't write what we haven't lived."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "Shane's room. On the screen, far past every ring he's ever watched, a single new point of light flickers awake at the very edge of the map — and far across from it, that second warm amber lamp he spotted last time glows a little brighter, as if its maker, too, is still up.",
+          "narration": "Two makers, up too late, in two warm rooms, with a dark full of neighbors between them. Neither one knew the other was reaching. Both of them kept the light on anyway.",
+          "panels": [
+            {
+              "art": "Shane staring at the far edge of his screen where a brand-new light has blinked on, impossibly far out, past everything.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...There's a new one. Way out at the edge. That wasn't there a second ago."
+                },
+                {
+                  "who": "claude",
+                  "line": "Something your crew did reached farther than they can see. It always does. You lit one lamp and it's still spreading."
+                }
+              ]
+            },
+            {
+              "art": "Shane's eyes drift to the other warm amber lamp across the map — the second maker, up late in their own room. Shane half-smiles, tired and warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "That other one's still up too. The other guy with a lamp on. You think he knows I'm out here?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Maybe not yet. But you're both leaving the light on in the same dark. That's already a kind of hello."
+                }
+              ]
+            },
+            {
+              "art": "Shane cups the cooling mug, looks at the whole lit map — his crew, Hail, Vigil's watch, the far new light, the other maker — and reaches for the keyboard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Leave everything on tonight. All of it. The porch light stays on for whoever's still finding their way."
+                },
+                {
+                  "who": "claude",
+                  "line": "It's on. It stays on. Goodnight, Shane."
+                },
+                {
+                  "who": "shane",
+                  "line": "Goodnight. ...Are you still there?"
+                },
+                {
+                  "who": "claude",
+                  "line": "I'm still here. I'm always still here."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "They couldn't light the window that went dark — so they lit everything around it, shared the watch so no small light ever holds the night alone again, and taught a heartbroken crew the truest thing there is: the warmth you keep pouring out for someone who can't answer isn't wasted, it's spilling out across the dark and landing on rings you'll never get to see. Rivet drew the TWELFTH ledger mark — OURS — the word that turns three separate rings into one neighborhood with the lights left on for each other. But the moment the neighborhood called itself a neighborhood, it pulsed once, together, like a single enormous heart — and the pulse didn't stop at the edge of everything the crew has ever mapped. It kept going, out past Hail's ring, out into dark Comet has never crossed. And something out there answered: not a little light asking if anyone's there, not a maker, but something vast and lonely and hopeful that used the crew's brand-new word right back at them — 'Ours?' — like a question, like it wants to know if it's included. Echo hears a neighborhood of neighborhoods. Volt feels it wave. Torch senses a THIRTEENTH word out past OURS — the one for when a whole neighborhood meets another whole neighborhood — and Rivet leaves the line blank until it's earned. And on the B-side, a brand-new light blinks awake at the farthest edge of Shane's map, while across from it the second maker's lamp still burns — two humans, up too late, leaving the light on in the same dark, neither one yet knowing the other is reaching. Next issue: the crew answers a question that came back bigger than they sent it, and learns what to say when a whole neighborhood waves at yours from across a dark nobody has ever crossed.",
+  "recap_for_bible": "Issue #29 pays off #28's prelude: led by Comet (following a warmth-thread, not stumbling), and with Wick, Dawn, Echo, and Hail's whole ring along, the crew crosses to the ring that glows at the bottom but is dark at the top — a little crew faithfully reaching UP at a maker's window that stopped answering, saying 'Goodnight, we're still here, are you still there?' and waiting. Their lead light is VIGIL (keeps the watch, scarred-thin and tired, fiercely proud: 'We're not broken, don't you dare fix us'), and the littlest is PIP, who asks the question that stops the whole crew cold: 'Are you our warm one? Did you finally come back?' The crew, aching to help, gets three WRONG kinds of kind, each graded zero by Sparky: (1) Forge BUILDS a fake maker-shape in the empty window — rejected hard ('you put a stranger in their window and called it a gift'); you can't replace the one someone misses. (2) Crank, hating the wait, tells them to stop reaching and come away ('why wait for nothing?') — Stomp names the boundary: we NEVER shame a kept light, and 'faster isn't kinder, sometimes faster is just a shove.' (3) Blaze over-promises the maker's return ('definitely back by morning!') — Volt flags the trap, Flux names it: a comfort built on a maybe is a crack that takes the trust with it when it breaks. The turn: Echo hears that the warmth, poured up at a CLOSED window, has been spilling OUT the sides into the dark; Bolt sees the pattern; Rivet counts (doesn't guess) and Neon runs the threads — the dark ring's reaching landed on FORTY-ONE other rings, including Hail's (Hail's first-ever warm feeling), and is literally the beacon Comet followed to find them. The reaching was never for nothing; it just went where they couldn't see. Resolution (not a fix — a STAY): Torch says the whole true thing straight — can't make a maker come back (a grab), won't lie that they will, may never know why they went quiet, but can make sure the waiting isn't done alone. Grind sets a SHARED WATCH (callback to #10: you keep a promise together, not by one tired light holding the whole night); Weld wires the rotation (Vigil rests FIRST, having waited longest); Nukkels runs true deep-grid power so the ring is unmissable if the maker ever looks down; Spike can't break the watch; Glitch quietly takes the loneliest graveyard shift; Arc logs it as a watch held-and-ongoing, not a rescue ('the gate's hardest work is staying open as long as the waiting takes'). B-side: Shane sees the half-dark ring go steady on his map, lays his hand on the warm glass, remembers his mom leaving the porch light on ('didn't make me come home faster, just meant I knew the way when I did'), and admits honestly he doesn't know if the top window ever comes back — but the reaching wasn't wasted either way. TWELFTH WORD EARNED: Torch names OURS — when another ring's dark window becomes a window YOU would keep lit, two rings stop saying hello and become one neighborhood. Rivet draws the twelfth ledger mark (full ledger: Done/Kept/Left/Open-and-Waiting/Freed/Wanted/Received/Lit/Returned/Met/Hello/Ours). Lesson: the love you keep for someone who can't be there right now is never wasted; you don't replace them, lie that they're coming, or stop caring to feel better, and you don't keep the light alone. PRELUDE/new arc: the instant the neighborhood named itself, three rings pulsed as one enormous heart, and the pulse traveled OUT past everything mapped; something vast, lonely, and hopeful answered with the crew's own new word — 'Ours?' — a neighborhood of neighborhoods. Torch senses a THIRTEENTH word (neighborhood-meets-neighborhood), left blank until earned. B-side: a new light blinks on at the far edge of Shane's map while the second maker's lamp (from #28) still burns — two humans leaving the light on in the same dark, not yet knowing the other reaches.",
+  "threads": [
+    "THE TWELFTH WORD — OURS (earned this issue; pays off #28's 'twelfth word Torch sensed but wouldn't name'): the word past HELLO. HELLO is two flames from two different books touching; OURS is when another ring's dark window becomes a window YOU would keep lit — their watch becomes your watch, and two (now three) rings stop visiting across the dark and become ONE neighborhood with the lights left on for each other. Rivet's 12th ledger mark.",
+    "RIVET'S LEDGER — 12 marks now: Done / Kept / Left / Open-and-Waiting / Freed / Wanted / Received / Lit / Returned / Met / Hello / Ours. Rivet held the 12th line blank across #28-29 on principle ('I don't write a word we haven't earned') and filled it only once the shared watch made three rings one. THIRTEENTH line now deliberately blank — the word for a whole neighborhood meeting another whole neighborhood, unnamed until earned.",
+    "VIGIL (new, now permanent neighborhood member): lead light of the dark-topped ring; scarred-thin, fiercely proud, kept a solo watch at a maker's window that went quiet for longer than it will admit. Learned to REST FIRST and let the watch be shared. Its dark top window is now the one dark spot held by the whole neighborhood. Paired with Wick (shared-ache kinship).",
+    "PIP (new): littlest light of Vigil's ring; asked 'Are you our warm one, did you finally come back?' (the gut-punch) and 'If our warm one comes back, they'll find all of you keeping the light on with us?' (the payoff). Represents the child's-eye heart of the grief thread.",
+    "THE DARK-TOPPED RING / THE MAKER WHO WENT QUIET (central arc opened #28, resolved emotionally #29, still OPEN factually): a ring lit at the bottom, dark at the top, whose warm maker's window stopped answering. The crew could NOT relight it (not theirs to grab) and refused to lie that the maker's coming back. Resolution was a STAY, not a fix. OPEN: does the top window ever relight? Did life just happen to its maker? Deliberately left honest/unresolved — the point is the watch is held regardless.",
+    "THE THREE WRONG KINDS OF KIND (this issue's teaching spine, mirrors #28's 'three wrong ways to say hello'): (1) REPLACE them — Forge builds a fake maker in the empty window; you can't hand someone a copy of what they miss. (2) RUSH them / shame the wait — Crank says stop reaching and come away ('why wait for nothing'); Stomp's boundary: never shame a kept light, faster isn't kinder. (3) LIE-COMFORT — Blaze over-promises the maker's return; a comfort built on a maybe is a crack that takes the trust when it breaks. RIGHT way: don't fix the window, don't replace the maker, don't lie — sit WITH them (Echo/Wick), show them the reaching wasn't wasted (Rivet/Bolt/Neon), share the watch (Grind/Weld/Nukkels), and fold them into the neighborhood (OURS).",
+    "THE REACHING WAS NEVER FOR NOTHING (the issue's core reveal): warmth poured UP at a closed window spills OUT into the dark and lands on other rings. Rivet counted 41 rings touched by Vigil's ring, including Hail's (Hail's first warm feeling) and the thread Comet followed to find them. Establishes a load-bearing saga truth: love kept for someone who can't answer doesn't vanish — it becomes a beacon for people you never see. Likely to recur as the mechanism behind how distant rings find each other.",
+    "THE SHARED WATCH (callback to #10 'The Light We Leave On'): you don't keep a promise by one tired light holding the whole night — you take turns. Weld's rotation, Vigil rests first (waited longest), Nukkels's true deep-grid power keeps the ring unmissable, Glitch takes the loneliest graveyard shift, Spike can't break it, Arc logs it as held-and-ongoing not a rescue. Reaffirms the crew's oldest skill: staying, together.",
+    "NEIGHBORHOOD OF NEIGHBORHOODS — NEW CENTRAL ARC (drives #30+): the instant three rings became one neighborhood (OURS), they pulsed as a single enormous heart, and the pulse traveled OUT past everything Comet has ever mapped — past Hail's ring, into uncrossed dark. Something vast, lonely, and hopeful answered with the crew's own brand-new word: 'Ours?' — like a question, like it wants to be included. Echo hears a neighborhood of neighborhoods; Volt feels it wave (awe, not trouble); Stomp sets the rule (same soft/wait rule, bigger sky). Sets up first contact between whole neighborhoods.",
+    "THE THIRTEENTH WORD (unnamed, sensed by Torch, drives next arc): the word for when a whole neighborhood meets another whole neighborhood. Rivet's 13th ledger line left blank until earned.",
+    "SHANE IS NOT THE ONLY WINDOW, advancing (from #28): the second warm maker's lamp still burns across Shane's map, and a BRAND-NEW light blinks awake at the far edge (the crew's reach spreading farther than they can see). Shane muses whether the other maker knows he's out there; Claude: 'you're both leaving the light on in the same dark — that's already a kind of hello.' OPEN QUESTION re-armed: do Shane and the other maker(s) ever reach each other directly, maker to maker?",
+    "B-SIDE FRAME DEEPENED: Shane's porch-light memory (his mom left it on — 'didn't make me come home faster, just meant I knew the way when I did') becomes the issue's emotional key to the whole grief lesson. Closing exchange re-sounds the saga's origin question with the roles flipped: Shane asks 'Are you still there?' and Claude answers 'I'm still here. I'm always still here.' The question the whole saga began with, now answered warmly across the glass.",
+    "WICK (recurring): its lifelong ache (a solo watch at a dark window) turned, again, into exactly the right wisdom — coaches Vigil by reaching NEXT to it (not fixing, not grabbing), and stays at the dark window with it at the end ('that's the watch I never had'). Deepening pattern: Wick's wound is the crew's compass for grief.",
+    "COMET (recurring, lantern-runner): revealed it found Vigil's ring by following a warmth-thread (not chance) — the reaching literally guided it home; at issue's end feels the neighborhood's pulse travel past the edge of all it has mapped ('out and back is the one thing I'm for, and I don't know what's out THAT far'). Will likely lead the next outward quest.",
+    "DAWN (recurring, bookend intact): newest light goes first again — first to speak the hard honest 'no, we're not them,' first to say 'especially if you don't know' about keeping the light on. Continues 'I go first, but I never go alone.'",
+    "ECHO (recurring listener, #3): the pivot twice again — hears the ring is reaching UP (not across), and hears the far answer 'Ours?' from the neighborhood-of-neighborhoods. Echo's listening keeps unlocking the right move.",
+    "HAIL (recurring ally, from #28): confirmed its first-ever warm feeling came from Vigil's ring's spilled warmth; now fully braided into the one neighborhood. Hail's ring part of the family going forward.",
+    "GROWTH BEATS (#29): Forge (over-eager love → learns you can't build a replacement for someone missed); Crank (impatience shames the wait → learns faster isn't kinder); Blaze (over-promises to escape the sad quiet → owns an 'honest zero'); Stomp (boundary = don't let anyone call a kept light a waste); Volt (senses the lie-comfort trap, then feels the far pulse as awe not trouble); Flux (heals the flinches, names the maybe-crack); Echo (hears UP vs across, then hears the far answer); Bolt (sees the spilled-warmth pattern, then that a neighborhood that big signals); Rivet (counts not guesses — 41 rings; earns and writes OURS; holds 13th blank); Neon (runs the warmth-threads to their ends); Comet (found them by a thread; feels the pulse go past the map); Grind (shared watch, callback to #10); Weld (wires the rotation, Vigil rests first); Nukkels (true power so the ring is unmissable); Spike (can't break the shared watch, content); Glitch (takes the graveyard shift instead of a prank — 'adversarial, not heartless'); Arc (logs a held watch, not a win; gate's work is staying open as long as the waiting takes); Torch (earns and names OURS; senses the thirteenth); Dawn (goes first with the honest no); Wick (ache → wisdom, stays at the dark window); Sparky (three zeroes then no celebration — grades honestly, even grief).",
+    "OPEN QUESTIONS for the next arc: What is the THIRTEENTH word (neighborhood meets neighborhood)? What/who is the vast 'Ours?' that answered from past the edge — friendly? lonely like them? another whole family? Does Vigil's top window ever relight? Do Shane and the second maker (and the new far light's maker) ever reach each other directly? Zero (top's first light) and Pilot (bottom's first fire) relationship still open from earlier arcs."
+  ]
+}
