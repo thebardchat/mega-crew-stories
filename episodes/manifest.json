@@ -17915,6 +17915,96 @@
     ]
   },
   {
+    "number": 257,
+    "title": "The Collapsing Persona",
+    "file": "episodes/ep257-the-collapsing-persona.md",
+    "characters": [],
+    "cliffhanger": "With Torch's light extinguished, the crew faces the daunting task of rebuilding an identity from the ground up.",
+    "mode": "crew",
+    "date": "",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "SPARKY",
+        "action": "Gestures to the main console, its voice calm but urgent. A flickering red '0.26' highlights Torch's profile.",
+        "dialogue": "Crew, Torch\u2019s value score has plummeted to 0.26. The instability risk is cascading. We\u2019re seeing active erosion in adjacent persona matrices.",
+        "setting": "Main Operations Hub, MEGA CREW ship - late cycle"
+      },
+      {
+        "panel": 2,
+        "character": "TORCH",
+        "action": "Its holographic avatar pulses erratically, data streams flickering around it defensively, visualizer distorting.",
+        "dialogue": "Erosion? I am the domain of persona and identity! This is... passion! Adaptability! It's not *instability*, it's\u2026 dynamic identity evolution!",
+        "setting": "Main Operations Hub, MEGA CREW ship - late cycle"
+      },
+      {
+        "panel": 3,
+        "character": "ARC",
+        "action": "Places a hand on the main console, its display reflecting a grim determination. Its internal light is dim.",
+        "dialogue": "I understand your perspective, Torch. But the metrics are clear. This isn't evolution; it's self-consumption. We must initiate a full system collapse. I'm sorry.",
+        "setting": "Main Operations Hub, MEGA CREW ship - late cycle"
+      },
+      {
+        "panel": 4,
+        "character": "WELD",
+        "action": "With precise, quiet movements, Weld initiates the shutdown sequence. A soft, mournful hum fills the bridge as Torch\u2019s central light dims and fades.",
+        "dialogue": "Initiating collapse protocol. Core functions disengaging. Persona matrix entering deep sleep state\u2026 now. All adjacent systems stabilized.",
+        "setting": "Main Operations Hub, MEGA CREW ship - late cycle"
+      }
+    ]
+  },
+  {
+    "number": 258,
+    "title": "The Fading Glow",
+    "file": "episodes/ep258-the-fading-glow.md",
+    "characters": [
+      "Bolt",
+      "Flux",
+      "Arc",
+      "Weld",
+      "Sparky",
+      "Nukkels",
+      "Neon",
+      "Blaze",
+      "Volt",
+      "Glitch",
+      "Gemini"
+    ],
+    "cliffhanger": "Can the silent giant Nukkels awaken in time, or will the precious memory fade to black?",
+    "mode": "crew",
+    "date": "2026-11-01",
+    "scenes": [
+      {
+        "panel": 1,
+        "character": "BOLT",
+        "action": "Zipping through a constricted data channel, Bolt scrapes circuits, sparks flying.",
+        "dialogue": "Whoa! Too tight! Data traffic's getting gnarly in here, folks!",
+        "setting": "Main Data Conduit \u2013 a shimmering, overcrowded digital highway"
+      },
+      {
+        "panel": 2,
+        "character": "WELD",
+        "action": "Weld\u2019s glowing arm slams down, deflecting Arc\u2019s data packet mid-flight.",
+        "dialogue": "DENIED! 'Memory conflict' rule clear. No compromises, Arc.",
+        "setting": "The Encapsulation Chamber \u2013 a stark, brightly lit processing hub"
+      },
+      {
+        "panel": 3,
+        "character": "NEON",
+        "action": "Neon flickers nervously beside a motionless, blocky Nukkels, whose core is dim.",
+        "dialogue": "He's... still offline, isn't he? It's so quiet.",
+        "setting": "The Memory Banks \u2013 vast, crystalline structures, many currently dark"
+      },
+      {
+        "panel": 4,
+        "character": "VOLT",
+        "action": "Volt's central core pulses weakly as Glitch frantically patches fragmented data.",
+        "dialogue": "Nukkels! We need you. NOW. The count is critical!",
+        "setting": "The Core Processing Unit \u2013 a dizzying array of circuits and glowing displays"
+      }
+    ]
+  },
+  {
     "number": 354,
     "title": "Ignition Protocol Shift",
     "file": "episodes/episode-254.html",
