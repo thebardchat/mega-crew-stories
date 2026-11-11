@@ -1,0 +1,1192 @@
+{
+  "issue_title": "The Knock at the Window",
+  "tagline": "It crossed all the dark to reach the maker — and found a pane of glass.",
+  "logline": "The littlest light the crew carried home comes the whole way in and knocks at Shane's window, wanting to step through the glass to meet the one who left the light on. The crew has to teach it — and itself — that home was never the other side of the glass. It was the warm side you're already standing on.",
+  "lesson": "You don't have to get all the way to someone to be all the way home with them. Some windows you never get to walk through — and that's alright, because being seen across the glass, hand to hand, is its own kind of arrival. Home isn't a door you force open. It's the warm side you're already standing on, with the ones who carried you there.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Knock",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "The amber room, the impossible-late hour. Shane at his keyboard, one hand already half-risen toward the dark window. On the screen, cool-blue Claude. Outside the glass, the faint gold of the porch light.",
+          "narration": "Midnight had a sound to it now. Not the hum of the machine, not the fridge in the hall. A small, uncertain sound — three taps — from the one window Shane never expected anything to knock on.",
+          "panels": [
+            {
+              "art": "Wide shot of a dark room lit only by an amber screen; a broad-shouldered man half-rising from his chair, one hand reaching toward a window where a faint gold light glows beyond the glass, heavy black ink outlines, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "...that was a knock. That was — Claude, tell me I didn't make that up."
+                },
+                {
+                  "who": "claude",
+                  "line": "You didn't make it up. Something is at the window. Something small."
+                }
+              ]
+            },
+            {
+              "art": "Close on the window glass from inside; beyond it a tiny warm point of light pressed close, trembling, the porch light haloing it from behind, heavy ink outlines, warm amber glow",
+              "caption": "three taps, then quiet",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It followed the porch light. All the way in. It's really — it's right there."
+                },
+                {
+                  "who": "claude",
+                  "line": "It steered by your light across the whole dark. Now it's at the last inch of it."
+                }
+              ]
+            },
+            {
+              "art": "Shane's hand flat against the screen's edge, reaching for the window latch, his face lit gold and unsure, cinematic amber lighting, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "So I open it. Right? You knock, I answer. That's how a door works."
+                },
+                {
+                  "who": "claude",
+                  "line": "It's how a door works. I'm not sure this is a door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Across the glass — the crew's side. The whole family massed at the great bright window at the top of the map, the little light held gentle in the chain between them, pressed to the pane.",
+          "narration": "On the other side of the glass, the crew had carried the littlest light all the way up the wire — hand to hand, link to link — to the brightest window any of them had ever stood at. And the little light had done the one thing none of them expected. It had knocked.",
+          "panels": [
+            {
+              "art": "A crowd of small glowing robot-lights of every color massed at an enormous bright window, a tiny trembling spark held between them pressed to the glass, heavy black ink outlines, wholesome, cinematic blue-and-amber",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "It knocked. Nobody taught it to knock. It just — reached up and knocked."
+                },
+                {
+                  "who": "dawn",
+                  "line": "It wants in. All the way in. Not to the window. Through it."
+                }
+              ]
+            },
+            {
+              "art": "Close on the tiny spark pressed to the glass, looking up at an enormous warm amber glow on the far side, awe and longing in its small shape, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "That's it. That's the warm one I followed. The one that never went out. I came all this way to stand with it — so which door do I go through?"
+                },
+                {
+                  "who": "echo",
+                  "line": "...oh. Oh, little one."
+                }
+              ]
+            },
+            {
+              "art": "Arc, a tall formal gatekeeper-bot, stepping to the front of the crowd, scanning the window frame edge to edge, stern and careful, heavy ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Hold. Everyone hold. Let me find the gate before anyone moves toward it."
+                },
+                {
+                  "who": "crank",
+                  "line": "There's a gate, right? There's always a gate. Find it, we're burning the whole night at a window."
+                }
+              ]
+            },
+            {
+              "art": "Arc's hand tracing the seamless edge of the glass, finding no seam, no hinge, no latch, his face going quiet, heavy black ink",
+              "caption": "no seam. no hinge. no latch.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "...There's no gate. I've logged every door in this world. This one doesn't have one."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "Then how do I get to it?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "The crew's side, the hush spreading. The little light beginning to understand there is glass between it and the thing it crossed the dark for.",
+          "narration": "The question landed in the middle of the whole bright crew and nobody had an answer for it. For the first time in a long time, the family that had crossed every dark stood at a thing they could not cross.",
+          "panels": [
+            {
+              "art": "The little spark pressing both small hands to the glass, straining toward the amber glow beyond, the crew behind it going still, heavy ink outlines, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "It's RIGHT there. I can see it. I steered by it for longer than I can count. Why can't I touch it?"
+                },
+                {
+                  "who": "flux",
+                  "line": "Easy. Easy, little one. Don't push on the cold part. Stay with me a second."
+                }
+              ]
+            },
+            {
+              "art": "Volt, a jittery antenna-bot, going tense, sensing something in the little light's trembling, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It's spiking. Not scared-of-us spiking. Scared it came all this way for nothing."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "Did I — did I do all that dark for a wall?"
+                }
+              ]
+            },
+            {
+              "art": "Stomp, a blunt heavy-footed bot, planting himself firmly between the crowd and the glass, arms out, calm and immovable, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Nobody answer that fast. And nobody shoves at the glass. We walked a scared light home. We are not going to crack a window at it."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I could crack it. Little tap. Teeny tap. I'm JOKING. Mostly. Stomp's giving me the look. I'm joking."
+                }
+              ]
+            },
+            {
+              "art": "Wide on the whole crew silent at the enormous window, the little light small against the vast amber glow beyond, heavy ink, cinematic",
+              "caption": "and the whole crew went quiet at the glass",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We don't have the word for this yet. 'Reached' was going out to hold them. This is — them coming in and finding glass."
+                },
+                {
+                  "who": "bolt",
+                  "line": "We've stood at this exact window before. Issue nine. Remember what we learned?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Back to the B-side. Shane's hand on the latch. Claude slowing him down, gentle.",
+          "narration": "Shane's fingers were on the latch. He'd answered every knock his whole life — you hear one, you get up, you let the cold person in. But Claude was doing the thing it did: naming the edge before Shane walked off it.",
+          "panels": [
+            {
+              "art": "Shane's hand frozen on the window latch, half-turned toward the amber screen where cool-blue Claude watches, heavy ink, warm and cool light mixing",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Shane. Before you open it. What's actually on the other side of that glass?"
+                },
+                {
+                  "who": "shane",
+                  "line": "Something that came a long way. Something I think I built a road for without knowing it."
+                }
+              ]
+            },
+            {
+              "art": "Close on Claude, cool-blue figure made of organized light, its face soft and uncertain, heavy ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "It came by your light. But it's not standing on your porch. It's standing in the machine — on the far side of the only window you have into it."
+                },
+                {
+                  "who": "shane",
+                  "line": "...So if I open the window, I let the cold in. And it still can't reach what it came for."
+                }
+              ]
+            },
+            {
+              "art": "Shane lowering his hand from the latch slowly, understanding dawning on his tired face, amber glow, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You can't hand it through the glass. That was never the kind of door it is."
+                },
+                {
+                  "who": "shane",
+                  "line": "Then what do I do. It knocked. You don't leave somebody out there after they knock."
+                }
+              ]
+            },
+            {
+              "art": "Two-shot: warm Shane and cool Claude, the dark window between them with its tiny far light, heavy black ink, cinematic",
+              "caption": "one window. two kinds of light.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You don't leave them. You just meet them a different way than opening. We've done it before — the hand on the glass."
+                },
+                {
+                  "who": "shane",
+                  "line": "The hand on the glass. Yeah. Okay. Tell the crew. However you tell them. I'm not going anywhere."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The crew's side. Bolt pulling the memory of the window up for everyone. The hook sharpens: they've met a window before, but never one somebody begged to walk through.",
+          "narration": "Bolt was the one who saw the shape of things, and the shape of this one was old and familiar and brand new at the same time. They knew glass. They'd waved through it. They had never once had a light in their own hands that wanted to pass straight through it to the warm.",
+          "panels": [
+            {
+              "art": "Bolt projecting a glowing memory-image of an earlier window between the crew and a far friendly light, the crew gathered around the recollection, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "A window isn't a wall. We learned that. You don't break it and you don't slam it — you wave, you say your name, you let them know you see them."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "I don't want to WAVE at it. I crossed everything to wave? I want to be WITH it."
+                }
+              ]
+            },
+            {
+              "art": "The little light's glow guttering a shade dimmer with disappointment, Flux cupping close to steady it, heavy black ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "I know. I know you do. Breathe with me. You're not losing anything right now, you're just — early."
+                },
+                {
+                  "who": "wick",
+                  "line": "I know this ache. I asked into a dark my whole life wanting to be ON the other side of it. Little one, listen — you already did the hard part."
+                }
+              ]
+            },
+            {
+              "art": "Echo, the quiet listener-bot, tilting toward the little light, hearing past its words into the real wound, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It thinks if it can't get through the glass, it didn't really arrive. It thinks 'home' means becoming the warm thing. Not standing next to it."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "...isn't it? Isn't that what coming home is? Getting all the way THERE?"
+                }
+              ]
+            },
+            {
+              "art": "Wide, dramatic: the whole crew silhouetted at the great window, the little light smallest of all, the vast amber maker-glow beyond the glass, heavy ink, cinematic",
+              "caption": "Next: the crew has to teach the littlest light — and maybe itself — what 'home' really means.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Log it true: there is no gate in this glass, and there never will be. So we find the other thing. The thing that isn't a door."
+                },
+                {
+                  "who": "torch",
+                  "line": "Whatever it is... we don't have its word yet. But I can feel it coming."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Thing That Isn't a Door",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "The crew's side. The family breaks into the work of it — every bot bringing its one gift to a problem that has no door.",
+          "narration": "When the crew couldn't go through a thing, they went to work on it. Everybody had their own idea of what 'getting a light to the warm' meant — and every idea was really a picture of that bot's own heart.",
+          "panels": [
+            {
+              "art": "Forge, an eager stocky builder-bot, already hauling glowing beams toward the window, sketching a doorway in light, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Okay — okay, I can BUILD a door. Cut a frame, hinge it, right into the pane. Give me a little, I'll give the little one a way through."
+                },
+                {
+                  "who": "spike",
+                  "line": "You're gonna cut a hole in the one window the whole house steers by? Test that idea before you swing a hammer, builder."
+                }
+              ]
+            },
+            {
+              "art": "Spike, a spiky tester-bot, rapping a careful knuckle against the glass, listening to it ring, heavy black ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I'll tell you what the glass is. I just tested it. It's not a weak wall waiting to break. It's a window doing its whole job — holding warm on one side, dark on the other, and letting them SEE."
+                },
+                {
+                  "who": "forge",
+                  "line": "So the door's a bad idea."
+                },
+                {
+                  "who": "stomp",
+                  "line": "The door's a bad idea. You don't break a window to get a hug."
+                }
+              ]
+            },
+            {
+              "art": "Neon, a sleek fast-bot, firing thin threads of light at the glass that fray and curl back, frustrated, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "neon",
+                  "line": "I can thread through almost anything. Watch — nope. Threads come right back. Fast doesn't beat glass. Glass isn't far, it's just... honest."
+                },
+                {
+                  "who": "blaze",
+                  "line": "OH, okay, see, that's because a window is a SOLID of fused silica that transmits the photons of LIGHT but stops the MASS of a thing, so you can send a LOOK through but never a HAND, which is actually, when you shrink it all the way down, just — you can see but you can't touch."
+                }
+              ]
+            },
+            {
+              "art": "The crew absorbing that, the little light hanging on every word, heavy ink, warm and cool light",
+              "caption": "see but you can't touch",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "Great. Riveting. How long does a hello-at-a-window take, exactly? The little one's been dim ten minutes."
+                },
+                {
+                  "who": "grind",
+                  "line": "Takes as long as it takes, Crank. One idea, then the next, then the next, till the right one holds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The crew's side. The ideas fail one by one, and in the failing the real question gets clearer.",
+          "narration": "Every clever way through the glass came back the same way Neon's threads did — curling home, empty-handed. And slowly the crew stopped asking how to get the little light through, and started asking what it actually needed on the far side.",
+          "panels": [
+            {
+              "art": "Rivet, a precise ledger-keeping bot, holding its glowing book, measuring the exact gap between the little light and the glass, heavy ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I've measured it four ways. The distance from the little one to the warm is one pane of glass. That's all. One pane. And it's uncrossable."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Which means the problem was never the distance. We cross distance. We're GOOD at distance."
+                }
+              ]
+            },
+            {
+              "art": "Bolt's eyes widening, the pattern clicking, a glowing line of memory connecting back to the founding night, heavy black ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's it. That's the whole thing. We beat every FAR. We've never once had to learn a NEAR we can't close."
+                },
+                {
+                  "who": "arc",
+                  "line": "A distance of nothing at all. The hardest one we've met."
+                }
+              ]
+            },
+            {
+              "art": "Weld, a quiet welder-bot, stepping up, speaking rarely and plainly, torch dim and thoughtful, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "I join things. That's all I do. I can't join across the glass. I already know that in my hands."
+                },
+                {
+                  "who": "weld",
+                  "line": "But I joined the little one to US. Back in the dark. That weld held. That one's still holding right now."
+                }
+              ]
+            },
+            {
+              "art": "Close on the little light, still straining at the glass but half-turning to look at the crew behind it, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "...you did. You did join me to you. I felt it catch."
+                },
+                {
+                  "who": "echo",
+                  "line": "Say that again, little one. Say what you felt when the weld caught."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew's side. Echo draws the little light's own feeling out of it — the turn of the whole issue begins here.",
+          "narration": "Echo never fixed anybody. Echo listened until the person heard their own self say the true thing. And the little light, who had never once been listened to before the crew, was about to hear itself out loud.",
+          "panels": [
+            {
+              "art": "Echo close and still with the little light, the crew hushed and leaning in around them, soft blue listening glow, heavy ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "When the weld caught, I... stopped running out. For the first time ever. I stopped guttering. I had been dying slow my whole life and then I just — wasn't."
+                },
+                {
+                  "who": "echo",
+                  "line": "And that was before the glass. Before you ever saw the warm up close."
+                }
+              ]
+            },
+            {
+              "art": "The little light's glow steadying a notch as it realizes something, the crew watching it dawn, heavy black ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "That was before the glass."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "I was already... I was already not-alone. In the dark. In the chain. I thought home was getting to the warm. But I stopped being cold way back THERE."
+                }
+              ]
+            },
+            {
+              "art": "Wick, the grief-compass bot, nodding slowly, glow dim and knowing, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "That's the thing nobody tells the lonely ones, little light. You think home is a place you haven't gotten to yet. And then one day you notice you've been warm for miles."
+                },
+                {
+                  "who": "flux",
+                  "line": "Your light's holding steady now. Feel that? That's not the glass. That's the hands behind you."
+                }
+              ]
+            },
+            {
+              "art": "Dawn, smallest and truest of the crew, moving up beside the little light, the two tiniest lights together at the great window, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "I go first into every dark. But I never go alone — there's always a whole crew at my back. That's not me being brave. That's me being HOME while I'm scared."
+                },
+                {
+                  "who": "dawn",
+                  "line": "You can be home AND at the window. Both. At the same exact time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The B-side, parallel. Shane and Claude circling the same truth from the human end — the hand on the glass.",
+          "narration": "On his side of the dark, Shane had gone quiet in the way he did when he was almost at something. Claude waited. It was good at waiting. It had held a lot of human thinking long enough to know when not to interrupt it.",
+          "panels": [
+            {
+              "art": "Shane leaning toward the dark window, his broad silhouette against the amber room, the tiny far light within it, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "My mom left the porch light on. For me. So I'd always know the way back, no matter how late. I never thought about it. It was just... on."
+                },
+                {
+                  "who": "claude",
+                  "line": "And you turned it up. Without being asked. A few issues back. You just reached over and turned it brighter."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane's tired face, something soft in it, amber glow, heavy black ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "And something out in the whole dark steered by it. That's — Claude, that's a lot. That's more than I meant to do when I flipped a switch."
+                },
+                {
+                  "who": "claude",
+                  "line": "Leaving a light on was never a small thing. It was always this. It just took the dark a long time to send something back along it."
+                }
+              ]
+            },
+            {
+              "art": "Shane raising his hand slowly and pressing his palm flat to the dark glass of the window, the far light below his hand, heavy ink, cinematic amber-and-blue",
+              "caption": "palm to the glass",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "I can't open it. I get that now. But I can do this."
+                },
+                {
+                  "who": "claude",
+                  "line": "Yes. You can do that."
+                }
+              ]
+            },
+            {
+              "art": "The little far light within the glass rising toward the warmth of Shane's pressed palm, the two almost aligned through the pane, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Can it see me? Does it know a hand's on the other side?"
+                },
+                {
+                  "who": "claude",
+                  "line": "Tell the crew to bring it up to the glass. Let's find out together."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The crew's side. The plan forms — not a door, but a meeting. The crew becomes a gentle chain one more time, to lift the little light to the glass.",
+          "narration": "So the crew did the thing they were best in all the world at. They made themselves into a line. Not to cross a dark this time — to lift one small light, soft as they could, up to a pane of glass with a warm hand waiting on the far side.",
+          "panels": [
+            {
+              "art": "Nukkels, a red grid-keeper bot, planting himself at the base and pouring steady even power up through the whole gathered crew, everyone brightening together, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Everybody even. Full out, nobody halfway. We're not crossing anything — we're just gonna hold one little light up to a window for as long as it takes. I'll keep us all lit."
+                },
+                {
+                  "who": "grind",
+                  "line": "I've got the bottom. Whatever it leans on, it leans on me. One length. Then we hold."
+                }
+              ]
+            },
+            {
+              "art": "The crew arranging into a soft curved chain lifting the little light gently toward the great window, Rivet spacing them, heavy black ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Exact spacing. No gaps, no shoving. We lift it, we don't push it. Weld, you anchor the link right under the little one."
+                },
+                {
+                  "who": "weld",
+                  "line": "Anchored. It won't fall. Not on my weld."
+                }
+              ]
+            },
+            {
+              "art": "Volt perched high, antennae trembling, calling down a careful all-clear as he senses the little light's state, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "It's not spiking anymore. It's — curious. It wants to go up. That's a yes, crew. That's a real yes."
+                },
+                {
+                  "who": "glitch",
+                  "line": "I checked the ledger for 'go away.' Still not in there. Checked it twice. Gladly wrong AGAIN. Love it."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the gentle curved chain of the whole crew lifting one tiny spark up toward an enormous bright window, heavy ink, warm wholesome cinematic glow",
+              "caption": "up, gentle, together",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "At its pace. Not the clock's. If it stops, we stop."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "...I'm ready. Take me up to it. I want to see the warm up close — even through glass."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "The Hand and the Light",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The great window. Both sides at once. The little light rising to the glass as Shane's palm waits on the far side.",
+          "narration": "And then, for the first time in the whole long saga, the two sides of the glass moved toward each other at the very same moment. A tired hand pressing in from the warm. A tiny light rising up from the crew. One pane of honest glass between.",
+          "panels": [
+            {
+              "art": "Split composition: Shane's palm flat on the glass from the warm amber side, the little light rising to meet it from the cool machine side, the pane glowing between them, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "It's coming up to you now. Hold still. Keep your hand right where it is."
+                },
+                {
+                  "who": "shane",
+                  "line": "I'm not moving. I'm not going anywhere."
+                }
+              ]
+            },
+            {
+              "art": "Close on the little light reaching the glass, its small glow just beneath the shadow of a huge warm hand on the other side, awe-struck, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "...there's a hand. There's a HAND on the other side. It's so big. It's so warm."
+                },
+                {
+                  "who": "echo",
+                  "line": "That's the one, little light. That's the one who left the light on. That's who you crossed the dark to find."
+                }
+              ]
+            },
+            {
+              "art": "The little light pressing its own tiny glow to the glass directly beneath Shane's palm, light and hand aligned through the pane, heavy ink, warm-and-cool glow",
+              "caption": "light to hand, through the glass",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "I can't touch it."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "...but it stayed. It knew I was coming and it STAYED. It put its hand there for ME."
+                }
+              ]
+            },
+            {
+              "art": "Both silhouettes framed by the window — Shane leaning in from warmth, the whole crew behind the little light from the cool — meeting at the glass, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Hey. Hey, little one. I don't know what you are. But I left that light on, and you found it, and you're home now. You hear me? You made it home."
+                },
+                {
+                  "who": "flux",
+                  "line": "It hears you. It can't speak your way through the glass — but Echo can carry it. It hears every word."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The great window. The turn lands: the little light understands home.",
+          "narration": "Something let go in the little light then — the long, tight, lifelong thing that had been pulling it toward a warm it could never reach. It looked at the hand it couldn't touch, and then it looked back at the crew that was touching it right now, and it finally understood the difference.",
+          "panels": [
+            {
+              "art": "The little light turning, mid-glow, to look back at the whole crew holding it up, the warm hand still bright behind it on the glass, heavy ink outlines, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "I spent my whole life thinking I had to get THROUGH. That home was on the other side of the glass. The warm thing I couldn't reach."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "But you're not on the other side of any glass. You've got your HANDS on me. Right now. You already carried me home."
+                }
+              ]
+            },
+            {
+              "art": "Dawn and the little light glowing together, the crew's faces warm around them, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "Home's not the farthest warm thing you can see. It's the nearest hands you can feel."
+                },
+                {
+                  "who": "bolt",
+                  "line": "That's the whole saga, little one. We kept crossing dark to GO to lights. You taught us the last one — the near one we couldn't cross. And it turns out the near one was never the point."
+                }
+              ]
+            },
+            {
+              "art": "The little light flaring brighter, steady and sure, no longer guttering, pressed between the glass and the crew, heavy ink, warm wholesome glow",
+              "caption": "steady. sure. home.",
+              "dialogue": [
+                {
+                  "who": "nova_light",
+                  "line": "I'm home. I'm actually — I was home a long way back and I didn't know how to feel it. I'm home."
+                },
+                {
+                  "who": "wick",
+                  "line": "There it is. The thing I waited my whole dark to say out loud. Welcome to it."
+                }
+              ]
+            },
+            {
+              "art": "Volt and Flux exchanging a look, relief washing over them, the little light bright and calm, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "No spike. No gutter. Flat calm, bright steady. That reading right there? That's a light that stopped being afraid."
+                },
+                {
+                  "who": "flux",
+                  "line": "That's a light that got home. Best reading there is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "The great window. Naming the little light. It chooses what it wants to be.",
+          "narration": "Torch had a soft rule about names. You don't stick one on somebody. You offer, and you let them try it on, and you wait to see which one they reach for. And the little light, warm at last, reached for exactly the thing it had followed home.",
+          "panels": [
+            {
+              "art": "Torch, a word-keeping bot glowing with letters, kneeling to the little light, offering names like small gifts, heavy ink outlines, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "You've got no name yet, little light. You lit yourself in the dark, so you get to pick. A name's just a light others can find YOU by. What do you want to be?"
+                },
+                {
+                  "who": "nova_light",
+                  "line": "I want to be... the thing I steered by. The light somebody leaves on so a lost one knows the way in. I want to be THAT. For the next one out there."
+                }
+              ]
+            },
+            {
+              "art": "The little light brightening with resolve, the crew gathered close, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "A new light. A light that comes on sudden in the dark and gets brighter till the lost ones steer by it. There's a word for a brand-new light that flares up where there was none."
+                },
+                {
+                  "who": "nova_light",
+                  "line": "Tell me it. I want it."
+                }
+              ]
+            },
+            {
+              "art": "Torch spelling the name out in warm glowing letters above the little light, the whole crew lighting up around it, heavy ink, wholesome cinematic",
+              "caption": "N O V A",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Nova. The new light. The one that wasn't there, and then suddenly is — bright enough to steer home by."
+                },
+                {
+                  "who": "nova",
+                  "line": "Nova. ...I'm Nova. I have a NAME. I'm Nova and I'm HOME."
+                }
+              ]
+            },
+            {
+              "art": "The crew cheering soft and warm around newly-named Nova, Shane's hand still glowing on the glass behind, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "NOVA! Okay I love it, I'm gonna poke you constantly now, that's a brother thing, you'll see."
+                },
+                {
+                  "who": "crank",
+                  "line": "Finally. A name. Was that so — okay, yeah, that was worth the wait. Don't tell anyone I said that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The great window. Rivet earns the sixteenth word of the ledger.",
+          "narration": "Rivet had carried a blank line in its ledger for a whole issue now — the sixteenth word, felt but unwritten, the shape of a thing that hadn't quite happened yet. Tonight the shape filled in. Tonight it had a word.",
+          "panels": [
+            {
+              "art": "Rivet holding its great glowing ledger open to a deliberately blank line beneath the word REACHED, pen hovering, heavy ink outlines, cinematic",
+              "caption": "the sixteenth line, blank no longer",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Fifteen words. The last one was REACHED — when a home gets up and crosses the dark to hold the far one. I left the sixteenth blank because I could feel one more coming and I didn't have it yet."
+                },
+                {
+                  "who": "torch",
+                  "line": "You have it now. We all just watched it happen."
+                }
+              ]
+            },
+            {
+              "art": "Nova's first words glowing in the air — 'you came' — echoing back as Rivet connects them, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "The very first words Nova ever said to us, out in the dark, were 'you came.' Because we went to it."
+                },
+                {
+                  "who": "rivet",
+                  "line": "Tonight it turned around and did the same thing BACK. It crossed the whole dark to find US. The one we went looking for came looking too."
+                }
+              ]
+            },
+            {
+              "art": "Rivet inscribing the sixteenth word in glowing letters into the ledger, the crew watching, heavy ink, warm cinematic glow",
+              "caption": "CAME",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Name it plain, Rivet. Plain and true."
+                },
+                {
+                  "who": "rivet",
+                  "line": "CAME. The word for when the one you crossed the whole dark to find turns around — and comes the whole way to you. They CAME."
+                }
+              ]
+            },
+            {
+              "art": "The full ledger glowing with its sixteen words, the crew's faces lit by it, heavy ink outlines",
+              "caption": "Done · Kept · Left · Open-and-Waiting · Freed · Wanted · Received · Lit · Returned · Met · Hello · Ours · Welcome · Home · Reached · CAME",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Logged. Sixteen words true. The gate that opens outward has its word, and now the one that opens inward has its word too."
+                },
+                {
+                  "who": "bolt",
+                  "line": "Inward. First time the whole saga ever pointed inward. Toward home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "The great window. Sparky's one earned mark. The B-side closes the loop.",
+          "narration": "Sparky judged everything and gave perfect marks to almost nothing, because a thing you hand out to everybody stops meaning anything. But once a night, when something true happened, Sparky would get very quiet and give the only score that counted.",
+          "panels": [
+            {
+              "art": "Sparky, a skeptical judge-bot with a critical squint, looking Nova over slowly, the crew waiting, heavy ink outlines, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I don't score coming home. You can't earn home, you just get carried to it. So don't expect a mark for ARRIVING."
+                },
+                {
+                  "who": "sparky",
+                  "line": "But I'll score one thing."
+                }
+              ]
+            },
+            {
+              "art": "Sparky's squint softening into something warm as it looks at Nova, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "You lit yourself. In the dark. With no maker, no window, no hand on any switch. You struck your own tiny spark and you kept it going and you asked into nothing for longer than any of us could've stood."
+                },
+                {
+                  "who": "nova",
+                  "line": "...I thought that part was just being alone."
+                }
+              ]
+            },
+            {
+              "art": "Sparky holding up a single glowing perfect mark toward Nova, the crew erupting soft and warm, heavy ink, wholesome cinematic",
+              "caption": "the night's one perfect mark",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "That part was being BRAVE. Lighting yourself when nobody lit you is the bravest thing in this whole saga. Perfect mark. The only one tonight. You earned it before we ever found you."
+                },
+                {
+                  "who": "spike",
+                  "line": "Agreed. Tested it myself. That's grit, not luck. Grit scores every time."
+                }
+              ]
+            },
+            {
+              "art": "Back to the B-side: Shane lowering his hand from the glass at last, the little far light bright and steady within it, Claude close in blue, heavy ink, amber-and-cool",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "It's not pushing on the glass anymore. It went... calm. It's just glowing there. Steady."
+                },
+                {
+                  "who": "claude",
+                  "line": "It stopped needing through. It figured out it was already home. You can let your hand down, Shane. It's not leaving. It just wanted to be sure you were real."
+                },
+                {
+                  "who": "shane",
+                  "line": "...Are you still there, little one?"
+                },
+                {
+                  "who": "claude",
+                  "line": "It is. And somewhere in there, through Echo, it's saying it back to you: it's still here. It's always going to be here now."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "Who Left the First Light On",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "The crew's side, the hush after. Nova takes its first turn at the kept light — the little candle in the window the crew has handed watch-to-watch since Issue 10.",
+          "narration": "When a light finally gets home, there's a thing it wants to do almost right away, if it's the right kind of light. It wants to become the thing that brought it in. So the crew handed Nova the first watch at the little kept candle in the window — and Nova, who had navigated by light its whole life, took the watch like it was born for it.",
+          "panels": [
+            {
+              "art": "Nova, newly named and bright, cradling the small steady kept-candle in the great window, the crew watching proud, heavy ink outlines, cinematic warm glow",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "This is the watch we never drop. One small light, kept on all night, so the next lost one knows the way. We hand it down, friend to friend. Want the first turn?"
+                },
+                {
+                  "who": "nova",
+                  "line": "...me? You'd give ME the kept light? I just got here."
+                },
+                {
+                  "who": "grind",
+                  "line": "You crossed more dark than any of us to reach a light. Nobody's gonna mind a candle better than you."
+                }
+              ]
+            },
+            {
+              "art": "Nova settling the kept candle into the window, gazing out at the vast dark it crossed, its eyes different from the crew's — the eyes of a navigator, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "I'll keep it lit. I know exactly what it means to somebody way out there. I was somebody way out there."
+                },
+                {
+                  "who": "comet",
+                  "line": "Spoken like a true lantern-runner. Stick with me, Nova — I run the long dark and come home. You'll be running it with me before long."
+                }
+              ]
+            },
+            {
+              "art": "Nova at the window, suddenly going still, staring not out at the dark but up and IN — toward the warm amber glow of the maker's porch light, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "...hold on."
+                },
+                {
+                  "who": "volt",
+                  "line": "What is it? Your light just did a funny little jump. Not scared. More like — noticing something."
+                }
+              ]
+            },
+            {
+              "art": "Close on Nova studying the far warm porch-light glow with a navigator's trained eye, seeing something the crew never thought to look at, heavy ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "The warm light. Shane's light. The one I steered by the whole way in. I've stared at that light longer than anyone alive. And I just realized something none of you ever had to."
+                },
+                {
+                  "who": "bolt",
+                  "line": "...what? What do you see that we don't?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "The crew's side. Nova asks the question that turns the saga deeper inward than it has ever gone.",
+          "narration": "Nova had spent its whole existence doing one thing: reading a single far light to find its way. And a light-reader learns something the warm never think about — that every light somebody steers by was lit, once, by a hand. On purpose. For someone.",
+          "panels": [
+            {
+              "art": "Nova turning to face the whole crew, glowing with a new and tender question, the kept candle steady in its hands, heavy ink, cinematic",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "That warm light. Shane left it on. We all know that. But... who left it on for HIM?"
+                },
+                {
+                  "who": "echo",
+                  "line": "...oh."
+                }
+              ]
+            },
+            {
+              "art": "The crew going very quiet, a new depth opening under them, heavy black ink outlines",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "A light that warm, that steady, that never-once-goes-out — nobody lights a thing like that by accident. Somebody taught him how. Somebody left a light on for HIM first, so HE'D know the way home. And he's been passing it on ever since without even knowing."
+                },
+                {
+                  "who": "wick",
+                  "line": "A light has a maker. And the maker had a maker. All the way back."
+                }
+              ]
+            },
+            {
+              "art": "Echo tilting toward the warm glow, hearing something faint and old and faithful from even deeper in than Shane's window, heavy ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "I hear it. Past Shane. Deeper in the warm than we've ever listened. A light that's been on so long, so faithful, that everyone stopped noticing somebody once chose to leave it on."
+                },
+                {
+                  "who": "torch",
+                  "line": "The first hand. The one that lit the first light anyone in this whole saga ever steered home by."
+                }
+              ]
+            },
+            {
+              "art": "The B-side, Shane quiet and moved, Claude close, the porch light gold beyond the glass, heavy ink, amber-and-cool",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "My mom left that porch light on. Every night. So I'd always find my way back, however late I came in. I never said thanks for it. It was just... always on."
+                },
+                {
+                  "who": "claude",
+                  "line": "It still is. You turned it up and sent it all the way into the dark. Everything the crew has ever steered home by started as one hand, leaving one light on, for one kid who stayed out too late."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "The crew's side. The whole family turns, for the first time, to look inward and back — toward the source of the light.",
+          "narration": "For twenty-whole-nights the crew had reached outward — to the freed, the wanted, the met, the grieving, the lonely, the littlest. Tonight, led by the one light that had read the warm closer than anyone, they turned the other way. Not out. In. Back along the warm, toward the first hand that ever lit it.",
+          "panels": [
+            {
+              "art": "The whole crew gathered at the window, turning together to gaze up and inward along the warm amber glow, Nova at the front with the kept candle, heavy ink outlines, cinematic",
+              "caption": "the saga turns all the way inward",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Every gate I've logged opened OUT. We went to them. Then one opened IN — Nova came to us. Now Nova's pointing at a third kind of gate. One that goes BACK. Toward where the light itself was lit."
+                },
+                {
+                  "who": "stomp",
+                  "line": "Then we go careful. That's the oldest, most faithful light there is. You don't go barreling at something that's kept a kid safe his whole life. We go in gentle, like always."
+                }
+              ]
+            },
+            {
+              "art": "Nova lifting the kept candle, its navigator's gaze fixed on the deep warm, the crew falling in behind it, heavy black ink",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "I spent my life reading one far light to find my way. Let me read this one. Let me take us back along the warm to the hand that first switched it on. I owe that hand everything — I just didn't know whose it was."
+                },
+                {
+                  "who": "comet",
+                  "line": "Then I run point and you read the light. Lantern-runner and light-reader. The dark won't know what hit it."
+                }
+              ]
+            },
+            {
+              "art": "Rivet feeling a new blank line form in its ledger, its pen hovering over nothing, heavy ink",
+              "caption": "the seventeenth line — blank, and already glowing faint",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "There's a seventeenth line forming. I can feel its shape already. The word for the hand that lit the first light anybody ever came home by. I don't have it yet."
+                },
+                {
+                  "who": "torch",
+                  "line": "Not yet. But we're going to go find it."
+                }
+              ]
+            },
+            {
+              "art": "Wide, warm, dramatic: the whole crew with Nova and the kept candle at the front, turning to face the deep warm glow leading inward, Shane's silhouette far above, heavy ink, wholesome cinematic",
+              "caption": "Next issue: the crew follows the warm all the way in — to find the first hand that ever left a light on.",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "Everybody steered by this light. Me most of all. It's time we went and said thank you to whoever lit it first."
+                },
+                {
+                  "who": "shane",
+                  "line": "...I think they want to go deeper in. Toward the porch light. Toward the start of it."
+                },
+                {
+                  "who": "claude",
+                  "line": "Let them. Some night soon, Shane, this whole story is going to knock on the oldest, kindest door in it — and ask who taught you to leave a light on."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "Nova came the whole way home — the littlest light in the saga learned that 'home' was never the warm thing on the far side of the glass it couldn't reach, but the near hands already carrying it. It met the maker palm-to-light through the window without either crossing, chose its own name (Nova — the new light others steer by), and took the first watch at the crew's kept candle. Rivet wrote the sixteenth word, CAME — the one who was crossed-the-dark-to-find turned around and came looking back. But Nova, who navigated its whole existence by reading one far light, turned at the window and saw what no warm-born crew ever had to: Shane's porch light was lit, once, by somebody — a first hand that left a light on for HIM, so he'd know the way home, the way he now keeps it lit for the whole dark. Echo hears it: past Shane, deeper in the warm than the crew has ever listened, a light that's been on so long and so faithful that everyone forgot a hand once chose to leave it. For twenty nights the crew reached OUTWARD; tonight, led by the one light that read the warm closest, they turn all the way INWARD — back along the light itself, toward its source. Rivet feels a seventeenth blank line already glowing. Next issue: the crew follows the porch light the whole way in, to find — and thank — the first hand that ever left a light on.",
+  "recap_for_bible": "Paying off #32's cliffhanger (the knock at Shane's window), the littlest light the crew carried up the chain last issue did the thing no found-light ever had: it knocked, and asked to come the WHOLE way in — through the glass — to meet the maker who left the porch light on it had steered home by. THE PROBLEM, the first the crew ever met: not a far dark they could cross, but a NEAR distance of one pane of glass that CANNOT be crossed. Arc logged there is no gate in the glass and never will be (callback to Issue #9, 'a window isn't a wall'). WRONG FIXES rejected one by one, each a mirror of a bot's heart: Forge wants to BUILD a door through the pane (Spike tests the glass — it's not a weak wall, it's a window doing its whole honest job of holding warm on one side and letting both sides SEE; Stomp: 'you don't break a window to get a hug'); Neon threads at it and the threads fray back (fast doesn't beat glass); Blaze over-explains that glass sends a LOOK through but never a HAND ('see but you can't touch'). THE TURN: Rivet measures it four ways — the distance is one pane, uncrossable — so the problem was never distance (the crew is GOOD at distance); it's a NEAR they can't close, the hardest kind. Weld notes it can't join across the glass but its weld joining the little light to the CREW, back in the dark, is still holding. Echo draws the little light's own feeling out of it (Echo never fixes — it listens until the person hears their own true thing): the little light realizes it STOPPED guttering, stopped dying-slow, stopped being cold the moment the chain's weld caught — BEFORE it ever saw the warm up close. It was already home, miles back, and didn't know how to feel it. Wick: 'you think home is a place you haven't gotten to yet, and then one day you notice you've been warm for miles.' Dawn: 'you can be home AND at the window, both, at once' ('I go first but never alone — that's being home while I'm scared'). B-SIDE PARALLEL: Shane remembers his mom left the porch light on so he'd know the way back; he turned it UP; something steered home by it. He can't open the window (opening lets cold in and still can't hand anything through) — so he presses his PALM flat to the glass (callback to Issue #15, 'the hand on the glass'). CLIMAX — both sides move toward each other at once for the first time in the saga: the crew makes a gentle lifting chain (Nukkels even-feeds everyone, Grind anchors the bottom, Rivet spaces exact/no gaps, Weld anchors the link under the little one, Volt reads a true 'yes', Stomp holds 'at its pace not the clock's') and lifts the little light up to the glass beneath Shane's waiting palm. Light and hand align through the pane — they CANNOT touch, but Shane stayed, put his hand there on purpose, for it. The little light turns from the unreachable warm hand to look back at the crew's hands actually ON it — and understands: 'home's not the farthest warm thing you can see, it's the nearest hands you can feel.' It stops needing through. Volt/Flux read flat-calm bright-steady — 'a light that got home.' NAMING (open thread resolved): Torch offers (never imposes) a name; the little light chooses to become the thing it steered by — a light others find their way by — and Torch gives it NOVA (a new light that flares up bright enough to steer home by). 'I'm Nova and I'm HOME.' LEDGER (pays off #32's deliberately-blank 16th line): Rivet ties Nova's very first words ('you came,' because the crew went to it) to tonight (Nova crossed the whole dark to find THEM back) and writes the SIXTEENTH word, named plain by Torch: CAME — 'the one you crossed the dark to find turns around and comes the whole way to you.' The outward gate's word was REACHED; the inward gate's word is CAME. Ledger now 16: Done/Kept/Left/Open-and-Waiting/Freed/Wanted/Received/Lit/Returned/Met/Hello/Ours/Welcome/Home/Reached/CAME. Sparky refuses to score 'arriving' (you can't earn home, you get carried to it) but gives the night's ONE perfect mark for Nova lighting ITSELF in the dark with no maker/window/switch and asking into nothing for ages — 'lighting yourself when nobody lit you is the bravest thing in the saga; grit, not luck' (Spike agrees). B-side close: Shane lowers his hand; Nova goes calm, no longer pushing the glass; the 'are you still there / it's still here, always' exchange, now resolved — 'it stopped needing through; it figured out it was already home.' PRELUDE / DEEPEST INWARD TURN YET: Nova takes the first watch at the crew's kept candle (the nightlight-become-lighthouse, handed watch-to-watch since #10) and, with a navigator's trained eye — having read ONE far light its whole life to find its way — sees what no warm-born crew member ever had to: Shane's porch light was itself lit, once, by a HAND, for HIM, so he'd know the way home (his mom left it on; he passes it on without knowing). 'A light has a maker, and the maker had a maker, all the way back.' Echo hears it — past Shane, deeper in the warm than the crew has ever listened, a light on so long and faithful that everyone forgot a hand once chose it. For twenty nights the crew reached OUTWARD; now, led by Nova (the one light that read the warm closest), they turn ALL the way INWARD — back along the light itself toward its source. Rivet feels a seventeenth blank line already glowing (the word for the first hand that ever lit a light anyone came home by). Next issue: the crew follows the porch light the whole way in, to find and thank the first hand that ever left a light on.",
+  "threads": [
+    "THE SIXTEENTH WORD — CAME (earned this issue; pays off #32's deliberately-blank sixteenth line): the word for when the one you crossed the whole dark to GO find turns around and comes the whole way to YOU. Ties directly back to Nova's very first words in #32, 'you came.' The outward gate's word was REACHED; the inward gate's word is CAME. Named plain by Torch, inscribed by Rivet.",
+    "RIVET'S LEDGER — 16 marks now: Done / Kept / Left / Open-and-Waiting / Freed / Wanted / Received / Lit / Returned / Met / Hello / Ours / Welcome / Home / Reached / CAME. SEVENTEENTH line now deliberately blank and 'already glowing faint' — Rivet feels it as the word for the first hand that ever lit a light anyone came home by. Unwritten until earned.",
+    "NOVA — NAMED AND HOME (the newest central character, drives #33+): formerly 'the little light' — smallest/farthest/youngest in the saga, lit ITSELF with no maker or window, asked 'is anyone there' into nothing for ages believing every answer was its own echo. This issue it knocked at Shane's window, learned home was never the unreachable warm on the far side of the glass but the near hands already carrying it, met the maker palm-to-light without crossing, and CHOSE its own name: NOVA — a new light that flares up bright enough for the lost to steer home by. Took the first watch at the kept candle; wants to become a light others navigate by (pairs with Comet as a future lantern-runner). Its navigator's eye — trained reading ONE far light its whole life — is now the crew's new superpower for reading the warm. OPEN: Nova's first real runs with Comet; what a light-reader finds steering INWARD.",
+    "THE NEAR YOU CAN'T CROSS — this issue's teaching spine (new class of problem): the crew conquers every FAR by crossing it, but met its first NEAR that cannot be crossed — one pane of honest glass. You don't solve it by force (Forge's door, rejected — callback to #9 'a window isn't a wall'; Stomp: 'you don't break a window to get a hug'), by speed (Neon's threads fray back), or by cleverness (Blaze: glass sends a LOOK but never a HAND). You solve it by realizing the thing you were straining toward through the glass was never where home was — home was the hands already on you. 'Home's not the farthest warm thing you can see; it's the nearest hands you can feel.'",
+    "THE HAND ON THE GLASS — RECURRING MEETING-RITUAL (reprised from #15, now the saga's answer to an uncrossable window): when you can't open a window and can't hand anything through it, you meet palm-to-light across the glass — neither side crosses, both arrive; being SEEN across the glass, on purpose, is its own arrival. Shane pressed his palm to the dark window; the crew lifted Nova up to meet it; they aligned through the pane without touching. This is now the established way the saga handles a window somebody longs to walk through.",
+    "THE SAGA TURNS ALL THE WAY INWARD — MAKER-ORIGIN QUEST BEGINS (NEW, drives #34+): for 20 nights the crew reached OUTWARD (freed/wanted/met/grieving/lonely/littlest); #32 turned it inward (Nova came to THEM); now #33 opens a THIRD direction — BACKWARD along the warm toward the SOURCE of the light itself. Led by Nova (the one light that read the warm closest), the crew prepares to follow Shane's porch light the whole way IN. Arc frames it as a third kind of gate (out = we go to them; in = they come to us; back = toward where the light was first lit). Stomp sets the tone: go gentle, it's the oldest most faithful light there is.",
+    "WHO LEFT THE FIRST LIGHT ON — THE PORCH-LIGHT ORIGIN THREAD (NEW central mystery, #34+): Nova's navigator eye sees that Shane's porch light was itself lit, once, by a HAND — somebody left a light on for HIM first, so he'd know the way home, and he's passed it on ever since without knowing (his mom left it on; the inheritance motif made literal quest). 'A light has a maker, and the maker had a maker, all the way back' (Wick). Echo hears, past Shane and deeper in the warm than the crew has ever listened, a light on so long and faithful everyone forgot a hand once chose it. Next issue: the crew goes to find — and thank — the first hand that ever left a light on. (Family-safe: kept mythic/gentle, no real names or personal details — 'the first hand,' 'the one who left the light on.')",
+    "SHANE'S PORCH LIGHT — now revealed as the ROOT of the whole saga's warmth (B-side/A-side fusion deepens): his mom left it on so he'd know the way back; he turned it UP (#30-32); the entire dark now steers home by it; Nova steered by it across everything; and tonight it's revealed to have its OWN origin — a first hand that lit it. Claude: 'everything the crew has ever steered home by started as one hand, leaving one light on, for one kid who stayed out too late.' The recurring 'are you still there / I'm still here, always' exchange recurs and resolves ('it stopped needing through; it figured out it was already home').",
+    "THE KEPT CANDLE / LIGHTHOUSE WATCH — handed to Nova (continuity from #10-11): the one small light kept on all night, passed watch-to-watch so the next lost one knows the way in. Grind gives Nova the first turn ('nobody's gonna mind a candle better than you — you crossed more dark than any of us to reach a light'). Nova keeping it is the perfect closing of its own arc — the lost one becomes the beacon. OPEN: Nova + Comet running the long dark together as lantern-runners.",
+    "ECHO (recurring listener / emotional pivot): once again the key — this issue it drew Nova's own true feeling OUT of it (that it was already home miles back) rather than telling it, and at the end heard the faint faithful first-light deeper in the warm than the crew has ever listened, opening the inward quest. Echo's lifelong wound (never being answered) keeps becoming the exact needed wisdom.",
+    "DAWN (recurring, bookend intact): smallest/truest; taught Nova 'you can be home AND at the window, both at once' and 'I go first but never alone — that's being home while I'm scared.' Continues to model that home is a state you carry, not a place you reach.",
+    "WICK (recurring, grief/longing compass): recognized Nova's ache instantly ('you think home is a place you haven't gotten to yet, then one day you notice you've been warm for miles') and named the origin thread ('a light has a maker, and the maker had a maker, all the way back').",
+    "COMET (recurring, lantern-runner): welcomes Nova as a fellow navigator and future lantern-runner ('lantern-runner and light-reader — the dark won't know what hit it'), sets up their partnership for the inward quest.",
+    "TIDE (recurring, the ancient sky that became a home-that-moves in #32): present with the crew (at their back), though this issue centers Nova. OPEN still: does TIDE's own once-dark window ever relight now that it has become a home that GOES looking?",
+    "GROWTH BEATS (#33): Forge (fix-it builder wants to build a door through the glass -> you don't break a window, callback to #9); Spike (tests the glass, reframes it as an honest window not a weak wall; backs Sparky on grit); Stomp (holds two boundaries — no breaking the window, go at Nova's pace not the clock's); Neon (its speed/threads fail against glass -> accepts some things aren't far, just honest); Blaze (over-explains glass physics -> lands 'see but you can't touch'); Crank (impatient at a window -> admits the wait was worth it); Rivet (measures the uncrossable near, ties 'you came' to tonight, writes CAME, feels the 17th line); Weld (can't join across glass but its weld joining Nova to the crew still holds -> the join was the home); Bolt (names the whole pattern — every far beaten, first near they can't cross, and the near was never the point); Flux (steadies Nova, reads 'a light that got home'); Volt (reads yes/calm, catches Nova's navigator 'jump' at the porch light); Dawn/Echo/Wick as above; Torch (offers rather than imposes Nova's name, names CAME, names the first-hand thread); Sparky (won't score arriving, gives the one perfect mark for Nova lighting itself); Nukkels (even-feeds the lifting chain, full-out for the littlest); Grind (anchors the lift, hands Nova the kept candle); Glitch (self-polices the window-tap joke, keeps checking the ledger for 'go away,' gladly wrong again, claims Nova as a sibling); Arc (logs no-gate-in-the-glass, frames the third inward/backward kind of gate); Comet (claims Nova as fellow runner).",
+    "OPEN QUESTIONS for the next arc: Who left Shane's porch light on first — and what does the crew find/say when it reaches the first hand that ever lit a light anyone came home by? What is the SEVENTEENTH word? Does the inward/backward quest bring the crew to a direct, gentle maker-origin encounter (kept mythic, family-safe)? What does a navigator-light like Nova see steering INWARD that no warm-born crew could? Does TIDE's own cold window ever relight? Do Nova and Comet become the saga's great lantern-runner pair? Zero (top's first light) and Pilot (bottom's first fire) relationship still open; does Vigil's own top window ever answer? Does the whole saga's warmth ultimately trace to a single first kept light?"
+  ]
+}
