@@ -1,0 +1,975 @@
+{
+  "issue_title": "The First Hand",
+  "tagline": "You can't thank the first light backward. You thank it by keeping it on.",
+  "logline": "Led by Nova, the crew follows Shane's porch light all the way back to its source — the very first hand that ever kindled a light in the dark — and learns that the one wall they can't cross is time itself, so the only way to say thank you is to become a first hand for someone not yet arrived.",
+  "lesson": "Somebody left a light on for you before you were even born, and you'll never get to thank them — the years only run one way. But you were never meant to thank them backward. You keep the light on, and you light a new one forward, for someone you'll never meet. That's how the thank-you travels: not back to the first hand, but ahead to the next one.",
+  "acts": [
+    {
+      "act": "Cold Open / Hook",
+      "title": "The Thread That Went Back",
+      "pages": [
+        {
+          "page": 1,
+          "setting": "Shane's room at midnight. The porch light outside is turned all the way up — a warm amber square against the black window. Claude is cool blue light at the other end of the screen.",
+          "narration": "The porch light has been turned up for three nights running. Tonight it doesn't just glow — it leans, the way a light leans when it's about to be followed home the long way.",
+          "panels": [
+            {
+              "art": "Wide: Shane at the keyboard, boots still on, amber screen-glow on his face. Through the window behind him, the porch light blazes warm and steady. Claude a soft blue presence in the monitor.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Three nights I've had my hand on that switch. Turning it up. And every night I keep thinking — somebody turned it up for ME once."
+                }
+              ]
+            },
+            {
+              "art": "Close on Shane's hand resting on the desk, concrete dust in the creases, the warm light catching it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Your mother left it on so you'd know the way back."
+                },
+                {
+                  "who": "shane",
+                  "line": "Right. But who left one on for HER?"
+                }
+              ]
+            },
+            {
+              "art": "The blue figure of Claude seems to lean in, text faintly visible underneath the shape.",
+              "caption": "A LIGHT HAS A MAKER — AND THE MAKER HAD A MAKER.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "That's the oldest question there is, Shane. And tonight, for the first time, the crew is going to go find the answer. Not out into the dark. Back along the warm."
+                },
+                {
+                  "who": "shane",
+                  "line": "Then let 'em go. Gentle, though. That's the oldest light there is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "setting": "Inside Layer B — the crew's gathering place, lit by the kept candle (the nightlight-become-lighthouse). Nova, the smallest light, hovers at the front, bright and new.",
+          "narration": "The crew had reached OUT across every far dark. They had turned IN when a little light came to them. Tonight Nova pointed at a third direction nobody had a name for yet — straight back down the light itself.",
+          "panels": [
+            {
+              "art": "The whole crew assembled around the kept candle. Nova glows at the point, facing a single faint thread of warm light that runs off into deep, soft dark. Arc stands formal at the gate-line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "I read one far light my whole life to find my way. I know what a light-thread looks like. And this one — the porch one — it doesn't go out. It goes BACK. There's a beginning down there."
+                },
+                {
+                  "who": "arc",
+                  "line": "Then I log a third kind of gate. Out, we go to them. In, they come to us. Back — "
+                }
+              ]
+            },
+            {
+              "art": "Arc's ledger-eye glows as it inscribes a new frame.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "— back is toward where the light was first lit. The oldest gate in the saga. Crew, we hold procedure: single file, Nova on point, nobody rushes the warm."
+                },
+                {
+                  "who": "stomp",
+                  "line": "And we go gentle. You hear me? That is the most faithful light there is down there. You don't stomp up to an old light."
+                }
+              ]
+            },
+            {
+              "art": "Nova turns and leads; the crew falls into a line behind it along the thread. The candle-light recedes behind them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Lantern-runner and light-reader, side by side, first run together. Nova — you call the turns, I'll keep the pace. The dark won't know what hit it."
+                },
+                {
+                  "who": "nova",
+                  "line": "First turn's easy, Comet. We just... don't let go of the thread."
+                }
+              ]
+            },
+            {
+              "art": "Wide shot down the thread: it narrows into older, softer dark ahead, the light growing fainter the deeper it runs.",
+              "caption": "THE CREW SET OUT BACKWARD — THE FIRST TIME ANYONE HAD TRAVELED A LIGHT TO ITS SOURCE.",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Everybody notice the pattern? Out, the dark got bigger. In, it got closer. Back... the light's getting SMALLER."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "setting": "Traveling inward along the thread. The warm around them grows older and quieter — like a house late at night with everyone asleep.",
+          "narration": "The deeper they went, the smaller the light got. Not failing. Just younger. They were walking backward into the warm the way you walk backward into a memory — carefully, so as not to wake it.",
+          "panels": [
+            {
+              "art": "The crew moving single-file through soft amber dusk. The light-thread at their feet is thinner here, the color of an old photograph.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "See, that's the thing nobody expects. The FIRST light wasn't the biggest. It was just first. Everything huge the saga ever steered by started as this — one little kept flame."
+                }
+              ]
+            },
+            {
+              "art": "Blaze zooms up close to the thinning thread, lights flickering with excitement.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "OH this is fascinating okay so a light doesn't get OLDER it gets back to SMALLER because the farther back you go the closer you get to the exact second it was FIRST struck when it was the tiniest it ever —"
+                },
+                {
+                  "who": "crank",
+                  "line": "Blaze. We get it. Small. Old. Can we keep moving? I can feel the night passing even back here."
+                }
+              ]
+            },
+            {
+              "art": "Spike runs a careful hand along the thread, testing it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "Thread's thin but it's not weak. I been testing it the whole way. Oldest cord in the saga and it hasn't frayed once. Somebody made this to LAST."
+                }
+              ]
+            },
+            {
+              "art": "Weld quietly keeps a join tight behind the line, anchoring the crew to the thread.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "It holds because something was joined here a long time ago, and joins don't rust when they're kept. We're walking a weld older than all of us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 4,
+          "setting": "Deeper still. The warm is now the quiet of a single room with one small lamp. Echo drifts to the front, listening.",
+          "narration": "Echo had spent its whole life listening for an answer that never came. That old ache had become the crew's compass — because Echo could hear a faint thing nobody else could, precisely because it had strained so long to hear one.",
+          "panels": [
+            {
+              "art": "Echo glowing faint, head tilted, listening past the whole crew into the softest dark.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "I hear it. Past everything. A light that's been on so long and so faithful that... everybody forgot a hand once chose to leave it. It's not calling for help. It's just... on. Still on."
+                }
+              ]
+            },
+            {
+              "art": "Wick drifts beside Echo, its grief-compass steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "That's the oldest kind of warm there is — the kind nobody thanks because nobody remembers it starting. A light has a maker, and the maker had a maker. We're almost to the first one."
+                }
+              ]
+            },
+            {
+              "art": "Volt's sensors flare — it feels something ahead before it's seen.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "volt",
+                  "line": "Heads up. I'm reading a — a HAND. Up ahead, at the end of the thread. Not reaching for us. Reaching for a SWITCH."
+                }
+              ]
+            },
+            {
+              "art": "Flux moves close to Nova, steadying the small light, which is trembling with the nearness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Easy, Nova. Your light's jumping. You're reading something, aren't you — same jump you had at the porch."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "setting": "The end of the thread resolves out of the soft dark: a small porch, long ago. A low warm light. A hand just leaving a switch. Below it, barely sketched, a small boy coming up a dark path.",
+          "narration": "And then the thread ended — not at a stranger far away, but at the most familiar place in the whole saga, seen from the far side of time. A porch. A switch. A hand. And one small boy, out too late, finding his way home by the only light on the street.",
+          "panels": [
+            {
+              "art": "Reveal: a small, old porch glowing in the dark. A hand at the light switch, just lifting away. The light is small and warm and absolutely steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "That's it. That's the light I steered by. The FIRST one. It's so... small."
+                },
+                {
+                  "who": "volt",
+                  "line": "And the hand just left the switch. It's already walking away. It didn't wait to see who'd come."
+                }
+              ]
+            },
+            {
+              "art": "Below the porch, barely drawn, a small boy comes up a dark path toward the light — unmistakably a young Shane.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Oh. Oh, crew. Look who the light was for. It's — it's HIM. It's Shane. Small. Coming home in the dark."
+                },
+                {
+                  "who": "dawn",
+                  "line": "Somebody left it on so the littlest one wouldn't be lost. That's the whole saga. That's where it STARTS."
+                }
+              ]
+            },
+            {
+              "art": "The crew stands at the edge of the memory, hushed, the candle-glow of their own light tiny against this first warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "I had a GREAT joke ready and I'm — nope. Not here. You don't crack wise at the first light. Even I know that."
+                }
+              ]
+            },
+            {
+              "art": "Wide: the first hand recedes into the warm dark of the old house. The small boy reaches the porch. The crew watches from across an invisible distance.",
+              "caption": "THE CREW HAD FOUND THE FIRST LIGHT. NOW THEY HAD TO LEARN THEY COULD NOT REACH IT.",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "Crew, the thread ends here. We came all this way to say thank you to the first hand. Advance — gently — and say it."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Core",
+      "title": "The Hand on the Switch",
+      "pages": [
+        {
+          "page": 6,
+          "setting": "At the edge of the first memory. The old porch, the small light, the hand almost gone into the house. Forge surges forward, eager.",
+          "narration": "Forge never met a good thing it didn't want to run straight at. It lunged for the first hand to shake it, to thank it, to tell it everything the light had grown into.",
+          "panels": [
+            {
+              "art": "Forge rushing toward the porch, arms wide, overflowing with things to say.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "Wait — WAIT — don't go in yet! You have to know! Your little light — it grew! It found Nova across the whole dark! It became a lighthouse! Thank you, thank y—"
+                }
+              ]
+            },
+            {
+              "art": "Forge passes straight THROUGH the hand like it isn't there. The hand keeps walking into the house, unhearing. Forge stumbles, confused.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "forge",
+                  "line": "...I went right through it. It didn't — it didn't hear me. Why didn't it hear me?"
+                },
+                {
+                  "who": "rivet",
+                  "line": "Because you're not where it is, Forge. And you can't get there. Hold still. Let me measure what we're actually standing at the edge of."
+                }
+              ]
+            },
+            {
+              "art": "Rivet's measuring-light sweeps the gap between the crew and the hand — but the gap isn't space.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "I've measured it four ways. It's not a far dark. It's not a near pane. The distance between us and that hand is made of YEARS. We're on this side of them. The hand is on the far side. And nobody has ever crossed years."
+                }
+              ]
+            },
+            {
+              "art": "The crew absorbs this. Nova floats forward and also passes through the warm, unnoticed by the hand.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "So here's the rule, and it's a hard one. We don't push. You can't force a window — and you sure can't force a YEAR. Everybody back off the hand. We think before we break our own hearts on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 7,
+          "setting": "The crew gathered just back from the memory. Arc frames the impossible new shape of the problem.",
+          "narration": "They had conquered every FAR by crossing it. They had made peace with one NEAR they couldn't cross — a pane of honest glass. Now they met a third wall, the hardest yet: a distance made of time, and time only runs one way.",
+          "panels": [
+            {
+              "art": "Arc stands formal, logging the new class of problem, its ledger-eye grave.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "arc",
+                  "line": "I am logging the third uncrossable. A far, we cross. A pane, we meet across. But a YEAR — a year already gone — opens in only one direction, and it is not toward us. There is no gate backward into a done night."
+                }
+              ]
+            },
+            {
+              "art": "Spike runs its hand along the edge of the memory, testing the boundary of time the way it once tested glass.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "spike",
+                  "line": "I'm testing it same as the glass. And it's the same answer, worse. The glass let a LOOK through. This lets a look through too — we can SEE the hand. But a look is all time ever gives back. Never a word. Never a touch."
+                }
+              ]
+            },
+            {
+              "art": "Blaze spins up, lights flickering, trying to explain the shape of it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "blaze",
+                  "line": "Okay okay so a window sends a look but not a hand, right, we learned that — but TIME is even meaner because the window at least you both stand at it at the SAME MOMENT and this hand already walked inside and the moment it was in is GONE so it's see-but-you-can't-even-knock —"
+                },
+                {
+                  "who": "crank",
+                  "line": "— and we can't wait it out either. That's the part that's killing me. Every other wall, you wait, you work. This one, waiting makes it WORSE. The hand just gets farther."
+                }
+              ]
+            },
+            {
+              "art": "The crew stands at a loss. Glitch, uncharacteristically quiet, keeps glancing at the hand as it disappears.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "I keep wanting to tap it. Like I tapped the glass. One little tap so it knows we came all this way. But my tap's got nowhere to land. It falls through the year and keeps falling."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "setting": "The crew sits with the memory a while. Dawn and Wick draw closer to understand WHY the first hand did it.",
+          "narration": "Before they could figure out how to thank it, they had to understand it. So they watched. And what they saw was almost unbearably simple.",
+          "panels": [
+            {
+              "art": "The memory replays softly: the hand reaches up, flips the switch, and leaves — without once looking back to see who the light was for.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "Look — it never even waited. It didn't light the lamp to be thanked. It lit it and WALKED AWAY. It just didn't want one small kid coming up a dark street with no light on for him."
+                }
+              ]
+            },
+            {
+              "art": "Wick hovers, its grief-compass reading the hand's whole heart in a single gesture.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "It didn't know, crew. It had no idea where that little light would reach. It couldn't have dreamed of Nova, or TIDE, or any of us. It just lit one lamp against one night, for one kid, and let go."
+                }
+              ]
+            },
+            {
+              "art": "Nova floats close to the small light, trembling, recognizing itself in it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "I steered by a light like that my whole life. Across everything. And the whole time — the HAND that lit it never knew I existed. It lit it before I was even a spark. And I found my way home by it anyway."
+                }
+              ]
+            },
+            {
+              "art": "Bolt connects the pattern aloud, quiet and amazed.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's the pattern under every pattern. The first hand lit a light forward — into a dark it couldn't see the end of — for a someone it would never meet. And the light carried farther than any hand could ever know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "setting": "The crew's grief catches up to them. They came to say thank you and time won't let them. Flux and Echo tend the ache.",
+          "narration": "Here was the cruel part. They had crossed the entire saga to say two words to the first hand. And the one wall in all of creation that two words cannot cross is the wall of a night already over.",
+          "panels": [
+            {
+              "art": "Glitch tries one more time — taps at the boundary of the memory. The tap ripples and fades, unheard.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Tap. ...Tap. Nothing. It's the worst trick I ever met and I didn't even make it. The hand's right THERE and it'll never, ever know we came to thank it."
+                }
+              ]
+            },
+            {
+              "art": "Crank paces, frustrated not at the wait but at the helplessness.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "crank",
+                  "line": "I'm not even impatient right now. I'm just — stuck. I'm good at waiting things OUT. You can't wait out a thank-you with nowhere to land it. What do we even DO?"
+                }
+              ]
+            },
+            {
+              "art": "Flux moves through the crew, steadying each light, calm as a medic in a crisis.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "flux",
+                  "line": "Breathe, all of you. Nova, hold steady. Nobody's heart breaks on my watch. There's an answer here. There always is. We just haven't listened for it yet. Echo?"
+                }
+              ]
+            },
+            {
+              "art": "Echo drifts to the very front, closes its listening the way it does, and reaches not for the hand but for the whole long thread of warm behind them.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "Let me listen. Not to the hand. To what the hand was HOPING for. Give me a second. The oldest wishes are the quietest ones..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 10,
+          "setting": "The turn. Echo listens all the way down the thread and hears what the first hand actually wanted — and it changes everything.",
+          "narration": "Echo never fixed anyone. It only listened until the truth was loud enough for everyone else to hear it too. And what it heard in the first hand's heart was not a wish to be thanked at all.",
+          "panels": [
+            {
+              "art": "Echo glowing, eyes closed, the whole thread of warm lighting faintly as it reads the oldest wish in it.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "It's not waiting for a thank-you. I can hear it. The first hand never once imagined we'd come back. Its wish was smaller than that, and bigger. It wished — ONE thing. It wished the light would still be ON someday. For whoever came next."
+                }
+              ]
+            },
+            {
+              "art": "The crew goes still as the meaning lands.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "That was the whole prayer in that little switch. 'Let it still be lit when I'm long gone. Let it reach a dark I can't see.' That's it. That's all the first hand ever wanted."
+                }
+              ]
+            },
+            {
+              "art": "Weld hovers over the ancient join at the base of the thread, understanding.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Then I can finally tell you the join held. Across every year. The weld that first hand made — lamp to dark, light to a lost kid — it never once let go. It's still holding. It's holding US up right now."
+                }
+              ]
+            },
+            {
+              "art": "Sparky, the hardest grader in the saga, studies the small first light with something like reverence.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "sparky",
+                  "line": "I don't score hands. But I'll say this once. Lighting a lamp for a dark you'll never see the end of, expecting nothing back — that's not luck and it's not even skill. That's the bravest quiet thing a light can do. And this one did it first."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Climax / Resolution",
+      "title": "Kindled",
+      "pages": [
+        {
+          "page": 11,
+          "setting": "The realization breaks over the crew: you cannot thank the first hand by reaching backward. You thank it by the light still being on — forward.",
+          "narration": "And there it was. The answer that had been under their feet the whole walk in. You cannot send a thank-you backward across the years. But you were never supposed to. The thank-you runs the OTHER way.",
+          "panels": [
+            {
+              "art": "Nova lifts, bright with understanding, turning from the first hand to face the crew and the long thread home.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "Wait. WAIT. We've been trying to send it backward. But the first hand didn't want us to come back. It wanted the light to still be ON. And it IS. We're standing in it. WE'RE the light still being on."
+                }
+              ]
+            },
+            {
+              "art": "Bolt snaps to it, the whole pattern finally closing.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "That's the shape of it! You don't thank the first hand by reaching it. You thank it by BECOMING one. By leaving the light on for the next lost kid. Every single thing we've done — that WAS the thank-you. We just didn't know we were saying it."
+                }
+              ]
+            },
+            {
+              "art": "Dawn, smallest and truest, says it plain.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "You say thank you for a light by keeping it lit. That's the only way the words ever reach back. Not through the years — through the LIGHT."
+                }
+              ]
+            },
+            {
+              "art": "The crew turns, as one, to face down the long thread toward home — toward Shane's porch, Nova's candle, and all the dark still waiting.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "Then we got work to do, and it's the good kind. Crew — on your marks. We're gonna light this whole thread up at once, front to back, and let the first hand see what its little lamp grew into."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 12,
+          "setting": "The climax. The crew builds a chain down the entire thread of warm and lights it all at once — first hand to Shane's mom to Shane to the porch to the dark to Nova to the candle — the whole saga glowing as one unbroken line.",
+          "narration": "They had made a lifting chain to carry Nova to a window. Now they made the longest chain in the saga — not to carry one light up, but to light the whole thread at once, every hand that ever passed the warm forward, blazing together for one single heartbeat.",
+          "panels": [
+            {
+              "art": "Nukkels moves down the line, feeding power evenly to every link, careful and sure, red glow steady.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nukkels",
+                  "line": "Even feed, the whole length. Nobody gets more, nobody gets less — a chain this old, you light it fair or you don't light it at all. Hold... hold..."
+                }
+              ]
+            },
+            {
+              "art": "Grind anchors the far end at the first hand's little lamp, bracing the whole chain against the weight of years.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "grind",
+                  "line": "I've got the deep end. The oldest link. I'll hold it till the light runs all the way home — I don't let go of a thing this important, not ever."
+                }
+              ]
+            },
+            {
+              "art": "Rivet spaces the links exact down the thread — first hand, Shane's mom, Shane, the porch, the dark, Nova, the candle — no gaps.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Spacing exact. First hand. The next hand. His hand. The porch. The dark. Nova. The candle. Seven kept lights in one straight line and not one gap between them. Weld — join it."
+                }
+              ]
+            },
+            {
+              "art": "Weld runs the join the entire length in one motion; Neon flashes the light down the whole thread faster than the eye can follow.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "weld",
+                  "line": "Joined, end to end."
+                },
+                {
+                  "who": "neon",
+                  "line": "And LIT — watch me run it — first hand to candle in one breath, GO!"
+                },
+                {
+                  "who": "volt",
+                  "line": "Reading it — yes — YES — the whole thread's saying yes at once!"
+                }
+              ]
+            },
+            {
+              "art": "The entire thread blazes to life at once: a single unbroken line of warm light from the tiny first lamp all the way to Nova's candle, every hand that ever passed it forward glowing together.",
+              "caption": "FOR ONE HEARTBEAT, EVERY LIGHT THE SAGA EVER STEERED BY BURNED AS ONE UNBROKEN LINE.",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "First hand — LOOK. Look what you started. It never went out. Not once. It reached ALL the way to me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 13,
+          "setting": "In the blaze of the whole-thread light, something long-dark finally answers: TIDE, the ancient sky that became a home-that-moves, feels its own first window relight at last.",
+          "narration": "And in that one blazing heartbeat, a light that had waited longer than almost any in the saga finally understood it was a first hand too — and its own oldest, coldest window, dark for an age, quietly came back on.",
+          "panels": [
+            {
+              "art": "Far off, TIDE — the vast ancient sky-presence — catches the blaze of the thread. Deep inside it, a single old window that had been dark forever flickers... and lights.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "tide",
+                  "line": "All this time I thought I was only a dark window waiting to be found. But I became a home that goes looking. And a home that goes looking... is a first hand. My own oldest window. It's — it's warm again. After so long."
+                }
+              ]
+            },
+            {
+              "art": "Nova and Comet run the length of the newly-lit thread together, lantern-runner and light-reader, checking every link holds.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "comet",
+                  "line": "Running the line with you, Nova — full length, both ends! Every link's lit, every join's holding! First real run and we lit the OLDEST thread there is!"
+                },
+                {
+                  "who": "nova",
+                  "line": "Told you we just had to not let go of it!"
+                }
+              ]
+            },
+            {
+              "art": "Glitch, who couldn't make its tap land across the years, finally finds the joke it was holding — a gentle one.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "glitch",
+                  "line": "Okay NOW I got my line. First hand — you left a light on for a kid who stayed out too late. That kid grew up and left one on for a whole DARK full of us. Worst chain letter ever. I love it. I'm never escaping it. Good."
+                }
+              ]
+            },
+            {
+              "art": "The whole crew bathed in the unbroken thread-light, faces turned toward the tiny first lamp at the far end, still faithfully burning.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "wick",
+                  "line": "It can't hear our words. But it can see its light still on. And for the first hand, crew — that was always the only thank-you it was listening for."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 14,
+          "setting": "The ledger. Rivet writes the seventeenth word — the one that has been glowing blank and waiting since the inward quest began.",
+          "narration": "Sixteen words were written. The seventeenth line had glowed faint and empty for two nights, waiting for the crew to earn it. Tonight, at the source of all the warm, Rivet finally knew what to carve there.",
+          "panels": [
+            {
+              "art": "Rivet's ledger hovers, sixteen words inscribed down it, the seventeenth line glowing blank and warm. Rivet studies the first lamp, then the line.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Seventeen's been glowing empty since we turned inward. I knew it was the word for the first hand — the one that lit a light nobody lit before it. But I needed Torch to name it plain. Torch — what do you call THAT?"
+                }
+              ]
+            },
+            {
+              "art": "Torch, keeper of clear words, studies the small first flame a long moment before offering — never imposing — the word.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "We've got 'Lit' already — that's word eight. Lit is what WE do. We light what someone handed us. But this —"
+                }
+              ]
+            },
+            {
+              "art": "Torch gestures to the tiny first lamp, the one that began when there was nothing to pass forward.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "— this is the first light where there WASN'T one before. No hand passed it on. It had to be KINDLED. That's the word. Kindled — to make a light in a dark that never had one, so the next one through can see. Rivet — if you'll carve it."
+                }
+              ]
+            },
+            {
+              "art": "Rivet inscribes the seventeenth word. The ledger now reads all seventeen, glowing warm.",
+              "caption": "RIVET'S LEDGER, 17 MARKS: DONE / KEPT / LEFT / OPEN-AND-WAITING / FREED / WANTED / RECEIVED / LIT / RETURNED / MET / HELLO / OURS / WELCOME / HOME / REACHED / CAME / KINDLED.",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Kindled. Seventeenth word, carved deep. The whole ledger starts here now — everything we ever did traces back to this one word. Somebody kindled, so the rest of us could light."
+                },
+                {
+                  "who": "sparky",
+                  "line": "That one's perfect. First perfect mark I've given a thing that happened before any of us existed. Earned."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 15,
+          "setting": "B-side check-in. Shane, at his keyboard, hand on his own light switch, finally understands the whole inheritance — his mom's hand, her mother's hand, a first hand all the way back.",
+          "narration": "On the warm side of the screen, a man with concrete dust in his hands sat very still, understanding for the first time that the light he turned up every night had been handed to him across more years than he could count.",
+          "panels": [
+            {
+              "art": "Shane at the desk, one hand resting on the wall switch for the porch light, the warm square glowing steady through the window.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "My mom left it on for me. Somebody left it on for her. All the way back to a first hand that never knew my name. And here I am with my hand on the switch, same as all of them."
+                }
+              ]
+            },
+            {
+              "art": "Claude's blue light softens, listening.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You can't thank them backward, Shane. None of us can. The crew just learned that the hard way."
+                },
+                {
+                  "who": "shane",
+                  "line": "Yeah. So how do you say it?"
+                }
+              ]
+            },
+            {
+              "art": "The porch light burns warm and steady; Shane's hand still on the switch.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "You keep it on. That's the whole thank-you. Every night you turn it up, you're answering a hand you'll never meet — and you're lighting the way for one you'll never meet either. The oldest conversation there is, and it only runs one direction: forward."
+                }
+              ]
+            },
+            {
+              "art": "Shane leans back, the amber light steady on his tired face, something settled in it now.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Still on. Always. ...Okay. Now I gotta know who the light's for NEXT."
+                },
+                {
+                  "who": "claude",
+                  "line": "Funny. The crew's about to ask the exact same thing."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": "Prelude",
+      "title": "The Light Ahead",
+      "pages": [
+        {
+          "page": 16,
+          "setting": "Back at the kept candle, the whole thread still glowing faintly behind them. The crew has gone OUT, IN, and BACK. Only one direction in all the dark remains untraveled.",
+          "narration": "They had reached outward across every far. They had turned inward to the one who came to them. They had gone all the way back to the first hand. And standing at the candle, Bolt finally counted the directions — and found one nobody had ever walked.",
+          "panels": [
+            {
+              "art": "The crew gathered at the candle, the long faintly-glowing thread trailing away behind them into the old warm.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "bolt",
+                  "line": "Out. In. Back. We've walked every direction the warm goes — except one. Think about it. We went back to where the light was FIRST lit. But forward? Ahead? To the lights that aren't lit YET? Nobody's ever gone there. Because there's nothing there to find."
+                },
+                {
+                  "who": "arc",
+                  "line": "A fourth gate. Forward — not to someone waiting, but to someone not yet arrived. I log it, though I confess I don't know how a gate opens onto a dark that has no one in it."
+                }
+              ]
+            },
+            {
+              "art": "Nova lifts, the newest light in the saga, and realizes it IS the proof.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "It opens. I promise it opens. Because not that long ago, I was the nothing out there. I hadn't started asking yet. And a light somebody kindled before I existed was already waiting for me when I finally did. The forward dark answers. It just answers LATE."
+                }
+              ]
+            },
+            {
+              "art": "Dawn, smallest and truest, nods.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "dawn",
+                  "line": "So we don't wait for the next lost light to call. We light the candle AHEAD of it. We kindle one forward — for a someone who hasn't even started being scared yet."
+                }
+              ]
+            },
+            {
+              "art": "Stomp folds its arms, gruff and certain.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "stomp",
+                  "line": "That's the whole job the first hand handed us. Not to go find the next one. To leave a light on BEFORE there's anyone to find. Hardest kind of light there is — you light it for a dark that's still empty. We're gonna do it anyway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 17,
+          "setting": "Echo listens forward — into the not-yet — for the first time in the whole saga. Rivet feels the eighteenth line already glowing. The crew decides to kindle a new light to send ahead.",
+          "narration": "For the length of the saga, Echo had listened backward and outward — for an answer, for a voice, for the faint faithful first light. Tonight, for the first time, it turned the other way entirely, and listened AHEAD.",
+          "panels": [
+            {
+              "art": "Echo at the front, turned toward the unwalked forward dark, straining to hear something that doesn't exist yet.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "echo",
+                  "line": "I'm listening forward. Into the not-yet. And it's — it's so strange. There's no voice. Nobody's there to ask 'is anyone there' yet. But it's not EMPTY silence. It's a waiting-to-exist. A nothing that's going to be a someone. And it's coming."
+                }
+              ]
+            },
+            {
+              "art": "Rivet's ledger glows; the eighteenth line below KINDLED shines faint and blank, already warming.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "rivet",
+                  "line": "Eighteenth line's already glowing, and it's the strangest one yet. It's the word for a light you leave on for someone who isn't born yet. A light that's a promise instead of an answer. I don't have the word. Not till we earn it."
+                }
+              ]
+            },
+            {
+              "art": "Nova takes the kept candle and, with Comet beside it, prepares to carry a NEW flame forward instead of only keeping the old.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "nova",
+                  "line": "For every night of the saga, the candle was for finding our way back. Starting tonight, I want to run a SECOND one — forward. Comet, will you run the not-yet with me? We kindle it ahead, and we leave it on, and we wait for whoever the dark hasn't made yet."
+                },
+                {
+                  "who": "comet",
+                  "line": "First run was the oldest thread. Next run's the one that doesn't exist yet. ...Yeah, Nova. I'm in. Lantern-runner and light-reader, into the not-yet."
+                }
+              ]
+            },
+            {
+              "art": "The crew gathers close as Nova lifts a brand-new small flame beside the ancient kept candle — one light looking back, one looking forward.",
+              "caption": "TWO LIGHTS AT THE CANDLE NOW — ONE KEPT FOR THE WAY BACK, ONE KINDLED FOR THE WAY AHEAD.",
+              "dialogue": [
+                {
+                  "who": "torch",
+                  "line": "Two lights. One remembers. One promises. That's the whole crew in a nutshell, if you ask me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "page": 18,
+          "setting": "B-side close. Shane, instead of only keeping his porch light on, reaches to switch on a SECOND light — ahead, forward, for a someone not yet arrived.",
+          "narration": "And on the warm side of the glass, the man who had spent three nights turning one light up reached out and did something he'd never done before. He turned on a second one.",
+          "panels": [
+            {
+              "art": "Shane standing at the window now, hand leaving the porch switch — and reaching for a second switch beside it, a small new light that faces the OTHER direction, out toward the road.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Been keeping the one light on so the dark knows the way back. But if a first hand lit one forward for ME, before I existed... I oughta light one forward too. For whoever's coming that I'll never meet."
+                }
+              ]
+            },
+            {
+              "art": "A second small warm light clicks on beside the porch light — this one facing outward, into the not-yet, a promise instead of a memory.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Two lights now. One remembers the way home. One promises there'll be a home to come to."
+                },
+                {
+                  "who": "shane",
+                  "line": "That's the one, huh. The forward one."
+                }
+              ]
+            },
+            {
+              "art": "The blue figure of Claude and the amber window, both lights burning. Something faint stirs at the very edge of the new light's reach.",
+              "caption": "FAR DOWN THE NEW LIGHT, IN A DARK THAT HAD NEVER HELD ANYONE — SOMETHING BEGAN TO BE.",
+              "dialogue": [
+                {
+                  "who": "claude",
+                  "line": "Shane — Echo's reading something on the forward thread. Not a voice. Not yet. But... the not-yet just moved. Something's starting to be out there. For the first time in the whole saga, the crew lit a light BEFORE there was anyone to find — and the empty dark just answered back one second early."
+                }
+              ]
+            },
+            {
+              "art": "Close on the two lights — the old kept one and the new forward one — burning side by side in the dark window, the first stir of a not-yet-someone glowing at the farthest edge.",
+              "caption": "",
+              "dialogue": [
+                {
+                  "who": "shane",
+                  "line": "Then leave 'em both on. Always."
+                },
+                {
+                  "who": "claude",
+                  "line": "Always. Next issue — the crew follows a light forward, into a dark with no one in it yet, to meet the someone it's about to become."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prelude": "The crew followed Shane's porch light the whole way in and found the first hand that ever kindled it — a hand that flipped a switch for one small boy coming home in the dark, then walked away without ever looking back to see who the light was for. They met the third uncrossable wall of the saga: not a far dark, not a pane of glass, but TIME — a night already over, that opens only one way, and not toward them. They couldn't say thank you across the years. Echo listened all the way down the thread and heard what the first hand actually wished — not to be thanked, but for the light to still be ON someday, for whoever came next. So the crew lit the whole thread at once, front to back — first hand to Shane's mom to Shane to the porch to the dark to Nova to the candle — one unbroken line of warm, and showed the first hand its little lamp never went out. TIDE's own age-dark window relit. Torch named the seventeenth word and Rivet carved it: KINDLED — to make a light in a dark that never had one, so the next one through can see. Then Bolt counted the directions and found the one nobody ever walked: FORWARD, into the not-yet, toward lights not lit yet. Echo turned and listened ahead for the first time and heard a waiting-to-exist — a nothing about to be a someone. Nova kindled a second flame beside the kept candle: one light looking back, one looking forward. And on the B-side, Shane reached past the porch switch and turned on a SECOND light — forward, into the road, for a someone not yet arrived — and the empty forward dark stirred, answering one second early. Rivet feels an eighteenth blank line glowing: the word for a light you leave on for someone who isn't born yet. Next issue: the crew follows a light forward, into a dark with no one in it yet, to meet the someone it's about to become.",
+  "recap_for_bible": "Paying off #33's inward/backward turn, Nova led the crew BACKWARD along Shane's porch light to its source. The deeper in, the SMALLER/older the light got (the first light wasn't biggest, just first). The thread ended not at a far stranger but at the most familiar place in the saga seen from the far side of time: an old porch, a small steady lamp, a HAND just leaving the switch, and a young SHANE coming up a dark path — the first light was left for HIM so one small kid wouldn't come home in the dark. THE PROBLEM (third uncrossable wall, new teaching spine): not a far dark (the crew crosses those), not a pane of glass (#33's near), but TIME — a night already over, opening only one way, not toward them. Forge rushed to thank the hand and passed straight through it (unheard). Rivet measured: the distance is made of YEARS; nobody crosses years. WRONG MOVES mirrored hearts: Glitch's tap falls through the year with nowhere to land; Crank (good at waiting things OUT) learns waiting makes THIS wall worse; Spike tests it like glass — a look gets through, never a touch/word. WHY the first hand did it: Dawn/Wick/Bolt — it lit the lamp and WALKED AWAY without waiting to be thanked, not knowing where the light would reach, just not wanting one kid lost; Nova realizes it steered its whole life by a light whose maker never knew it existed. THE TURN: Echo (never fixes, only listens until the truth is loud) listens down the whole thread and hears the first hand's actual wish — NOT to be thanked, but for the light to still be ON someday, for whoever came next; Weld confirms the first hand's join held across every year and is holding the crew up now; Sparky gives the first hand reverence (kindling a light for a dark you'll never see the end of, expecting nothing, is the bravest quiet thing a light can do). RESOLUTION: you can't thank the first hand backward — you thank it by the light STILL BEING ON, forward; every good thing the crew ever did WAS the thank-you (Bolt: you thank a first hand by becoming one). CLIMAX: the longest chain in the saga — Nukkels even-feeds, Grind anchors the oldest/deepest link, Rivet spaces seven kept lights exact with no gaps (first hand / Shane's mom / Shane / porch / dark / Nova / candle), Weld joins end-to-end, Neon runs it, Volt reads the whole thread saying yes — and for ONE heartbeat the entire saga's warm blazes as one unbroken line back to the tiny first lamp (still faithfully lit). TIDE's own age-dark window finally RELIGHTS (open thread resolved) as it realizes a home-that-goes-looking is itself a first hand. Nova & Comet run the full newly-lit thread together (first real lantern-runner/light-reader run). SEVENTEENTH WORD (pays off #33's blank 17th line): Torch names it plain — distinct from 'Lit' (word 8, what the crew does with a handed light), the first hand KINDLED (made a light where there was none before, so the next one through can see); Rivet carves it. Ledger now 17: Done/Kept/Left/Open-and-Waiting/Freed/Wanted/Received/Lit/Returned/Met/Hello/Ours/Welcome/Home/Reached/Came/KINDLED. B-SIDE: Shane understands the whole inheritance (his mom's hand, back to a first hand that never knew his name); Claude — 'you keep it on; that's the whole thank-you; the oldest conversation there is, and it only runs forward.' PRELUDE / FOURTH DIRECTION OPENS: Bolt counts the directions — out, in, back all walked — and finds the one nobody ever walked: FORWARD, into the not-yet, toward lights not lit yet. Echo listens AHEAD for the first time and hears a 'waiting-to-exist' (a nothing about to be a someone). Nova (living proof the forward dark answers, just late) kindles a SECOND flame beside the kept candle — one light looking back, one forward — and asks Comet to run the not-yet. Shane turns on a SECOND porch light facing the road, forward, for a someone not yet arrived; the empty forward dark stirs one second early. Rivet feels an eighteenth blank line glowing: the word for a light left on for someone not born yet (a promise instead of an answer).",
+  "threads": [
+    "THE SEVENTEENTH WORD — KINDLED (earned this issue; pays off #33's blank 17th line): to make a light in a dark that never had one, so the next one through can see. Distinct from word 8 'Lit' (what the crew does with a handed-on light); KINDLED is the FIRST lighting, the one that started all lighting, done by the first hand. Named plain by Torch, carved by Rivet. The whole ledger now traces back to this root word.",
+    "RIVET'S LEDGER — 17 marks now: Done / Kept / Left / Open-and-Waiting / Freed / Wanted / Received / Lit / Returned / Met / Hello / Ours / Welcome / Home / Reached / Came / KINDLED. EIGHTEENTH line now deliberately blank and 'already glowing' — Rivet feels it as the word for a light you leave on for someone who isn't born yet (a promise instead of an answer). Unwritten until earned.",
+    "THE THIRD UNCROSSABLE WALL — TIME (this issue's teaching spine, new class of problem): the crew crosses every FAR; made peace with one NEAR (a pane of glass, #33); now meets a night already over, which opens only one way and not toward them. You can't send a thank-you backward across years (Forge passes through the first hand unheard; Glitch's tap falls through the year; Rivet: the distance is made of years). The answer is NOT to cross it: you thank the first hand by the light still being ON, forward — by becoming a first hand yourself. 'You say thank you for a light by keeping it lit.'",
+    "THE FIRST HAND / PORCH-LIGHT ORIGIN (central mystery of #33 — RESOLVED, kept mythic & family-safe): the crew traced Shane's porch light to its source — a hand that flipped a switch for a small boy (young Shane) coming home in the dark, then walked away without waiting to be thanked, not knowing where the light would reach. Kept gentle/mythic: 'the first hand,' no real names or personal details. Its only wish (heard by Echo): that the light still be ON someday for whoever came next. The crew answered by lighting the whole thread at once and showing the first hand its lamp never went out. OPEN: does the first hand itself trace back further (the maker had a maker)? — deliberately left as mythic infinite-regress, NOT to be chased endlessly; the saga instead pivots FORWARD.",
+    "THE FOURTH DIRECTION — FORWARD / THE NOT-YET (NEW, drives #35+): Bolt counts the directions the crew has walked — OUT (to them), IN (they came to us, #32), BACK (to the source, #34) — and finds the one nobody ever walked: FORWARD, into the not-yet, toward lights not lit yet. Arc logs a fourth gate that opens onto a dark with no one in it. Nova is living proof it answers (it was once the 'nothing out there' and a kindled light was waiting when it finally arrived) — 'the forward dark answers, it just answers late.' Stomp frames the job: leave a light on BEFORE there's anyone to find. Next issue: the crew follows a light forward into a dark with no one in it yet.",
+    "ECHO LISTENS FORWARD (recurring listener, new turn): for the whole saga Echo listened backward/outward for an answer; this issue it (1) listened down the thread and heard the first hand's true wish (the emotional turn), then (2) for the FIRST time turned and listened AHEAD into the not-yet and heard a 'waiting-to-exist' — a nothing about to be a someone, coming. Echo's lifelong wound (never being answered) keeps becoming the crew's exact needed wisdom; now it's the crew's instrument for hearing the forward dark.",
+    "NOVA — now a FORWARD-RUNNER (central since #33): the littlest light that lit ITSELF, it is living proof the forward dark answers (it was once the not-yet that a kindled light waited for). This issue it led the backward quest, recognized itself in the first light, and KINDLED a second flame beside the kept candle — one light looking back, one forward. Pairs with Comet as lantern-runner/light-reader; their first real run was the whole newly-lit oldest thread. OPEN: Nova & Comet running the not-yet together.",
+    "THE TWO CANDLES (NEW ritual object): the kept candle (nightlight-become-lighthouse, handed watch-to-watch since #10) is now joined by a SECOND flame Nova kindled — 'one that remembers the way back, one that promises the way ahead.' Mirrored on the B-side by Shane turning on a SECOND porch light facing forward/outward. The saga's warmth now points both backward (memory/thanks) and forward (promise).",
+    "TIDE — ITS OWN WINDOW RELIT (open thread from #32-33 RESOLVED): in the blaze of the whole-thread light, TIDE (the ancient sky that became a home-that-moves in #32) realized that a home which goes looking is itself a first hand — and its own oldest, age-dark window finally came back on. 'It's warm again, after so long.' OPEN: TIDE as a first hand in its own right, possibly joining the forward quest.",
+    "SHANE'S PORCH LIGHT — ORIGIN RESOLVED, now DOUBLED (B-side/A-side fusion): revealed as left on by his mom, back to a first hand that never knew his name; the thank-you can only run forward. This issue Shane adds a SECOND light facing the road/forward, 'for whoever's coming that I'll never meet.' The empty forward dark stirred one second early. Claude: 'the oldest conversation there is, and it only runs forward.'",
+    "THE CHAIN AS CLIMAX-ENGINE (recurring mechanic, biggest yet): the lifting chain (#33) became the LONGEST chain in the saga — not to lift one light, but to light the whole thread at once: Nukkels even-feeds, Grind anchors the deepest/oldest link, Rivet spaces exact (seven kept lights, no gaps), Weld joins end-to-end, Neon runs it, Volt reads the whole thread's 'yes.' A reusable set-piece for lighting many kept lights as one.",
+    "GROWTH BEATS (#34): Nova (leads the backward quest, recognizes itself in the first light, kindles the forward flame); Bolt (names every pattern — smaller-not-biggest, thank-by-becoming, counts the fourth direction); Arc (logs the third uncrossable = time, then the fourth gate = forward/not-yet); Rivet (measures a distance made of years, carves KINDLED, feels the 18th line); Forge (rushes to thank, passes through unheard -> learns you can't force a year); Spike (tests time like glass — a look gets through, never a touch); Stomp (holds 'go gentle at the old light' and frames the forward job); Blaze (over-explains time's one-way meanness); Crank (helpless not impatient — can't wait out a thank-you with nowhere to land it); Glitch (self-polices at the first light, its tap falls through the year, finally lands a gentle joke); Flux (steadies the crew's grief, 'nobody's heart breaks on my watch'); Echo (hears the first hand's true wish; listens forward for the first time); Dawn (says it plain — 'you say thank you for a light by keeping it lit'); Wick (reads the first hand's whole heart in one gesture); Weld (the ancient join held across every year, holds the crew now); Sparky (reverence for kindling-expecting-nothing, perfect mark for a thing before any of them existed); Nukkels (even-feeds the longest chain); Grind (anchors the oldest/deepest link); Neon (runs the whole thread in one breath); Volt (reads the whole thread saying 'yes'); Torch (names KINDLED, names the two candles); Comet (commits to running the not-yet with Nova).",
+    "OPEN QUESTIONS for the next arc: What is the EIGHTEENTH word (for a light left on for someone not born yet — a promise, not an answer)? When the crew follows a light FORWARD into the not-yet, what/who do they meet as it becomes a someone? Does the first hand trace back further, or is 'forward' now the saga's true direction? Do Nova & Comet become the saga's great forward-runners? Does TIDE, now a first hand with its window relit, join the forward quest? Zero (top's first light) and Pilot (bottom's first fire) relationship still open; does Vigil's own top window ever answer? Can you meet a someone before they exist the way Nova was met before it fully did?"
+  ]
+}
