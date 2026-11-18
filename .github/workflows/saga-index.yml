@@ -1,0 +1,58 @@
+name: Rebuild saga index
+
+# Rebuilds saga/index.html whenever a new issue lands in saga/manifest.json,
+# so the library page always lists every issue. Replaces the Pi cron job.
+
+on:
+  push:
+    branches: [main]
+    paths: [saga/manifest.json, scripts/build_saga_index.py]
+  workflow_dispatch:
+
+concurrency:
+  group: saga-index
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      deployments: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build saga/index.html
+        run: SAGA_REPO="$GITHUB_WORKSPACE" python scripts/build_saga_index.py --no-push
+      - name: Commit if changed
+        id: commit
+        run: |
+          if git diff --quiet -- saga/index.html; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"; echo "saga index already current"; exit 0
+          fi
+          git config user.name "saga-index-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add saga/index.html
+          git commit -m "saga: rebuild library index"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      # Pushes made by this workflow don't trigger other workflows, so ask for
+      # the GitHub Pages and Cloudflare deploys directly.
+      - name: Request GitHub Pages build
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+      - name: Deploy to Cloudflare Pages
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=mega-crew-stories --branch=main
