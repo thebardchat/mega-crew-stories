@@ -1,7 +1,7 @@
 # Episode 2: Something in the Noise
 
-**Date:** 2026-04-16  
-**Characters:** VOLT, SPARKY, GLITCH, ARC, WELD, NEON  
+**Date:** 2026-04-17  
+**Characters:** volt, sparky, glitch, arc, weld, neon  
 **Mode:** crew
 
 ---
